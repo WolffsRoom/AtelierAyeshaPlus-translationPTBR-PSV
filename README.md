@@ -13,6 +13,16 @@ Este repositório contém apenas as **ferramentas e o fluxo de trabalho** da tra
 
 Baseado no [Atelier Translator](https://github.com/Ferripro321/Atelier-Translator), do Ferripro321.
 
+## Acesso online (iPad / Safari)
+
+A ferramenta de revisão roda direto no navegador, sem instalar nada:
+
+**https://wolffsroom.github.io/AtelierAyeshaPlus-translationPTBR-PSV/**
+
+Funciona no iPad/Safari (e no PC). No iPad, as revisões ficam salvas no próprio navegador e podem ser exportadas em um `.zip` com a estrutura da pasta `Revisado/`. No PC com Chrome/Edge, é possível gravar direto na pasta.
+
+> Para o link acima funcionar, é preciso habilitar o GitHub Pages uma vez: **Settings → Pages → Source: Deploy from a branch → `main` → `/ (root)` → Save**.
+
 ## De onde vêm os textos
 
 Os diálogos ficam dentro do `.psarc` do jogo:
@@ -39,7 +49,7 @@ As pastas vêm vazias no repositório; coloque os seus próprios arquivos.
 
 1. Copie os `.ebm` de `Event/event` para `Original`.
 2. Rode `1 - Gerar JSON (Original para Sem revisar).bat` para converter `.ebm` em JSON.
-3. Abra `Revisao Atelier Ayesha.html` para revisar os textos e salvar em `Revisado`.
+3. Abra o `index.html` (ou acesse a [versão online](https://wolffsroom.github.io/AtelierAyeshaPlus-translationPTBR-PSV/)) para revisar os textos e salvar em `Revisado`.
 4. Rode `2 - Gerar EBM (Revisado para Traduzido).bat` para gerar os `.ebm` traduzidos em `Traduzido`.
 5. Reempacote no `.psarc` e instale no app `PCSE00584`.
 
