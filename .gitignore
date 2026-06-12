@@ -1,0 +1,24 @@
+# Lixo de sistema operacional
+Desktop.ini
+Thumbs.db
+ehthumbs.db
+.DS_Store
+*.tmp
+.claude/
+
+# Arquivos do jogo e textos extraidos - nao publicar (apenas as ferramentas)
+/Original/*
+/Sem revisar/*
+/Revisado/*
+/Traduzido/*
+/JPN (dummy)/
+
+# manter o esqueleto das pastas no repositorio
+!/Original/.gitkeep
+!/Sem revisar/.gitkeep
+!/Revisado/.gitkeep
+!/Traduzido/.gitkeep
+
+# arquivos de trabalho locais
+/LOG_Compara.txt
+/IA_Script.txt
