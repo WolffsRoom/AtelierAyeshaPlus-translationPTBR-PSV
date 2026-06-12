@@ -23,6 +23,8 @@ ux0:app/PCSE00584/Res/resources1.psarc  ->  /Event/event/*.ebm
 
 Desempacote o `resources1.psarc` (por exemplo, com o Total Commander) e copie os `.ebm` de `Event/event` para a pasta `Original`.
 
+Os `.ebm` de `Event/event` contêm apenas os **textos e falas (diálogos)** do jogo. Menus, interfaces, texturas e gráficos ficam em outros arquivos e ainda não entram neste fluxo.
+
 ## Pastas
 
 - `Original` - arquivos `.ebm` extraídos do jogo
@@ -45,6 +47,8 @@ A conversão `.ebm` <-> JSON é feita pelo `gust_ebm` (gust_tools, de VitaSmith)
 
 ## Próximas etapas
 
+- Validar quais texturas e gráficos precisam de tradução e editar os arquivos de textura (`.gxt`).
+- Traduzir os menus e outras interfaces.
 - Extrair, editar e reempacotar os gráficos.
 - Legendar os vídeos (já ajustados para 960x544).
 - Revisão ortográfica e testes no jogo.
