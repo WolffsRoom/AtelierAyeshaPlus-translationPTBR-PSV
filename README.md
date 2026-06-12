@@ -21,7 +21,7 @@ Os diálogos ficam dentro do `.psarc` do jogo:
 ux0:app/PCSE00584/Res/resources1.psarc  ->  /Event/event/*.ebm
 ```
 
-Desempacote o `resources1.psarc` (por exemplo, com o Total Commander) e copie os `.ebm` de `Event/event` para a pasta `Original`.
+Desempacote o `resources1.psarc` com o [UnPSARC](https://github.com/rm-NoobInCoding/UnPSARC) (extrator de PSARC do PS Vita) e copie os `.ebm` de `Event/event` para a pasta `Original`.
 
 Os `.ebm` de `Event/event` contêm apenas os **textos e falas (diálogos)** do jogo. Menus, interfaces, texturas e gráficos ficam em outros arquivos e ainda não entram neste fluxo.
 
@@ -58,6 +58,7 @@ A conversão `.ebm` <-> JSON é feita pelo `gust_ebm` (gust_tools, de VitaSmith)
 - Tradução: Wolff's Room (https://wolffsroom.wordpress.com)
 - Projeto base: Ferripro321 - Atelier Translator
 - gust_tools: VitaSmith (GPLv3) - ver `Tools/LICENSE.txt`
+- UnPSARC: rm-NoobInCoding (https://github.com/rm-NoobInCoding/UnPSARC) - extração do `.psarc`
 
 ## Aviso
 
