@@ -286,6 +286,7 @@
       <div class="filebar">
         <span class="path"><i class="fa-solid fa-file-lines"></i><span id="filePath"></span></span>
         <span class="counter"><i class="fa-solid fa-comment-dots"></i><span id="msgCounter"></span></span>
+        <span class="counter" id="readCounterWrap" style="margin-left:0"><i class="fa-solid fa-eye"></i><span id="readCounter"></span></span>
       </div>
 
       <div id="engSection" style="display:none">
@@ -577,6 +578,28 @@ function setEdits(file, arr){
 let curEdits=null;
 
 /* ----------------------------------------------------------------
+   Strings "lidas" — marca cada string ao ser exibida, para acompanhar
+   quantas strings de um arquivo já foram vistas/revisadas. (local, por dispositivo)
+----------------------------------------------------------------- */
+const lsKeyRead = rel => 'ayesha::'+S.rootName+'::read::'+rel;
+function getRead(file){
+  if(file._read) return file._read;
+  let arr;
+  try{ arr=JSON.parse(localStorage.getItem(lsKeyRead(file.rel))||'null'); }catch(e){ arr=null; }
+  if(!Array.isArray(arr) || arr.length!==file._msgs.length) arr=file._msgs.map(()=>false);
+  file._read=arr;
+  return arr;
+}
+function markRead(file, i){
+  const r=getRead(file);
+  if(i>=0 && i<r.length && !r[i]){
+    r[i]=true;
+    try{ localStorage.setItem(lsKeyRead(file.rel), JSON.stringify(r)); }catch(e){}
+  }
+}
+function readCount(file){ return getRead(file).filter(Boolean).length; }
+
+/* ----------------------------------------------------------------
    Carregar conteúdo de um arquivo (lazy)
 ----------------------------------------------------------------- */
 async function ensureEngLoaded(file){
@@ -768,8 +791,10 @@ async function render(){
   }
   if(S.mi>=n) S.mi=n-1; if(S.mi<0) S.mi=0;
 
+  markRead(file, S.mi);                       // a string exibida conta como "lida"
   $('filePath').textContent = file.rel;
   $('msgCounter').textContent = (S.mi+1)+' / '+n;
+  $('readCounter').textContent = readCount(file)+' / '+n+' lidas';
   $('srcText').value = file._orig[S.mi] ?? '';
   $('dstText').value = curEdits[S.mi] ?? '';
   const engVal = file._engOrig?.[S.mi] ?? '';
@@ -815,6 +840,11 @@ async function goNext(){
   if(S.mi < file._msgs.length-1){ S.mi++; }
   else { const nx=nextUnrevisedFrom(S.fi,1); if(nx<0) return; S.fi=nx; S.mi=0; }
   await render();
+}
+async function goNextFile(){
+  commitField();
+  if(S.fi < S.files.length-1){ S.fi++; S.mi=0; await render(); }
+  else toast('Este é o último arquivo.','info');
 }
 async function goPrev(){
   commitField();
@@ -1003,6 +1033,10 @@ document.addEventListener('keydown',(e)=>{
   }
   if($('app').style.display==='none') return;
   if((e.ctrlKey||e.metaKey) && (e.key==='s'||e.key==='S')){ e.preventDefault(); saveFile(); return; }
+  // Atalhos que funcionam mesmo com o cursor dentro do textarea:
+  if(e.shiftKey && e.key==='Enter'){ e.preventDefault(); goNextFile(); return; }      // Shift+Enter -> próximo arquivo
+  if(e.shiftKey && e.key==='ArrowRight'){ e.preventDefault(); goNext(); return; }      // Shift+→ -> próxima string
+  if(e.shiftKey && e.key==='ArrowLeft'){ e.preventDefault(); goPrev(); return; }       // Shift+← -> string anterior
   if(e.target.tagName==='TEXTAREA' && e.key!=='Escape') return;
   if(e.key==='ArrowRight') goNext();
   else if(e.key==='ArrowLeft') goPrev();
@@ -1023,7 +1057,16 @@ const GH_API = `https://api.github.com/repos/${GH.owner}/${GH.repo}`;
 function b64enc(buf){ return btoa(String.fromCharCode(...new Uint8Array(buf))); }
 function b64dec(s){ return Uint8Array.from(atob(s), c=>c.charCodeAt(0)); }
 
+// Web Crypto (crypto.subtle) só existe em contexto seguro: HTTPS ou http://localhost.
+// Não funciona abrindo o arquivo direto (file://) nem por http:// em IP da rede.
+function assertCrypto(){
+  if(typeof crypto==='undefined' || !crypto.subtle){
+    throw new Error('Web Crypto indisponível neste contexto. Abra a ferramenta por HTTPS (ex.: GitHub Pages: https://wolffsroom.github.io/AtelierAyeshaPlus-translationPTBR-PSV/) ou por http://localhost. Abrir o arquivo direto (file://) não funciona.');
+  }
+}
+
 async function deriveKey(pin, salt){
+  assertCrypto();
   const km=await crypto.subtle.importKey('raw',new TextEncoder().encode(pin),'PBKDF2',false,['deriveKey']);
   return crypto.subtle.deriveKey(
     {name:'PBKDF2',salt,iterations:200000,hash:'SHA-256'},
@@ -1146,7 +1189,8 @@ async function _ghSubmit(){
       GH.pat=await decryptPAT(pin,enc);
       _ghDone(GH.pat);
     }catch(e){
-      $('ghPinError').textContent='PIN incorreto ou erro: '+e.message;
+      // OperationError = falha ao decifrar (PIN errado). Outros erros são reais (rede, contexto inseguro etc.)
+      $('ghPinError').textContent = (e.name==='OperationError') ? 'PIN incorreto.' : ('Erro: '+e.message);
       _GHP.digits=[]; _ghUpdateDots();
     }
     return;
