@@ -44,11 +44,11 @@ if errorlevel 1 ( echo [ERRO] Commit falhou. & pause & exit /b 1 )
 
 :sync
 echo [4/5] Sincronizando com remoto (pull --rebase --autostash)...
-git pull --rebase --autostash %REMOTE% main
+git -c credential.helper= pull --rebase --autostash %REMOTE% main
 if errorlevel 1 ( echo [ERRO] Pull/rebase falhou. & pause & exit /b 1 )
 
 echo [5/5] Push...
-git push %REMOTE% HEAD:main
+git -c credential.helper= push %REMOTE% HEAD:main
 if errorlevel 1 ( echo [ERRO] Push falhou. & pause & exit /b 1 )
 
 echo.
