@@ -19,7 +19,7 @@
             "extra_id": 0x14,
             "expr_id": 0x0,
             "msg_id": 0x1,
-            "msg_string": "Pensei que poderia ser aqui... mas a decadência é a mesma."
+            "msg_string": "Achei que talvez esse lugar... mas a decadência é a mesma."
         },
         {
             "type": 0x1,
@@ -28,7 +28,7 @@
             "extra_id": 0x15,
             "expr_id": 0x0,
             "msg_id": 0x2,
-            "msg_string": "Hum, talvez ainda seja possível..."
+            "msg_string": "Hmph, ainda pode ser possível..."
         },
         {
             "type": 0x1,
@@ -36,7 +36,7 @@
             "name_id": 0x12,
             "expr_id": 0x0,
             "msg_id": 0x3,
-            "msg_string": "Você viajou muito para chegar até aqui?"
+            "msg_string": "Você viajou de longe pra cá?"
         },
         {
             "type": 0x1,
@@ -45,7 +45,7 @@
             "extra_id": 0x13,
             "expr_id": 0x0,
             "msg_id": 0x4,
-            "msg_string": "Sim. Então deu pra perceber?"
+            "msg_string": "Sim. Deu pra perceber?"
         },
         {
             "type": 0x1,
@@ -54,7 +54,7 @@
             "extra_id": 0x5f,
             "expr_id": 0x2,
             "msg_id": 0x5,
-            "msg_string": "Eu sabia! Tem uns traços ocidentais no seu jeito de falar."
+            "msg_string": "Eu sabia! Tem umas peculiaridades ocidentais no seu jeito de falar."
         },
         {
             "type": 0x1,
@@ -63,7 +63,7 @@
             "extra_id": 0x17,
             "expr_id": 0x0,
             "msg_id": 0x6,
-            "msg_string": "Entendo. Então você já está familiarizado com isso, é?"
+            "msg_string": "Entendi. Então você conhece, né?"
         },
         {
             "type": 0x1,
@@ -72,7 +72,7 @@
             "extra_id": 0x61,
             "expr_id": 0x0,
             "msg_id": 0x7,
-            "msg_string": "Um pouco... Eu também costumo ir lá pra fazer negócios. Aliás, seja bem-vindo a esse fim de mundo."
+            "msg_string": "Um pouco... Eu vou lá pra negociar também. Bem-vindo a essa terra de fronteira árida."
         },
         {
             "type": 0x1,
@@ -81,7 +81,7 @@
             "extra_id": 0x14,
             "expr_id": 0x0,
             "msg_id": 0x8,
-            "msg_string": "Fim de mundo? Que nada. Esse lugar é bem farto."
+            "msg_string": "Terra de fronteira árida? Que nada. Esse lugar é bem farto."
         },
         {
             "type": 0x1,
@@ -99,7 +99,7 @@
             "extra_id": 0x2,
             "expr_id": 0x0,
             "msg_id": 0xa,
-            "msg_string": "Porém, algumas fontes de água das cidades secaram, tornando muito difícil cumprir todas as minhas encomendas de grãos."
+            "msg_string": "Mas alguns canais de água das cidades secaram, o que deixou bem difícil dar conta de todas as minhas encomendas de grãos."
         },
         {
             "type": 0x1,
@@ -108,7 +108,7 @@
             "extra_id": 0x2,
             "expr_id": 0x0,
             "msg_id": 0xb,
-            "msg_string": "O solo tem ficado cada dia menos fértil. Por isso tenho corrido tanto para dar conta das entregas."
+            "msg_string": "O solo tá ficando cada dia menos fértil. É por isso que eu tenho corrido tanto com as entregas."
         },
         {
             "type": 0x1,
@@ -117,7 +117,7 @@
             "extra_id": 0x14,
             "expr_id": 0x0,
             "msg_id": 0xc,
-            "msg_string": "Hum, desculpe incomodá-lo enquanto você está tão ocupado com seus negócios."
+            "msg_string": "Hmm, desculpa te incomodar quando você tá tão ocupado com as suas coisas."
         },
         {
             "type": 0x1,
@@ -126,7 +126,7 @@
             "extra_id": 0x67,
             "expr_id": 0x2,
             "msg_id": 0xd,
-            "msg_string": "Ah, imagina. É cansativo viajar só,<CR>então sua companhia até me deixa feliz."
+            "msg_string": "Ah, que isso. É chato viajar sozinho,<CR>então tô até feliz com a sua companhia."
         },
         {
             "type": 0x1,
@@ -135,7 +135,7 @@
             "extra_id": 0x65,
             "expr_id": 0x0,
             "msg_id": 0xe,
-            "msg_string": "Ainda falta bastante para chegarmos à próxima ruína,<CR>então aproveite a viagem."
+            "msg_string": "É chão até a próxima ruína,<CR>então aproveita a carona."
         },
         {
             "type": 0x1,
@@ -144,7 +144,7 @@
             "extra_id": 0x5,
             "expr_id": 0x0,
             "msg_id": 0xf,
-            "msg_string": "Consegue ver ali? Aquela ruína depois do ateliê é a que você está procurando."
+            "msg_string": "Tá vendo ali? Aquela ruína passando o ateliê é a que você tá procurando."
         },
         {
             "type": 0x1,
@@ -153,7 +153,7 @@
             "extra_id": 0x2,
             "expr_id": 0x0,
             "msg_id": 0x10,
-            "msg_string": "Meu destino é, na verdade, aquele ateliê. É uma loja de produtos medicinais administrada por uma jovem..."
+            "msg_string": "Meu destino, na verdade, é aquele ateliê. É uma botica cuidada por uma garotinha..."
         },
         {
             "type": 0x1,
@@ -162,7 +162,7 @@
             "extra_id": 0x13,
             "expr_id": 0x0,
             "msg_id": 0x11,
-            "msg_string": "Hmm? Um ateliê num lugar como esse?<CR>Então isso ainda existe por aqui."
+            "msg_string": "Hm? Um ateliê num lugar desses?<CR>Então isso ainda existe por aqui."
         },
         {
             "type": 0x1,
@@ -171,7 +171,7 @@
             "extra_id": 0x15,
             "expr_id": 0x0,
             "msg_id": 0x12,
-            "msg_string": "...Ah, pode me deixar aqui mesmo."
+            "msg_string": "...Ah, pode me deixar bem aqui."
         },
         {
             "type": 0x1,
@@ -180,7 +180,7 @@
             "extra_id": 0x3,
             "expr_id": 0x0,
             "msg_id": 0x13,
-            "msg_string": "Hã? Mas ainda estamos bem longe da ruína."
+            "msg_string": "Ué? Mas a gente ainda tá bem longe da ruína."
         },
         {
             "type": 0x1,
@@ -188,7 +188,7 @@
             "name_id": 0x12,
             "expr_id": 0x0,
             "msg_id": 0x14,
-            "msg_string": "Não tem problema. Prefiro ir até lá com minhas próprias pernas."
+            "msg_string": "Não tem problema. Prefiro ir até lá com as minhas próprias pernas."
         },
         {
             "type": 0x1,
@@ -205,7 +205,7 @@
             "extra_id": 0x13,
             "expr_id": 0x0,
             "msg_id": 0x16,
-            "msg_string": "Estudioso? É o que eu pareço ser?"
+            "msg_string": "Estudioso? É o que eu pareço?"
         },
         {
             "type": 0x1,
@@ -214,7 +214,7 @@
             "extra_id": 0x125,
             "expr_id": 0x0,
             "msg_id": 0x17,
-            "msg_string": "Ah, desculpa se errei. Já que você está investigando as ruínas eu..."
+            "msg_string": "Ah, desculpa se eu errei. Como você tá investigando as ruínas..."
         },
         {
             "type": 0x1,
