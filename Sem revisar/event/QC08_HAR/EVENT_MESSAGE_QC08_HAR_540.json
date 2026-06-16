@@ -1,0 +1,330 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC08_HAR_540.ebm",
+    "nb_messages": 0x24,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "...E então, era um lugar muito lindo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Hmm, uma ruína onde tudo era feito de vidro... Isso é bem interessante."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15d,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Eu ia adorar ver isso com os meus próprios olhos. Ah, que pena que não deu pra eu ir com você..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15f,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "A chave pra desvendar os mistérios da civilização antiga provavelmente tá lá em algum lugar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15f,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "A fornalha de vidro ainda queima, e as flores de vidro ainda florescem..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Essa descoberta é mais do que incrível!<CR>Nós testemunhamos um momento histórico!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1a4,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Q-Que bom que você gostou. Ah, aqui, isso é uma lembrancinha pra você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x18,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Para! Ayesha, assim não dá.<CR>Assim não dá mesmo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "O-O que não dá? Você não gostou da lembrancinha?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x22,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Não é isso. Essa obra de vidro é um item com grande importância histórica e acadêmica."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x23,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Chamar isso de lembrancinha...<CR>Como alguém que busca a verdade,<CR>essa é simplesmente uma frase sem noção."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x23,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "De jeito nenhum isso é uma lembrancinha.<CR>Sim... é uma descoberta."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "D-Desculpa. Eu não sabia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x25,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Agora vamos fazer de novo, começando da parte em que você terminou o seu relatório e ia me entregar a sua descoberta."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1a4,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Ah, tá bom. Essa vareta é uma descoberta valiosa. Por favor, aceita ela."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x1a,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "msg_string": "..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Ééé..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x56,
+            "expr_id": 0x2,
+            "msg_id": 0x11,
+            "msg_string": "Que esplêndido! Gostaria de te elogiar bastante por usar o termo adicional \"valiosa\"."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x57,
+            "expr_id": 0x2,
+            "msg_id": 0x12,
+            "msg_string": "Vou te ensinar mais termos técnicos acadêmicos com o tempo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13,
+            "msg_string": "(Será que descoberta é um termo<CR>técnico...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x58,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "E agora, essa descoberta é muito interessante. O que você acha que é?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Hum, pra mim parece uma vareta de vidro comum. Não tem nada demais..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Inaceitável. Com esse único artefato, eu consegui entender 80% do estilo de vida deles."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x17,
+            "msg_string": "Ué, sério!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x18,
+            "msg_string": "(Talvez ele saiba o motivo pelo qual a Nio sumiu também...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15d,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Quero que você foque na ponta afiada dessa vareta. Não te lembra alguma coisa?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15f,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Sim. Isso é, sem dúvidas, um palito de dente. É uma coisa que os antigos usavam."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Um p-palito de dente? Mesmo sendo tão grande?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x161,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Essa é uma das chaves. De acordo com a minha teoria, os antigos tinham corpos muito grandes."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Eu nunca consegui cravar de forma concreta o tamanho deles, mas hoje, tudo ficou claro."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Julgando por esse palito de dente, os antigos tinham 10 metros de altura. Essa é a minha conclusão."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Essa é a hipótese que eu<CR>tirei dessa descoberta marcante.<CR>Você tem algum comentário?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "E-Eu não sei não... Eu sinto que pode ser uma coisa completamente diferente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "Não, tem que ser isso. Com esse formato, não pode ser nada além de um palito de dente!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "Sim, essa descoberta vai marcar época. Vai ser a chave pra revelar a civilização antiga deles!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x23,
+            "msg_string": "(Hmm, bom, parece que ele tá feliz com isso, então acho que tudo bem.)"
+        }
+    ]
+}

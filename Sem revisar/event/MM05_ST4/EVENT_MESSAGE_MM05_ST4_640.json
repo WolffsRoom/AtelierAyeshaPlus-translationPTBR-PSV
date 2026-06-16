@@ -1,0 +1,106 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM05_ST4_640.ebm",
+    "nb_messages": 0xb,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0x0,
+            "msg_string": "Nio... Onde será que ela tá agora...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc6,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Espero que ela não esteja em perigo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Ah, oi, Ayesha. O que você tá fazendo aqui? Você não parece muito bem..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Eu tô parecendo tão pra baixo assim? Eu tô preocupada com um negócio..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Eu sabia. Se fizer você se sentir melhor, eu ficaria feliz em te ajudar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x196,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Não, tudo bem. Tenho certeza que vai dar tudo certo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Você provavelmente tá preocupada com alguma coisa de alquimia, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Eu sou só uma amadora nessa área, então não sei de nada sobre isso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x19f,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Mas mesmo assim, eu ainda posso te escutar. Se acontecer alguma coisa, pode vir falar comigo a qualquer hora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Marion... muito obrigada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "msg_string": "(Eu não tô sozinha. Me deixa muito feliz... saber que tenho pessoas que se importam comigo.)"
+        }
+    ]
+}

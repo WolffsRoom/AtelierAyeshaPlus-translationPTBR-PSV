@@ -1,0 +1,276 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC04_JUR_040.ebm",
+    "nb_messages": 0x1e,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x125,
+            "expr_id": 0x4,
+            "msg_id": 0x0,
+            "msg_string": "O q-q-q-que é... esse barulho!<CR>...Trovão?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x129,
+            "expr_id": 0x3,
+            "msg_id": 0x1,
+            "msg_string": "Não... Fique abaixada e faça silêncio."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Aquilo é... um dragão! Incrível...<CR>Essa é a primeira vez que vejo um!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "E ainda por cima, era um adulto. Parece que tava caçando aqui perto."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Hã? Como você sabe que ele tava caçando?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "As garras dele tavam manchadas de sangue.<CR>Além disso, o estômago dele tava um pouco inchado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Nooossa, nem reparei. Juris, você tem uma visão muito boa..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Ter uma visão aguçada é a arma definitiva de um caçador. Consigo distinguir o rosto de uma pessoa lá da outra montanha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "A gente estaria em perigo se ele estivesse com fome. Parece que escapamos da morte por pouco."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x11,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "É melhor a gente sair dessa área por precaução. Tem uma grande possibilidade dele voltar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Ah, tá bom...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Aquele dragão parece ser muito grande e forte... Quase me matou de susto."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Era bem parecido com os dragões que eu via nos livros de histórias quando era menor. Você conhece \"A Garota e o Dragão\"?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "É sobre uma garota que viaja pelo mundo nas costas de um dragão velho..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Eu admirava aquela garota. Eu queria ser igual a ela e montar nas costas de um dragão um dia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Esse era o meu sonho, mas agora que eu vi um de verdade, não tenho mais tanta certeza disso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "É, você provavelmente devia desistir desse sonho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Dragões, como indivíduos, são tiranos... Eles mostram com orgulho sua enorme força pro mundo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Pros dragões, todas as criaturas vivas, além de outros dragões, são consideradas comida."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Com um só golpe, as garras deles podem despedaçar um rebanho inteiro de gado, e o fogo que eles cospem pode queimar uma vila."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Mas você só vai ser caçada se chegar perto deles sem cuidado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x12,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Ainda bem que já faz um tempão desde que eles causaram algum dano de verdade às pessoas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "E-Entendi. Acho que não devo mesmo ficar pensando em montar nas costas deles..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Meu objetivo é, no fim das contas, derrotar ele.<CR>Como alguém que nasceu na minha família,<CR>é ele quem eu devo desafiar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x18,
+            "msg_string": "Hã!? Isso é impossível, até pra você! Ele é muito grande!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x196,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Não é impossível. Na verdade, a minha família já lutou contra vários dragões."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Alguns deles até conseguiram caçá-los. Matar dragões tá bem ligado ao destino da minha família."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Então você vem de uma longa linhagem de caçadores de dragões...? Juris, sua família é mais que incrível..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x1c,
+            "msg_string": "Mas ainda é perigoso,<CR>então você não devia fazer isso!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Bom, eu sei bem da minha situação.<CR>Eu não planejo perder a minha vida,<CR>deixando a minha irmã toda sozinha."
+        }
+    ]
+}

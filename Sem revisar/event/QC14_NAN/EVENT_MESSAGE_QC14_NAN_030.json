@@ -1,0 +1,318 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC14_NAN_030.ebm",
+    "nb_messages": 0x23,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ooooi, Ayeshaaa! E Paaanaaa!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Nanaca! Eba, a gente se encontrou de novo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x205,
+            "name_id": 0x1f,
+            "extra_id": 0x216,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "msg_string": "Oink muu!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x46,
+            "expr_id": 0x2,
+            "msg_id": 0x3,
+            "msg_string": "Hmhmhm, oi!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x47,
+            "expr_id": 0x2,
+            "msg_id": 0x4,
+            "msg_string": "Eu tava bem pensando que ia ser ótimo se a Ayesha estivesse aqui..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x48,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "E aí eu realmente te vi."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x48,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Muitos dos meus amigos vêm pra cá, então eu<CR>pensei... que talvez você viesse também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Entendi... Eu não sabia que muita gente vinha pra cá."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x194,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Ah, não, quase ninguém vem aqui. Os amigos que vêm pra cá não são humanos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Como coelhinhos selvagens e cervos.<CR>Essa área tem muita água."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Eu passo muito por aqui pra deixar todo mundo beber um pouco quando tô indo pra Hornheim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Ahh, entendi. Pana, você quer beber um pouco de água aqui também?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x205,
+            "name_id": 0x1f,
+            "extra_id": 0x216,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xc,
+            "msg_string": "Oink!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Hahaha, você devia ir beber com as minhas vacas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "A água por aqui é bem limpa e deliciosa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x185,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Mas também tem água ruim, então é bom tomar cuidado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x10,
+            "msg_string": "Hã? Água ruim...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x186,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Aham. Umas coisas ruins vazam da terra e se misturam na água."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x187,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Você vai passar mal do estômago se beber, então toma cuidado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Eu não sabia que existia essa coisa de água ruim. Vou tomar cuidado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Minha bezerra bebeu por engano da última vez, e foi bem ruim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Lembro da minha avó me dizendo que essa área é uma terra difícil..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Muito tempo atrás, tipo centenas de milhares de rotações solares atrás, um monstro venenoso vivia aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x17,
+            "msg_string": "Hã, um monstro venenoso?<CR>Q-Que medo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Não se preocupa, é uma história de muito tempo atrás. Ele nem existe mais."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Mas o veneno desse monstro ainda tá na terra, e..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "A gente precisa ficar de olho nisso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Entendi. Nanaca, você sabe de um monte de coisas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Hehehe, aprendi tudo com a minha avó. E aí..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Ei Nanaca, já vamos sair.<CR>A gente devia passar por essa área<CR>antes que o sol se ponha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Tá bom. Desculpa, Ayesha, a gente precisa ir logo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x1a1,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "A gente se vê depois."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x19a,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Ah, tá bom. Até mais!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x21,
+            "msg_string": "(Eu queria conversar um pouco mais com ela, mas acho que não tem jeito.)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x22,
+            "msg_string": "(Essa área é perigosa depois do pôr do sol.)"
+        }
+    ]
+}

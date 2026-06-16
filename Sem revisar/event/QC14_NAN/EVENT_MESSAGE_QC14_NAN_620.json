@@ -1,0 +1,132 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC14_NAN_620.ebm",
+    "nb_messages": 0xe,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ué? Aquela vaca ali...<CR>É a Poro?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x205,
+            "name_id": 0x1f,
+            "extra_id": 0x216,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "msg_string": "Oink muuu."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x206,
+            "name_id": 0x23,
+            "extra_id": 0x22f,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "msg_string": "Oink?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x3,
+            "msg_string": "Ué? Eu acho que aquela vaca parece maior que a Poro..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "É uma pessoa difer... digo, uma vaca diferente. Desculpa te interromper enquanto você tava comendo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x206,
+            "name_id": 0x23,
+            "extra_id": 0x22f,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "msg_string": "Oink, oink muuu!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Opa, não fica brava! Eu não queria fazer mal nenhum."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x205,
+            "name_id": 0x1f,
+            "extra_id": 0x216,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "msg_string": "Oink muuu, oink muuu?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Ei, Pana! Esse mato é da outra vaca. Vem, vamos embora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x206,
+            "name_id": 0x23,
+            "extra_id": 0x22f,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x9,
+            "msg_string": "Oink!? Oink muuu muuu,<CR>oink muuu muuu muuu!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x205,
+            "name_id": 0x1f,
+            "extra_id": 0x216,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "msg_string": "Oink muuuuuu!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0xb,
+            "msg_string": "Eita! Por que você tá comprando briga!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7a,
+            "expr_id": 0x3,
+            "msg_id": 0xc,
+            "msg_string": "Qual é, Pana, paraaa!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7c,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Aaaai! Será que vacas têm o próprio território também...?"
+        }
+    ]
+}

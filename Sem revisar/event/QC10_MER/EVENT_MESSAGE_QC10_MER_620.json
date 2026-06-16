@@ -1,0 +1,345 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC10_MER_620.ebm",
+    "nb_messages": 0x26,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "msg_string": "(Preciso começar a investigar, que nem eu prometi pra Marietta...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Hum, posso falar um pouquinho com você?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x214,
+            "name_id": 0x2b,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "msg_string": "Falar, eu gosto. Tá bom, falar do quê?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x3,
+            "msg_string": "Ah, o seu narizinho mexendo...<CR>Que coisa mais fofa!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Hum, tem alguma coisa que você goste?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x214,
+            "name_id": 0x2b,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "msg_string": "Gostar? Gosto de falar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Entendi.<CR>...E sem ser isso?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x214,
+            "name_id": 0x2b,
+            "extra_id": 0x222,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "msg_string": "Gosto de comer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x214,
+            "name_id": 0x2b,
+            "extra_id": 0x223,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x8,
+            "msg_string": "Gosto de dormir."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x214,
+            "name_id": 0x2b,
+            "extra_id": 0x223,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x9,
+            "msg_string": "Gosto de cantar, dançar!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Q-Que fofo! ...Mas não é bem isso. Hum..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Eu quero saber das coisas que você gosta,<CR>não das ações."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x214,
+            "name_id": 0x2b,
+            "extra_id": 0x225,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xc,
+            "msg_string": "Coisas?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "msg_string": "Coisas?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x216,
+            "name_id": 0x2d,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xe,
+            "msg_string": "Coisas tipo o quê?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x214,
+            "name_id": 0x2b,
+            "extra_id": 0x221,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "msg_string": "Peixe!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x221,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x10,
+            "msg_string": "Ovo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x216,
+            "name_id": 0x2d,
+            "extra_id": 0x221,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x11,
+            "msg_string": "Mel!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x214,
+            "name_id": 0x2b,
+            "extra_id": 0x221,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "msg_string": "Peixe!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x221,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13,
+            "msg_string": "Não, ovo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x216,
+            "name_id": 0x2d,
+            "extra_id": 0x221,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x14,
+            "msg_string": "Não, mel!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x217,
+            "name_id": 0x2e,
+            "extra_id": 0x221,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x15,
+            "msg_string": "Leite de vaca!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x214,
+            "name_id": 0x2b,
+            "extra_id": 0x221,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "msg_string": "Nozes!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x216,
+            "name_id": 0x2d,
+            "extra_id": 0x221,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x17,
+            "msg_string": "Vegetais!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x214,
+            "name_id": 0x5c,
+            "extra_id": 0x226,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x18,
+            "msg_string": "Isso não."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x226,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x19,
+            "msg_string": "Isso não."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x217,
+            "name_id": 0x2e,
+            "extra_id": 0x226,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1a,
+            "msg_string": "Isso não."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1b,
+            "msg_string": "(Putz, isso tá fugindo do controle...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1c,
+            "msg_string": "(Hã? Eles ficaram quietinhos de repente. Será que chegaram num acordo...?)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x214,
+            "name_id": 0x2b,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1d,
+            "msg_string": "Decisão tomada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Hum, e que tipo de coisa vocês gostam?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x214,
+            "name_id": 0x2b,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1f,
+            "msg_string": "O que Homunculus gosta, é..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x214,
+            "name_id": 0x2b,
+            "extra_id": 0x221,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x20,
+            "msg_string": "Comida!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc7,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x21,
+            "msg_string": "(Isso não filtrou nada...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x221,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x22,
+            "msg_string": "Aham. Gosto de comida."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x216,
+            "name_id": 0x2d,
+            "extra_id": 0x221,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x23,
+            "msg_string": "Comida é bom."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xca,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "M-Muito obrigada.<CR>Vocês ajudaram bastante."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x25,
+            "msg_string": "(Acho melhor eu dar mais umas<CR>perguntadas por aí.)"
+        }
+    ]
+}

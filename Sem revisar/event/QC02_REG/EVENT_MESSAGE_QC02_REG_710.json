@@ -1,0 +1,221 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC02_REG_710.ebm",
+    "nb_messages": 0x18,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Eita, acho que comprei coisa demais."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "Nossa, você tem muita coisa aí. O que você comprou?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Hmhm, o que você acha? Se você adivinhar certo, eu te faço um cafuné!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Ah, já sei! É álcool!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "Hmm, é essa a imagem que você tem de mim?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Errei? Foi mal, eu meio que tirei conclusões precipitadas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd2,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Não precisa pedir desculpas. Isso aqui é tecido, linha de bordado e outras coisinhas do tipo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "O mais velho dos meus irmãos mais novos vai atingir a maioridade, então pensei em mandar uma roupa social pra ele."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Regina, é você que vai fazer?<CR>Uma roupa social da cabeça aos pés!?<CR>I-Isso é incrível!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Até que é bem fácil, na verdade.<CR>Quer que eu te ensine da próxima vez?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "S-Sim! Eu não sou muito boa com costura..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Sempre que eu costuro uma roupa rasgada, outro rasgo acaba abrindo do nada..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Eu também já tricotei um cachecol uma vez, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Acabei transformando num pegador de panela do nada..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Sei. Mas você é incrivelmente boa fazendo remédios e cozinhando."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Tenho certeza que vai sobrar um monte de tecido, então uso ele pra te ensinar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Pior que é verdade... Com tudo isso de tecido, daria pra você fazer logo uns dois ternos inteiros."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x165,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Mas mesmo assim, apesar de ter comprado tudo isso, não achei um tecido da cor certa pro forro."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x167,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Já olhei em todas as lojas por aqui que poderiam ter, mas parece que nenhuma delas tem uma variedade tão boa assim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0x5,
+            "msg_id": 0x13,
+            "msg_string": "O forro... Geralmente é um tecido macio com uma estampa, né...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Eu conheço alguém que deve manjar mais dessas coisas. Quer que eu pergunte pra ele?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x46,
+            "expr_id": 0x2,
+            "msg_id": 0x15,
+            "msg_string": "Sério? Ia ser ótimo!<CR>Eu tava meio sem saber o que fazer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "É uma roupa importante pro seu irmãozinho, então pode deixar comigo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x17,
+            "msg_string": "(Eu tenho certeza que o Ernie também vende tecido. Beleza, vou perguntar pra ele da próxima vez.)"
+        }
+    ]
+}

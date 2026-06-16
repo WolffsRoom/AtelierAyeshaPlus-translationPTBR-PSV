@@ -1,0 +1,699 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM04_ST3_060.ebm",
+    "nb_messages": 0x48,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x0,
+            "msg_string": "Já faz um tempinho que eu peguei isso, mas elas não secaram nem murcharam até agora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x1,
+            "msg_string": "Essas flores são tão misteriosas... mas agora não é hora de ficar admirando elas. Preciso descobrir do que elas são feitas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15d,
+            "expr_id": 0x5,
+            "msg_id": 0x2,
+            "msg_string": "Vou tentar amassar elas pra extrair os elementos. Vamos ver aqui..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x161,
+            "expr_id": 0x5,
+            "msg_id": 0x3,
+            "msg_string": "Ah é, também tenho que usar aquele recipiente. Hum, como é que eu uso isso...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "O Sr. Keith devia ter me explicado direitinho como usar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Desde que a flor não tenha vontade própria, ou sirva de canal..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Eu devo conseguir descobrir como ela funciona examinando os elementos. Por exemplo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Espero estar errada, mas ela pode ter algum elemento alucinógeno que só me fez ver a Nio... e essas coisas todas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Mas não deve ser isso. O Sr. Keith e a Regina também viram a Nio."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x9,
+            "msg_string": "Enfim, acho que já dá pra concluir que a Nio só aparece em lugares que têm essas flores brilhantes."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0xa,
+            "msg_string": "Então, elas devem ter algum elemento em comum..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x78,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Beleza, vou dar o meu melhor nessa análise."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0xc,
+            "msg_string": "Água, fibra, néctar, propriedades medicinais... Então, o que sobra depois de extrair tudo isso é..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0xd,
+            "msg_string": "...O que é isso? Parece algum tipo de óleo essencial, mas é só isso que dá pra saber por enquanto!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Eu não sei como usar esse recipiente, então vou usá-lo só como um pote."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0xf,
+            "msg_string": "Ai... Sinto que tô no caminho certo, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc6,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Desse jeito, aposto que o Sr. Keith ia rir de mim‐ não, ele provavelmente ia ficar bravo comigo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Ah, o líquido tá mudando de cor...! Será que é por causa do recipiente!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Ué? Tem um cheiro gostoso. É quase nostálgico..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Hã...? Do nada me deu um sono..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc7,
+            "expr_id": 0x4,
+            "msg_id": 0x14,
+            "msg_string": "Não, não, não posso dormir... até terminar isso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc9,
+            "expr_id": 0x4,
+            "msg_id": 0x15,
+            "msg_string": "Zzz...zzz..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x12,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "unknown2": 0x1,
+            "msg_string": "...Mana... Mana..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x17,
+            "unknown2": 0x1,
+            "msg_string": "*bocejo* ...Ah, Nio... desculpa, eu peguei no sono."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x18,
+            "unknown2": 0x1,
+            "msg_string": "Pera, Nio!?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x19,
+            "unknown2": 0x1,
+            "msg_string": "C-Como...?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1a,
+            "unknown2": 0x1,
+            "msg_string": "Senti um cheiro bom."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1b,
+            "unknown2": 0x1,
+            "msg_string": "Fiquei curiosa pra saber o que era, vim seguindo o cheiro e te achei dormindo..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1c,
+            "unknown2": 0x1,
+            "msg_string": "Eba! Eu nem sabia se ia conseguir te ver, Nio!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1d,
+            "unknown2": 0x1,
+            "msg_string": "Eu também. Desculpa, mana, sei que você tem ficado muito preocupada comigo..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1e,
+            "unknown2": 0x1,
+            "msg_string": "*sniff* *sniff* Tudo bem. Você não precisa me pedir desculpas, Nio."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1f,
+            "unknown2": 0x1,
+            "msg_string": "Só tô feliz de te ver! Às vezes, eu achava... que talvez nunca mais fosse te ver."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x20,
+            "unknown2": 0x1,
+            "msg_string": "Pensando bem... onde a gente tá? Por que a gente tá flutuando igual nuvem?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x21,
+            "unknown2": 0x1,
+            "msg_string": "Não sei. Quando fui ver, já tava aqui."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x22,
+            "unknown2": 0x1,
+            "msg_string": "Tenho a sensação de... não saber se tô dormindo ou acordada esse tempo todo."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x23,
+            "unknown2": 0x1,
+            "msg_string": "Tentei lembrar, mas toda vez que faço isso, minha cabeça começa a doer..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x24,
+            "unknown2": 0x1,
+            "msg_string": "Nio, você não precisa se forçar a lembrar..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x25,
+            "unknown2": 0x1,
+            "msg_string": "Não, não, vou tentar mais! Não posso deixar você ter todo esse trabalho sozinha."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x26,
+            "unknown2": 0x1,
+            "msg_string": "Naquele dia, eu tava colhendo umas ervas medicinais pra te ajudar..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x27,
+            "unknown2": 0x1,
+            "msg_string": "Mas aí fui tentar pegar uma flor que vi pendurada no penhasco... e acabei escorregando..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x28,
+            "unknown2": 0x1,
+            "msg_string": "Quando me dei conta, tava num lugar que eu nem sei como descrever."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x29,
+            "unknown2": 0x1,
+            "msg_string": "Mana... o que aconteceu comigo...?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2a,
+            "unknown2": 0x1,
+            "msg_string": "Vai ficar tudo bem. Vai dar tudo certo, Nio."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2b,
+            "unknown2": 0x1,
+            "msg_string": "A gente consegue conversar, então agora só preciso dar um jeito de te tirar daqui e te trazer de volta!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2c,
+            "unknown2": 0x1,
+            "msg_string": "Então... por favor, espera só mais um pouquinho."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2d,
+            "unknown2": 0x1,
+            "msg_string": "...Sério?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2e,
+            "unknown2": 0x1,
+            "msg_string": "Lógico! Quando sua irmãzona diz que vai fazer um negócio, ela vai lá e faz!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2f,
+            "unknown2": 0x1,
+            "msg_string": "Tá bom, vou ficar esperando! Porque a mana nunca mente!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x30,
+            "unknown2": 0x1,
+            "msg_string": "Apesar de ser um pouco despreocupada demais e não passar muita confiança."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x31,
+            "unknown2": 0x1,
+            "msg_string": "I-Isso não é verdade. Eu tenho conseguido fazer tudo sozinha ultimamente."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x32,
+            "unknown2": 0x1,
+            "msg_string": "Hmhm, tem certeza? Você consegue acordar sozinha de manhã?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x33,
+            "unknown2": 0x1,
+            "msg_string": "Consegue evitar de desmaiar porque ficou tão ocupada sintetizando que esqueceu de comer?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x34,
+            "unknown2": 0x1,
+            "msg_string": "E-Eu tô beeeem... Eu não tenho feito isso... com tanta frequência."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x35,
+            "unknown2": 0x1,
+            "msg_string": "Seu ateliê... sinto falta de lá."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x36,
+            "unknown2": 0x1,
+            "msg_string": "A Pana tá lá, o Ernie dá umas passadinhas às vezes, e o caldeirão tá sempre borbulhando..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x37,
+            "unknown2": 0x1,
+            "msg_string": "Ernie... Falando nisso! Nio, isso aqui é pra você!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x38,
+            "unknown2": 0x1,
+            "msg_string": "Ooh, são as balas que o Ernie sempre traz!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x39,
+            "unknown2": 0x1,
+            "msg_string": "Eu tava guardando comigo caso acabasse te encontrando."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3a,
+            "unknown2": 0x1,
+            "msg_string": "Eba! Eu amo essas balas!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3b,
+            "unknown2": 0x1,
+            "msg_string": "Eu quero ir pra casa... pro seu ateliê..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3c,
+            "unknown2": 0x1,
+            "msg_string": "Não chora, Nio. Com certeza, eu vou‐"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3d,
+            "unknown2": 0x1,
+            "msg_string": "O q-que foi isso!? Pareceu que eu levei um choque..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3e,
+            "unknown2": 0x1,
+            "msg_string": "Mana...! Eu tenho que voltar pra lá..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3f,
+            "unknown2": 0x1,
+            "msg_string": "Nio, espera!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x3e,
+            "name_id": 0x12,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x40,
+            "unknown2": 0x1,
+            "msg_string": "Falha... no mecanismo de proteção...<CR>Bloqueio severo... no sistema de<CR>transmissão direcional... detectado..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x3e,
+            "name_id": 0x12,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x41,
+            "unknown2": 0x1,
+            "msg_string": "Encerramento forçado... do comando...<CR>Mudando para... estado dormente..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x42,
+            "unknown2": 0x1,
+            "msg_string": "Nio!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x43,
+            "msg_string": "...Foi um sonho?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x194,
+            "expr_id": 0x0,
+            "msg_id": 0x44,
+            "msg_string": "Não, não pode ser um sonho! Ainda consigo sentir o toque da Nio...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x79,
+            "expr_id": 0x3,
+            "msg_id": 0x45,
+            "msg_string": "Preciso me apressar! A Nio tá me esperando!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Você perdeu um Saquinho de Balas."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Você obteve Óleo de Flor."
+        }
+    ]
+}

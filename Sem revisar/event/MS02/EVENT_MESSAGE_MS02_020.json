@@ -1,0 +1,124 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MS02_020.ebm",
+    "nb_messages": 0xd,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x20f,
+            "name_id": 0x25,
+            "extra_id": 0x206,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "msg_string": "Bem-vinda! ...Você é aquela garota da loja de remédios."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20f,
+            "name_id": 0x25,
+            "extra_id": 0x207,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "msg_string": "Você é tipo a única pessoa jovem que anda nos meus balões."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20f,
+            "name_id": 0x25,
+            "extra_id": 0x20c,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "msg_string": "Você é totalmente a minha melhor cliente.<CR>Você nunca cansa disso, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x3,
+            "msg_string": "Hahaha, é bem prático. Com certeza vou usar bastante esse serviço daqui pra frente..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20f,
+            "name_id": 0x25,
+            "extra_id": 0x207,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "msg_string": "É mesmo? Então eu preciso pensar em algo pra te dar em troca pela sua preferência."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x35,
+            "expr_id": 0x2,
+            "msg_id": 0x5,
+            "msg_string": "E-Em troca...? Não precisa disso de jeito nenhum."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Maaas, eu gostaria de ir pra outros lugares. Tem como?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20f,
+            "name_id": 0x25,
+            "extra_id": 0x207,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "msg_string": "Outros lugares, é? Aí já é meio complicado. Tenho outros clientes e vai ser difícil garantir a sua segurança..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20f,
+            "name_id": 0x25,
+            "extra_id": 0x207,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x8,
+            "msg_string": "Ah, já sei! Pela frequência que você usa isso, comprar um seria uma boa ideia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20f,
+            "name_id": 0x25,
+            "extra_id": 0x20c,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x9,
+            "msg_string": "Se você não ligar de ser um usado, eu te vendo um. Não vai ser barato, mas o que acha?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0xa,
+            "msg_string": "Nossa, pior que você não tava brincando sobre não ser barato..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20f,
+            "name_id": 0x25,
+            "extra_id": 0x207,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xb,
+            "msg_string": "Hahaha, você não precisa me dar uma resposta agora. Quando se decidir, vem falar comigo de novo."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Preço do balão: 20.000 Cole."
+        }
+    ]
+}

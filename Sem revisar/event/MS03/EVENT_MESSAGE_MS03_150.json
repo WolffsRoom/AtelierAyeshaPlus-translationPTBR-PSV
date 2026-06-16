@@ -1,0 +1,198 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MS03_150.ebm",
+    "nb_messages": 0x16,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Hã? Sra. Odelia?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Ah, é você, Ayesha. Que surpresa te ver num lugar desses."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Pois é, é meio estranho falar com você fora da Zweiteturm."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x31,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Se eu tiver um bom motivo, posso sair da Zweiteturm sob condições pré-definidas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x33,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Dessa vez, tenho o propósito legítimo de coletar livros antigos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Ah, entendi, então você tá trabalhando agora? Eu me sentiria mal de te atrapalhar, então já vou indo‐"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Ayesha, deve ser o destino a gente se encontrar na cidade assim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Eu proponho que a gente ande juntas por um tempo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Haha, beleza. Então vamos fazer umas compras juntas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x198,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Não precisa se preocupar com isso. As compras já foram concluídas sem demora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0xa,
+            "msg_string": "Ué? Então a gente devia ir a algum lugar pra tomar um chá e comer uns doces‐"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x198,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Isso também já foi concluído.<CR>Tô super cheia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0xc,
+            "msg_string": "Entendi... Parece que só te resta ir pra casa..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "É verdade. Mas aí é que tá o problema."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Não é a primeira vez que visito essa cidade."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Só que isso foi há mais de 900 anos, e a cidade mudou completamente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Dona Odelia, você não tá... perdida, tá?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0xad,
+            "expr_id": 0x3,
+            "msg_id": 0x11,
+            "msg_string": "C-Claro que não. Autômatos de alta performance têm um senso de direção superior."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0xae,
+            "expr_id": 0x3,
+            "msg_id": 0x12,
+            "msg_string": "Ficar perdida... raramente acontece."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0xaf,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Se você tá indo pra casa, eu gostaria de te acompanhar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Vamos até a saída da cidade juntas. Só até a saída já é suficiente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x15,
+            "msg_string": "Hahaha, tá bom. Eu te guio até a saída da cidade!"
+        }
+    ]
+}

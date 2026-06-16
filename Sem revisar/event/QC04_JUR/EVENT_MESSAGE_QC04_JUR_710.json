@@ -1,0 +1,184 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC04_JUR_710.ebm",
+    "nb_messages": 0x14,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Hmm, tá tão cheio de gente lá. Por que será..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Uau, tem um lobo gigante...!<CR>O que ele tá fazendo aqui...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Ele é o líder da alcatéia de lobos que anda causando problemas nos pastos daqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Ele é muito esperto, mas finalmente pegamos ele."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Ah, Mix Master, você tá dando uma volta?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa2,
+            "expr_id": 0x3,
+            "msg_id": 0x5,
+            "msg_string": "Fiquei sabendo que o lobo tava na cidade e vim ver. Mas não achei que fosse te ver aqui também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa8,
+            "expr_id": 0x3,
+            "msg_id": 0x6,
+            "msg_string": "Enfim, ele é grandão mesmo. Agora sei por que tava todo mundo falando dele."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Ele é sim. Mas, o que um lobo tá fazendo num lugar desses?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa9,
+            "expr_id": 0x3,
+            "msg_id": 0x8,
+            "msg_string": "Já que ele tem um pelo tão bonito, acho que ele vai ficar em exibição por um tempo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Tipo atração de circo? Fico com um pouco de dó dele..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x41,
+            "name_id": 0x52,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "unknown2": 0x1,
+            "msg_string": "Urrrrrr!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x125,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "Kyah! M-Me desculpa!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xaa,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "É perigoso chegar muito perto.<CR>Ele poderia arrancar seu braço fininho<CR>num piscar de olhos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0xd,
+            "msg_string": "Se ficar com medo, pode pular nos meus braços quando quiser."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x128,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "E-Eu tô de boa. Ele tá numa jaula..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Entendi... Que pena.<CR>Bom, deixando isso de lado..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "O herói que capturou esse lobo tá cuidando da minha taverna agora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Quer vir ver o rosto valente do nosso herói?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Onde você tava, me enfiando atrás daquele balcão minúsculo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x10c,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "Foi mal. Eu queria dar uma olhada no lobo que todo mundo tá falando."
+        }
+    ]
+}

@@ -1,0 +1,433 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC01_WIL_080.ebm",
+    "nb_messages": 0x2f,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "E aí, e aí, os doces daquela loja são suuuper gostosos!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Eu até pensei em gastar toooodo o meu dinheiro pra comprar todos os doces de lá."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x2,
+            "msg_string": "Hã, são tão bons assim? Agora fiquei com vontade. Vamo lá juntas na próxima vez."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Fechado! Eu mostro o caminho!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Ué? Que barulho é esse?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "Aiii, é a minha tataravó!<CR>Vou ter que pegar essa mesa emprestada rapidinho!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Sim, é a Wilbell!<CR>Desculpa a demora pra atender!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "msg_string": "(Eu achava que a Bell não tinha medo de nada, mas ela tá suando frio...)"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x12,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x8,
+            "unknown2": 0x1,
+            "msg_string": "Hmhm, não precisa falar tão alto. Consigo te ouvir perfeitamente."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x12,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x9,
+            "unknown2": 0x1,
+            "msg_string": "Wilbell, já faz um tempo desde que nos falamos pela última vez."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x12,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "unknown2": 0x1,
+            "msg_string": "Que bom ver que você tá bem.<CR>Fico mais aliviada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Sim! Também tô muito feliz de ver que a senhora tá bem!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Mas e aí, como posso ajudar a senhora hoje?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x28,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "unknown2": 0x1,
+            "msg_string": "Vou direto ao ponto. Aquele item que você mandou no outro dia..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x28,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xe,
+            "unknown2": 0x1,
+            "msg_string": "Tava muito bem feito.<CR>Todo mundo ficou bem surpreso também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "M-Muito obrigada,<CR>Tataravó...!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x28,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x10,
+            "unknown2": 0x1,
+            "msg_string": "Quem quer que tenha feito aquilo parece ter bastante habilidade. Essa pessoa é sua amiga?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x11,
+            "msg_string": "Ergh!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "msg_string": "(Ela sabe...)"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x28,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13,
+            "unknown2": 0x1,
+            "msg_string": "Sua carta não mencionava nada sobre essa amizade, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Tataravó, é que, bom, a situação tava meio complicada, e..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x28,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x15,
+            "unknown2": 0x1,
+            "msg_string": "Seja qual for a situação, cheguei à conclusão de que não há justificativa."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x28,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "unknown2": 0x1,
+            "msg_string": "Pelo visto, você tá precisando levar um bom sermão."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0x17,
+            "msg_string": "Ah nãooo! Me desculpa!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x18,
+            "msg_string": "(Ahhh... agora eu meio que entendi o que tá<CR>rolando...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Esse sermão foi bem longo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0x1a,
+            "msg_string": "A minha tataravó costumava ser tão boazinha... Mas ultimamente, toda vez que ela me vê, eu levo bronca."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xd1,
+            "expr_id": 0x4,
+            "msg_id": 0x1b,
+            "msg_string": "A tataravó deve me odiar muito..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "A-Acho que não é isso não. Ela tava te dando bronca porque você tentou trapacear."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xd1,
+            "expr_id": 0x4,
+            "msg_id": 0x1d,
+            "msg_string": "M-Mas... o nível de raiva dela tava mais pra ódio."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xd1,
+            "expr_id": 0x4,
+            "msg_id": 0x1e,
+            "msg_string": "Certeza que eu fui adotada. Aposto que me deixaram em algum lugar, tipo debaixo da ponte..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "E-Eu acho que... nada disso é verdade."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Tenho certeza que ela só pega no seu pé porque ela se importa com você..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xd2,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "Hmm..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "Se você pisou na bola, é só tentar de novo do zero, tá bem?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "Não se preocupa, aposto que você vai se sair super bem na próxima!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x165,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "Você... acha?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x25,
+            "msg_string": "Uhum! Bell, você consegue qualquer coisa se tentar!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x166,
+            "expr_id": 0x0,
+            "msg_id": 0x26,
+            "msg_string": "Você tem razão... Eu não sou tão fraca pra ficar desanimada com uma coisinha dessas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x167,
+            "expr_id": 0x0,
+            "msg_id": 0x27,
+            "msg_string": "Vou tentar de novo! Da próxima vez eu com certeza vou fazer<CR>a minha tataravó me reconhecer!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x28,
+            "msg_string": "Isso, esse é o espírito!<CR>Você consegue, Bell!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x29,
+            "msg_string": "Uhum, eu consigo. Então, vou contar com a sua ajuda de novo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2a,
+            "msg_string": "Vou me sair melhor da próxima vez!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x2b,
+            "msg_string": "Hã? Se sair melhor em quê...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x2c,
+            "msg_string": "Tô mega animada agora! Vou pensar numa estratégia nova!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x19a,
+            "expr_id": 0x0,
+            "msg_id": 0x2d,
+            "msg_string": "Tô indo pra casa! Até mais, Ayesha!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2e,
+            "msg_string": "(E-Eu não sei o porquê, mas me dá a sensação de que \"se sair melhor\" significa outra coisa pra Bell...)"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC13_ODI_520.ebm",
+    "nb_messages": 0x3,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Bom, a Dona Bibliotecária disse que os livros de alquimia tão na 4-D 3."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Aqui é 1-A 1, então... talvez eu encontre se eu continuar andando?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Eu não faço a menor ideia pra onde eu tô indo, mas tenho que continuar!"
+        }
+    ]
+}

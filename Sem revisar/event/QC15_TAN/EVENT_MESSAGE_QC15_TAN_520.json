@@ -1,0 +1,266 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC15_TAN_520.ebm",
+    "nb_messages": 0x1d,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "msg_string": "(É mesmo, eu fiz uma promessa pra Tanya.)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x160,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "msg_string": "(Será que eu acho algo que ela vai curtir...?)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1a0,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Ah, tá procurando alguma coisa?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Ah, sim. Queria comprar um presente pra uma garota que eu conheço."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Ela mora muito além de Hornheim e..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Eu tava pensando no que seria uma lembrancinha bem com cara de cidade."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Com cara de cidade? Nunca ouvi isso antes..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15d,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Mas, vamos ver... Se sua amiga é menina, talvez uma roupa, um perfume, ou alguma coisa pequena..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Com certeza ela ia gostar de um acessório."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Ah, bom, é só um presente, então não quero nada muito caro se não ela vai ficar preocupada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x69,
+            "expr_id": 0x2,
+            "msg_id": 0xa,
+            "msg_string": "Hmm... Então... que tal um lenço bordado? É perfumado e bem fofinho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Ah, que fofo! Acho que a Tanya ia amar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6b,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Hmm, Tanya... que mora além<CR>de Hornheim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Bom, vai o lenço mesmo! Vou embalar rapidinho, me dá só um segundo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x69,
+            "expr_id": 0x2,
+            "msg_id": 0xe,
+            "msg_string": "Prontinho.<CR>Aqui está."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1a5,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Ah, quanto ficou?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6a,
+            "expr_id": 0x2,
+            "msg_id": 0x10,
+            "msg_string": "Esquenta não.<CR>É por minha conta dessa vez."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6a,
+            "expr_id": 0x2,
+            "msg_id": 0x11,
+            "msg_string": "Em troca, você pode dar um recado pra ela?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6d,
+            "expr_id": 0x2,
+            "msg_id": 0x12,
+            "msg_string": "Diz pra ela: \"Obrigada por todo o sal.<CR>Eu uso ele o tempo todo.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Ué? Você conhece a Tanya também?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6b,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Eu reconheci o nome. Só vi nas notas de entrega, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x2d,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Ela é a filha de um dos nossos fornecedores. Às vezes as entregas vêm com o nome dela como remetente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x2e,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Além do mais, não tem muita gente que mora além de Hornheim, então eu só chutei."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Entendi... A Tanya é bem fã da cidade."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x2e,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Eu sei como é. Quando você mora no interior, a vida na cidade sempre te chama a atenção."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x2f,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Só de ouvir as histórias já dá pra achar que a cidade é um lugar bem divertido e deslumbrante."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Eu acho... que também sei como é. Embora eu tenha gostado da vida no interior."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x69,
+            "expr_id": 0x2,
+            "msg_id": 0x1b,
+            "msg_string": "De qualquer forma, ela é uma cliente fiel,<CR>então deixa eu fazer esse agrado pra ela."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Entendi. Muito obrigada pelo lenço."
+        }
+    ]
+}

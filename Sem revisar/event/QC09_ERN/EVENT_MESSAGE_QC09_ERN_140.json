@@ -1,0 +1,313 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC09_ERN_140.ebm",
+    "nb_messages": 0x22,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Eu sempre pensei isso, mas... Ernie, você é uma pessoa tão legal."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "Hã? O que você tá falando de repente? Tá querendo alguma coisa de mim?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "É só o que eu acho. Você é sempre tão bonzinho comigo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "E com a Tanya, e todo mundo, sem dar preferência pra ninguém."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x126,
+            "expr_id": 0x2,
+            "msg_id": 0x4,
+            "msg_string": "Hmm, bom, dá pra dizer que eu sou amigo de todo mundo. Embora eu nem perceba direito."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Provavelmente é da sua natureza. Ernie, você é uma boa pessoa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x128,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Ah, mas ainda assim, se eu fizer uma coisa boa, a notícia pode se espalhar e isso pode me render mais negócios."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Hmm... Bom, acho que você pode ver por esse lado..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Hmhmhm, acho que é hora de revelar isso pra você..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Na verdade eu sou... uma pessoa muito má."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Essa bondade toda é só encenação, e na verdade eu calculei tudo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Eu calculo as coisas pra garantir que minha bondade seja recompensada com mais negócios."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Você acabou de inventar isso, não foi?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "I-Isso não é verdade. Eu posso mesmo ser uma pessoa ruim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0xe,
+            "msg_string": "Por que você tá fingindo ser uma pessoa má de repente?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x5f,
+            "expr_id": 0x2,
+            "msg_id": 0xf,
+            "msg_string": "C-Como você pode ter certeza que eu tô só fingindo ser uma pessoa má?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x10,
+            "msg_string": "Porque você tá sempre sorrindo. Tá vendo? Você tá fazendo isso até agora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Não importa como eu olhe, esse não pode ser o rosto de alguém que tá pensando em coisas ruins."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x61,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Hmm, acho que não levo jeito. Sempre admirei a imagem de \"caras maus\"."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x102,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "Com aqueles olhares afiados, sempre alertas, e além disso, eles têm bigodes!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0x14,
+            "msg_string": "Então o lance é o bigode..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x108,
+            "expr_id": 0x4,
+            "msg_id": 0x15,
+            "msg_string": "Aham. Pra mim, um bigode é essencial. Fica maneiro e selvagem."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x109,
+            "expr_id": 0x4,
+            "msg_id": 0x16,
+            "msg_string": "Óculos também seriam legais. E usar um casaco, fumar cigarro..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc6,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x17,
+            "msg_string": "(Sinto que essa imagem tá ficando cada vez mais parecida com o Sr. Keith...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x10a,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Eu penso em tudo isso desde que era criança, então..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Eu sempre admirei homens que são durões e maus..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Ernie, você não tem nada a ver com isso, então não acho que seja possível pra você..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15d,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Você tem razão. Acho que não consigo fazer coisas ruins. Vou continuar vivendo como sempre vivi..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "N-Não fica tão deprimido."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15f,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Bom... não acha que, como mercador, me falta um certo charme?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x196,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Eu não acho. Acho que você é perfeito do jeitinho que é agora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15f,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Entendi. Se você diz, então talvez esteja tudo bem eu continuar assim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x20,
+            "msg_string": "(Eu acho que ele é maravilhoso do jeitinho que é, mas...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x21,
+            "msg_string": "(Eu nunca soube que o Ernie admirava esse tipo de gente...)"
+        }
+    ]
+}

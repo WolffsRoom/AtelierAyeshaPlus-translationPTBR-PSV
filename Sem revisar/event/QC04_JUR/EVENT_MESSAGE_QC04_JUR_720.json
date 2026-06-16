@@ -1,0 +1,175 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC04_JUR_720.ebm",
+    "nb_messages": 0x13,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Hmm, tá tão cheio de gente lá. Por que será..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Uau, tem um lobo gigante...!<CR>O que ele tá fazendo aqui...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Ele é o líder da alcatéia de lobos aqui da região."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Ah, Juris, você sabe muito sobre esse lobo?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Eu recebi um pedido, então peguei ele. Só que eu nunca achei que fosse ver ele de novo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Ele é um lobo bem esperto. Me deu um trabalhão."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x41,
+            "name_id": 0x52,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "unknown2": 0x1,
+            "msg_string": "Urrrrrr...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Ele... ele parece te reconhecer, Juris..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xda,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "Foi mal. Eu não aceitei esse trabalho pra eles te tratarem assim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "Preso desse jeito... Fico com pena..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xdb,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "...Ele causou um monte de problemas.<CR>Não tem nada que a gente possa fazer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xe0,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "Mas, o que machucaria o orgulho dele mais que isso...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x1a1,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "E aí, Juris. E Ayesha! Se estiverem na cidade, deem uma passadinha na minha taverna."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Ah, oi, Mix Master."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Eu tava mesmo querendo passar por lá."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa2,
+            "expr_id": 0x3,
+            "msg_id": 0xf,
+            "msg_string": "Sério? Você tem sido bem fria comigo ultimamente..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa3,
+            "expr_id": 0x3,
+            "msg_id": 0x10,
+            "msg_string": "Isso tá me deixando triste, sabia..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Para de falar essas coisas enganosas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa6,
+            "expr_id": 0x3,
+            "msg_id": 0x12,
+            "msg_string": "Bom, vocês juntaram umas histórias na sua jornada, né? Me contem sobre elas bebendo alguma coisa."
+        }
+    ]
+}

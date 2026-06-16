@@ -1,0 +1,295 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM05_ST4_540.ebm",
+    "nb_messages": 0x20,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Resistência inesperada confirmada.<CR>Ação... cessada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x1,
+            "msg_string": "V-Você não é a Nio, né? Quem é você?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0x2,
+            "msg_string": "Por que você se parece com a Nio?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Nio? O nome deste espécime?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0x4,
+            "msg_string": "É. Ela é minha irmã.<CR>Por favor, devolve a Nio pra mim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x196,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Isso, eu não posso permitir.<CR>Eu sou a guardiã \"disso\"."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7a,
+            "expr_id": 0x3,
+            "msg_id": 0x6,
+            "msg_string": "Então pare de guardar ela.<CR>E não chame a Nio de \"disso\"!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x1,
+            "msg_id": 0x7,
+            "msg_string": "Todas as minhas ações foram autorizadas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x1,
+            "msg_id": 0x8,
+            "msg_string": "Qualquer interferência será eliminada por qualquer meio necessário."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x1,
+            "msg_id": 0x9,
+            "msg_string": "Mais obstáculos não serão tolerados. Alquimista, este é seu único aviso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7b,
+            "expr_id": 0x3,
+            "msg_id": 0xa,
+            "msg_string": "Não importa o que você diga, eu não vou recuar! Me devolve a minha irmã!!!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7c,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Ah! Espera...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Hmph. Isso sim é um belo chilique."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xcc,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "Eu tô dando chilique mesmo! Tratando... a Nio como se fosse...! *snif*"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xe1,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "Não chore... Eu não sei lidar com mulheres chorando."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0xf,
+            "msg_string": "Desculpa, eu fiquei chateada. Mas eu não sei o que eu deveria fazer..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xe3,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Hmm, não sei o que era aquela coisa..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Mas tá indo longe demais pra algo que foi criado por mãos humanas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xcd,
+            "expr_id": 0x4,
+            "msg_id": 0x12,
+            "msg_string": "Além disso, tratar a Nio como se fosse uma coisa...<CR>*snif* *snif*"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x91,
+            "expr_id": 0x3,
+            "msg_id": 0x13,
+            "msg_string": "Ugh, não esquenta."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x93,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Não vou dizer que chorar não tem seu lado bom, mas é mesmo isso que você deveria estar fazendo agora?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xce,
+            "expr_id": 0x4,
+            "msg_id": 0x15,
+            "msg_string": "Dexculpa, sou uam baita xorona..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Se quer chorar, chore o quanto quiser depois que salvar sua irmã."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Nem todos os alquimistas usam suas habilidades para um bem maior."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Ou talvez seja... Deixa pra lá, é só uma hipótese."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "De qualquer forma, se conseguirmos localizar onde ela tá, podemos bolar um jeito de lidar com isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x17,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Você tem alguma ideia?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xcf,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Ideias...? Elas não têm relação direta, mas algumas coisas me vêm à cabeça..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Então vamos nos encontrar na saída da cidade e partir de lá."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x15,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Venha me procurar depois que tiver se acalmado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1e,
+            "msg_string": "(É verdade. Agora não é hora de chorar. Preciso me apressar e encontrar a Nio.)"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Você obteve o livro: Noturno Proibido."
+        }
+    ]
+}

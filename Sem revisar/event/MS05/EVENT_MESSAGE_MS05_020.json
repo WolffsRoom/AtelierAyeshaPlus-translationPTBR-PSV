@@ -1,0 +1,158 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MS05_020.ebm",
+    "nb_messages": 0x11,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1e4,
+            "expr_id": 0x2,
+            "msg_id": 0x0,
+            "msg_string": "Muito bem, vamos dar início ao nosso já tradicional evento, o Empolgante Concurso de Tesouros!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1e6,
+            "expr_id": 0x2,
+            "msg_id": 0x1,
+            "msg_string": "Primeiro, gostaríamos de pedir pro organizador dizer algumas palavras!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x18,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "*Aham* Para todas as damas e cavalheiros que são almas afins...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Eu sou o organizador desse concurso, Harry Olson!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x22,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Como o organizador, eu prometo<CR>dar tudo de mim pra ganhar esse concurso,<CR>que nem fiz da última vez!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x23,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "E dessa vez, eu tô ansioso pra achar um desafiante que consiga bater de frente comigo! Ou seja..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x22,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Da última vez, a glória foi pra uma novata sortuda, mas uma vitória por pura sorte não acontece duas vezes!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x23,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "O leão sempre usa toda a sua força! Eu vou mostrar pra vocês dessa vez! A saber..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Argh, o Sr. Harry tá me encarando de um jeito... Mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x22,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Desafiantes promissores participaram da última vez, e eu fico feliz que o nível de competição desse concurso aumentou!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x23,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "MAS! Como o organizador, eu não pretendo deixar a glória escorregar pelos meus dedos! Isso significa..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "O Sr. Harry com certeza parece chateado... mas eu também tô..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Se eu vou participar, eu quero ter uns resultados bons...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Aí, eu tô ficando nervosa. Será que eu consigo mesmo!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x23,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "...é isso que significa. E, eu quero que esse concurso um dia vire o do mundo‐"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1a6,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Beleza, já que isso não vai ter fim, vamos cortar por aqui! Muito obrigada!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1e8,
+            "expr_id": 0x2,
+            "msg_id": 0x10,
+            "msg_string": "Agora, vamos começar o Empolgante Concurso de Tesouros!"
+        }
+    ]
+}

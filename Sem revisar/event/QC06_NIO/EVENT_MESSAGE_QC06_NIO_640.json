@@ -1,0 +1,175 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC06_NIO_640.ebm",
+    "nb_messages": 0x13,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x0,
+            "msg_string": "Certo, o trabalho de hoje é..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Espera um pouco, eu sinto que não vi a Nio hoje..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Será que ela foi colher ervas medicinais de novo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "E... lá vaaai você!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x125,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "O-O-O-O que foi esse barulho...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Ah, Mana, volteeei!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "Nio! O-O que é tudo isso!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x7,
+            "msg_string": "Hehehe, eu colhi ervas medicinais.<CR>Achei um lugar muito bom!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x123,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "Hyaaah, mas tanto assim? Deve ter dado um trabalhão."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Quem trouxe tudo isso de volta? O Ernie?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0xa,
+            "msg_string": "Nããão, fui eu! Cansou um pouquinho..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0xb,
+            "msg_string": "Acho que não deve ter sido só um pouquinho..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Nio, você não pode se esforçar demais. Você vai machucar as costas se carregar muitas coisas pesadas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Tá bom, eu vou tomar cuidado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Eu posso não parecer, mas tô ficando fisicamente mais forte."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Eu consigo carregar algumas coisas agora que eu nem conseguia levantar antes!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Hmm. Eu acho... que pode ser porque a gente tem ido pros lugares juntas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Isso aí. Eu consigo até espantar um ou dois animais perigosos agora!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "msg_string": "(Hahahaha... É bom que ela esteja tão cheia de energia, mas ela virou uma molecona de vez.)"
+        }
+    ]
+}

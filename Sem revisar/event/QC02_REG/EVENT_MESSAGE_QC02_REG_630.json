@@ -1,0 +1,139 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC02_REG_630.ebm",
+    "nb_messages": 0xf,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "É muito perigoso ir sem a Regina."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd4,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "Caaaramba, é muita coisa.<CR>Acho melhor a gente começar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Os slags daqui não são tão perigosos, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd6,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Pois é. Mas se você deixar eles em paz,<CR>pode acabar tropeçando neles, então eles<CR>são meio perigosos desse jeito..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Além disso, eles tampam todos os buracos que a gente cava!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Tenho certeza que é só instinto, mas eles ficam tapando os buracos e rachaduras com uma coisa que soltam pela bunda."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Tipo, eles tampam todos os nossos buracos.<CR>É um baita problema quando eles<CR>tampam as nossas passagens."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Essas ruínas podem ter sido feitas pelos slags. Tipo, pode ser a consolidação de todas as secreções deles."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Isso é inacreditável. Quantas centenas de anos levaria pra eles fazerem isso?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Mesmo assim, pode ser mais realista do que pensar que algum cara fez isso a partir de um pedaço gigante de pedra."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Bora! Se a gente for muito devagar,<CR>os outros caras vão matar nossa presa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Vamos nessa, Ayesha?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Sim... Mas eu fico meio com pena deles..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd4,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "Não devia. Eles se multiplicam e não param de aparecer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd6,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Se eu me preocupasse com isso toda vez,<CR>ia custar o meu trabalho."
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MS01_AYE_040.ebm",
+    "nb_messages": 0x9,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x0,
+            "msg_string": "Aah, o sol tá sumindo aos poucos!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x78,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Tá tudo escuro agora... Parece até de noite, mesmo ainda sendo hora do almoço..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Eu já tinha ouvido falar antes, mas isso é um eclipse solar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x205,
+            "name_id": 0x1f,
+            "extra_id": 0x216,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "msg_string": "Muu..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Não se preocupa. Acho que vai clarear de novo em alguns minutos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Tá vendo? Tá ficando cada vez mais claro. Acaba bem rapidinho mesmo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x6,
+            "msg_string": "Ah, não! O dia do eclipse solar que o Ranun me falou era..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0x7,
+            "msg_string": "Hoje! Eu esqueci completamente disso!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x78,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Hmm, o que eu faço...? Tenho quase certeza de que não vou chegar a tempo..."
+        }
+    ]
+}

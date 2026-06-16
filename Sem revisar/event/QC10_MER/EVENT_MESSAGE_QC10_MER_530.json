@@ -1,0 +1,195 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC10_MER_530.ebm",
+    "nb_messages": 0x15,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Então, o moço disse que vai procurar o pacote."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Ele pareceu muito empolgado com isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x2d,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Entendi. Hehe, eu tava certíssima em ter mandado você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Ué? Mas eu nem fiz nada demais..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1a9,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Que mentira. Aquele cara tem fama de ser super antipático."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x2f,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Maaas, ele tem uma fraqueza. Que é..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Ele não gosta de remédios?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x69,
+            "expr_id": 0x2,
+            "msg_id": 0x7,
+            "msg_string": "Não. Ele tem um fraco por garotas bonitas.<CR>Hehe, então eu acertei na mosca!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6a,
+            "expr_id": 0x2,
+            "msg_id": 0x8,
+            "msg_string": "Eu imaginei que ele não ia conseguir te dizer um não."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "Hã? Era isso mesmo?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6a,
+            "expr_id": 0x2,
+            "msg_id": 0xa,
+            "msg_string": "Mas que tipo de pergunta é essa?<CR>Bom, pra dizer o mínimo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6d,
+            "expr_id": 0x2,
+            "msg_id": 0xb,
+            "msg_string": "Você é a garota mais bonita que eu conheço."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Ah.<CR>...Q-quê!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x38,
+            "expr_id": 0x2,
+            "msg_id": 0xd,
+            "msg_string": "Digo, hum, nossa, então...<CR>Eu não acho... que eu seja assim tão..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6a,
+            "expr_id": 0x2,
+            "msg_id": 0xe,
+            "msg_string": "Até que você demorou pra ficar corada!<CR>...Bom, acho isso bem fofo também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x39,
+            "expr_id": 0x2,
+            "msg_id": 0xf,
+            "msg_string": "Hyaaah, não zomba de mim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6a,
+            "expr_id": 0x2,
+            "msg_id": 0x10,
+            "msg_string": "Hahahaha, disso que eu gosto!<CR>Vai fazer isso na frente daquele cara também!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x39,
+            "expr_id": 0x4,
+            "msg_id": 0x11,
+            "msg_string": "Eu não consigooo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3a,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "msg_string": "(Poxa, aposto que a Marietta tá só tirando<CR>uma com a minha cara.)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13,
+            "msg_string": "(É só eu ir fazer síntese, jantar, tomar um banho, dormir, acordar e esquecer que tudo isso aconteceu...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x38,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x14,
+            "msg_string": "(Argh, que vergonha...)"
+        }
+    ]
+}

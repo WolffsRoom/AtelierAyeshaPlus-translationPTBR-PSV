@@ -1,0 +1,52 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_YY11_030.ebm",
+    "nb_messages": 0x5,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Aprendeu \"Infusão de Poder\". Isso obtém os efeitos do ingrediente escolhido."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Se você usar um ingrediente, não poderá usar o mesmo ingrediente de novo."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Se usar essa habilidade, você pode ganhar os efeitos do ingrediente e usá-lo de novo."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Use-a quando quiser ganhar os efeitos e ajustar os traços no Estoque."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "O CP necessário vai aumentar a cada uso dessa habilidade, então avalie cada situação com cuidado."
+        }
+    ]
+}

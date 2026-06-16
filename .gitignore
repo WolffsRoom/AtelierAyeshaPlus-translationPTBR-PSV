@@ -1,4 +1,4 @@
-# Lixo de sistema operacional
+﻿# Lixo de sistema operacional
 Desktop.ini
 Thumbs.db
 ehthumbs.db
@@ -8,8 +8,8 @@ ehthumbs.db
 
 # Arquivos do jogo e textos extraidos - nao publicar (apenas as ferramentas)
 /Original/*
-/Sem revisar/*
-/Revisado/*
+/Sem revisar/*.gitkeep.gitkeep.gitkeep
+/Revisado/*.gitkeep.gitkeep.gitkeep
 /Traduzido/*
 /JPN (dummy)/
 
@@ -22,3 +22,5 @@ ehthumbs.db
 # arquivos de trabalho locais
 /LOG_Compara.txt
 /IA_Script.txt
+
+!/Ingles JSON/

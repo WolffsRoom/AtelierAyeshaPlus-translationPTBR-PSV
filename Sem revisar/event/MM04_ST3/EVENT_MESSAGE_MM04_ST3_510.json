@@ -1,0 +1,187 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM04_ST3_510.ebm",
+    "nb_messages": 0x14,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Se eu me lembro bem... a flor que espera pela chuva deve estar por aqui em algum lugar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Como fica tão perto do ateliê, não seria surpresa se eu já tivesse visto ela antes."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "É melhor eu dar uma refrescada na memória..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0x5,
+            "msg_id": 0x3,
+            "msg_string": "Hmm, vejamos..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15f,
+            "expr_id": 0x5,
+            "msg_id": 0x4,
+            "msg_string": "\"Durante a época das chuvas, o vale vira um rio agitado.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "\"As lindas pétalas rosas soltam um cheiro parecido com um vinho bem curtido.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x6,
+            "msg_string": "Hmm... nunca vi chover tão forte a ponto de transformar o vale num rio..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x7,
+            "msg_string": "Até aqui, eu vi marcas de erosão por todo canto. Será que foi causado pela água passando por aqui?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x8,
+            "msg_string": "Se a flor só desabrocha quando tá chovendo, então ela deve precisar de água..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x9,
+            "msg_string": "Talvez seja só uma semente ou bulbo que tá esperando chover..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Se for esse o caso, então a flor ainda deve estar no vale em algum lugar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Ah, já sei! Já que tem a ver com plantas... Pana! Você consegue achar ela!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x205,
+            "name_id": 0x1f,
+            "extra_id": 0x216,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xc,
+            "msg_string": "Oink muu!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x205,
+            "name_id": 0x1f,
+            "extra_id": 0x21c,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "msg_string": "Oink! *nhac* *nhac*<CR>...Muu!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "É... eu já devia imaginar que não ia ser tão fácil assim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0x5,
+            "msg_id": 0xf,
+            "msg_string": "Preciso dar um jeito de inventar alguma coisa..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15f,
+            "expr_id": 0x5,
+            "msg_id": 0x10,
+            "msg_string": "Hmm... hmm... não consigo pensar em nada..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15f,
+            "expr_id": 0x5,
+            "msg_id": 0x11,
+            "msg_string": "Talvez eu precise estudar mais um pouco sobre síntese..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Ah, já sei! Acho que tinha um item que ajudaria num livro que eu li antes."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Beleza! É melhor eu voltar e pensar melhor na minha estratégia."
+        }
+    ]
+}

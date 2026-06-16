@@ -1,0 +1,467 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM09_ED2_080.ebm",
+    "nb_messages": 0x2e,
+    "messages": [
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "unknown2": 0x1,
+            "msg_string": "Uma jornada de três anos. Durante esse tempo, a Ayesha, que vivia quietinha numa oficina, de repente fez vários amigos."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "unknown2": 0x1,
+            "msg_string": "Ninguém sabe como as relações deles vão crescer e mudar no futuro."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "unknown2": 0x1,
+            "msg_string": "Mas, por meio de amigos de amigos, o círculo de amizades aumenta, e com certeza vai criar uma história incrível..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "unknown2": 0x1,
+            "msg_string": "Ayesha, Ayesha! Esse bolo tá incrível!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "unknown2": 0x1,
+            "msg_string": "Hehe, levei três dias pra fazer!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "unknown2": 0x1,
+            "msg_string": "Uau, parece delicioso...<CR>Ei, a primeira mordida é minha, tá bom?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "unknown2": 0x1,
+            "msg_string": "Esse lugar incrível bem no topo, com o morango no chantilly e a calda!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "unknown2": 0x1,
+            "msg_string": "O quê!? Eu também quero essa parte!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x8,
+            "unknown2": 0x1,
+            "msg_string": "Hehe! As outras partes também parecem deliciosas."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x9,
+            "unknown2": 0x1,
+            "msg_string": "Eu tava esperando pra comer essa parte faz, tipo, uma eternidade!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "unknown2": 0x1,
+            "msg_string": "Aham, aham. Eu já tava esperando por isso antes mesmo do bolo ficar pronto!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xb,
+            "unknown2": 0x1,
+            "msg_string": "Tá bom, tá bom, acalmem-se! Me escutem antes da gente começar a comer o bolo!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xc,
+            "unknown2": 0x1,
+            "msg_string": "Tenho certeza de que é a primeira vez de alguns de vocês, e outros já a conhecem, mas..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "unknown2": 0x1,
+            "msg_string": "Uma nova amiga se juntou a nós nessa reunião. Por favor, se apresente."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xe,
+            "unknown2": 0x1,
+            "msg_string": "Oi. Eu vim do deserto bem pro oeste. Meu nome é Tanya!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "unknown2": 0x1,
+            "msg_string": "Fico honrada pelo convite de hoje. Prazer em conhecer todo mundo!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x15,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x10,
+            "unknown2": 0x1,
+            "msg_string": "Seja bem-vinda!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x11,
+            "unknown2": 0x1,
+            "msg_string": "Seja bem-vinda!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "unknown2": 0x1,
+            "msg_string": "Seja bem-vinda!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13,
+            "unknown2": 0x1,
+            "msg_string": "Seja bem-vinda!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x14,
+            "unknown2": 0x1,
+            "msg_string": "Certo, valeu por essa apresentação fofa. Estamos felizes em ter mais uma amiga com a gente."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x15,
+            "unknown2": 0x1,
+            "msg_string": "E vocês duas! Parem de ficar se encarando de cima do bolo!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "unknown2": 0x1,
+            "msg_string": "Mas a Nio tá..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x17,
+            "unknown2": 0x1,
+            "msg_string": "Mas a Bell tá..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x18,
+            "unknown2": 0x1,
+            "msg_string": "Não adianta ficarem se encarando. A parte mais gostosa vai pra nossa convidada de honra, a Tanya."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x19,
+            "unknown2": 0x1,
+            "msg_string": "O quuuuê!?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1a,
+            "unknown2": 0x1,
+            "msg_string": "Hum, acho que tudo bem.<CR>Desculpa, Tanya."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1b,
+            "unknown2": 0x1,
+            "msg_string": "Ah, não. Hehe, Nio, Bell, vamos dividir pra todas nós comermos!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x14,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1c,
+            "unknown2": 0x1,
+            "msg_string": "Sério!? Ebaaa, o topo!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1d,
+            "unknown2": 0x1,
+            "msg_string": "Sério!? Ebaaa, o topo!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1e,
+            "unknown2": 0x1,
+            "msg_string": "Hum, acho que o topo é bem popular.<CR>Eu nem sabia."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1f,
+            "unknown2": 0x1,
+            "msg_string": "Talvez eu faça um bolo só de topos na próxima vez."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x20,
+            "unknown2": 0x1,
+            "msg_string": "Isso parece que vai pesar no estômago..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x21,
+            "unknown2": 0x1,
+            "msg_string": "Hehe, não vai precisar se preocupar com isso, porque..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x22,
+            "unknown2": 0x1,
+            "msg_string": "Hã? Nanaca? Parece que você quase não comeu a sua fatia."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x23,
+            "unknown2": 0x1,
+            "msg_string": "Ah, você reparou? É, eu tenho ganhado um pesinho ultimamente..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x24,
+            "unknown2": 0x1,
+            "msg_string": "Sério? Você não parece tão diferente por fora, então acho que não tem muito problema..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x25,
+            "unknown2": 0x1,
+            "msg_string": "Quem me dera fosse verdade..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x26,
+            "unknown2": 0x1,
+            "msg_string": "Uhum, sei como é.<CR>Eu também sou menina."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x27,
+            "unknown2": 0x1,
+            "msg_string": "Não se preocupa, Nanaca. Esse bolo... não vai te fazer engordar, mesmo se você comer ele inteirinho."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x28,
+            "unknown2": 0x1,
+            "msg_string": "Hã? Isso é... verdade?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x29,
+            "unknown2": 0x1,
+            "msg_string": "Aham. A massa, o chantilly, o açúcar... Tudo foi sintetizado por alquimia."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2a,
+            "unknown2": 0x1,
+            "msg_string": "Nossa. Nunca imaginei que um bolo assim pudesse existir..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2b,
+            "unknown2": 0x1,
+            "msg_string": "Se é assim... então vou comer com muita vontade."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2c,
+            "unknown2": 0x1,
+            "msg_string": "Vai fundo. E acho que a gente devia comer um pouco também, antes que acabe."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2d,
+            "unknown2": 0x1,
+            "msg_string": "Ah, é verdade. Vamos aproveitar esse bolo dos sonhos até não aguentar mais!"
+        }
+    ]
+}

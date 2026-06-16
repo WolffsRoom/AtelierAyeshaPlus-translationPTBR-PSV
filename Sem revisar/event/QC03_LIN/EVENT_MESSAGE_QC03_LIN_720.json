@@ -1,0 +1,363 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC03_LIN_720.ebm",
+    "nb_messages": 0x28,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Oi, Marion e Linca. Eu vim, que nem vocês me pediram."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x19f,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Obrigada. Então vou direto ao ponto e começar a explicar a nossa situação."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Mas antes disso... não dá pra acreditar que ela falou com você antes de falar com a gente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Parece que ela juntou um monte de informações sobre a gente. Tenho certeza que ela checou tudo sobre o nosso passado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Eu sei que é um jeito estranho de perguntar, mas... vocês duas conhecem aquela Linca?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Bem, pra falar de um jeito simples... ela é irmã da Linca, embora isso seja um pouco enganoso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "A-Acho que é exatamente o que parece, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Umas coisas rolaram no passado, e agora a gente tem uma relação hostil com ela."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Desde que viemos pra cá, a gente ainda não lutou com ela diretamente, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Eu nunca achei que ela iria seguir a gente até tão longe."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Toma cuidado. Elas podem ser iguazinhas por fora, mas as personalidades delas são completamente o oposto."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Aquela Linca é bem perversa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0xc,
+            "msg_string": "Realmente, ela agiu bem diferente da Linca..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Mas ela não pareceu uma pessoa ruim... Ela até sorriu quando tava falando comigo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Isso faz parte da estratégia dela. De qualquer jeito, não baixe a guarda."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "E-Entendi. Mas usando a mesma roupa da Linca, não tem como eu diferenciar as duas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "A mesma roupa...? Linca, vai dar uma olhada no seu guarda-roupa agora mesmo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Sim!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Marion, várias das minhas roupas sumiram!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Entendi, então é assim... Vai dar um baita problema se elas trocarem de lugar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x1af,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Marion, no lugar das roupas que sumiram, ela deixou uma carta pra trás. Devo ler?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Sim, por favor."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xffffffff,
+            "name_id": 0x29,
+            "extra_id": 0x1b0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "msg_string": "\"Querida Linca, quanto tempo. Depois que você sumiu, eu te procurei por todo canto.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xffffffff,
+            "name_id": 0x29,
+            "extra_id": 0x1b0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x17,
+            "msg_string": "\"Nós nunca te perdoamos pela sua traição.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x18,
+            "msg_string": "(T-Traição...?)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xffffffff,
+            "name_id": 0x29,
+            "extra_id": 0x1b0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x19,
+            "msg_string": "\"Parece que você tá vivendo no conforto aí na fronteira. Isso é imperdoável.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xffffffff,
+            "name_id": 0x29,
+            "extra_id": 0x1b0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1a,
+            "msg_string": "\"Por isso, como o mínimo de compensação, eu vou pegar uma coisa preciosa de vocês.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xffffffff,
+            "name_id": 0x29,
+            "extra_id": 0x1b3,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1b,
+            "msg_string": "\"Aguardem ansiosamente.<CR>Com amor, Linca.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xe9,
+            "expr_id": 0x4,
+            "msg_id": 0x1c,
+            "msg_string": "Ela é uma garota bem problema... Mas que coisa preciosa será essa que ela tá falando...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Talvez seja o relatório de investigação que você tá juntando desde que chegamos aqui..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xed,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Talvez. Infelizmente, a gente não tem nada que seja mais importante que isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Pois é. O salário da Marion não vale nem a pena roubar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Mas ela provavelmente não vai ter nenhum uso pro meu relatório, mesmo com todos aqueles dados nas mãos dela..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x21,
+            "msg_string": "P-Parece que isso tá virando um problemão..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "É. Eu não quero te causar nenhum problema, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "As coisas podem ficar complicadas no futuro. Se você ver a Linca, por favor avisa a gente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "Mas nem pense em tentar capturar ela, tá bom?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x25,
+            "msg_string": "T-Tá bom. Eu aviso vocês duas na mesma hora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x26,
+            "msg_string": "(Não tenho muita certeza sobre a situação toda, mas se eu ver a Linca, tenho que avisar a Linca...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x27,
+            "msg_string": "(Isso tudo já tá ficando confuso demais agora...)"
+        }
+    ]
+}

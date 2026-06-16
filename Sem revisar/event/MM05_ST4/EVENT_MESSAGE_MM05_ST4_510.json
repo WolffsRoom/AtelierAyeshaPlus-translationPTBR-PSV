@@ -1,0 +1,105 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM05_ST4_510.ebm",
+    "nb_messages": 0xb,
+    "messages": [
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x4e,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "msg_string": "Ei, tá indo pra lá!"
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x4f,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "msg_string": "Mulheres e crianças, entrem!<CR>Tranquem as portas e não saiam!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "O-O-O que!? Que confusão toda é essa?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1f8,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "msg_string": "Ah, ei mocinha! Parece que todo aquele tremor no chão estragou o muro."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1ff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "msg_string": "Um monte de slags tão vindo da parte que quebrou."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x201,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "msg_string": "Pro seu próprio bem, você devia ficar fora da vila."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1fd,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "msg_string": "Agora, é mais seguro lá fora do que dentro da vila."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "msg_string": "(Provavelmente é culpa minha. O que eu faço? Tô causando problemas pras pessoas.)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "E-Ehm, eu queria ajudar a lutar contra os slags-"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1f7,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x9,
+            "msg_string": "Ei! Foi pra lá!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "Hã? Kyah...!"
+        }
+    ]
+}

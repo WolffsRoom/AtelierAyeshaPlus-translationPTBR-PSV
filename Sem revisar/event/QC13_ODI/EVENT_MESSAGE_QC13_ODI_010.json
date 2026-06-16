@@ -1,0 +1,286 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC13_ODI_010.ebm",
+    "nb_messages": 0x20,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Olá. Hum, tem alguém aí?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x125,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "Hmm, que lugar sinistro...<CR>O Sr. Harry disse que era uma mansão, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x128,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Isso parece mais uma ruína.<CR>Além disso, dá a sensação de que alguma coisa<CR>pode pular em cima de mim a qualquer momento..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x8,
+            "name_id": 0x12,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "unknown2": 0x1,
+            "msg_string": "Bem-vinda."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "Ai! Sim! Hmm, com licença por entrar assim."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x8,
+            "name_id": 0x12,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "unknown2": 0x1,
+            "msg_string": "Por favor, continue andando reto."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Ah, oh, hmm, bom, se você diz..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x8,
+            "name_id": 0x12,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "unknown2": 0x1,
+            "msg_string": "Por favor, pare bem aí."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "O qu-! Ah, sim!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Fico muito feliz em poder receber uma convidada assim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Hum, que tipo de lugar é esse?<CR>Parece bem velho..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Esta instalação foi construída há 928 anos. Ela guarda vários conhecimentos de todo o mundo... É uma biblioteca."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Este lugar se chamava Zweiteturm."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Nós gerenciamos esta instalação como bibliotecárias. É um prazer conhecê-la."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Então é uma biblioteca... E já tá aqui há tanto tempo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Hum, eu tenho permissão pra ler os livros daqui...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x197,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Claro. Esta instalação existe exatamente para esse propósito."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Os visitantes podem ler vários livros livremente, com algumas poucas exceções."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Nós temos uma coleção de mais de 80 milhões de livros."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x13,
+            "msg_string": "V-Você tem tudo isso de livros?<CR>Que incrível...<CR>Eu ia adorar ler alguns."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Além disso, posso explicar o conteúdo dos livros oralmente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Isso significa que você lembra o conteúdo de cada um dos livros?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Seria mais correto dizer que sou capaz de acessar as informações quando eu quiser."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Se você puder especificar o número da estante, eu serei capaz de lembrar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "O-Ok. Se eu precisar de alguma coisa,<CR>eu venho falar com você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Mas primeiro, posso dar uma olhada nos livros?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x197,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Sim. Sinta-se à vontade para andar livremente por esta instalação."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Porém, observe que algumas partes desta instalação estão apresentando falhas atualmente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Peço desculpas pelo transtorno, mas peço que entre em contato conosco se encontrar algum problema."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x19f,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Agora, por favor, aproveite sua estadia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1e,
+            "msg_string": "(Algumas falhas... O que será que deve ser...?)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1f,
+            "msg_string": "(De qualquer forma, tem tantos livros do passado... Hmm, quero começar a ler agora mesmo.)"
+        }
+    ]
+}

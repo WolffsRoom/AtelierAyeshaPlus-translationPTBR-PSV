@@ -1,0 +1,192 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MS03_100.ebm",
+    "nb_messages": 0x15,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x12,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Bem-vinda. Quer provar uma comida deliciosa?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Hã? Essa voz é..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "É muito, muito deliciosa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Sabia, Linca. Por que você tá fazendo propaganda pra esse lugar?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Ayesha... Tem uma situação bem complexa por trás disso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x165,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Um tempo atrás, eu segui um cheiro delicioso até essa loja."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x166,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Aí, eu não sei o nome do prato, mas vinha de uma carne assada com uma cara muito boa..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x166,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Eu pedi uma, mas quando terminei de comer, percebi que tinha esquecido minha carteira."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x167,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Por causa disso, eu tenho que trabalhar pra pagar o que devo pela comida que comi."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "A-Ah, entendi..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "É-É, se você não se importar, eu posso pagar pra você..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x194,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Não posso aceitar. A Marion me diz que eu tenho que assumir a responsabilidade pelas minhas ações."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0xc,
+            "msg_string": "Mas, se você insiste... ia ser de grande ajuda se você me ensinasse a chamar clientes."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "Ué! E-Eu também nunca fiz isso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd3,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "Então você não pode...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "*suspiro* Não me olha com esses olhos de<CR>cachorrinho sem dono... Tá bom, eu posso tentar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "H-Hmm... alguém aí quer comida gostosa...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd6,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Entendi. Vou usar isso como referência."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "H-Hmm, alguém aí quer comida gostosa...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Bem-vindos. Por favor, entrem."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x14,
+            "msg_string": "(O-Onde é que eu fui me meter...?)"
+        }
+    ]
+}

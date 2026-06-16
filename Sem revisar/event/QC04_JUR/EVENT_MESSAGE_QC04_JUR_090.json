@@ -1,0 +1,365 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC04_JUR_090.ebm",
+    "nb_messages": 0x28,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x17d,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Bom, pra comemorar o extermínio do lobo, hoje é por minha conta. Comam e bebam o quanto quiserem!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x182,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "De qualquer forma, caçar aquela coisa enorme é uma bela de uma conquista."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Eu tive a ajuda da Ayesha.<CR>Foi um oponente e tanto."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Uhum. Quando vi ele na praça,<CR>sinceramente me deu calafrios."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "expr_id": 0x3,
+            "msg_id": 0x4,
+            "msg_string": "Eu pensei: \"Ahh, graças a Deus eu não sou caçadora. Tô muito feliz por ser dona de uma taverna.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "E-Eu também. Tô feliz por ser boticária..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "A-Apesar de que eu acabei ajudando, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Então, Juris, você sempre luta com inimigos tão fortes quanto ele?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Não, não é muito comum eu encarar os mais durões que nem ele."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x12,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Fazia tempo que eu não sentia essa tensão de caçar ou ser caçado daquele jeito. "
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x17d,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Só se fala daquele lobo na cidade."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x182,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Principalmente porque, dessa vez, a cidade sofreu alguns danos. Então, Juris, você é um herói bem famoso agora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x196,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Para com isso, sou só um caçador.<CR>Eu não sou esse tipo de pessoa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x10c,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "No entanto, você falhou bem no finalzinho. Digo, você não trouxe de volta nenhuma prova de que exterminou ele."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x10d,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "Era um bichão. Você devia pelo menos ter trazido a pele dele de volta."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x10e,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Você se simpatizou com a sua presa? Isso não é do seu feitio, Juris..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Ah, isso é, hum..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Ele era um caçador. Eu queria pelo menos proteger a dignidade dele."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Isso mesmo. Não parecia certo trazer a pele dele de volta como um troféu de guerra..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Então nós o enterramos num túmulo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x141,
+            "expr_id": 0x4,
+            "msg_id": 0x14,
+            "msg_string": "Sério!? Que desperdício..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x143,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Com uma pele daquelas, ia dar pra vender por uma nota. Isso não é a sua cara."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0x16,
+            "msg_string": "Sobre isso... Como posso dizer?<CR>Não é culpa do Juris..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc6,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Eu pensei... que talvez... fosse melhor fazer desse jeito."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Ayesha, isso foi ideia sua!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Hmm... sim. Eu fiz alguma coisa errada...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x1a,
+            "msg_string": "Nããão, de jeito nenhum! Sim, acho que foi uma ideia excelente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0x1b,
+            "msg_string": "Mesmo que o seu oponente fosse uma fera,<CR>a dignidade dele devia ser protegida!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x1c,
+            "msg_string": "Sr. Kyle, parece que você tá falando uma coisa completamente diferente de antes..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Não, bem, pensando melhor sobre isso, parece ser uma atitude bem louvável."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Mas talvez eu tenha sido meio presunçosa..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x194,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Não se preocupa! Tá tudo de boa! O que você fez foi glorioso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Fala sério, Kyle..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "De qualquer forma, Ayesha, acho que o que você tá dizendo pode estar certo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "Acho que foi apropriado proteger a dignidade dele."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "Especialmente porque a dignidade dele foi pisoteada quando fizemos um espetáculo com ele na praça."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "Foi o melhor jeito de pedir desculpas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x17d,
+            "expr_id": 0x0,
+            "msg_id": 0x25,
+            "msg_string": "Bom, por enquanto, vamos tomar uma pra comemorar o extermínio do lobo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x182,
+            "expr_id": 0x0,
+            "msg_id": 0x26,
+            "msg_string": "Chega de papo deprê como esse,<CR>porque seria um desperdício!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x27,
+            "msg_string": "...Você tem razão. Bom, voltando pra comemoração... saúde!"
+        }
+    ]
+}

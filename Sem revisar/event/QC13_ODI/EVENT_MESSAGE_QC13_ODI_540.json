@@ -1,0 +1,230 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC13_ODI_540.ebm",
+    "nb_messages": 0x19,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Essa é a... 4-L. Será que a 4-D tá em algum lugar nesse andar...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x1,
+            "msg_string": "Aqui é a 4-S. Hmm, isso é tão confuso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x2,
+            "msg_string": "Hmm, 4-D, 4-D..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x12,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "4-D é aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Hã? Um visitante chegou aqui antes de mim...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Ficar correndo por aí desse jeito levanta a poeira."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Ah, me desculpa por fazer tanto barulho..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "msg_string": "(Deixei ele irritado de novo...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Você veio pesquisar alguma coisa?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Sim, eu tava esperando achar alguma pista sobre a minha irmã."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Hmm, foi uma sábia decisão."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Ahn, o que você tá fazendo aqui, Senhor Keith? Digo, a entrada tava bloqueada..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Tem outros jeitos de lidar com entradas. Eu sou um devorador de livros. Já tô aqui faz um tempo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Mas, não preciso te falar nada.<CR>Assim como você tem o seu propósito,<CR>eu tenho o meu próprio propósito de tá aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Então é melhor você se apressar e começar logo o que veio fazer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Sim, senhor..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x10,
+            "msg_string": "(O Senhor Keith tá rigoroso como sempre...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x11,
+            "msg_string": "\"Enciclopédia de Grama Selvagem Comestível\", e \"As Propriedades Medicinais de Ervas Venenosas\"..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x12,
+            "msg_string": "Tem tantos livros que são só de plantas. É impossível pra mim ler todos eles... O que eu deveria fazer?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "O livro que você precisa é o 16º da direita."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Hã...? Ah, o-obrigada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x15,
+            "msg_string": "..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "msg_string": "(O 16º da direita... é esse. O título é... Tá tão desgastado, eu não consigo ler.)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x17,
+            "msg_string": "(Se ele não tivesse me mostrado,<CR>eu nunca teria achado...)"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Você pegou o Livro Esfarrapado."
+        }
+    ]
+}

@@ -1,0 +1,194 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC04_JUR_070.ebm",
+    "nb_messages": 0x15,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ah, então aí está você. Faz um tempo que eu não via um de vocês."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Hã? Encontrou alguma coisa legal?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Sim, isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "Aaaah, é um inseto!<CR>O que você vai fazer com isso!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Fazer? Tem algum outro motivo pra pegar um inseto além de comer ele?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x123,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "Acho que tem vários, tipo ignorar eles em primeiro lugar, ou jogar fora logo depois de pegar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Pouca gente sabe disso, mas esse inseto é delicioso. E ele tem um efeito revigorante."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x123,
+            "expr_id": 0x4,
+            "msg_id": 0x7,
+            "msg_string": "Mas ainda assim, ele tem um monte de pernas, e parece meio gordinho..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "É daí que vem todo o sabor."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Entre os caçadores, ele também é considerado um inseto da sorte. Já que ele tem tantas pernas, dizem que você consegue rastrear a sua presa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Urgh, sabe... Eu não sou caçadora, então..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x11,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Bom, só finge que você foi enganada ou algo do tipo e dá uma provada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0xc,
+            "msg_string": "Não, eu não quero."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15e,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Hmm, a Nanaca me disse que as garotas gostam de coisas pequenas e macias..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0xe,
+            "msg_string": "Eu não acho que isso se aplique a qualquer coisa..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0xf,
+            "msg_string": "De qualquer forma, vamos só jogar fora. Esquece esse inseto e vamos continuar a nossa jornada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Pelo jeito não tenho escolha, se você vai resistir tanto assim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x49,
+            "expr_id": 0x2,
+            "msg_id": 0x11,
+            "msg_string": "*croc*"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7a,
+            "expr_id": 0x3,
+            "msg_id": 0x12,
+            "msg_string": "O-Que barulho foi esse!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x4c,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Hã? Ah, não é nada pra se preocupar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7d,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x14,
+            "msg_string": "(E-Ele comeu! O Juris com certeza acabou de comer aquele inseto!)"
+        }
+    ]
+}

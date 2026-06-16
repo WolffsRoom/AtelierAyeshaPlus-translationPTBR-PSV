@@ -1,0 +1,312 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC06_NIO_630.ebm",
+    "nb_messages": 0x22,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x0,
+            "msg_string": "Ufa, obrigada pela comida!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x1,
+            "msg_string": "Hahaha, você bateu um pratão mesmo.<CR>Isso é mais que uma benção do que<CR>qualquer cozinheiro poderia esperar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Você comeu comida suficiente pra duas pessoas, fácil."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x45,
+            "expr_id": 0x2,
+            "msg_id": 0x3,
+            "msg_string": "Hehehe, eu ainda tô em fase de crescimento!<CR>Preciso comer muito pra crescer rápido!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Agora que você falou, você não ficou um pouco maior ultimamente?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0x5,
+            "msg_string": "Hã? Sério? Uau, ebaaa!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Dito isso, Sr. Mestre das Misturas,<CR>na verdade eu quero mais!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Hã, você vai comer mais? Eu acho que qualquer coisa a mais é forçar a barra!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Isso aí. Se você comer muito, vai engordar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x15e,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Ah, sério...?<CR>Eu acho que ainda tô de boa..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0xa,
+            "msg_string": "A gordura vai aparecer do nada se você vacilar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x78,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Mesmo que você esteja bem agora, você vai ter problemas depois."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Ué, Mana, você teve problemas?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Eh? Hrgggh, bem, não é..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Tá bom, tá bom, Nio, você é a irmãzinha da Ayesha. Eu tenho certeza de que você não precisa apressar nada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa2,
+            "expr_id": 0x3,
+            "msg_id": 0xf,
+            "msg_string": "Só dá uns anos. Seus braços e pernas vão ficar mais longos, e você vai crescer onde precisa, pra ser uma bela adulta."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x10,
+            "msg_string": "Nããão! Eu não posso esperar mais uns anos!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x7a,
+            "expr_id": 0x3,
+            "msg_id": 0x11,
+            "msg_string": "Eu não posso ajudar minha irmã se eu for assim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x7b,
+            "expr_id": 0x3,
+            "msg_id": 0x12,
+            "msg_string": "Então eu preciso crescer mais!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa7,
+            "expr_id": 0x3,
+            "msg_id": 0x13,
+            "msg_string": "Hmm, Nio, você é tão atenciosa com a sua irmã. Que história."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xab,
+            "expr_id": 0x3,
+            "msg_id": 0x14,
+            "msg_string": "Nossa, eu queria uma irmãzinha como você!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa6,
+            "expr_id": 0x3,
+            "msg_id": 0x15,
+            "msg_string": "Então, o que acha? Quer tentar ser minha irmãzinha?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x7c,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Hã? Sua?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa8,
+            "expr_id": 0x3,
+            "msg_id": 0x17,
+            "msg_string": "Você pode parar de me chamar<CR>de Mestre das Misturas. Vejamos, a partir de agora..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xaa,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Você pode me chamar de Irmãozão ou só de Grande..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Ela não vai."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x10c,
+            "expr_id": 0x4,
+            "msg_id": 0x1a,
+            "msg_string": "Hurgh, não sei por que, mas sinto uma energia vindo da Ayesha que eu nunca senti antes..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Hmhmhm, é mesmo?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x10f,
+            "expr_id": 0x4,
+            "msg_id": 0x1c,
+            "msg_string": "Hmm, \"Operação: Fazer da Nio Minha Irmã\" parece ter esbarrado em algumas complicações."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x112,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Bem, que tal isso...?<CR>Ayesha, você pode se tornar minha irmã!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "E aí você pode me chamar de Irmãozão ou até mesmo só de Irmão, e..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Ela não vai."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x10c,
+            "expr_id": 0x4,
+            "msg_id": 0x20,
+            "msg_string": "Opa, tem uma sinistra misteriosa no sorriso da Nio!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x10f,
+            "expr_id": 0x4,
+            "msg_id": 0x21,
+            "msg_string": "Ah, parece que eu dei uma caída hoje..."
+        }
+    ]
+}

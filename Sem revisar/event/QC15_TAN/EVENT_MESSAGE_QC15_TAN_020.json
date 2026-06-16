@@ -1,0 +1,221 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC15_TAN_020.ebm",
+    "nb_messages": 0x18,
+    "messages": [
+        {
+            "type": 0x4,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "unknown2": 0x1,
+            "msg_string": "Ugh, hrrrgh. Hrnh, tão duro..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Oi, Tanya. Você tá minerando sal?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "unknown2": 0x1,
+            "msg_string": "Tô, mas umas partes são super duras."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "unknown2": 0x1,
+            "msg_string": "É um pouco perigoso, então fica um pouco mais pra trás."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "unknown2": 0x1,
+            "msg_string": "Tryah!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "unknown2": 0x1,
+            "msg_string": "Isso, consegui!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x6,
+            "msg_string": "Nossa, que lindo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Aww, é maior do que eu imaginava."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "É muito brilhante. É alguma joia?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x9,
+            "msg_string": "Haha, não. É só sal mesmo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0xa,
+            "msg_string": "Às vezes eu acho umas pedras grandonas assim. São raras, mas não consigo vender."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Ah, sério? Aposto que teria um monte de gente querendo uma coisa assim, já que é tão bonita."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Então eu vou te dar de presente, Ayesha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Hã? Sério? Mas deu tanto trabalho pra você desenterrar isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Capaz, não foi nada. Faço isso o tempo todo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0xf,
+            "msg_string": "Hmm, mas eu fico com um pouco de peso na consciência..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Então... que tal eu trocar isso com você por uma das suas histórias!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Eu sempre morei aqui, então não conheço muita coisa sobre outros lugares..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Hahaha, então tá fechado.<CR>Deixa eu ver, hoje..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Acho que vou te contar sobre Vierzeberg..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Ah, eu já ouvi falar dessa cidade!<CR>Tem uma loja que a gente vende<CR>nosso sal no atacado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Sério? Vai ver é uma loja que eu conheço."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "E então..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Você conseguiu uma Flor de Sal."
+        }
+    ]
+}

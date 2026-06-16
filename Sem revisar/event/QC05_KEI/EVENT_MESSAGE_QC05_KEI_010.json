@@ -1,0 +1,228 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC05_KEI_010.ebm",
+    "nb_messages": 0x19,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Com licença. Desculpa te incomodar, mas isso é todo o minério que você tem?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Sim, senhor. Eu já vou te atender."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x69,
+            "expr_id": 0x2,
+            "msg_id": 0x2,
+            "msg_string": "Ah, é, isso é tudo o que a gente tem. Os itens nesse canto variam de acordo com a disponibilidade."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Hmm, entendo... Eu queria levar uns do mesmo tipo, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Bom, não tem jeito.<CR>Pode embrulhar isso pra mim?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6d,
+            "expr_id": 0x2,
+            "msg_id": 0x5,
+            "msg_string": "Certo, obrigado pela compra. Moço, é a primeira vez que você vem na nossa loja, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "É, eu tô no meio de uma viagem.<CR>Não faz muito tempo que cheguei."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Mas confesso que fiquei bem surpreso de achar uma loja que vende itens assim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6a,
+            "expr_id": 0x2,
+            "msg_id": 0x8,
+            "msg_string": "Ahhh, aquele item foi colocado ali mais pra agradar o hobby do dono."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6b,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Ele faz o estoque dessas coisas quando dá na telha, então nem sempre tão disponíveis."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Bom, é melhor que nada. E olha que essa pedra é ótima pra colocar fogo nas coisas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x17,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Ela realmente não devia ficar exposta assim tão de qualquer jeito."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x129,
+            "expr_id": 0x3,
+            "msg_id": 0xc,
+            "msg_string": "Er, é mesmo? Vou tomar mais cuidado de agora em diante!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x12b,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Poxa, aquele dono desligado, sempre fazendo o trabalho dele de qualquer jeito..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Você falou alguma coisa?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x69,
+            "expr_id": 0x2,
+            "msg_id": 0xf,
+            "msg_string": "Nããão, já vou embrulhar isso aqui pra você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x70,
+            "expr_id": 0x2,
+            "msg_id": 0x10,
+            "msg_string": "Muito obrigado. Volte sempre."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x15,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Pode deixar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Ah, Ayesha, seja bem-vinda!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Ué? Aquele cliente era..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Ele era alguém que não se vê muito por aqui. Era bem durão..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Ele comprou umas pedras esquisitas que o dono botou no estoque, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15d,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Será que era algum minério valioso ou coisa do tipo...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Ooh, um minério raro..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x18,
+            "msg_string": "(Deve ser isso. É aquele homem de óculos de antes...!)"
+        }
+    ]
+}

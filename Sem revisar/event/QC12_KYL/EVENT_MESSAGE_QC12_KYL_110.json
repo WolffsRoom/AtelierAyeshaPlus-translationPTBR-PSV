@@ -1,0 +1,88 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC12_KYL_110.ebm",
+    "nb_messages": 0x9,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x110,
+            "expr_id": 0x4,
+            "msg_id": 0x0,
+            "msg_string": "*bocejo* Ainda me sinto cansado de tanto álcool que bebi noite passada..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x112,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "...É o que eu gostaria de usar como desculpa, mas infelizmente não posso nem dizer isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa2,
+            "expr_id": 0x3,
+            "msg_id": 0x2,
+            "msg_string": "Bom, acho que tenho que dar o meu melhor pra terminar logo o dia de hoje!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa3,
+            "expr_id": 0x3,
+            "msg_id": 0x3,
+            "msg_string": "Primeiro tenho que limpar. Depois, tenho que fazer uns preparativos e umas compras."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa8,
+            "expr_id": 0x3,
+            "msg_id": 0x4,
+            "msg_string": "Ugh. Já tô com preguiça...<CR>...Ué?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x5,
+            "msg_string": "Beleza! Preciso estar cheia de energia hoje! Isso aí!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xaa,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Nossa, ela tá cheia de energia como sempre..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x10c,
+            "expr_id": 0x4,
+            "msg_id": 0x7,
+            "msg_string": "Cara, acho que não posso ficar pra trás...<CR>Preciso tomar jeito."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x10e,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Tenho que seguir o exemplo da Ayesha.<CR>Beleza, vamo lá!"
+        }
+    ]
+}

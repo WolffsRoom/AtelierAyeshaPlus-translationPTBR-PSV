@@ -1,0 +1,288 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC03_LIN_710.ebm",
+    "nb_messages": 0x20,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Parece que o bazar desse mês tá bem movimentado. O que será que eu compro hoje?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x1,
+            "msg_string": "Uau, esse colar de borboleta é muito bonito. Mas, acho que vai ficar melhor na Linca do que em mim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Hehehe, acho que vou comprar de presente. Ela tem cuidado bem de mim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x212,
+            "name_id": 0x29,
+            "expr_id": 0x2,
+            "msg_id": 0x3,
+            "msg_string": "Ah, você tem razão. Isso provavelmente ficaria muito bem nela."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Hehe, você também acha, Linca? É tão chique, seria perfeito pra ela."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "Pera, Linca!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x212,
+            "name_id": 0x29,
+            "extra_id": 0x19c,
+            "expr_id": 0x2,
+            "msg_id": 0x6,
+            "msg_string": "Olá. Obrigada por ser amiga da Linca."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x123,
+            "expr_id": 0x4,
+            "msg_id": 0x7,
+            "msg_string": "Ah, de nada. Vindo da própria Linca... Ué?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x8,
+            "msg_string": "(Tem alguma coisa estranha nessa conversa... E algo parece meio diferente nela...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x212,
+            "name_id": 0x29,
+            "expr_id": 0x2,
+            "msg_id": 0x9,
+            "msg_string": "Eu ficaria muito feliz se você continuasse sendo uma boa amiga pra Linca. Conto com você, Ayesha docinho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Ah, s-sim...<CR>Ayesha docinho...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0xb,
+            "msg_string": "Essas foram circunstâncias favoráveis. A gente conseguiu um ótimo preço nuns vegetais frescos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0xc,
+            "msg_string": "Que alívio. Com os nossos salários baixos, não podemos nos dar ao luxo de gastar muita grana com comida."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x44,
+            "expr_id": 0x2,
+            "msg_id": 0xd,
+            "msg_string": "Hoje à noite, vou dar o meu melhor pra fazer ovos mexidos!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Como você vai fazer ovos se a gente só comprou vegetais?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Marion e... Linca!? C-Comooo!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Ué, Ayesha, o que foi? Por que você tá gritando?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x11,
+            "msg_string": "Ah, é que, humm, eu, colar, e a Linca, foi um presente, e..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Beleza, parou! Eu não tô entendendo nada do que você tá falando."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Fica calma, e respira fundo. Beleza, inspiiiira, e expiiiira, inspiiiiiira, e expiiiiiiira."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "B-Beleza, inspiiiira, e expiiiira, inspiiiiiira, e expiiiiiiira."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Melhorou? Beleza, pode falar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "É que, quando eu tava fazendo compras agora há pouco, a Linca tava falando comigo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Mas aí outra Linca veio daquele lado com você..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Marion... parece que a Linca tá aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Parece que sim. Pra perseguir a gente até essa fronteira... Ela não desiste, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "H-Humm, eu tô totalmente sem a mínima ideia do que tá rolando..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Certo, me desculpa. Já que você conheceu a Linca, acho que vou ter que explicar tudo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "É meio complicado, então você acha que pode dar uma passadinha no meu escritório mais tarde?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Eu não quero causar problemas pra Ayesha, mas... por favor, vá."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1e,
+            "msg_string": "(Eu devia ir no escritório dela mais tarde. As duas tavam com umas caras tão sérias...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1f,
+            "msg_string": "(De qualquer jeito, duas Lincas...<CR>O que tá acontecendo...!?)"
+        }
+    ]
+}

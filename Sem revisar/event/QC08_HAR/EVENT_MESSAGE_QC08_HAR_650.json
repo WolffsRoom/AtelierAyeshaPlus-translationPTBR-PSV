@@ -1,0 +1,60 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC08_HAR_650.ebm",
+    "nb_messages": 0x6,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Beleza, tá pronto! Vou dar uma provada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1b4,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "msg_string": "I-Isso é...! Não é nada chique, mas tem um gosto bem reconfortante...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1b5,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "msg_string": "A doçura única é super gentil...! Fica na boca, mas é bem leve..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1b6,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Não tenho certeza se esse é o lanche<CR>que a mãe do Sr. Harry fazia..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Mas esse pode ser o sabor que ele tá procurando...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Vou levar isso pra ele agora mesmo!"
+        }
+    ]
+}

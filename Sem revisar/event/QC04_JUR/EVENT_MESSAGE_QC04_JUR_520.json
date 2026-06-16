@@ -1,0 +1,25 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC04_JUR_520.ebm",
+    "nb_messages": 0x2,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x0,
+            "msg_string": "Ah, dá pra sentir o vento batendo aqui...! Será que tá conectado com o outro lado?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x78,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Hmm, mas o vento tá meio fraco...<CR>É melhor eu procurar em outro lugar..."
+        }
+    ]
+}

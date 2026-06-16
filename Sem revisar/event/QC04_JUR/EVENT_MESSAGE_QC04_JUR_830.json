@@ -1,0 +1,79 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC04_JUR_830.ebm",
+    "nb_messages": 0x8,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x89,
+            "expr_id": 0x3,
+            "msg_id": 0x0,
+            "msg_string": "Essa é a primeira vez que te enfrento de igual pra igual no campo de batalha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x8a,
+            "expr_id": 0x3,
+            "msg_id": 0x1,
+            "msg_string": "Eu sou Juris, filho de Uraku, aquele que vai te caçar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x8d,
+            "expr_id": 0x3,
+            "msg_id": 0x2,
+            "msg_string": "Vamos decidir quem é o melhor caçador bem aqui e agora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "Hmm, desculpa te interromper quando você tá tão empolgado, mas o que eu devo fazer?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x8e,
+            "expr_id": 0x3,
+            "msg_id": 0x4,
+            "msg_string": "Aja de acordo com a situação. E... não morra."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x123,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "Hyaaah! T-Tá bom! Eu não tenho muita certeza,<CR>mas vou dar o meu melhor!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x6,
+            "msg_string": "Se a resposta que eu procuro está nessa batalha... eu preciso descobrir!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x7a,
+            "expr_id": 0x3,
+            "msg_id": 0x7,
+            "msg_string": "Dragão, se você tem essa resposta,<CR>me mostre...!"
+        }
+    ]
+}

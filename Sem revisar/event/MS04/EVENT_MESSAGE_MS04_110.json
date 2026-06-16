@@ -1,0 +1,25 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MS04_110.ebm",
+    "nb_messages": 0x2,
+    "messages": [
+        {
+            "type": 0x0,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "msg_string": "Acho que tinha uma coisa que eu precisava fazer... Deixo isso pra depois."
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "msg_string": "Hmm... não devia fazer isso agora.<CR>Tem outra coisa que eu preciso fazer."
+        }
+    ]
+}

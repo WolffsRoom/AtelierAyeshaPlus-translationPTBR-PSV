@@ -1,0 +1,444 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC08_HAR_610.ebm",
+    "nb_messages": 0x31,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "*suspiro* A vista do pôr do sol daqui não mudou nada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Desde aquela época..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Ah, Sr. Harry, saiu pra dar uma volta?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x18,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Ayesha, hmhm, uma volta? Bom, acho que é algo do tipo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Quando as coisas não vão bem no trabalho,<CR>eu sempre venho pra cá."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Essa vista é ótima. É como se meus sentimentos fossem renovados também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "É. Eu te desafiei em todos os Concursos de Tesouros Empolgantes, mas perdi todas as batalhas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Vim pra cá porque queria refletir um pouco sobre mim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "É uma vista familiar que eu vejo há muitos anos. E agora, de repente me lembrei de uma coisa sobre o meu passado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x1a,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Vou ficar só lembrando do passado, mas você se importa de ouvir a minha história?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Uma história antiga sobre você? Se não tiver problema, eu ia adorar ouvir."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Obrigado. Já faz 30 anos desde então..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Antes de você nascer, essa cidade não era tão grande como é hoje, e eu era só uma criança."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Tivemos anos de safras ruins na época, e teve muitos anos em que as pessoas não tinham o que comer direito."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "A minha família mexe com comércio há<CR>gerações, então a gente até que tinha<CR>uma condição boa, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Mesmo assim, teve muitas vezes em que passamos aperto pra conseguir comida."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Teve uma época assim...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Sim. E mesmo assim, a minha mãe dava um jeito de inventar uns lanchinhos pra mim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Naquela época, a gente não podia comer até ficar cheio, então ela provavelmente queria pelo menos me dar um gostinho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x18,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Hehe, mães são sempre tão fortes, né."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Enfim, o tempo passou e eu virei um adulto, e a oferta de comida melhorou..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "E no mínimo, eu não passo mais fome. Porém..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x1d,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Eu ainda não consigo esquecer o gosto daquele lanche que a minha mãe fazia pra mim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Deve ter sido um lanche incrível,<CR>feito com o amor da sua mãe."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Você tem razão. Nenhum tesouro se compara com aquele gosto."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x1a,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Agora, vamos voltar pro presente, porque essa história não acaba no passado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "No momento, eu perdi a minha antiga glória e tô no fundo do poço da decepção."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Perdendo pra você, meu coração foi ferido, e tô olhando pro mesmo pôr do sol de antes."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Meu título de Rei Colecionador virou coisa do passado... No mesmíssimo passado do lanche da minha mãe."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "E-Eu não sei sobre a última parte, mas não acho que a primeira seja verdade..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Não precisa tentar me animar. Então, basicamente, tô muito deprimido agora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Pra curar esse coração machucado, aquele lanche que a minha mãe fazia pra mim seria perfeito."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Mas é muito difícil de explicar que tipo de gosto que era, e não existe receita dele."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x18,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "Eu tava totalmente perdido sem saber o que fazer, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x22,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "Aí eu pensei: \"Já sei! A Ayesha pode dar um jeito nisso!\" E por isso, fiquei esperando por você!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x23,
+            "msg_string": "Ué... hããã!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "N-Não é como se doces caseiros fossem o meu forte..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x25,
+            "expr_id": 0x0,
+            "msg_id": 0x25,
+            "msg_string": "Não. Pelo que ouvi falar, você consegue criar várias coisas com síntese, não só remédios."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0x26,
+            "msg_string": "Então, sobre o lanche da minha mãe...<CR>Eu pensei que talvez... você pudesse..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0x27,
+            "msg_string": "Não, você consegue... Isso é algo que só você pode fazer!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x1a,
+            "expr_id": 0x0,
+            "msg_id": 0x28,
+            "msg_string": "Por favor! A gente tem uma ótima relação. Por favor, só me ajude a recriar aquele sabor!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x29,
+            "msg_string": "Não precisa implorar. Não tenho certeza se consigo, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2a,
+            "msg_string": "Eu vou tentar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x56,
+            "expr_id": 0x2,
+            "msg_id": 0x2b,
+            "msg_string": "Obrigado! Eu sabia que você ia dizer isso!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x57,
+            "expr_id": 0x2,
+            "msg_id": 0x2c,
+            "msg_string": "Pra eu me recuperar da minha decepção, e pra buscar novos conhecimentos ao extremo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x58,
+            "expr_id": 0x0,
+            "msg_id": 0x2d,
+            "msg_string": "Eu preciso voltar às minhas raízes.<CR>É exatamente pra isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x1a0,
+            "expr_id": 0x0,
+            "msg_id": 0x2e,
+            "msg_string": "Sei que não vai ser fácil,<CR>mas tô contando com você!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2f,
+            "msg_string": "(Hmm, não consegui recusar. O que eu faço? Que tipo de sabor será que ele tá falando...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x30,
+            "msg_string": "(Talvez o Sr. Fred saiba de algo? Vou lá perguntar pra ele.)"
+        }
+    ]
+}

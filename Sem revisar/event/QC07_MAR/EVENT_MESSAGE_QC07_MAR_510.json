@@ -1,0 +1,332 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC07_MAR_510.ebm",
+    "nb_messages": 0x25,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Hmm, o padrão parece um pouco diferente dos lá de casa. E o tamanho..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Não dá pra saber nada aqui de fora. Preciso entrar pra investigar. Hmm, cadê a entrada...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Não tem em lugar nenhum. Devo abrir passagem quebrando uma parede?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Linca, é um péssimo hábito tentar resolver tudo na base da força."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Além do mais, por que você ia destruir o que a gente tá investigando?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "É verdade. Peço desculpas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Ah, parece que tem alguém ali. Sinto que já vi ela em algum lugar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Ah, é você..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Ah... você é a moça que queria entrar na ruína de Riesengang."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Marion, ela tá olhando pra você meio desconfiada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x1e2,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "...Então acho que é hora de nos apresentarmos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x19f,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Meu nome é Marion Quinn. Tô aqui<CR>pra... bom, porque tô numa missão<CR>pra fazer uma investigação."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "E essa aqui é a Linca, minha guarda-costas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x19b,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Eu sou a Linca. Prazer em conhecer você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Desculpa você ter que ver aquele vexame mais cedo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Não faz muito tempo que a gente chegou, então... as negociações com o pessoal daqui tão bem complicadas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Parece um trabalho difícil. De onde vocês são?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "De uma cidade que você provavelmente nunca ouviu falar. Parece que ninguém sabe dela por aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Bom, mas esse lugar aqui também não é conhecido lá, então acho que tamos quites..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Com certeza. Essa região era uma<CR>\"terra inexistente\" pra gente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Uma terra inexistente..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "É, não, como ela disse, ela<CR>só era inexistente pra gente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "E você? Se a gente tá te encontrando aqui,<CR>você não parece morar<CR>naquela vila."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Ah, esqueci de me apresentar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Meu nome é Ayesha Altugle."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Faço remédios numa oficina a leste daqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Por causa de algumas coisas que aconteceram, vim pra cá procurar minha irmã."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Saquei. A leste daqui, tipo perto de Reisengang?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Só um pouco mais a leste de lá. Tem uma ruína com um jardim de ervas medicinais lá perto."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Aquela ruína que dá pra ver de Reisengang... Você conhece ela?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Não sei se conheço tão bem assim, mas fica perto de casa, então eu podia ser o guia de vocês..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x1f,
+            "msg_string": "Sério!? A gente tava justamente planejando investigar essa ruína logo em seguida."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x45,
+            "expr_id": 0x2,
+            "msg_id": 0x20,
+            "msg_string": "Olha, se não for pedir muito, você podia guiar a gente até lá? A gente ainda não conhece muito bem o caminho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "Ah, sem problemas.<CR>Vou adorar ajudar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0x22,
+            "msg_string": "Valeu, isso seria ótimo!<CR>Bom, a gente tá com sorte hoje."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "Vamos ficar pelo local, então avisa a gente quando for uma boa hora pra ir."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x19f,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "Beleza? Tô contando com você!"
+        }
+    ]
+}

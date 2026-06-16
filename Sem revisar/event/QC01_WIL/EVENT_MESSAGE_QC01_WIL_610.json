@@ -1,0 +1,214 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC01_WIL_610.ebm",
+    "nb_messages": 0x17,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "*suspiro* Nada de empolgante acontece hoje em dia..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Bell, você parece meio pra baixo hoje."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "É. Eu ainda não decidi minha tarefa pra Tataravó."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Poder fazer o que quiser dá muito trabalho. Teria sido melhor se eu só tivesse que lançar um feitiço 1.000 vezes."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Deve ser difícil, não saber o que fazer. O que você já fez até agora que não deu certo?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x169,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Bom, salvei uma vila que foi possuída por um demônio, fiz um resumo sobre um livro de magia antigo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x16b,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "E ainda fiz um diário de observação enquanto cultivava umas plantas carnívoras do submundo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x7,
+            "msg_string": "Nossa, você fez um monte de coisas diferentes..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x165,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Eu fiz muuuito mais, mas tô ficando sem ideias..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x166,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Agora você entende por que eu pedi ajuda pros outros?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x167,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "E além disso, tem meu treino diário, e não é tão fácil cobrir minhas despesas de vida também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Uhum, é difícil ganhar dinheiro."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0xc,
+            "msg_string": "Então, ser alimentada sempre que eu venho aqui ajuda muito. E é sempre uma delícia!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0xd,
+            "msg_string": "Hehe, sem problemas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Aff, se pelo menos eu não tivesse que me preocupar com dinheiro. Eu só queria ganhar uma grana preta e focar no meu treino."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Bom, dizem que a pressa é inimiga da perfeição, então se você ralar de forma constante, tenho certeza que vai juntar uma graninha naturalmente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "É que eu não sou muito do tipo que \"rala de forma constante\"..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Eu quero fazer tipo, cabum! Tirar a sorte grande!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Enfim, por enquanto, vou fazer o que você diz, a pressa é inimiga da perfeição, pra tirar a sorte grande!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "Acho que você tá se contradizendo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Beleza! Agora que tá decidido, eu só tenho que ir lá e fazer!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x19a,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Até mais!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Bell... Ela é tão... Bell. Hehehe!"
+        }
+    ]
+}

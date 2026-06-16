@@ -1,0 +1,160 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC07_MAR_540.ebm",
+    "nb_messages": 0x11,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Isso aqui é... o túmulo de alguém?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Hmm, eu já te falei que tô procurando a minha irmã?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Pode crer, eu lembro.<CR>Já achou alguma pista?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x196,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Não, ainda não."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Minha irmã... o nome dela é Nio, mas ela sumiu do nada nessa ruína."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Então, por enquanto, esse é o túmulo da Nio."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Eu já ouvi falar de pessoas sumindo misteriosamente em ruínas de outras áreas também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Pelo que contam por aí, acho que só aconteceu algumas poucas vezes..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Tem várias teorias, tipo<CR>as pessoas sendo pegas pela ruína,<CR>ou possuídas por um espírito, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Ninguém descobriu a verdade ainda.<CR>Parte do meu trabalho é<CR>investigar isso também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "Ué? Você sabe de alguma coisa mesmo?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Bom, se tem uma coisa que posso te dizer... é que não faço a mínima ideia do que tá acontecendo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "A-Ah, entendi..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Desculpa. Eu ainda tô indo meio às cegas nas ruínas. Não sou nenhuma especialista."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Se tivessem mandado uma equipe de investigação comigo, a gente até podia descobrir algo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Como você também tá com os seus problemas, eu te aviso se descobrir qualquer coisa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Sim, por favor avisa...!"
+        }
+    ]
+}

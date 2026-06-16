@@ -1,0 +1,142 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC15_TAN_040.ebm",
+    "nb_messages": 0xf,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ayesha, tem uma coisa que eu tô me perguntando há um tempinho..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Todo mundo da cidade usa roupas tão estilosas que nem as suas?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Ué? Eu sou tão estilosa assim?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "É sim. Você é tão bonita, parece até uma fada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Hahaha, obrigada, mas eu faço mais o tipo simples..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Tem muiiita gente por lá que é bem mais bonita do que eu!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Entendi... Quando eu crescer, eu quero usar essas roupas cheias de babados também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x185,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "O que você tá usando por baixo também é lindo. É todo bordado..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x186,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Pelo visto o pessoal da cidade se veste bem até nos lugares que ninguém vê!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x38,
+            "expr_id": 0x2,
+            "msg_id": 0x9,
+            "msg_string": "O quê!? Tanya, pra onde você tá olhando? Não olha praí!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x187,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Ué? Por que não? É tão lindo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0xb,
+            "msg_string": "Aposto que qualquer um que você mostrar vai achar lindo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x39,
+            "expr_id": 0x2,
+            "msg_id": 0xc,
+            "msg_string": "O queee... Eu não preciso desse tipo<CR>de atenção! Hrgh, isso é muito<CR>constrangedor..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x45,
+            "expr_id": 0x2,
+            "msg_id": 0xd,
+            "msg_string": "Quando eu for pra cidade, quero ser tão estilosa que nem você, Ayesha!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x39,
+            "expr_id": 0x2,
+            "msg_id": 0xe,
+            "msg_string": "Hyaaah, para com isso..."
+        }
+    ]
+}

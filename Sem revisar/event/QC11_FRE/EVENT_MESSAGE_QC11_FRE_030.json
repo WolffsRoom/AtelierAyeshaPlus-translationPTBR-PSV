@@ -1,0 +1,220 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC11_FRE_030.ebm",
+    "nb_messages": 0x18,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Bem-vinda, Srta. Ayesha. Acabei de assar uns pães agorinha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Hmhm, pão fresquinho é a melhor coisa. Mas os pães que você vende aqui são sempre uma delícia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Hahaha, esse é o melhor elogio que um padeiro pode receber."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "Demorou bastante até eu conseguir abrir a minha própria loja, mas eu tô tão feliz por não ter desistido...! *snif*"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "Ué? Sr. Fred! O-O que foi?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xd2,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Alguém gosta das mesmas coisas que eu.<CR>Eu não poderia pedir mais nada..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Tô vendo. Você gosta mesmo de pão."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x7,
+            "msg_string": "Sim, eu amo! A minha história é basicamente a história do pão!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0x8,
+            "msg_string": "E a história do pão é a história da humanidade!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "H-Hã...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x78,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Na época em que os humanos desenvolveram a civilização, as pessoas já comiam pão!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Isso mesmo! Durante milhares de anos, os humanos passaram por muitas dificuldades e sofrimentos!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "E o pão sempre esteve ao lado desses humanos. O pão foi a base que permitiu que eles se mantivessem vivos!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Como uma forma deliciosa de se comer grãos...<CR>Como uma maneira fácil de fornecer um alimento<CR>duradouro e fácil de transportar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Ele é todo-poderoso! Nenhum outro alimento é superior a isso!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "E eu vou continuar dedicando a minha vida a assar pães!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "...Eu me empolguei um pouco de novo. Obrigado por ouvir toda a minha história."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x11,
+            "msg_string": "I-Incrível... Eu nunca tinha pensado em pão nesse nível antes."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x78,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "É até meio estranho pensar que as pessoas no passado comiam o mesmo tipo de pão que a gente come agora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x13,
+            "msg_string": "Não é!? Eu penso nisso o tempo todo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x14,
+            "msg_string": "Tenho muita sorte de poder comer os pães que você faz, Sr. Fred."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0x15,
+            "msg_string": "Que isso. Ter você e as outras pessoas dessa cidade comendo os meus pães é o meu maior prazer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x45,
+            "expr_id": 0x2,
+            "msg_id": 0x16,
+            "msg_string": "Já sei! Como agradecimento por toda essa alegria, deixa eu te dar um brinde...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Não precisa, tudo bem. Você já me deu bastante pão de graça antes, então eu mesma faço questão de pagar!"
+        }
+    ]
+}

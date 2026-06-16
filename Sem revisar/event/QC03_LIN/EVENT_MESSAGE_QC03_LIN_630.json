@@ -1,0 +1,238 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC03_LIN_630.ebm",
+    "nb_messages": 0x1a,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "msg_string": "(Ah, já sei! Eu devia perguntar pra Linca o que ela achou de matar o dragão.)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Linca, sobre aquela vez que a gente matou o dragão..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Você sentiu que alcançou o seu objetivo, ou pelo menos sentiu algum tipo de satisfação?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Ayesha, eu achei que fosse chegar a algum tipo de entendimento depois de derrotar o dragão, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "No fim das contas, eu não entendi nada.<CR>Parece que isso não era o que eu<CR>queria fazer de verdade."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Entendo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd1,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "Mas ficou claro... que essa não era a solução certa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd2,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Eu provavelmente não gosto mesmo de lutar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Ah... isso é um pouco inesperado.<CR>Humm, mas acho que não é surpresa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Eu achei que eu só tinha a minha espada,<CR>mas talvez seja porque a minha espada<CR>é a única coisa que eu conheço."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Não tem nada de \"talvez\" nisso. É o que eu sempre tenho te dito."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Então é isso, entendi..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Bom, você já merece um \"muito bem\" só por ter percebido isso. Leve o tempo que precisar e procure pelo que você quer fazer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "O que eu quero fazer... Proteger a Marion é o que eu quero fazer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Mas você está falando do seu dever.<CR>Eu tô falando de outra coisa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x196,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Não, mesmo se não fosse meu dever, eu quero sempre ficar do seu lado pra sempre."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x122,
+            "expr_id": 0x3,
+            "msg_id": 0x10,
+            "msg_string": "I-Isso não é realista. Ficar juntas por uns 10 ou 20 anos já é‐"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Por mim tudo bem se for 10 ou 20 anos,<CR>desde que eu esteja com a Marion."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x126,
+            "expr_id": 0x3,
+            "msg_id": 0x12,
+            "msg_string": "Meu deus... Não fala umas coisas dessas com a cara tão séria..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x127,
+            "expr_id": 0x3,
+            "msg_id": 0x13,
+            "msg_string": "Enfim, a gente fugiu do assunto de como você ia encontrar o seu objetivo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Não. Se o meu objetivo é ficar com a Marion, então..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x15,
+            "msg_string": "Isso quer dizer que eu já consegui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x128,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "D-De jeito nenhum!<CR>Isso é meio que roubar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x45,
+            "expr_id": 0x2,
+            "msg_id": 0x17,
+            "msg_string": "Marion, você não gosta de ficar comigo...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x99,
+            "expr_id": 0x3,
+            "msg_id": 0x18,
+            "msg_string": "Ai, caramba. Não é isso. Uma coisa é uma coisa, outra coisa é outra coisa, então você tem que achar o seu objetivo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0x19,
+            "msg_string": "A Marion ficou brava...<CR>E eu levei bronca de novo hoje..."
+        }
+    ]
+}

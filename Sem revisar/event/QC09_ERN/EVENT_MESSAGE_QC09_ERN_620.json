@@ -1,0 +1,321 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC09_ERN_620.ebm",
+    "nb_messages": 0x23,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "msg_string": "(Hã, aquele é...<CR>Aquele é o Ernie!)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "msg_string": "(O que será que ele anda fazendo desde a briga com o proprietário...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "msg_string": "(Tô com medo de perguntar, mas eu que causei isso, então eu preciso falar com ele...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x101,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "Hã...? Ayesha?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Oi. Tem um minutinho pra conversar?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "É sobre a última vez. Parece que eu te causei um monte de problema, e..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc8,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "Desculpa..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x103,
+            "expr_id": 0x4,
+            "msg_id": 0x7,
+            "msg_string": "Não, eu que causei problema pra você. Você não fez nada de errado, Ayesha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x104,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "Eu que devia pedir desculpa. Me perdoa por toda a confusão que eu causei."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x104,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "Eu sabia que devia ter te visitado pra pedir desculpa, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x105,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Eu tava com muita vergonha de ir te ver..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xca,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Não precisa se preocupar comigo. Isso não me incomodou nem um pouco."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Mas eu fiquei muito preocupada com você. Me falaram que você tava deprimido."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Hmhm, eu tô bem. Claro, fiquei meio deprimido por uns dias, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Já tô bem agora. Não vou ficar remoendo uma oportunidade de negócio que deu errado pra sempre."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Fico tão feliz. O que mais combina com você é um sorriso, Ernie!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Hmhm, você tem razão. Foi uma baita oportunidade de negócio, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Se ele for causar problemas pra você, então eu pulo fora numa boa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "As coisas que não dá pra comprar com dinheiro são muito mais importantes do que as que dá, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "E não dá pra comprar amigos com dinheiro."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15d,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "...Na verdade, tem outra coisa me preocupando agora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "O que foi? Por favor, me fala se eu puder ajudar em alguma coisa!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15f,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Bom, tem uma pessoa que eu conheço já faz um tempo, e..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15f,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Essa pessoa é mais um amigo do que um cliente..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x161,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Então, a família desse meu amigo tem passado por uma onda de azar. Eles tão fazendo o possível, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Deu uma praga na fazenda deles, e agora eles tão num aperto danado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Eu queria fazer alguma coisa pra ajudar ele... Você tem alguma ideia?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x1b,
+            "msg_string": "Pragas...? A Erva Anti-Inseto pode ser uma boa..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Dependendo do tamanho do campo, a quantidade que você vai precisar varia, mas tenho certeza que vai funcionar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Erva Anti-Inseto... Ayesha, você manja de muita coisa mesmo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Hehehe, pode me perguntar qualquer coisa, desde que seja sobre remédios!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Vou preparar a quantidade certinha pra próxima vez que a gente se encontrar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Valeu, vai ser ótimo. Hum, então, o tamanho do campo é..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x21,
+            "msg_string": "(Ainda bem que o Ernie recuperou o ânimo. Hmhm, ele é mais forte do que eu pensava.)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x22,
+            "msg_string": "(Eu não posso vacilar com ele. Preciso ir lá colher as Ervas Anti-Inseto!)"
+        }
+    ]
+}

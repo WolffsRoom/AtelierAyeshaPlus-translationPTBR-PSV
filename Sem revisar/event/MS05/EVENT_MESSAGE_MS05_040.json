@@ -1,0 +1,515 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MS05_040.ebm",
+    "nb_messages": 0x35,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Continuando, agora eu quero apresentar todos os jurados!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1e3,
+            "expr_id": 0x2,
+            "msg_id": 0x1,
+            "msg_string": "O primeiro é o Sr. Harry Olson, que pelo seu<CR>privilégio de ser o organizador<CR>tem a permissão de servir como jurado!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x59,
+            "expr_id": 0x2,
+            "msg_id": 0x2,
+            "msg_string": "Hahaha! Pessoal, espero ver um item que supere o meu! Apesar de eu ter certeza que é pedir demais!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Certo... que infantil! E por favor me permitam, como a apresentadora, de ser uma jurada também!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Itens que vão vender na loja... quer dizer, eu vou ficar na expectativa de ver todos os itens maravilhosos!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x21,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Olá, pessoal! Por favor, não esperem moleza nas avaliações que nem da última vez! Minhas avaliações vão ser rigorosas!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x129,
+            "expr_id": 0x3,
+            "msg_id": 0x6,
+            "msg_string": "Opa, o que é isso!? O que o Sr. Harry tá querendo dizer!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x12b,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Eu, que também vou atuar como jurada, não consigo esconder a surpresa! Mas a gente não tem tempo a perder, então continuando...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x21,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Deixa eu falar uma coisa primeiro! Pra hoje, eu trouxe o meu melhor item. Eu não posso perder!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x129,
+            "expr_id": 0x3,
+            "msg_id": 0x9,
+            "msg_string": "Que surpresa! Considerando a<CR>fala dele de antes, eu nunca<CR>vi o Sr. Harry tão sério!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x12b,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Como um jurado, eu vou exercer o meu poder de forma justa e fiel! Podem contar comigo!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xb,
+            "unknown2": 0x1,
+            "msg_string": "Agora, nossa próxima jurada é uma funcionária que cumpre de forma tediosa as suas tarefas por toda a região, a Srta. Marion!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "*Aham* Eu vou dar avaliações rigorosas, então se preparem!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "unknown2": 0x1,
+            "msg_string": "O próximo é o padeiro que leva delícias paras as mesas de jantar de Vierzeberg, o Sr. Fred!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x42,
+            "expr_id": 0x2,
+            "msg_id": 0xe,
+            "msg_string": "Opa! Eu vou estar de olho pra ver se arranjo umas ideias pra novas receitas de pães!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "unknown2": 0x1,
+            "msg_string": "Depois, é o cara que abriu uma taverna pra ajudar os viajantes a descansar e relaxar em Hornheim, o Sr. Kyle, o Mestre dos Drinks!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x1a1,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "E aí! Eu vou ser o jurado legal,<CR>então fiquem de olho em mim!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x11,
+            "unknown2": 0x1,
+            "msg_string": "O nosso próximo jurado viaja pra vários<CR>lugares como um mascate, o gente boa Sr. Ernie!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x62,
+            "expr_id": 0x2,
+            "msg_id": 0x12,
+            "msg_string": "Olá! Tô animado pra ver que tipos de itens vão ser apresentados. Boa sorte pra todo mundo!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13,
+            "unknown2": 0x1,
+            "msg_string": "Agora, é a vez de apresentar a vaqueira favorita de todo mundo, a Nanaca!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Oi, meu nome é Nanaca. Eu vou dar o meu melhor como jurada!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1a6,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Beleza, isso conclui as apresentações dos jurados! Pessoal, por favor dediquem tudo de si na hora de julgar!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x69,
+            "expr_id": 0x2,
+            "msg_id": 0x16,
+            "msg_string": "Agora, eu queria ir em frente e começar o concurso! Participantes, por favor se preparem para as suas vezes!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Parece que tá começando. Preciso decidir qual item vou expor."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0x5,
+            "msg_id": 0x18,
+            "msg_string": "Eu preciso dar o meu melhor e escolher<CR>algo que os jurados vão curtir.<CR>Vamos ver..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x19,
+            "unknown2": 0x1,
+            "msg_string": "Qual item eu deveria expor?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1a,
+            "unknown2": 0x1,
+            "msg_string": "Será que esse tá bom?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1b,
+            "unknown2": 0x1,
+            "msg_string": "É, vai ser esse mesmo!<CR>Certo, vamo lá!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1c,
+            "unknown2": 0x1,
+            "msg_string": "Eu gostaria agora de começar o nosso concurso! Primeiro participante, vem pra cá!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1d,
+            "unknown2": 0x1,
+            "msg_string": "Bom, esse item tem a minha mais alta recomendação! Eu tô convencido de que não existe nenhum outro item igual a ele no mundo!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1e,
+            "unknown2": 0x1,
+            "msg_string": "Bom, eu vou mostrar um item especial pra vocês!<CR>Claro, cada item da minha<CR>coleção não tem preço."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1f,
+            "unknown2": 0x1,
+            "msg_string": "Porém, o item que eu vou mostrar pra vocês é um item incrível que pode ter feito história numa geração passada!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x20,
+            "unknown2": 0x1,
+            "msg_string": "Isso mesmo, vocês todos tão prestes a<CR>virar testemunhas vivas da história,<CR>porque isso..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x21,
+            "unknown2": 0x1,
+            "msg_string": "Tá bom, tá bom! Isso não tem fim, então vamos parar por aqui mesmo! Muito obrigada!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x22,
+            "unknown2": 0x1,
+            "msg_string": "Olá pessoal! Antes de trazer o meu item, tem uma coisa pela qual eu preciso me desculpar!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x23,
+            "unknown2": 0x1,
+            "msg_string": "Apesar de eu já ter organizado esse concurso várias vezes, eu ainda não apresentei o meu melhor item."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x24,
+            "unknown2": 0x1,
+            "msg_string": "Com esse item supremo, eu tô disposto a apostar a minha carreira como colecionador na vitória dele! Sintam-no com todas as suas almas!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x25,
+            "unknown2": 0x1,
+            "msg_string": "...Ele continuou o seu discurso passional sem nem me dar uma brecha pra pará-lo! Muito obrigada!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x26,
+            "unknown2": 0x1,
+            "msg_string": "Ok, ok, é esse aqui que eu vou apresentar. Por favor, deem uma olhada no melhor dos meus itens."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x27,
+            "unknown2": 0x1,
+            "msg_string": "Hmhm, é como se a minha vitória já estivesse decidida. Deem uma olhada e fiquem de queixo caído!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x28,
+            "unknown2": 0x1,
+            "msg_string": "Esse é o meu item. Eu achei ele por acaso enquanto eu tava caçando, mas eu acho que é um item raro."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x29,
+            "unknown2": 0x1,
+            "msg_string": "Esse é o item que eu decidi, depois de muitos exames e inspeções. Por favor o julguem bem."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2a,
+            "unknown2": 0x1,
+            "msg_string": "Pra mim não vale absolutamente nada, mas... Pro pessoal daqui deve servir."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x2b,
+            "unknown2": 0x1,
+            "msg_string": "Certo então, jurados, por favor avaliem esses itens com cuidado."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2c,
+            "unknown2": 0x1,
+            "msg_string": "Comecem suas avaliações... agora!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2d,
+            "unknown2": 0x1,
+            "msg_string": "Beleza, acabou o tempo!<CR>É isso pras avaliações!<CR>A próxima pessoa, pode vir pra cá!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2e,
+            "unknown2": 0x1,
+            "msg_string": "XXX"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2f,
+            "unknown2": 0x1,
+            "msg_string": "Agora pra última expositora!<CR>Ayesha, vem pra cá!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x30,
+            "unknown2": 0x1,
+            "msg_string": "C-Certo! Obrigada por me receberem!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x31,
+            "unknown2": 0x1,
+            "msg_string": "E então, quais vão ser os resultados!? Que comecem as avaliações!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x32,
+            "unknown2": 0x1,
+            "msg_string": "Beleza, acabou o tempo! É isso pras avaliações!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x33,
+            "unknown2": 0x1,
+            "msg_string": "Isso conclui todas as avaliações de todos os participantes!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x34,
+            "unknown2": 0x1,
+            "msg_string": "Por favor, esperem enquanto a gente computa os resultados!"
+        }
+    ]
+}

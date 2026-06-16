@@ -1,0 +1,115 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC09_ERN_630.ebm",
+    "nb_messages": 0xc,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x199,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Oi, Ernie. Já juntei todas as Ervas Anti-Inseto que você queria!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Nossa, quanta coisa... Com tudo isso, acho que vai dar certo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "É sim. A fumaça que solta quando se coloca a erva seca sobre o fogo vai ser super eficiente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Anotado. Eu tava na dúvida se devia ou não te pedir ajuda, mas que bom que eu pedi."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Tenho certeza que o meu amigo vai ficar muito feliz com isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Hum... esse seu \"amigo\" é uma mulher?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "O quê!? N-Não! Meu Deus, vocês garotas adoram mesmo falar sobre essas coisas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x126,
+            "expr_id": 0x2,
+            "msg_id": 0x7,
+            "msg_string": "Infelizmente, meu amigo é um cara. Ele é um bom amigo meu."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x128,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Ele já me deu uma força no passado também, então eu não podia só ficar de braços cruzados vendo ele se dar mal."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Hmhmhm, entendi. Mas, eu fico feliz de ter ajudado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x1a0,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Vou lá entregar isso agorinha mesmo.<CR>Até mais, Ayesha!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xb,
+            "msg_string": "(Que bom que eu consegui ajudar o Ernie.<CR>Tomara que as plantações do amigo dele fiquem<CR>bem...)"
+        }
+    ]
+}

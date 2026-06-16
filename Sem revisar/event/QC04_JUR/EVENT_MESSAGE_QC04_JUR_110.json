@@ -1,0 +1,220 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC04_JUR_110.ebm",
+    "nb_messages": 0x18,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Se eu me lembro bem, o dragão que vimos antes tava por aqui. Ele com certeza era enorme..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Ele é o último que restou nessa área."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Entendi. Nesse caso, acho que a gente viu uma coisa bem rara."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x3,
+            "msg_string": "Mas por que não tem outros dragões?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x4,
+            "msg_string": "Eles parecem tão fortes..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Sim. Por natureza, já que os dragões são tão fortes individualmente, eles não têm muita necessidade de se reproduzir pra sobreviver."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Porém, nos últimos tempos, eles vêm sendo mortos por humanos, e seus números caíram drasticamente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x7,
+            "msg_string": "Até mesmo os dragões mais fortes tão sendo caçados por humanos..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "E nem os dragões são páreo pra um grande número de humanos armados."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x10,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Tantos foram exterminados que os números despencaram, e agora ele é o último."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Eu me lembro de você falando algo sobre matar o gado..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Sim. Naturalmente, dragões e humanos têm uma inimizade mútua."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "O dragão que vimos antes... não é diferente. Bem recentemente, o gado foi levado da minha vila."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "Hã? Sério? A-Até as vacas da Nanaca!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Não, a Nanaca tava longe na época, então ela e as vacas dela ficaram bem."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Que bom..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Um dragão mais velho é astuto e cauteloso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Não sei pra onde ele vai se abrigar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Ele aparece do nada nas vilas humanas quando fica com fome."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Então a gente nunca sabe quando ele pode vir...<CR>Isso é... assustador."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "É por isso que os humanos caçam os dragões. É perigoso demais ter eles de vizinhos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Eu não posso deixar ele solto por aí desse jeito. Algum dia, eu vou enfrentar esse dragão."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Esse é o destino que me foi passado pela minha família..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x17,
+            "msg_string": "(O Juris tá falando sério mesmo sobre derrubar esse dragão...)"
+        }
+    ]
+}

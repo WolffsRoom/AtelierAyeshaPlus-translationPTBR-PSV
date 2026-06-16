@@ -1,0 +1,264 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC13_ODI_080.ebm",
+    "nb_messages": 0x1d,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Oi, Srta. Odelia. Chegueeeiii!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "msg_string": "(Hehehe, será que a Srta. Odelia vai vir voando de novo que nem da última vez...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "...Ué? Será que a Srta. Odelia não tá por aqui...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x117,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "Eu tô aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "O-o que foi? Por que você tá tão quietinha aí?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x119,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Por causa das minhas circunstâncias atuais,<CR>eu não posso falar alto."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Hum, eu não tô conseguindo te ouvir direito."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0xad,
+            "expr_id": 0x3,
+            "msg_id": 0x7,
+            "msg_string": "Eu disse que eu não posso falar alto!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0xaf,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Aiiii..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Eita, tá doendo em algum lugar?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x117,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "...Meu dente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Hã?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x118,
+            "expr_id": 0x4,
+            "msg_id": 0xc,
+            "msg_string": "Tô com uma cárie no dente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "Hã? Srta. Odelia, você não tinha dito que não ficava doente?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x118,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "Eu fui criada com alquimia avançada. Não tem problema nenhum eu ter uma cárie."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "A-Ah, entendi..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x118,
+            "expr_id": 0x4,
+            "msg_id": 0x10,
+            "msg_string": "Pra esse tipo de armadilha estar escondida<CR>nos doces... *sniff* *sniff*<CR>Tá doendo muito..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Hum, quando se tem cárie, é bom bochechar com água e sal."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0xac,
+            "expr_id": 0x3,
+            "msg_id": 0x12,
+            "msg_string": "De jeito nenhum! Você tá querendo enferrujar a minha boca!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Ah, desculpa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "...Vai curar se eu deixar quieto por um tempo. Até lá, vou ter que cortar os doces."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Hum, você tem que tratar a cárie pra ela melhorar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Não precisa se preocupar. Eu tenho um mecanismo automático de restauração pra momentos assim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Vai curar se eu não comer<CR>doces... por um ano."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Que incrível. A alquimia daquela época conseguia fazer qualquer coisa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x197,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Você tá certa. A alquimia daquela época conseguia fazer qualquer coisa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0x5,
+            "msg_id": 0x1a,
+            "msg_string": "Mas eu não acho que você precisava mesmo<CR>de um mecanismo que deixa você ter<CR>cáries..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x117,
+            "expr_id": 0x4,
+            "msg_id": 0x1b,
+            "msg_string": "Argh, isso é algo que você nunca mais deve mencionar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x161,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1c,
+            "msg_string": "(Ela realmente parece estar com dor. Talvez seja melhor eu deixar ela quieta...)"
+        }
+    ]
+}

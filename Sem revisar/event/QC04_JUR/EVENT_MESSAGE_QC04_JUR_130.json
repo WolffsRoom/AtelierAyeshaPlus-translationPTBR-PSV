@@ -1,0 +1,59 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC04_JUR_130.ebm",
+    "nb_messages": 0x6,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x0,
+            "msg_string": "Juris! Lá! É o dragão!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Sim. Parece que ele tá saindo pra caçar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0x2,
+            "msg_string": "Vendo ele de novo, ele é muito grande mesmo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Um tempo atrás, eu só conseguia olhar pro dragão lá de baixo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x89,
+            "expr_id": 0x3,
+            "msg_id": 0x4,
+            "msg_string": "Mas agora é diferente. Sinto que eu poderia alcançar ele com as minhas mãos a qualquer momento."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x8a,
+            "expr_id": 0x3,
+            "msg_id": 0x5,
+            "msg_string": "Só espera mais um pouquinho.<CR>Só mais um pouco...!"
+        }
+    ]
+}

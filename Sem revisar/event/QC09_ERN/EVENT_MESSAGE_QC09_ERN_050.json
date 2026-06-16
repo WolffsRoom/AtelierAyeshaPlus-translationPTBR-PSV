@@ -1,0 +1,148 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC09_ERN_050.ebm",
+    "nb_messages": 0x10,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ah, você tá saindo agora também, Ayesha?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Isso quer dizer que você tá saindo agora, Ernie?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Uhum. Peguei a encomenda que eu pedi, então agora tô indo pra Vierzeberg."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Se você também for pra lá, quer uma carona?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0x5,
+            "msg_id": 0x4,
+            "msg_string": "Vierzeberg...<CR>O que eu devo fazer...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Sério? Eu também ia pra Vierzeberg."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Ótimo, então sobe aí e vamos nessa!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Certo, chegamos!<CR>Espero que você não esteja muito cansada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Cheguei aqui na metade do tempo que eu geralmente levo. Muito obrigada, Ernie!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "O prazer foi todo meu. Não fiquei entediado, graças a ter uma parceira de viagem."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x1a0,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Bem, eu já vou indo. Até mais, Ayesha!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Bem... eu ainda não decidi pra onde vou depois..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Entendi. Achei que seria legal ter alguém pra conversar durante a minha viagem, mas tudo bem."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x1a0,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Bem, Ayesha, se cuida."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Ok. Me dá uma carona na próxima vez, por favor."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Bom, acho que eu já vou indo nessa também..."
+        }
+    ]
+}

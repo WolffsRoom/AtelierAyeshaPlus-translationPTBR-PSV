@@ -1,0 +1,141 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC01_WIL_410.ebm",
+    "nb_messages": 0xf,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0x5,
+            "msg_id": 0x0,
+            "msg_string": "Ah, Bell, você arrumou um emprego como atendente de loja?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Não. Essa loja é minha! Eu vendo as coisas que eu consigo nas minhas viagens ou fazendo outros trabalhos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Entendi. Uaaau... Você tem um monte de coisas que... eu nem sei o que são."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x196,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Ah, é? Eu tenho um monte de coisas que são úteis pra alquimistas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "São todos tesouros de nível lendário que eu nem queria me desfazer, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Meu quarto tá ficando meio apertado, e eu preciso garantir o dinheiro pras minhas despesas!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Entendi. Bom, ter uma loja no bazar parece ser bem divertido..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Hehehe, só de comprar as coisas já é metade da diversão."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Você deve ter razão. De qualquer forma,<CR>como estão as vendas?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Na verdade, não estão muito boas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x165,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Talvez o meu estoque de produtos seja meio peculiar demais..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Pode ser. Todos parecem itens que não se usaria no dia a dia..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Mas talvez eu possa ajudar a dar um empurrãozinho nas suas vendas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x167,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Ah, você vai comprar alguma coisa?<CR>Eu te dou um desconto!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Hehehe, valeu, Bell. Agora vamos ver..."
+        }
+    ]
+}

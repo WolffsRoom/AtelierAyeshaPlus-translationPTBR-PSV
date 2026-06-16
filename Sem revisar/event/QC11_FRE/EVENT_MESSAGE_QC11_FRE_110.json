@@ -1,0 +1,267 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC11_FRE_110.ebm",
+    "nb_messages": 0x1d,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x69,
+            "expr_id": 0x2,
+            "msg_id": 0x0,
+            "msg_string": "Bom, já virou rotina pra mim comer o pão dessa padaria no almoço."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6a,
+            "expr_id": 0x2,
+            "msg_id": 0x1,
+            "msg_string": "Tenho certeza de que qualquer um ia ficar super feliz de comer seu pão todo dia, no café da manhã, no almoço e na janta."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Bom, enquanto você quiser vir na minha loja, eu pretendo oferecer o meu pão."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6d,
+            "expr_id": 0x2,
+            "msg_id": 0x3,
+            "msg_string": "Hmm, mas isso dá muito trabalho.<CR>Já sei, por que eu não pego você<CR>pra ser a minha esposa!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x144,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "Uh... hã!? Isso é... bem...<CR>M-Marri-! *cof* *cof*"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6b,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "O que foi? Por que você tá tossindo de repente?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x146,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Foi mal, já tô bem. Mas eu sou homem, então acho que não posso ser uma noiva..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x69,
+            "expr_id": 0x2,
+            "msg_id": 0x7,
+            "msg_string": "Hahaha, você é tão certinho.<CR>Foi só uma brincadeira."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xd4,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "Brincadeira...? Ah... haha... pode crer. Vejo que você também tem namorado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6b,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Hã? Eu não tenho namorado..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xd6,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "O quê...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Tô solteira já faz um tempo.<CR>Sou tão fofa, mas ninguém mostra<CR>nenhum interesse em mim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Acho que não ajuda o fato de eu ficar presa na minha loja o dia todo por causa do trabalho..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "E-Entendi... Então, a Srta. Marietta não tem namorado..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1a0,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Hahaha, se você conhecer alguém legal,<CR>por favor me apresenta. Até mais!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Sr. Fred, me vê um pão...? Ué?<CR>Aconteceu alguma coisa boa?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x10,
+            "msg_string": "Hã? Do que vocês tão falando?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Bem, você tava parecendo bem feliz, como se a primavera finalmente tivesse chegado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "I-Isso não é verdade... Eu acho..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Hehe, você é muito fácil de ler.<CR>Mas, bem, fico feliz por você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xd4,
+            "expr_id": 0x4,
+            "msg_id": 0x14,
+            "msg_string": "Hã? E-Eu não sei do que você tá falando..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Tá bem na cara, então acho que você não precisa esconder. Né, Ayesha?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x16,
+            "msg_string": "Hã? Do que vocês tão falando?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Aff, esqueci como você é lerda às vezes... Bom, acho que vou guardar pra mim então."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Mas em troca, me dá um pãozinho de gato!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xd6,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "...Pode pegar o quanto quiser."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x1a,
+            "msg_string": "Sério!? Valeu! Não vou falar mais nada sobre os seus sentimentos a partir de agora!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x1b,
+            "msg_string": "E-Ei! N-Não fala isso alto!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15d,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1c,
+            "msg_string": "(O Sr. Fred parece tão nervoso...<CR>Do que será que ela tá falando...?)"
+        }
+    ]
+}

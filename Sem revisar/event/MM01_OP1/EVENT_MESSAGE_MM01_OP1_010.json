@@ -1,0 +1,238 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM01_OP1_010.ebm",
+    "nb_messages": 0x1a,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x12,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "...É, sem sucesso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x12,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Achei que talvez esse lugar... mas a decadência é a mesma."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x12,
+            "extra_id": 0x15,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Hmph, ainda pode ser possível..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x12,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Você viajou de longe pra cá?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x12,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Sim. Deu pra perceber?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x12,
+            "extra_id": 0x5f,
+            "expr_id": 0x2,
+            "msg_id": 0x5,
+            "msg_string": "Eu sabia! Tem umas peculiaridades ocidentais no seu jeito de falar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x12,
+            "extra_id": 0x17,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Entendi. Então você conhece, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x12,
+            "extra_id": 0x61,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Um pouco... Eu vou lá pra negociar também. Bem-vindo a essa terra de fronteira árida."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x12,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Terra de fronteira árida? Que nada. Esse lugar é bem farto."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x12,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Verdade... Nos últimos anos, o clima tem sido calmo e agradável."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x12,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Mas alguns canais de água das cidades secaram, o que deixou bem difícil dar conta de todas as minhas encomendas de grãos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x12,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "O solo tá ficando cada dia menos fértil. É por isso que eu tenho corrido tanto com as entregas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x12,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Hmm, desculpa te incomodar quando você tá tão ocupado com as suas coisas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x12,
+            "extra_id": 0x67,
+            "expr_id": 0x2,
+            "msg_id": 0xd,
+            "msg_string": "Ah, que isso. É chato viajar sozinho,<CR>então tô até feliz com a sua companhia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x12,
+            "extra_id": 0x65,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "É chão até a próxima ruína,<CR>então aproveita a carona."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x12,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Tá vendo ali? Aquela ruína passando o ateliê é a que você tá procurando."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x12,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Meu destino, na verdade, é aquele ateliê. É uma botica cuidada por uma garotinha..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x12,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Hm? Um ateliê num lugar desses?<CR>Então isso ainda existe por aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x12,
+            "extra_id": 0x15,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "...Ah, pode me deixar bem aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x12,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Ué? Mas a gente ainda tá bem longe da ruína."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x12,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Não tem problema. Prefiro ir até lá com as minhas próprias pernas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x12,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Ir com as próprias pernas... Como era de se esperar de um estudioso, eu acho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x12,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Estudioso? É o que eu pareço?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x12,
+            "extra_id": 0x125,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Ah, desculpa se eu errei. Como você tá investigando as ruínas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x12,
+            "extra_id": 0x15,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Você não passou longe.<CR>Mas eu sou... um alquimista."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x12,
+            "extra_id": 0x128,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Um alquimista...?"
+        }
+    ]
+}

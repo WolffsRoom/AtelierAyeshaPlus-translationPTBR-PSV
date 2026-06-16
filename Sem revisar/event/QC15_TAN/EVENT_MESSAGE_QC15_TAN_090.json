@@ -1,0 +1,348 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC15_TAN_090.ebm",
+    "nb_messages": 0x26,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x19f,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ayesha, muito obrigada por me mostrar Vierzeberg."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Eu não pude fazer muita coisa por você, mas pelo menos deu pra se divertir?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x129,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "Claro! Se não fosse por você ou pela Marietta..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x12b,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Com certeza eu ainda estaria perdida por Vierzeberg."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "A cidade parecia não ter fim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Hmm, acho que todos os prédios são bem parecidos mesmo, então dá pra se perder fácil se não estiver acostumada..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x6,
+            "msg_string": "Hehehe, eu comprei várias lembrancinhas também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x45,
+            "expr_id": 0x2,
+            "msg_id": 0x7,
+            "msg_string": "Tinha muiiitas coisas que não temos aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x8,
+            "msg_string": "Coisas que não tem aqui? Mas vocês não têm coisas aqui que não se acha na cidade?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Na real, eu tava pensando nisso também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x185,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Por exemplo, o tempo passa mais devagar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "O t-tempo?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x186,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Sim. Eu senti que o tempo passa diferente aqui em comparação com a cidade."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x186,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Aqui, todo mundo trabalha no próprio ritmo, junto com o sol."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x186,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Mas o pessoal da cidade tava trabalhando duro, como se estivessem sendo cobrados por hora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x187,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Acho que eu não ia dar conta disso, não."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Nunca tinha pensado nisso, mas agora que você falou, parece verdade mesmo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0x11,
+            "msg_string": "Além disso, eu cansei de ver tanta gente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xd3,
+            "expr_id": 0x4,
+            "msg_id": 0x12,
+            "msg_string": "No começo, eu achei que tinha que dar oi pra todo mundo que eu encontrava."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Hahaha, isso deve ter sido cansativo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xd6,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Até eu ir pra Vierzeberg, tava louca de vontade de ir pra cidade, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Agora, tô começando a achar que a minha vida aqui nem é tão ruim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "É, provavelmente é melhor morar onde você se sente mais confortável."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "E outra, por que você não tá usando o vestido que a Marietta te deu hoje?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Ela me falou pra usar sempre, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Eu não consigo. Não quero estragar ele."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Entendi. Bom, acho que entendo como é. É difícil usar algo chique o tempo todo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Em vez disso, eu tiro da caixa e fico olhando todo dia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Ficar olhando pro vestido me lembra de todas as memórias boas da cidade."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Eu queria ir pra cidade de novo,<CR>mas talvez depois que for adulta."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Adulta? Por quê?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x1f,
+            "msg_string": "Ué, pra arrumar um marido, claro."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x20,
+            "msg_string": "Um marido!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x123,
+            "expr_id": 0x4,
+            "msg_id": 0x21,
+            "msg_string": "O quêêê...? Tanya, você já tá pensando nisso!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0x22,
+            "msg_string": "Ah, não tem ninguém aqui!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0x23,
+            "msg_string": "Então eu preciso ir pra cidade e achar um!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0x24,
+            "msg_string": "Da próxima vez que eu for pra lá, tenho que trazer um marido como lembrancinha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x45,
+            "expr_id": 0x2,
+            "msg_id": 0x25,
+            "msg_string": "Hahaha, embora isso não vá rolar tão cedo..."
+        }
+    ]
+}

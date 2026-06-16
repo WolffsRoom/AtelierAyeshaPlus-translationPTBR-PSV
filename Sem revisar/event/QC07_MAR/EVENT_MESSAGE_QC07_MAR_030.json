@@ -1,0 +1,402 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC07_MAR_030.ebm",
+    "nb_messages": 0x2c,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xe9,
+            "expr_id": 0x4,
+            "msg_id": 0x0,
+            "msg_string": "suspiro Talvez ficar de tocaia nesse lugar seja só perda de tempo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x165,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Essa é a única cidade grande da região. Tenho certeza que ele vai precisar de suprimentos uma hora ou outra."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x167,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Então ele não daria as caras nessa cidade mais cedo ou mais tarde?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xed,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Pela lógica isso deveria ser verdade, mas esse não é nosso único trabalho, lembra?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Uma tocaia não serve de nada se não pudermos ficar de olho o tempo todo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Além disso, é ridículo a gente ter que procurar alguém num país estrangeiro, sem nem um retrato."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Será que o pessoal da sede tá sacaneando a gente...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Ah, Marion e Linca, vocês estão investigando hoje também?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Bom, o trabalho de hoje é mais sobre<CR>procurar uma certa pessoa,<CR>em vez do nosso trabalho de sempre."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Aliás, Ayesha, chegou na hora certa! Tenho uma coisa que quero te perguntar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Não se preocupa, não vai demorar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Beleza, se é assim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Bom, a sede tá procurando uma certa pessoa... e eu recebi esse cartaz de procurado..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "Hã!? Um f-f-fugitivo!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Eu não conheço muita gente,<CR>então duvido que o fugitivo seja alguém que eu<CR>conheça..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Só escuta, a gente só tem o histórico pessoal desse cara. Não temos nem um esboço do rosto dele."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Mas eu achei que talvez você conhecesse."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Hmm, tá bom. Mas não tenho certeza se vou conseguir ajudar ou não."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Obrigada. O nome da pessoa procurada é Keithgriff Hazeldine."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Ele tem uns 40 e poucos anos, é alto e magro,<CR>tem cabelo grisalho e bigode. Ah,<CR>e tá sempre fumando."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "E... esse é o ponto principal.<CR>Esse cara procurado é um alquimista,<CR>igual a você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x15,
+            "msg_string": "Um alquimista...? Eu...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Hã, o que é um alquimista? Outras pessoas já me chamaram disso antes também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Hã? Você não sabe? Será que chamam de um jeito diferente por aqui..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Ayesha, até eu sei o que os alquimistas são."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "As pessoas chamam alguém como você de alquimista."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x1a,
+            "msg_string": "O qu-!? Eu sou uma alquimista...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xeb,
+            "expr_id": 0x4,
+            "msg_id": 0x1b,
+            "msg_string": "Linca, sua explicação não explica nada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xed,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "É alguém que conhece vários materiais e tem a habilidade de criar e transformar eles..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Criar metais preciosos a partir de metais comuns, ou explorar o poder que existe nas coisas da natureza para fazer curas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Viu? É a mesma coisa que você faz. Essa habilidade se chama alquimia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "E-Então é isso... Eu nem sabia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Hmm... mas eu ainda me vejo como uma boticária..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "Parece que você não entende a grandeza das suas habilidades."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "Já sei! Eu tenho o livro perfeito pra você, pode ficar com ele."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "É um livro de alquimia. Acho que você vai conseguir tirar bom proveito dele."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1a5,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "Nossa, muito obrigada. E desculpa por fazer vocês se preocuparem comigo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x25,
+            "msg_string": "Não se preocupa. Em troca, se você descobrir alguma coisa sobre esse procurado, me avisa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x26,
+            "msg_string": "Bom Linca, vamos dar o trabalho por encerrado e ir pra casa por hoje."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x19b,
+            "expr_id": 0x0,
+            "msg_id": 0x27,
+            "msg_string": "Certo. Ayesha, a gente se vê."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x28,
+            "msg_string": "(Nossa, ganhei um livro bem legal. Vou ler assim que chegar.)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x29,
+            "msg_string": "(Mesmo assim, uma pessoa procurada.<CR>Uns 40 anos, com cabelo grisalho,<CR>bigode e cigarros...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2a,
+            "msg_string": "(Peraí...)"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Você conseguiu o livro: Básico da Alquimia."
+        }
+    ]
+}

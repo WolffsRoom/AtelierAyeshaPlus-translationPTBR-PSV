@@ -1,0 +1,203 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC02_REG_080.ebm",
+    "nb_messages": 0x16,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd4,
+            "expr_id": 0x4,
+            "msg_id": 0x0,
+            "msg_string": "Essa ruína tá totalmente vazia agora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Elas tão por toda parte, mas tem um monte de ruínas espalhadas por essa área."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd6,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Uma vez, na época que o meu pai ainda tava na ativa, ouvi dizer que isso aqui costumava ser mais animado, com mais gente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Mas quando eu cheguei na idade de entender as coisas, já tava basicamente assim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Ouvindo isso, quase consigo sentir a história desse lugar. O que as pessoas conseguiam coletar por aqui?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Materiais de pedra. Bom, as coisas são meio<CR>desgastadas pelo tempo por aqui,<CR>então a qualidade não é tão boa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Acho que costumava ser um lugar difícil de trabalhar. Sabe aquelas torres por aí?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "O chão era fofo porque era um pântano, e muitas delas desabaram."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "...Teve um acidente durante uma escavação aqui, e foi por isso que meu pai teve que se aposentar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd1,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "Pensando bem, não é o meu lugar favorito..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "Entendi... Me desculpa, eu fui tão insensível."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd2,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Ah não, não fica triste.<CR>Não foi nada que arriscasse a vida dele."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Ele é mais durão que os caras daqui, e continua saudável, trabalhando na roça."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc6,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Ah, que bom..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "É que com a lesão dele, ele<CR>não conseguia mais fazer trabalho pesado,<CR>aí ele se aposentou de ser prospector."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "\"Então, eu vou substituir meu pai!\"<CR>...Foi assim que eu comecei nesse trampo, mas.."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x12,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Talvez eu tenha sido muito apressada. Pensando bem, não tinha motivo pra eu fazer o mesmo trabalho..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Hmm, mas eu acho que ser prospectora combina com você, Regina."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Hahaha, pra falar a verdade, eu também acho. Cavar atrás de tesouros enterrados não é nada mau."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Mas, eu me pergunto até quando eu vou conseguir continuar fazendo isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x14,
+            "msg_string": "(Até quando dá pra continuar fazendo alguma coisa... Eu nunca tinha pensado nisso.)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x15,
+            "msg_string": "(Mas sinto que isso é muito importante...)"
+        }
+    ]
+}

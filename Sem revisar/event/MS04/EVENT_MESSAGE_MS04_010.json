@@ -1,0 +1,52 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MS04_010.ebm",
+    "nb_messages": 0x5,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Tem dois jeitos de viajar no Mapa do Mundo: Modo Padrão e Modo Direto."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "No Modo Padrão, use <IM10> pra escolher seu caminho. Isso ajuda a ajustar a quantidade de dias da viagem."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "No Modo Direto, use <IM26> pra escolher seu destino. Isso ajuda a fazer a viagem no menor tempo possível."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Em qualquer modo, aperte <IM02> enquanto viaja<CR>pra cancelar."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Os dias passam enquanto você viaja no Mapa do Mundo. Se você ficar andando a esmo, os dias vão passar bem rápido, então cuidado."
+        }
+    ]
+}

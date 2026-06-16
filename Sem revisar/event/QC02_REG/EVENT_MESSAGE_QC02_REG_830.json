@@ -1,0 +1,150 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC02_REG_830.ebm",
+    "nb_messages": 0x10,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Então, esse túnel tá desgastando bastante."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "A gente vem consertando ele,<CR>mas no geral tá bem instável."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "O problema tá pior bem aqui. Provavelmente não vai demorar muito até que a gente não consiga mais usar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Entendi. O outro lado parece que vai desabar a qualquer momento."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Né? Tenho certeza que um monte de gente vai se dar mal se esse pedaço cair."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Mas tá mais firme aqui desse lado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Tô pensando que seria mais prático se a gente construísse uma ponte daqui pro outro lado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Ayesha, o que você acha?<CR>É ambição demais?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x8,
+            "msg_string": "Parece que você vai precisar de bastante<CR>tempo e materiais, mas... acho<CR>que é possível."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Beleza, então vamos nessa! Pode ser difícil, mas vai ajudar todo mundo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Claro, eu ajudo a juntar os materiais."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Mas, será que a gente consegue construir uma ponte só nós duas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Quando chegar nessa parte,<CR>vou pedir pro pessoal dar uma mão."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Primeiro, por que a gente não se prepara pra construir a ponte?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Entendi... Acho que podemos fazer isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Certo, bora fazer isso, Regina!<CR>Já tô começando a ficar no pique também!"
+        }
+    ]
+}

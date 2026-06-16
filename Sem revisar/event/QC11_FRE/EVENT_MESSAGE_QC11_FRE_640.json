@@ -1,0 +1,34 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC11_FRE_640.ebm",
+    "nb_messages": 0x3,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0x5,
+            "msg_id": 0x0,
+            "msg_string": "Beleza, acho que já tenho todas as avaliações do pão que eu precisava."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15f,
+            "expr_id": 0x5,
+            "msg_id": 0x1,
+            "msg_string": "Tanto o Sr. Kyle quanto a Srta. Odelia falaram que tava delicioso!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Mas... será que esse é o tipo de pão que o Sr. Fred realmente quer fazer...?"
+        }
+    ]
+}

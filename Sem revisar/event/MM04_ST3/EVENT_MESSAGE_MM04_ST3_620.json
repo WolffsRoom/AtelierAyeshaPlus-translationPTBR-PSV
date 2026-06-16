@@ -1,0 +1,178 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM04_ST3_620.ebm",
+    "nb_messages": 0x13,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x0,
+            "msg_string": "Caramba! É um botão muito grande..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x185,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Quando meu avô era criança, o avô dele contou..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x186,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Que mesmo naquela época, isso já era um botão enorme."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Então, talvez esteja assim há uns cem anos..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x187,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Não é incrível? Não parece nem um pouco murcho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x5,
+            "msg_string": "Parece igualzinha à flor do livro... Como será que eu faço ela desabrochar...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Eu perguntei pro meu avô, e ele disse que essa flor vive por muito, muito tempo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "E que nem você disse, ela só desabrocha a cada cem anos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Então, por cem anos, essa planta junta nutrientes, se preparando pra desabrochar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "E quando chega a hora certa, a flor desabrocha por alguns dias. Mas, faz muiiiito tempo desde a última vez que ela abriu."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Meu avô nem chegou a ver ela desabrochar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Entendi... Talvez seja porque esse lugar ficou todo devastado..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Nesse caso... se eu der uns nutrientes pra ela, talvez ela desabroche!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x129,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "Ooh, Ayesha, deve ser isso mesmo!<CR>Tô sentindo que isso vai dar certo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x12b,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Mas como você vai preparar o equivalente a cem anos de nutrientes?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Acho que consigo fazer isso sintetizando algo cheio de nutrientes...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x10,
+            "msg_string": "Sério!? Sabe, até eu tô começando a ficar super empolgada agora!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0x11,
+            "msg_string": "Você talvez seja a única pessoa no mundo que consegue fazer essa flor desabrochar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Beleza... eu vou conseguir!"
+        }
+    ]
+}

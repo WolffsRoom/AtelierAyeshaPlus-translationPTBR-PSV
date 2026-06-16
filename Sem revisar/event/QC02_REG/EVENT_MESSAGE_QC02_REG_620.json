@@ -1,0 +1,251 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC02_REG_620.ebm",
+    "nb_messages": 0x1b,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1f8,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "msg_string": "Bom, desculpa incomodar vocês quando tão ocupados. Eu sei que foi em cima da hora, mas a gente vai dar uma reduzida nos slags."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1f9,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "msg_string": "Se vocês, rapazes, tiverem um tempo livre, por favor venham se juntar a nós."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Chefe, eu tô ocupada e, além disso, eu não sou um cara."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1f9,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "msg_string": "Sua participação é obrigatória.<CR>Suas habilidades de exterminar slags são<CR>muito superiores às desses caras aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "O quêêê? Isso foi um elogio, Chefe?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1fe,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "msg_string": "Para de ficar toda felizinha.<CR>É a verdade, não é?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1f9,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "msg_string": "Enfim, o cara com a<CR>melhor performance vai<CR>ganhar um prêmio em dinheiro."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1f9,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "msg_string": "Além disso, como prêmio extra,<CR>eu também vou dar a minha bebida especial,<CR>então deem o seu melhor."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x46,
+            "expr_id": 0x2,
+            "msg_id": 0x8,
+            "msg_string": "Hã? A gente ganha bebida!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1f9,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x9,
+            "msg_string": "Ah, agora você se interessou, né?<CR>É a minha bebida especial...<CR>então é das boas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x48,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Os prêmios do Chefe são promissores...<CR>*gulp* A Regina vai dar o seu melhor!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Então, vamos dar o nosso melhor, Ayesha!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Sim. Vamos tomar cuidado pra não nos machucar e dar o nosso melhor!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "...Hã? Eu vou ter que fazer isso também?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "É mais eficiente com mais gente. Eu divido a bebida com você depois!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Mas eu não bebo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Então, eu divido o dinheiro! Beleza?<CR>Você topa essa, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x12,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Pensa nisso como se tivesse me ajudando!<CR>O Chefe sempre tem as melhores bebidas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Hmm... tá bom. Eu não consigo dizer não para um favor pra Regina."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Mas acho que não vou ajudar muito."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Valeu! Eu te amo, Ayesha!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Hehehe, amor é um pouco demais...<CR>Não pega tão pesado comigo, por favor."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1fe,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "msg_string": "As regras são as mesmas de sempre.<CR>Tragam os núcleos dos slags como prova.<CR>Só isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1f9,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x17,
+            "msg_string": "Certo então, rapazes, desejo a vocês muita sorte. Agora, que comece a festa!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x219,
+            "name_id": 0x30,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x18,
+            "unknown2": 0x1,
+            "msg_string": "Aêêê!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x21a,
+            "name_id": 0x31,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x19,
+            "unknown2": 0x1,
+            "msg_string": "Aêêê!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x218,
+            "name_id": 0x2f,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1a,
+            "unknown2": 0x1,
+            "msg_string": "Aêêê!"
+        }
+    ]
+}

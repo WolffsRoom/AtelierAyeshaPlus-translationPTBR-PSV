@@ -1,0 +1,177 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC11_FRE_520.ebm",
+    "nb_messages": 0x13,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Marietta! Sei que é meio de repente, mas que tipo de pão você gostaria de comer hoje!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x7a,
+            "expr_id": 0x3,
+            "msg_id": 0x1,
+            "msg_string": "Nossa, que susto! E que tipo de pergunta é essa?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Bem, isso, hum... é que eu tô muito curiosa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x7c,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Que tipo de pão eu gostaria de comer...? É difícil quando eu tenho que limitar minhas opções de comida só a pão..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15e,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Vamos ver... Falando em pão, sabe aquela padaria nova?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15f,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "É aquela loja que é do cara grandão e calado..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x6,
+            "msg_string": "Hã? Ele é... calado?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Aham. Tudo que ele fala é \"bem-vindo\" e \"muito obrigado\"."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Fora isso, ele fica sempre me encarando com uma cara de assustar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xf5,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "Eu gosto de como o pão é gostoso,<CR>mas não sei se aquele lugar<CR>vai pra frente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xf7,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Como uma colega de comércio, fico meio preocupada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xb,
+            "msg_string": "(Hã? Isso parece completamente diferente do que eu lembro. Talvez eu tenha muito a aprender...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15e,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Enfim, voltando ao pão...<CR>Hum..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15f,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Não tem nada de errado com pães doces e fofos, mas eu ficaria feliz com pães que tenham recheio."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Tipo aqueles que dá pra comer de almoço. Algo como uma torta de carne."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Uma torta de carne... Entendi..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x69,
+            "expr_id": 0x2,
+            "msg_id": 0x10,
+            "msg_string": "Fora isso... eu gosto de pães fofos. Quanto mais variedade, mais feliz eu fico."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Saquei. Muito obrigada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "msg_string": "(Descobri do que a Marietta gosta, então devo contar pro Sr. Fred agorinha!)"
+        }
+    ]
+}

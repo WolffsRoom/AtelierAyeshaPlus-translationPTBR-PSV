@@ -1,0 +1,195 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC06_NIO_410.ebm",
+    "nb_messages": 0x15,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ah, Mana. Bem-vinda!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Hã, Nio!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Bom, ouvi dizer que dava pra abrir uma lojinha aqui, então tô fazendo um teste."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Tô vendendo coisas que eu coletei, tipo umas ervas medicinais."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x4,
+            "msg_string": "Você é muito boa em colocar as coisas em prática. Eu ainda não tava sabendo disso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "Desculpa. Eu queria te ajudar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xd1,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "Sabe como você tá sempre me ajudando?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xd2,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Então pensei que talvez eu pudesse fazer algo especial com as vendas dessa loja."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Nio... você não precisa se preocupar com isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "Eu só tô feliz de ter você do meu lado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0xa,
+            "msg_string": "Eu também tô feliz de estar do seu lado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0xb,
+            "msg_string": "Então eu quero fazer algo pra você,<CR>já que você tá sempre dando o seu melhor!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0xc,
+            "msg_string": "E eu vou dar o meu melhor com as coisas que eu consigo fazer!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc6,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "*sniff* Nio, você é uma garota tão boa... Então, acho que vou levar isso?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x41,
+            "expr_id": 0x2,
+            "msg_id": 0xe,
+            "msg_string": "Beleza, isso dá 75 Cole!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Ah, então você vai me cobrar também?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x193,
+            "expr_id": 0x2,
+            "msg_id": 0x10,
+            "msg_string": "Claro! Eu vou guardar com segurança o dinheiro das vendas!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x1,
+            "expr_id": 0x2,
+            "msg_id": 0x11,
+            "msg_string": "Quando eu tiver um bom dinheiro guardado, eu te dou!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Mas tô achando que o dinheiro só vai ficar indo e voltando entre a gente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x2,
+            "expr_id": 0x2,
+            "msg_id": 0x13,
+            "msg_string": "Se você só pensar que tá guardando na poupança, vai ficar tudo bem!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x7,
+            "expr_id": 0x2,
+            "msg_id": 0x14,
+            "msg_string": "Então, vamos lá e compre um monte!"
+        }
+    ]
+}

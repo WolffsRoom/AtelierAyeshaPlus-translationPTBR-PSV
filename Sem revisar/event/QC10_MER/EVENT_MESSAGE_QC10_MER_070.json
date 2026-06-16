@@ -1,0 +1,337 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC10_MER_070.ebm",
+    "nb_messages": 0x25,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Essa é a..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Hmm, o que será que é...<CR>Eu não sei, mas... é tão fofinho!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Ah, é o Homunculus. Fofo como sempre...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Ah, ele entrou na loja da Marietta..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x214,
+            "name_id": 0x2b,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "msg_string": "Eu procurando brilhinhos bonitos.<CR>Tem aqui?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15e,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Brilhinhos bonitos...?<CR>O que será que são..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x214,
+            "name_id": 0x2b,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "msg_string": "Brilhinhos. Parecem bonitos como estrelas e derretem. Brilhinhos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Bonitos como estrelas...? São tipo joias? Vão ser bem caras então."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x214,
+            "name_id": 0x2b,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x8,
+            "msg_string": "Eu tenho dinheiro. Muito.<CR>Eu compro tudo. Não se preocupa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x12d,
+            "expr_id": 0x3,
+            "msg_id": 0x9,
+            "msg_string": "Eita, tudo isso...? Dá pra ver que você tá procurando uns itens bem caros."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x214,
+            "name_id": 0x2b,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "msg_string": "Posso comprar brilhinhos com isso?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x12b,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Pode ser meio difícil de arranjar na hora, mas com todo esse dinheiro..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1a6,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Tenho certeza que vou conseguir uns itens que cheguem à altura dos seus desejos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x214,
+            "name_id": 0x2b,
+            "extra_id": 0x227,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "msg_string": "Não altura. Brilhinhos!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Ah, certo, certo.<CR>Hmm, sobre o prazo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x214,
+            "name_id": 0x2b,
+            "extra_id": 0x22a,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "msg_string": "Prazo? O que é isso?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15e,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Hmm, um prazo é, bom, basicamente..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Esperar 30 dias. Lindos brilhinhos, entregues pra você!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x214,
+            "name_id": 0x2b,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "msg_string": "Tá bom. Esperar 30 dias. Conto com você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Esse foi um cliente muiiito fofo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Ele era fofo, mas lidar com ele me deixou nervosa. Clientes não humanos são bem raros..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "E também é raro um Homunculus<CR>vir pra cidade. Bom, não importa<CR>quem seja o cliente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x16,
+            "msg_string": "Ele adiantou uma grana boa, então preciso conseguir itens que atendam ao que ele pediu!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Mas ter só \"brilhinhos\" como dica é fogo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x7a,
+            "expr_id": 0x3,
+            "msg_id": 0x18,
+            "msg_string": "É aqui que eu mostro do que uma mercadora é capaz. Hehe, eu tava doida pra botar minhas habilidades em prática."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Hmm, tô sentindo um leve receio por algum motivo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Parecia que ele queria joias,<CR>mas será que os Homunculi sabem<CR>o valor delas?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x7c,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "O problema não é esse...<CR>Pera, eu quis dizer...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Sr. Dono, se você tava assistindo,<CR>devia ter me ajudado!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x141,
+            "expr_id": 0x4,
+            "msg_id": 0x1d,
+            "msg_string": "N-Não. Eu sinto que não sou muito bom em lidar com eles."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x143,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "É difícil sacar o que alguém quer quando não consigo entender como a cabeça deles funciona."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "De qualquer forma, talvez não precise levar tudo que eles dizem a sério..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Seja quem for o cliente, ainda é um cliente. É meu dever como mercadora atendê-los com sinceridade."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "É-É, tá certo. É bem como você disse."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x1a0,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "Dito isso, deixo esse caso inteiramente nas suas mãos. Boa sorte."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x79,
+            "expr_id": 0x3,
+            "msg_id": 0x23,
+            "msg_string": "Claro... Deixa comigo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x7b,
+            "expr_id": 0x3,
+            "msg_id": 0x24,
+            "msg_string": "Hehe, é o maior trabalho que pegamos em um tempo. Certo, eu preciso fazer isso!"
+        }
+    ]
+}

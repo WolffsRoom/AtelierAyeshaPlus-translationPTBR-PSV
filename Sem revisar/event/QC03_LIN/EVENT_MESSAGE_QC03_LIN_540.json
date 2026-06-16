@@ -1,0 +1,247 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC03_LIN_540.ebm",
+    "nb_messages": 0x1b,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Bem-vindas à Aula de Culinária da Linca e da Ayesha! A tarefa de hoje é fazer um prato com ovo enrolado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "A Marion também gosta de pratos com ovo. Preciso aprender isso de qualquer jeito!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Dessa vez, vamos prestar atenção no visual também. Se parecer bom, vai ter um gosto bom também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x122,
+            "expr_id": 0x3,
+            "msg_id": 0x3,
+            "msg_string": "Q-Que segredo incrível...!<CR>Preciso lembrar disso!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Decorar o visual de alguma forma vai deixar mais gostoso. Aprendi uma dica útil."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Agora, vamos começar a cozinhar!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x6,
+            "msg_string": "Ahn... humm, isso é...<CR>Pode ser um fracasso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0x7,
+            "msg_string": "É. Está completamente diferente dos que eu sempre vejo sendo servidos nas mesas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd1,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "Talvez seja impossível pra mim cozinhar, no fim das contas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "V-Você não pode desistir ainda.<CR>A gente só... precisa mudar os planos!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Ovos mexidos são mais fáceis de fazer.<CR>Se você acha que não vai dar certo,<CR>é só mudar de ideia no meio do caminho!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x165,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Tentar encontrar uma saída em dificuldades extremas... Mesmo contra grandes adversidades, nunca se deve desistir..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x167,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Existe uma estratégia baseada nessas mesmas táticas. Então, é a mesma coisa!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "É, então vamos tentar!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "Ayesha, isso é...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0xf,
+            "msg_string": "Humm... costumava ser ovo mexido..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc5,
+            "expr_id": 0x4,
+            "msg_id": 0x10,
+            "msg_string": "Mas isso foi só por um breve momento. O fogo estava forte demais..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd1,
+            "expr_id": 0x4,
+            "msg_id": 0x11,
+            "msg_string": "É o que parece. Não tem mais nenhuma evidência de que isso era ovo. Agora parece mais com... carvão..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc6,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Mas, mas, mas... ainda pode ficar legal se a gente colocar um pouco de cor..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd2,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "...Cor? Mas está marrom."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Humm, humm... então que tal essa bandeirinha?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x122,
+            "expr_id": 0x3,
+            "msg_id": 0x15,
+            "msg_string": "Ooh! Uma bandeirinha num prato...<CR>Ficou tão impressionante...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Humm, então existe uma técnica assim na culinária..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Colocar uma bandeirinha no prato meio que faz ele parecer bonito..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Aprendi muito! Vou lembrar disso como um último recurso!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x165,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Porém, isso é quase igual a<CR>acenar uma bandeira branca em rendição...<CR>Preciso tentar evitar isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1a,
+            "msg_string": "(Humm... acho que passei a ideia errada pra ela. Ensinar é difícil...)"
+        }
+    ]
+}

@@ -1,0 +1,248 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM03_ST2_020.ebm",
+    "nb_messages": 0x1b,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ué, o que é isso? Estão brilhando."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Flores de vidro...? Elas são tão lindas...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Então, essas são as flores brilhantes que você tava falando? Aquelas que nascem nas ruínas? São bem bonitas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Já fui em várias ruínas, mas nunca vi nada parecido com isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "É a primeira vez que vejo essas flores de vidro também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Olha pra elas... não são de mentira,<CR>elas estão vivas de verdade!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Nossa, você tem razão!<CR>Elas também têm um cheiro muito bom."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Hehehe, ainda bem que eu sou prospectora. Senão, eu nunca ia ver umas flores misteriosas assim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Pois é. Também tinha umas flores brilhantes e misteriosas no lugar em que a Nio sumiu..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Nio... que saudade dela..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x122,
+            "expr_id": 0x3,
+            "msg_id": 0xa,
+            "msg_string": "M-Mas o que é isso? Ayesha, toma cuidad…"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0xb,
+            "msg_string": "É-É a... Nio!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x126,
+            "expr_id": 0x3,
+            "msg_id": 0xc,
+            "msg_string": "O que tá rolando!? Eu... nunca vi nada desse tipo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7a,
+            "expr_id": 0x3,
+            "msg_id": 0xd,
+            "msg_string": "Nio, acorda! Sou eu, sua irmã, Ayesha!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7c,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Vem pra casa comigo. Tá todo mundo te esperando!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Ah..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x128,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Ela sumiu..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc7,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x11,
+            "msg_string": "..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x165,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "E-Ei! Eu sei que não entendo nada desse tipo de coisa, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x166,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Eu acho mesmo que a Nio ainda tá viva!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x166,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Tipo o que acabou de rolar. Pareceu totalmente diferente de só algum tipo de ilusão."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x167,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Então, tenho certeza que tem um jeito de salvar ela!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xca,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Eu... também acho. Tem que ter algum jeito de salvar ela..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Lembro de ele ter dito... que investigar as flores também era fundamental."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Vou pegar só uma dessas flores. Vai que ela me leva até a Nio no futuro..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Vou pegar só uma dessas flores. Vai que ela me leva até a Nio no futuro..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Você obteve a Pétala de Vidro."
+        }
+    ]
+}

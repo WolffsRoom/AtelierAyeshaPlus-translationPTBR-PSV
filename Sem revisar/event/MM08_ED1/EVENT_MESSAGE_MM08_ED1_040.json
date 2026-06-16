@@ -1,0 +1,493 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM08_ED1_040.ebm",
+    "nb_messages": 0x36,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x0,
+            "msg_string": "Eu me pergunto o que é aquele \"algo especial\" do Sr. Harry..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x15e,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Ele não deu nenhuma dica na carta. Hmm, o que será que é?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Ele disse que queria fazer uma surpresa, e que a gente devia ir até a ponte em Hornheim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Tô começando a ficar nervosa..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Hmhmhm, eu tô começando a ficar animada. Vamos nos apressar e ir logo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Oi, Sr. Harry!<CR>Uau, que balão enorme...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x18,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Hmhmhm, surpresas? Este é o meu balão especial, feito sob medida..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x22,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Eu o batizei de \"Explorador do Conhecimento e da Liberdade\"!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Uau. Esse é... um nome poderoso!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x25,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Não é? Ele satisfaz minha mente curiosa e espírito aventureiro."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Então o seu algo especial era só a revelação desse balão?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Bem, claro que isso era parte da coisa. Porém, tem muito mais que isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x22,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Porque, eu mandei fazer esse balão sob medida para você!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Ah... Hã!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x25,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Pelos últimos três anos, você tem sido notável. Você encontrou vários tesouros, itens escondidos e artigos raros."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Sinceramente, fiquei com inveja das suas habilidades... Habilidades que pertencem a uma aventureira tão jovem."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0x10,
+            "msg_string": "Mas eu não sou aventureira, sou uma boticária..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x22,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "No entanto! Você não pode se dar ao luxo de achar que já alcançou o topo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x24,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Porque esse mundo ainda tá cheio de tesouros escondidos que a gente nem imagina."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc6,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Isso é... verdade. As coisas que eu encontrei foram só uma pequena parte, comparado a tudo que existe..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Sim, exato. Só de pensar nisso já é o bastante pra fazer o sangue ferver!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x15,
+            "msg_string": "Será... Isso até que me deixa animada, mas ao mesmo tempo não deixa..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x56,
+            "expr_id": 0x2,
+            "msg_id": 0x16,
+            "msg_string": "Hmhm, apenas seja sincera com seus sentimentos. Eu consigo ouvir a voz do seu coração."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x57,
+            "expr_id": 0x2,
+            "msg_id": 0x17,
+            "msg_string": "É verdade, ser boticária pode ser a sua vocação, mas não precisa ser a única!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x57,
+            "expr_id": 0x2,
+            "msg_id": 0x18,
+            "msg_string": "Ir atrás de tesouros desconhecidos... também é a sua vocação!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x5e,
+            "expr_id": 0x2,
+            "msg_id": 0x19,
+            "msg_string": "Deixa eu te perguntar... Tesouros ainda não descobertos estão escondidos por todo o mundo. Você gostaria de procurá-los comigo!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x1a,
+            "msg_string": "Hum, isso significa... que você e eu vamos viajar juntos pra caçar tesouros, Sr. Harry...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x58,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Exatamente. Esse balão foi preparado justamente para esse propósito!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Uau, isso que é um convite. Mana, você vai entrar nessa aventura?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15e,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Hmhmhm, me desculpe, mas eu vou pegar a sua irmã emprestada por um tempo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15f,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Não se preocupe. Você não vai ter que esperar tanto tempo. Depois de um ou dois meses, nós retornaremos..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x161,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Com esse navio lotado de tesouros não identificados!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x20,
+            "msg_string": "Uou! Eu quero ver tudo, Mana!<CR>Dê o seu melhor pra trazer de volta muitos tesouros."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x45,
+            "expr_id": 0x2,
+            "msg_id": 0x21,
+            "msg_string": "E o senhor também, Sr. Harry! Eu vou estar esperando por um SUPER tesouro!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15d,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x22,
+            "msg_string": "(Hmm... O plano do Sr. Harry parece meio divertido.)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15f,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x23,
+            "msg_string": "(Mas eu tenho meu trabalho como boticária e outras promessas... Argh, o que eu faço?)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "Bom, tudo isso é tão repentino e eu tô começando a ficar um pouco confusa..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x25,
+            "msg_string": "Não há motivo para ter dúvidas. Apenas ceda aos desejos do seu coração e grite: \"Sim!\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x26,
+            "msg_string": "Hum, então... Sim!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x18,
+            "expr_id": 0x0,
+            "msg_id": 0x27,
+            "msg_string": "Ótimo, tá decidido. Então vamos partir imediatamente!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x28,
+            "msg_string": "Com licença... O senhor quer dizer, tipo, agora mesmo?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0x29,
+            "msg_string": "Sim. Os tesouros que ainda dormem por todo o mundo aguardam a nossa chegada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0x2a,
+            "msg_string": "O mundo vai ser um oponente forte. No entanto, se formarmos uma equipe, não temos nada a temer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x22,
+            "expr_id": 0x0,
+            "msg_id": 0x2b,
+            "msg_string": "Devemos ser gratos por nascer nesse mundo cheio de mistérios e tesouros."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x25,
+            "expr_id": 0x0,
+            "msg_id": 0x2c,
+            "msg_string": "Hmhmhm, quão maravilhoso é que nosso mundo seja tão cheio de esperança!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2d,
+            "msg_string": "Q-Quando você fala assim, acho que essa viagem tá ficando mais animada..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2e,
+            "msg_string": "Beleza! Vamos nessa, Sr. Harry!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x2f,
+            "msg_string": "Hmm, bom... Foi mal. Eu já tenho um compromisso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x30,
+            "msg_string": "O quê!? Você não vai? Hmm..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x18,
+            "expr_id": 0x0,
+            "msg_id": 0x31,
+            "msg_string": "Pra recusar uma oferta dessas, imagino que você já esteja atrás de um grande tesouro."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x32,
+            "msg_string": "Saquei, saquei... Pelo jeito o destino quer que a gente seja rival, afinal."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0x33,
+            "msg_string": "Eu entendo. Você vai pro seu lado e eu pro meu, cada um de nós buscando nosso tesouro."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0x34,
+            "msg_string": "A gente vai ter uma rivalidade amigável. Isso é legal também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x35,
+            "msg_string": "Hmm, não tem nada a ver com tesouro... Me desculpa mesmo!"
+        }
+    ]
+}

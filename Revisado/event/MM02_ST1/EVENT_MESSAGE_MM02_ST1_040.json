@@ -1,0 +1,327 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM02_ST1_040.ebm",
+    "nb_messages": 0x24,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1fb,
+            "msg_string": "Uau! Que quarto incrível...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x18,
+            "expr_id": 0x0,
+            "msg_id": 0x1fc,
+            "msg_string": "Ah… não é grande coisa. Eu tenho um monte de quartos iguais a esse."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x1a,
+            "expr_id": 0x0,
+            "msg_id": 0x1fd,
+            "msg_string": "Pense como se fosse a sua própria casa,<CR>e fique à vontade pra usar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x1fe,
+            "msg_string": "Harry, sua generosidade e facilidade de abrir a carteira são excepcionais, como sempre."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x56,
+            "expr_id": 0x2,
+            "msg_id": 0x1ff,
+            "msg_string": "Ah, ser elogiado assim até me deixa sem graça. Oh, minha nossa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x58,
+            "expr_id": 0x0,
+            "msg_id": 0x200,
+            "msg_string": "Você disse que o seu nome é Ayesha? Tenho certeza que vir do interior pra cá não deve ter sido tão agradável assim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x21,
+            "expr_id": 0x0,
+            "msg_id": 0x201,
+            "msg_string": "Acho que a Marietta me falou que você vende remédios..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x1f,
+            "expr_id": 0x0,
+            "msg_id": 0x202,
+            "msg_string": "Nesse caso, você tem uma certa ligação com a minha loja. Não precisa fazer cerimônia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x203,
+            "msg_string": "Tá bom, eu vou usar esse quarto.<CR>Muito obrigada!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x1a,
+            "expr_id": 0x0,
+            "msg_id": 0x204,
+            "msg_string": "Que nada, fico feliz em ajudar uma jovem boticária."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x1a0,
+            "expr_id": 0x0,
+            "msg_id": 0x205,
+            "msg_string": "Se tiver qualquer problema, fique à vontade pra vir falar comigo. Até o nosso próximo encontro."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd4,
+            "expr_id": 0x4,
+            "msg_id": 0x206,
+            "msg_string": "Nossa, o Harry não tem jeito mesmo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd5,
+            "expr_id": 0x4,
+            "msg_id": 0x207,
+            "msg_string": "Ele disse que ia tentar lembrar, mas eu tenho certeza que ele nem sabia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd6,
+            "expr_id": 0x0,
+            "msg_id": 0x208,
+            "msg_string": "De qualquer forma, é difícil odiar ele... Então não se sinta mal, tá bom?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x209,
+            "msg_string": "Claro que não. Só espero mesmo que ele não tenha problema em emprestar esse quarto..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x20a,
+            "msg_string": "Tá tranquilo. O Harry foi um fracasso total, mas você conseguiu esse quarto legal emprestado, então acho que compensou."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x20b,
+            "msg_string": "Gente de todos os arredores vem pra cá, então é o lugar perfeito pra procurar as coisas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x20c,
+            "msg_string": "Você tem razão. Mas ainda não tenho certeza por onde começar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x20d,
+            "msg_string": "Flores brilhantes... e pistas sobre a Nio... Preciso encontrar isso custe o que custar!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x20e,
+            "msg_string": "Regina, eu vou superar qualquer desafio que aparecer no meu caminho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0x20f,
+            "msg_string": "Tenho certeza de que vou achar pistas sobre a Nio em algum lugar!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x210,
+            "msg_string": "É isso aí, você consegue, Ayesha!<CR>Vou fazer o meu melhor pra te ajudar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x12,
+            "expr_id": 0x0,
+            "msg_id": 0x211,
+            "msg_string": "Eu só pretendia dar uma volta depois de terminar esse trabalho mesmo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x212,
+            "msg_string": "Fica à vontade pra contar comigo quando quiser."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x78,
+            "expr_id": 0x0,
+            "msg_id": 0x213,
+            "msg_string": "Nossa, ter você comigo vai ser uma baita ajuda!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x34ee,
+            "msg_string": "Regina, o que é isso?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x34ef,
+            "msg_string": "Um mapa! Dessa área aqui em volta. Eu vi lá no quarto, então trouxe comigo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x34f0,
+            "msg_string": "A gente precisa saber o que tem aqui em volta antes de poder começar a procurar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x34f1,
+            "msg_string": "Ah, um mapa... Eu não conheço nada da área fora do meu ateliê."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x34f2,
+            "msg_string": "Acho que tenho que começar dando uma olhada por aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x34f3,
+            "msg_string": "Isso mesmo, acho que isso vai quebrar um galhão pra gente. Além disso, perguntar pela cidade também pode ser uma boa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x34f4,
+            "msg_string": "Beleza! Vou dar o meu melhor!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Agora você pode usar o Quarto do Harry."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Você já pode usar atalhos.<CR>Aperte <IM19> para escolher onde ir e você será teletransportada para lá."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Você pode usar a função de atalhos para voltar para o mapa mundi."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Se viajar entre as áreas não consumir tempo, você pode usar atalhos."
+        }
+    ]
+}

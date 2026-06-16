@@ -1,0 +1,401 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC12_KYL_040.ebm",
+    "nb_messages": 0x2c,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa2,
+            "expr_id": 0x3,
+            "msg_id": 0x0,
+            "msg_string": "Cara, por que você sempre tem que me tratar assim?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Só tô dizendo a verdade.<CR>É bem simples."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa6,
+            "expr_id": 0x3,
+            "msg_id": 0x2,
+            "msg_string": "Olha, tem vezes que a verdade pode machucar os sentimentos das pessoas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Isso é porque você tem levado um estilo de vida vergonhoso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Hmm, qual é o problema? Não acho que seja bom brigar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Hã? A gente não tá brigando..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa3,
+            "expr_id": 0x3,
+            "msg_id": 0x6,
+            "msg_string": "Ha! Ayesha, você não tem muitos amigos garotos, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa3,
+            "expr_id": 0x3,
+            "msg_id": 0x7,
+            "msg_string": "Os caras viram amigos melhores falando as opiniões reais um pro outro desse jeito."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa8,
+            "expr_id": 0x3,
+            "msg_id": 0x8,
+            "msg_string": "Então é basicamente como abrir nossas almas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Ah, entendi... Ah, você também tá almoçando aqui, Juris?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Sim. Eu como aqui às vezes."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xaa,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Você não tem graça, Juris. Devia vir comer aqui sempre."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Prefiro fazer minhas refeições em paz."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Aliás, isso foi bem inesperado. Não sabia que vocês dois se conheciam."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x14,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Bom, foi uma relação forçada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Bom, foi uma relação forçada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x141,
+            "expr_id": 0x4,
+            "msg_id": 0x10,
+            "msg_string": "Eita, a gente acabou de falar a mesmíssima coisa! Isso vai além da amizade, coloca a gente no nível de amantes."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Hmhmhm, acho maravilhoso que vocês dois se deem tão bem."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x143,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Ayesha...<CR>O problema aqui não é esse..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Do que você tá falando?<CR>Enfim, só me traz outra bebida."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x10c,
+            "expr_id": 0x4,
+            "msg_id": 0x14,
+            "msg_string": "Ugh, você vai beber mais? Seu pinguço idiota!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x12,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Tô fazendo um favor pro dono dessa taverna. Acho que você devia me agradecer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x10d,
+            "expr_id": 0x4,
+            "msg_id": 0x16,
+            "msg_string": "Tsc. Bom... eu consegui uma bebida boa. Acho que essa tem um gosto bom, sabe!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Eu aceito o que der pra beber. Embora eu não tenha muitas esperanças pra qualquer bebida que você tenha escolhido..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x10f,
+            "expr_id": 0x4,
+            "msg_id": 0x18,
+            "msg_string": "Seu...! Você é tão cruel, Juris! Eu andei estudando sobre bebidas, sabia!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x112,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Cara, isso machuca... Desde quando você é o tipo de cara que diz coisas tão sem coração...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Opa, desculpa. Eu acabei deixando uma garota de lado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x1b,
+            "msg_string": "Haha, relaxa. Eu tô me divertindo vendo vocês dois conversarem."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x35,
+            "expr_id": 0x2,
+            "msg_id": 0x1c,
+            "msg_string": "Mas por que você tá dizendo coisas tão duras,<CR>Juris?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x110,
+            "expr_id": 0x4,
+            "msg_id": 0x1d,
+            "msg_string": "Bem... não é algo que eu gostaria de admitir, mas eu não bebo. Não consigo beber uma única gota de álcool."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Hã? Mas você é o dono dessa taverna!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x111,
+            "expr_id": 0x4,
+            "msg_id": 0x1f,
+            "msg_string": "Haha, não é engraçado? Eu queria ter minha própria taverna, então estudei igual um louco."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x113,
+            "expr_id": 0x4,
+            "msg_id": 0x20,
+            "msg_string": "Mas o Juris é tão frio comigo.<CR>Ayesha, por favor me elogia um pouco..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0x21,
+            "msg_string": "Mestre das Misturas, eu sinto tanta pena de você..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "Ayesha, deixa eu te dar um conselho. Não precisa dar bola pra ele."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "Quanto mais você se importar, mais ele vai se empolgar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x10f,
+            "expr_id": 0x4,
+            "msg_id": 0x24,
+            "msg_string": "Nossa, que coisa horrível de se dizer.<CR>Beleza então, você já me machucou o bastante."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x10e,
+            "expr_id": 0x0,
+            "msg_id": 0x25,
+            "msg_string": "Vou pedir pra Ayesha me elogiar da próxima vez que você não tiver por perto."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc6,
+            "expr_id": 0x0,
+            "msg_id": 0x26,
+            "msg_string": "Eu devia... elogiar ele?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x27,
+            "msg_string": "Você que devia decidir isso com base na conversa que acabamos de ter."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x28,
+            "msg_string": "Pessoalmente, acho que não devia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x29,
+            "msg_string": "Hmm, mas, agora eu sei que vocês dois são ótimos amigos..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2a,
+            "msg_string": "Amizades entre garotos são bem legais!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa2,
+            "expr_id": 0x3,
+            "msg_id": 0x2b,
+            "msg_string": "Hmm, mas eu prefiro ficar com uma garota..."
+        }
+    ]
+}

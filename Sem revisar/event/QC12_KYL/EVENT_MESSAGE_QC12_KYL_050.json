@@ -1,0 +1,294 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC12_KYL_050.ebm",
+    "nb_messages": 0x20,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Urgh, tô com tanta fome. Na verdade ainda nem almocei..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "*sniff* *sniff*<CR>...Hã? Tem alguma coisa cheirando uma delícia..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "O que será que é... É peculiar, mas tem um cheiro tão gostoso... *sniff* *sniff* Tá vindo daqui?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa7,
+            "expr_id": 0x3,
+            "msg_id": 0x3,
+            "msg_string": "Digo, isso até parece delicioso,<CR>mas... o cheiro não é forte demais?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15e,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "É uma das especiarias mais aromáticas que você consegue no leste."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15f,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Hmhm, faz meu nariz coçar um pouco."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa9,
+            "expr_id": 0x3,
+            "msg_id": 0x6,
+            "msg_string": "Não, é mais do que uma coceira.<CR>Deixa meu nariz todo estranho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xaa,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Mas um tempero do leste... Como cozinheiro, meus dedos tão até coçando pra provar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Né? Eu achei que você ia conseguir dar um bom uso pra ele..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x199,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Oi!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Ah, Ayesha.<CR>Veio almoçar?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x1a1,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Ei, me dá um segundo. Isso vai ser complicado..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0xc,
+            "msg_string": "Ah, Ernie... *atchim*<CR>E Mestre das Misturas...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xcd,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "Vocês dois...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Aham. O Kyle é um dos meus clientes."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0xf,
+            "msg_string": "Ha! Que espirro fofo.<CR>E aí, veio almoçar?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xce,
+            "expr_id": 0x4,
+            "msg_id": 0x10,
+            "msg_string": "Sim. Meu estômago...!<CR>E eu achei...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Hmm... o quê?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xce,
+            "expr_id": 0x4,
+            "msg_id": 0x12,
+            "msg_string": "Então eu...!<CR>Eu...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Ela veio aqui tentada pela fragrância do tempero. Cheira bem mesmo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xce,
+            "expr_id": 0x4,
+            "msg_id": 0x14,
+            "msg_string": "Sim...!<CR>Hmm, eu...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Entendi... Acho que foi estimulante demais pra você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xce,
+            "expr_id": 0x4,
+            "msg_id": 0x16,
+            "msg_string": "Só...!<CR>Eu...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "É, acho que provavelmente é melhor assim. A gente se fala outra hora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xce,
+            "expr_id": 0x4,
+            "msg_id": 0x18,
+            "msg_string": "Nesse caso...!<CR>Mas isso...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xce,
+            "expr_id": 0x4,
+            "msg_id": 0x19,
+            "msg_string": "Então eu...!<CR>Com licença...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xce,
+            "expr_id": 0x4,
+            "msg_id": 0x1a,
+            "msg_string": "*atchim*"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Não achei que a Ayesha ia passar por aqui...<CR>Tô com pena dela."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa2,
+            "expr_id": 0x3,
+            "msg_id": 0x1c,
+            "msg_string": "Então ela é fraca pra temperos...?<CR>Também tenho pena dela, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa3,
+            "expr_id": 0x3,
+            "msg_id": 0x1d,
+            "msg_string": "De qualquer forma, você é incrível.<CR>Como conseguiu estabelecer<CR>um entendimento mútuo desses...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x5f,
+            "expr_id": 0x2,
+            "msg_id": 0x1e,
+            "msg_string": "Hmhmhm, bom, eu conheço ela faz muito tempo. Claro que consigo entender ela."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa8,
+            "expr_id": 0x3,
+            "msg_id": 0x1f,
+            "msg_string": "Não... eu não acho que seja por isso.<CR>Ernie... você é bem incrível."
+        }
+    ]
+}

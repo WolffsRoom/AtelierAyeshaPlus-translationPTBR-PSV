@@ -1,0 +1,245 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC14_NAN_510.ebm",
+    "nb_messages": 0x1b,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x0,
+            "msg_string": "Ué? Aquela é a... Nanaca."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Será que aconteceu alguma coisa...<CR>Ela tá abaixada ali na estrada..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Nanaca, aconteceu alguma coisa? Você consegue levantar?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Kyah!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Ah, desculpa. Não queria te assustar desse jeito."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x194,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Não, tudo bem, eu tô de boa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Aconteceu alguma coisa com a vaca?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x11a,
+            "expr_id": 0x4,
+            "msg_id": 0x7,
+            "msg_string": "É. A gente tava andando de boa até agora, e de repente ela perdeu toda a energia..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x11a,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "Poro, o que foi?<CR>Sua barriguinha tá doendo ou algo assim?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x206,
+            "name_id": 0x20,
+            "extra_id": 0x22f,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x9,
+            "msg_string": "Muuuu..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x11c,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Nossa, ela tá com tanta dor,<CR>tá até parecendo um porquinho.<CR>Ayesha, o que eu faço?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Talvez seja uma doença aguda...<CR>Tem problema se eu der uma olhada?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0xc,
+            "msg_string": "Vamos ver... Ué? A área em volta da barriga dela tá dura..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0xd,
+            "msg_string": "E parece que o intestino dela não tá se mexendo. Isso é..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x141,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "É algum tipo de doença grave?<CR>I-I-Isso parece sério..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0xf,
+            "msg_string": "Não, não. Isso é, bom... parece que tá preso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x143,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Preso?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Hmm, bom... prisão de ventre."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Aah...<CR>Entendi..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "XXX"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0xb3,
+            "expr_id": 0x3,
+            "msg_id": 0x14,
+            "msg_string": "Meu Deus, já te falei um milhão de vezes pra não comer mato esquisito. Menina feia!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x206,
+            "name_id": 0x20,
+            "extra_id": 0x22f,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x15,
+            "msg_string": "Oink muu..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Ah, eu conheço um remédio bom!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Remédio?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Aham, eu não tô com ele aqui, já que eu tenho que fazer de um jeito diferente pra animais, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Se o sintoma for leve assim, umas ervas medicinais devem dar conta do recado!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Me dá um segundinho. Acho que vi crescendo por aqui..."
+        }
+    ]
+}

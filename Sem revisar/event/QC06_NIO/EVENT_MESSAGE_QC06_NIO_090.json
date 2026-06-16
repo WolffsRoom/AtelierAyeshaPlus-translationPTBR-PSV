@@ -1,0 +1,232 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC06_NIO_090.ebm",
+    "nb_messages": 0x19,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ahhh, então essa garota é a irmãzinha da Ayesha..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Sim, vocês se parecem mesmo. Tenho certeza que você vai crescer e virar uma moça linda!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x2,
+            "msg_string": "Nossa, sério!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Sim. Não tem dúvida, já que eu, alguém que já viu um monte de garotas até agora, tô dizendo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Você só deu uma espiada nelas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x10c,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "Aii.<CR>Juris, por favor, pega mais leve."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x10f,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "Eu tô meio vulnerável a esses comentários sem coração ultimamente, sabe?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x112,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Bom, de qualquer forma, não consigo evitar dar um tratamento especial pra garotas fofas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x8,
+            "msg_string": "Nio, vou te dar uma bebida por conta da casa. O suco é docinho e bem gelado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x45,
+            "expr_id": 0x2,
+            "msg_id": 0x9,
+            "msg_string": "Uau! Obrigada, senhor!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Eita, SENHOR!? Ah-hahahahaha,<CR>que irmãzinha fofa que você é..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Vamos lá, Nio, se apresente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0xc,
+            "msg_string": "Tá bom. Prazer em te conhecer, Juris! Espero que a gente se dê bem."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "É, prazer em te conhecer também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x141,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "Pera aí, Juris! Por que ela não tá te chamando de senhor?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x143,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Nio, quer um refil do seu suco?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Sério? Senhor! Então eu quero mais um!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x110,
+            "expr_id": 0x4,
+            "msg_id": 0x11,
+            "msg_string": "Urgh.<CR>Nio, essa doeu..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0x12,
+            "msg_string": "Ah, me desculpa! Eu falei alguma coisa ruim?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x112,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Não. O Senhor Kyle não vai ser derrotado tão fácil assim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Enfim, Nio, eu sou o barman mestre dessa taverna."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Então, eu ficaria feliz se você me chamasse de Mestre das Misturas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xd2,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Tá bom. Senhor Mestre das Misturas, então!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Ok, boa garota. Você tem alguma comida favorita? Eu vou fazer especialmente pra você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x15e,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Deixa eu ver,<CR>Umm..."
+        }
+    ]
+}

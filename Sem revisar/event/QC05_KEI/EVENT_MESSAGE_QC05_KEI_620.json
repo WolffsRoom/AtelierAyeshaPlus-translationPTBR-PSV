@@ -1,0 +1,277 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC05_KEI_620.ebm",
+    "nb_messages": 0x1e,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Vamos dar uma descansadinha por aqui. Você já tá começando a ficar cansada, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Hehehe, na mosca. Tô morrendo de sede."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x1cb,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "msg_string": "Acho que eu também vou aproveitar pra fumar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Outro cigarro?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x1cf,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "É. Não consigo viver sem eles."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x5,
+            "msg_string": "Tem um gosto bom...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x1cf,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "msg_string": "Com certeza, sem a menor dúvida."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Heh, cigarros e alquimia podem até ser meio parecidos pra mim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Os dois têm suas próprias peculiaridades, mas ambos me atraem."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Ah, você lembra do papo que a gente teve na ponte lá em Hornheim?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Lembro sim, sobre os pecados que os alquimistas do passado cometeram. Claro que lembro."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "Vai ajudar a salvar a Nio, então eu simplesmente não consigo achar que a alquimia seja algo ruim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "A alquimia em si não é boa nem má. Mas depende dos humanos e como eles vão usar isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Dizendo de outro jeito, acho que daria pra dizer que os humanos, num geral, são \"maus\"."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc5,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "I-Isso não é verdade! Todo mundo que eu conheço é legal, e..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc5,
+            "expr_id": 0x4,
+            "msg_id": 0xf,
+            "msg_string": "Não consigo nem imaginar alguém fazendo maldades com a alquimia..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc6,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Senhor Keith, acho que você tá focando demais nas partes ruins..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Se você continuar aprendendo sobre alquimia, uma hora você entende."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x1cf,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "A maioria das pessoas só coloca uma máscara de santo. Você só não percebeu isso ainda."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Você nem sabe o que andam falando de você pelas costas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x14,
+            "msg_string": "É mentira!<CR>Você tá errado, senhor Keith..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x196,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Caramba, você é mais teimosa do que parece. Não, talvez seja por ser jovem..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x1cf,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Não tem necessidade de você sair por aí pra descobrir isso, mas... se você insiste, eu te provo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Vou te mostrar a maldade humana que ainda existe hoje."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Fica lá, num lugar no céu do outro lado de Hornheim. Vá pra lá."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "E lá, você vai ver como as minhas palavras são verdadeiras."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x78,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "De Hornheim? O céu...? Isso dá um pouco de medo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Você não tem escolha a não ser ir.<CR>Você mesma disse."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "E já que você é uma alquimista, vai ser meio importante pra você ver isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x1d0,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Bom, é melhor a gente ir nessa."
+        }
+    ]
+}

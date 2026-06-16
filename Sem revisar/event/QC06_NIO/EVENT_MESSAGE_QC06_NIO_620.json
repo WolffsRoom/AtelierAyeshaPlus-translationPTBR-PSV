@@ -1,0 +1,259 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC06_NIO_620.ebm",
+    "nb_messages": 0x1c,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ufa... a gente andou bastante. Quer fazer uma pausa por aqui?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Certinho! Então você fica aqui e descansa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x2,
+            "msg_string": "Eu vou ali colher umas ervas medicinais.<CR>Aposto que consigo colher um monte por aqui!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Vamos fazer uma pausa juntas. Você deve estar cansada também, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0x4,
+            "msg_string": "Naaão! Não tô nem um pouco cansada.<CR>Ainda tô cheia de energia!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Bom, se você insiste. Ah, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Os apoios ao redor da ruína são ruins e desmoronam fácil, então não dá pra você subir neles."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Beeeleza! Vou tomar cuidado quando subir! Tô indo nessa!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Não, eu tô te falando, você não pode subir... Ah, lá vai ela..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Caramba, eu tô tão preocupada. Devia ir ver como ela tá."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Achei mais um Taun! Ah, e tem um ali também!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0xb,
+            "msg_string": "Acho que não tem nenhum animal perigoso nem nada por aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0xc,
+            "msg_string": "E eu não tô vendo nenhum degrau ou buraco perigoso... então acho que é seguro..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "...Espera, ué? Cadê a Nio?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "Ué, ela tá ali!?<CR>Niooo, você tá muito agitada!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0xf,
+            "msg_string": "Lalalaaa♪<CR>Hmhmhm hmmm♪"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x10,
+            "msg_string": "Nossa, essa ruína tá se desgastando muito... Se ela desmoronar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0x11,
+            "msg_string": "Ah... ahhh!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0x12,
+            "msg_string": "Niooo, Niiiooo! É perigoso, então desce!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Hã? Mana? Achei que você tava descansando..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x78,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Ah, é, mas eu não tô mais cansada,<CR>então eu fui dar uma volta."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x15,
+            "msg_string": "Nossa. Você se preocupa demais mesmo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0x16,
+            "msg_string": "De qualquer forma, tem ervas medicinais crescendo em cima dessa ruína também!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0x17,
+            "msg_string": "Você não consegue subir aqui, né?<CR>Então deixa comigo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x18,
+            "msg_string": "Hrgh, mas e se a ruína desmoronar...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0x19,
+            "msg_string": "Se isso acontecer, eu só pulo, então vou ficar bem. Eu tenho reflexos excelentes!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0x1a,
+            "msg_string": "Então não se preocupa!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Meu Deus... Nio, você tá tão cheia de energia, como sempre..."
+        }
+    ]
+}

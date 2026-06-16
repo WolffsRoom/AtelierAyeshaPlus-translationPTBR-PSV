@@ -1,0 +1,258 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MS03_160.ebm",
+    "nb_messages": 0x1c,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x206,
+            "name_id": 0x20,
+            "extra_id": 0x22f,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "msg_string": "Oink muuu."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x1,
+            "msg_string": "Ué...? Poro! O que você tá fazendo aqui?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x206,
+            "name_id": 0x20,
+            "extra_id": 0x22f,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "msg_string": "Oink muuu. Oink muuu muuu!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Se o Poro tá aqui, então quer dizer que a Nanaca tá por aqui também?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Ah, eu sabia!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x1a1,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Ayesha! Graças a Deus, eu tava te procurando."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Hã? Me procurando?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Aham. O Poro e eu nos separamos pra te achar.<CR>Eu senti que você tava por aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Caramba... O Poro consegue até rastrear pessoas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Ah, o que você queria comigo?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x46,
+            "expr_id": 0x2,
+            "msg_id": 0xa,
+            "msg_string": "Hehe, eu vim aqui ajudar na loja do meu irmão, mas agora que já acabei..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x47,
+            "expr_id": 0x2,
+            "msg_id": 0xb,
+            "msg_string": "Eu tava querendo dar uma volta no bazar com você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0xc,
+            "msg_string": "Ah, boa ideia! Fazer compras com você parece bem legal!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x48,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Né? Eu me sentiria mais tranquila indo com você, já que você é acostumada com a cidade."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x35,
+            "expr_id": 0x2,
+            "msg_id": 0xe,
+            "msg_string": "Hahaha, pior que eu também sou uma garota do interior..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "E também, eu tava torcendo pra você me impedir de torrar todo o meu dinheiro."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Ué? C-Como assim?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x11a,
+            "expr_id": 0x4,
+            "msg_id": 0x11,
+            "msg_string": "Bom, é que... eu levo tudo que os vendedores dizem a sério..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x11b,
+            "expr_id": 0x4,
+            "msg_id": 0x12,
+            "msg_string": "E se me falam que uma parada é boa, eu acredito."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x11e,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "Mas quando paro pra pensar um pouco depois, percebo que comprei um monte de coisa que eu nem precisava..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Ah, dá pra imaginar mesmo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x11f,
+            "expr_id": 0x4,
+            "msg_id": 0x15,
+            "msg_string": "Acho que não sou boa em lidar com gente insistente... aí meu irmão fica bravo por eu gastar dinheiro à toa..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x120,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Então se você for comigo, vou me sentir muito mais tranquila!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "E-Eu também tenho dificuldade de dizer não pra essas coisas, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x21e,
+            "name_id": 0x5b,
+            "extra_id": 0x206,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x18,
+            "msg_string": "Olá, mocinhas, tenho uns acessórios muito bonitos! Venham dar uma olhada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Ih, lá vem. O que a gente faz, Ayesha?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "A-A não ser que seja algo que a gente precise muito, a gente tem que ter coragem e dizer não."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Tá bom. Ayesha, a gente consegue passar por essa...!"
+        }
+    ]
+}

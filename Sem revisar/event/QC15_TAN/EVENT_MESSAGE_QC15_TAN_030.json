@@ -1,0 +1,287 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC15_TAN_030.ebm",
+    "nb_messages": 0x1f,
+    "messages": [
+        {
+            "type": 0x4,
+            "voice_id": 0xf,
+            "name_id": 0x12,
+            "extra_id": 0x19f,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "unknown2": 0x1,
+            "msg_string": "Eeiii, Ayesha. Pera aí!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Ah, oi, Tanya."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "*arf* *arf* Que bom, consegui te alcançar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Você tava com tanta pressa assim pra sair correndo atrás de mim? Aconteceu alguma coisa urgente?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xd2,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Hum, não, nada urgente. É que eu queria muito conversar com você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x5,
+            "msg_string": "Eu fiquei super animada, pensando que eu ia poder conversar com alguém que eu conheço..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x44,
+            "expr_id": 0x2,
+            "msg_id": 0x6,
+            "msg_string": "Então eu vim correndo pra cá com toda a minha força!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Fico muito feliz que você tenha corrido tanto por mim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "As únicas pessoas que moram nessa região fazem parte da minha família."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Minha avó, meu avô, minha mãe, meu pai e eu..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Eu também tenho um irmãozinho, mas ele não sabe falar ainda. Eu não podia deixar uma chance dessas escapar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Entendi. Se não se importar que seja eu, vou adorar conversar com você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Sim! Hmm, sobre o que a gente deveria conversar? Hmm, bom..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Já sei, sobre a cidade!<CR>Eu quero ouvir sobre Vierzeberg!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Claro. Hum, lá em Vierzeberg, tem..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0xf,
+            "msg_string": "Hmhmhm, foi muito divertido conversar com você por tanto tempo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x45,
+            "expr_id": 0x2,
+            "msg_id": 0x10,
+            "msg_string": "Cidades grandes são incríveis mesmo...<CR>Eu quero morar numa casa de dois andares!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "É verdade. Você nunca morou numa cidade antes..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Morar por aqui é tão difícil assim?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Pior que não. Eu tenho uma casa e uma família, além de comida e sal."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Mas, no fim das contas, eu ainda morro de vontade de morar na cidade!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Mas o vovô diz que é ridículo querer sair da terra onde a gente vive de geração em geração."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x16,
+            "msg_string": "De geração em geração...?<CR>A sua família mora aqui há tanto tempo assim?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "De muito, muiiito tempo atrás, na época em que dizem que essa área era cheia de muito verde."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "O povo do sal morava por aqui. Mas, a gente é a única família que sobrou."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x19,
+            "msg_string": "Então antes dessa área virar um<CR>deserto... Eu fico me perguntando<CR>quanto tempo faz isso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x185,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Eu não sei. Mas lá no passado, em vez desse deserto, aqui era uma planície..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x186,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "E essa planície se estendia até longe no horizonte, que nem um tapete verde gigante..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x187,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Naquela época, o povo do sal cuidava de gado além de minerar sal."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Saquei. Aposto que costumava ser uma planície sem fim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1e,
+            "msg_string": "(Hã? Uma planície sem fim... Acho que eu li isso naquele livro...)"
+        }
+    ]
+}

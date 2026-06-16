@@ -1,0 +1,266 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC01_WIL_010.ebm",
+    "nb_messages": 0x1d,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x0,
+            "msg_string": "Uau, o que será que tá acontecendo...<CR>Tem tantas lojas!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x78,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Será que tá rolando algum tipo de festival...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x2,
+            "msg_string": "Já que tô aqui, talvez eu devesse comprar umas lembrancinhas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Hã? Pra que lado será que fica o \"alto do morro\"..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc7,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "Não faço a menor ideia...<CR>Será que... me perdi?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc9,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "Ahh, nãooo! A Regina provavelmente tá me esperando."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x12,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "*sniff* *sniff* *sniff*<CR>...Tem um cheiro misterioso aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xca,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Hã?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x12,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "*sniff* *sniff*<CR>Isso é... cheiro de bruxa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x9,
+            "msg_string": "Uma... bruxa?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Também tem um cheirinho doce.<CR>Isso é cheiro de doce?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Eita! Humm, quem é você...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Não adianta tentar esconder. Você tem docesss aí, não tem?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Quer me dar um pouco?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1a4,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Doces? Claro. Aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0xf,
+            "msg_string": "Hehe, valeu. Hrm-hmm... Que delícia!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Hrm-hmm... De qualquer forma, nunca achei que ia esbarrar com alguém da mesma profissão."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0x11,
+            "msg_string": "Ah... Mesma profissão...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Aham. Você é uma bruxa, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Você tá com cheiro de catalisador.<CR>*sniff* *sniff*<CR>...Isso é cheiro de Taun."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc6,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Ah, sim, eu tenho Tauns.<CR>Eu uso eles pra síntese."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Síntese...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Sim. Humm, tem algum problema...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x196,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Ahh, então você é uma alquimista."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Bom, acho que isso também é raro."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Uma a-alquimista...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Mas alquimistas não passam de imitadoras de bruxas, no fim das contas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x19a,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Ah, valeu pelo doce. Até mais!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x1c,
+            "msg_string": "Ela foi embora... Ela era uma garota interessante."
+        }
+    ]
+}

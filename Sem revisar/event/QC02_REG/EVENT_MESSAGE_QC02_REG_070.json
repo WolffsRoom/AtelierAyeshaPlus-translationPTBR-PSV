@@ -1,0 +1,221 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC02_REG_070.ebm",
+    "nb_messages": 0x18,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x49,
+            "expr_id": 0x2,
+            "msg_id": 0x0,
+            "msg_string": "Aguenta coração, que vista gloriosa... Nada mal mesmo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Esse espaço subterrâneo... Será que foi escavado com força humana..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Quem será que construiu isso, e com qual propósito..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x4b,
+            "expr_id": 0x2,
+            "msg_id": 0x3,
+            "msg_string": "Vai saber. Esse lugar só foi descoberto há pouco tempo, então basicamente não se sabe nada sobre ele."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x4b,
+            "expr_id": 0x2,
+            "msg_id": 0x4,
+            "msg_string": "Se fosse construído na superfície,<CR>teria facilitado o nosso trabalho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Entendi, então é mais difícil se for no subsolo?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x4c,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Claro. Tem o perigo constante de desabamento, e a gente também não quer que jorre esgoto ou uma fonte termal."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Bom, acho que uma fonte termal não seria tão ruim assim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "...Enfim, esse lugar é quente, escuro e apertado. Não tem nada de bom aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Só de ouvir você falar disso... já faz parecer que é muita dor de cabeça."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd4,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "Bom, se fosse fácil, eu estaria desempregada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Prospectar... Pensando bem, é uma profissão difícil."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd5,
+            "expr_id": 0x4,
+            "msg_id": 0xc,
+            "msg_string": "Trabalhar com um bando de marmanjos é mais difícil ainda."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd7,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "Sempre que acontecia alguma coisa, uns caras aproveitavam pra passar a mão na minha bunda no meio da confusão."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "O quuuuê!? C-Coisas assim aconteciam?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd2,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Pois é, pois é. Mas eu já dei um belo de um chega pra lá naqueles babacas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Só que aí eles pararam de me tratar como uma garota..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0x11,
+            "msg_string": "Digo, não é meio estranho eu ser a primeira garota a ser levada pra uma caçada de slag?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd1,
+            "expr_id": 0x4,
+            "msg_id": 0x12,
+            "msg_string": "É verdade que eu tenho mais força física que todos eles, mas mesmo assim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Ué, você tem a maior...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd2,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Aham. Caramba, não dá pra contar com aqueles caras..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Uau... Regina, você é incrível!<CR>Eu nunca conseguiria ser que nem você..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Hmhm. Acho melhor você nem tentar ser igual a mim. Mas até que é uma profissão divertida quando você experimenta."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x17,
+            "msg_string": "(A Regina trabalha com homens e ela é tão legal...)"
+        }
+    ]
+}

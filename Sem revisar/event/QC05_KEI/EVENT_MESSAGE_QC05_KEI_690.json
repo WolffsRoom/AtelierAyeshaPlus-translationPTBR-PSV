@@ -1,0 +1,514 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC05_KEI_690.ebm",
+    "nb_messages": 0x3a,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ayesha, Keith, acho que já avisei que esta instalação está fechada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Me desculpa, mas eu preciso muito saber."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Sei que tô sendo egoísta, mas por favor, me conta sobre os dois berços!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Eu gostaria de te dar a informação que você precisa, Ayesha..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x117,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "Porém, divulgar informações confidenciais viola o Artigo 271 da Ordem de Confidencialidade."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x118,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "Tá sendo difícil tomar uma decisão racional... O que eu devo fazer, Mestre...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Mestre...? Você diz a pessoa que te criou e te deu essas ordens?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Então provavelmente também foi ele quem deu a ordem de manter o sigilo das informações..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x118,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "Sim. Essa foi a última ordem que me deram."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x118,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "Já faz... muito tempo desde então."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xe1,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "Que pena. Você ainda se prende a ordens de quase mil anos atrás..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x118,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "Para continuarmos funcionando normalmente, não temos escolha a não ser seguir fielmente as ordens que recebemos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x118,
+            "expr_id": 0x4,
+            "msg_id": 0xc,
+            "msg_string": "Caso contrário, perderíamos nossa razão de existir."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xe3,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Acho que você não pode cancelar essa ordem... E se eu te der uma ordem nova?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x119,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Isso significa que você vai se tornar o meu novo mestre?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Isso mesmo. E eu vou te dar novas ordens para substituir as antigas. Assim não vai ter problema nenhum, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x91,
+            "expr_id": 0x3,
+            "msg_id": 0x10,
+            "msg_string": "Ou você não gosta da ideia de me ter como mestre?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x198,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "...Não. Como possui um amplo conhecimento em todas as áreas, você é uma pessoa adequada para ser meu mestre."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Se você se tornar meu Mestre, eu..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x92,
+            "expr_id": 0x3,
+            "msg_id": 0x13,
+            "msg_string": "Ora, me sinto honrado. Então... serei o seu novo mestre."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x185,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Entendido. Reconheço Keithgriff Hazeldine como meu mestre, e..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x186,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Transfiro a ele esta biblioteca e toda a autoridade administrativa que possuo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x95,
+            "expr_id": 0x3,
+            "msg_id": 0x16,
+            "msg_string": "Eu ordeno, como o seu mestre..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x97,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Que divulgue todas as informações sobre os dois berços!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x186,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Entendido. Em obediência à ordem do<CR>Mestre, revelando o Arquivo Secreto<CR>Nº 527..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Srta. Odelia..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x186,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Os berços são as instalações estabelecidas como mecanismos de proteção para lidar com incidentes inesperados."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x186,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Esta biblioteca é um deles. Um berço para proteger e fornecer conhecimentos diversos... esta é a Zweiteturm."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x186,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "A zeladora, Odelia, foi criada como<CR>a guardiã para proteger o berço<CR>do intelecto. "
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Então, esse é o berço que protege o conhecimento..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Mas ela é uma guardiã meio não confiável. Tem várias partes daqui cheias de defeitos..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x187,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Devido a imprevistos, incidentes graves ocorreram nesta instalação, causando essa desordem."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Peço desculpas pelas minhas falhas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "Srta. Odelia, então o outro berço é..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "O outro berço... serve para proteger e fornecer sementes diversas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "Para proteger a vida da destruição<CR>iminente, preservando a próxima<CR>geração... essa é a Dritteturm."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "O Guardião Yggdrasil, que comanda o berço da vida, também foi criado na mesma época que eu."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x25,
+            "msg_string": "Ele protege a vida, e eu protejo o conhecimento."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x26,
+            "msg_string": "...Isso é tudo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x27,
+            "msg_string": "O guardião do berço que protege a vida. Foi ele quem levou a Nio embora...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x28,
+            "msg_string": "Eu guardo e armazeno conhecimentos diversos. É de se supor que ele faça o mesmo com os seres vivos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x29,
+            "msg_string": "Eu tomei todas as medidas possíveis pra resistir a uma crise."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x117,
+            "expr_id": 0x4,
+            "msg_id": 0x2a,
+            "msg_string": "Ele, também, provavelmente tentou de tudo... embora isso seja só especulação."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x118,
+            "expr_id": 0x4,
+            "msg_id": 0x2b,
+            "msg_string": "Sem nenhum registro dele depois do desastre, o que aconteceu com ele..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x118,
+            "expr_id": 0x4,
+            "msg_id": 0x2c,
+            "msg_string": "E também o que houve com o berço que ele protegia é um mistério até hoje."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x17,
+            "expr_id": 0x0,
+            "msg_id": 0x2d,
+            "msg_string": "Então, o objetivo dele ao levar a sua irmã era preservar a semente..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2e,
+            "msg_string": "Quer dizer que a Nio tá sendo \"protegida\" por ele?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x2f,
+            "msg_string": "Se ele estiver funcionando como deveria. Por cima, parece que ele saiu de controle, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x119,
+            "expr_id": 0x0,
+            "msg_id": 0x30,
+            "msg_string": "Mestre, divulguei todas as informações sobre os berços."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x31,
+            "msg_string": "Posso cancelar o fechamento da instalação e voltar às operações normais?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x32,
+            "msg_string": "Sim, faça isso. Fechar este lugar é um absurdo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x198,
+            "expr_id": 0x0,
+            "msg_id": 0x33,
+            "msg_string": "Entendido. Vou começar os preparativos pra reabertura."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x34,
+            "msg_string": "A instalação voltou a operar normalmente. Por favor, me avise se precisarem de algo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x35,
+            "msg_string": "Muito obrigada, Srta. Odelia...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x36,
+            "msg_string": "Descobrimos o ser que levou a Nio, mas ainda não sabemos a localização dele..."
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x37,
+            "msg_string": "É, precisamos procurar onde fica o berço."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x38,
+            "msg_string": "Vou procurar por ele agora mesmo. Muito obrigada!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x39,
+            "msg_string": "Porém, se a minha teoria estiver certa, a criatura que vamos enfrentar pode não ser maldosa, mas..."
+        }
+    ]
+}

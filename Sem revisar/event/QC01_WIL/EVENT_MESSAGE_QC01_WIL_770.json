@@ -1,0 +1,606 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC01_WIL_770.ebm",
+    "nb_messages": 0x41,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Bell, vamo logo contar pra sua<CR>Tataravó agora mesmo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x169,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Ué, já...? Bom, é que..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x16b,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Hahaha, que tal a gente ir amanhã?<CR>Ainda não tô preparada mentalmente..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Nada disso. Essas coisas dão muito mais certo quando se faz na mesma hora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Eu vou ficar do seu lado, tá bom?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x194,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "...Tá, vou relatar pra ela."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x28,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "unknown2": 0x1,
+            "msg_string": "Wilbell, você foi expulsa.<CR>O que você quer comigo?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0x7,
+            "msg_string": "É-Éh, bom..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x28,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x8,
+            "unknown2": 0x1,
+            "msg_string": "Com certeza você não me chamou sem um motivo, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xd1,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "Bom, é que, quer dizer..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "msg_string": "(Bell, você consegue...!)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xd2,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "...Eu tenho uma coisa que eu quero muito te contar."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x28,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xc,
+            "unknown2": 0x1,
+            "msg_string": "Uma coisa que quer me contar...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Sim. Eu não vou deixar de ser bruxa!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Eu sempre fui uma bruxa, e isso vai ser pra sempre!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x28,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "unknown2": 0x1,
+            "msg_string": "Wilbell, você entende que o que você fez não é permitido, certo?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Sim, tataravó. A minha última tarefa foi irresponsável. Me desculpa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Eu achei que você ia ficar feliz, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0x12,
+            "msg_string": "Me desculpa, eu estava errada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xd2,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "E depois que você ficou brava comigo,<CR>eu pensei muito..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Sobre as minhas tarefas, sobre você,<CR>tataravó,<CR>e... e sobre a magia..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Eu pensei muito mesmo se eu tinha o que precisa pra ser uma bruxa."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x28,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "unknown2": 0x1,
+            "msg_string": "...E, você chegou numa resposta?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x194,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Não. Eu não sei. Não cheguei a uma resposta."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Mas eu entendi uma coisa...<CR>Que eu sou uma bruxa, no fim das contas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Eu refleti bastante sobre mim mesma, pensei muito, e foi nessa resposta que eu cheguei."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x28,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1a,
+            "unknown2": 0x1,
+            "msg_string": "A expulsão não é algo que pode ser anulado, só porque você decidiu se tornar uma bruxa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Sim, eu sei. É por isso que eu saí e dei o meu melhor."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Bom, não é algo que eu consiga te mostrar fisicamente... mas eu fiz um acordo com a Soberana do Vento."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x28,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1d,
+            "unknown2": 0x1,
+            "msg_string": "Com a Soberana do Vento...?<CR>Isso significa que você capturou o vento?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Eu não consegui capturar o vento de verdade... mas ela me prometeu..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Que ela vai me emprestar o poder do vento dela."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x28,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x20,
+            "unknown2": 0x1,
+            "msg_string": "Fazer um acordo com um espírito é muito difícil e desafiador."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x28,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x21,
+            "unknown2": 0x1,
+            "msg_string": "E pra você ter conseguido isso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "Tataravó! O que a Bell tá dizendo é verdade! Eu também tava lá!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "Eu achei que tinha derrotado a Soberana do Vento junto com a Ayesha, mas ela não tava usando força total..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "Mas a Soberana do Vento nos reconheceu!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x28,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x25,
+            "unknown2": 0x1,
+            "msg_string": "Entendo, Wilbell. Entendi o seu ponto."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x28,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x26,
+            "unknown2": 0x1,
+            "msg_string": "Mas não é uma história que dá pra aceitar sem a prova do contrato..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x27,
+            "msg_string": "*tum tum* *tum tum*"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x28,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x28,
+            "unknown2": 0x1,
+            "msg_string": "Eu vou confiar na história da Ayesha por enquanto."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x29,
+            "msg_string": "Hã? Isso significa..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x28,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2a,
+            "unknown2": 0x1,
+            "msg_string": "Pra ser reconhecida pela Soberana do Vento, você precisaria de algo além de só magia."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x28,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2b,
+            "unknown2": 0x1,
+            "msg_string": "Você deve ter se esforçado muito, Wilbell. E..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x28,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2c,
+            "unknown2": 0x1,
+            "msg_string": "Você tem uma boa amiga."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2d,
+            "msg_string": "Tataravó..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x28,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2e,
+            "unknown2": 0x1,
+            "msg_string": "Ayesha, como pode ver, ela ainda é uma garota inexperiente, mas..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x28,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2f,
+            "unknown2": 0x1,
+            "msg_string": "Muito obrigada por toda a sua ajuda.<CR>E, por favor..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x28,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x30,
+            "unknown2": 0x1,
+            "msg_string": "Continue cuidando dela com carinho daqui em diante também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x31,
+            "msg_string": "S-Sim, claro."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x28,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x32,
+            "unknown2": 0x1,
+            "msg_string": "Não se esqueça das suas intenções originais, e continue se esforçando no seu treinamento, Wilbell."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x33,
+            "msg_string": "Sim, obrigada,<CR>tataravó...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x34,
+            "msg_string": "Ebaaa! Eu vou poder continuar sendo uma bruxa!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x35,
+            "msg_string": "Parabéns, Bell...!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x28,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x36,
+            "unknown2": 0x1,
+            "msg_string": "De qualquer forma, a Soberana do Vento...<CR>Hmhm, isso me traz lembranças."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x28,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x37,
+            "unknown2": 0x1,
+            "msg_string": "Quando eu tinha a sua idade, eu fiz um contrato com ela também."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x28,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x38,
+            "unknown2": 0x1,
+            "msg_string": "Mande lembranças pra Soberana do Vento quando você ver ela de novo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x39,
+            "msg_string": "Pode deixar!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x28,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3a,
+            "unknown2": 0x1,
+            "msg_string": "E mais uma coisa... o bolo que eu recebi estava delicioso."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x28,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3b,
+            "unknown2": 0x1,
+            "msg_string": "Obrigada, Wilbell."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x28,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3c,
+            "unknown2": 0x1,
+            "msg_string": "Da próxima vez que você voltar,<CR>vou assar biscoitos em troca."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x28,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3d,
+            "unknown2": 0x1,
+            "msg_string": "Então... venha me visitar. Quero ver o seu rosto de novo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x3e,
+            "msg_string": "...Sim. Eu também. Obrigada,<CR>tataravó...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3f,
+            "msg_string": "(Num momento, eu nem sabia o que ia acontecer, mas eu tô tão feliz por você, Bell...!)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x40,
+            "msg_string": "(Afinal, ser uma bruxa é o que mais combina com você!)"
+        }
+    ]
+}

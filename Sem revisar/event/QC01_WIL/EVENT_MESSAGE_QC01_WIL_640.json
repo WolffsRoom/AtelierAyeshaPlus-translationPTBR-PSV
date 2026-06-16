@@ -1,0 +1,75 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC01_WIL_640.ebm",
+    "nb_messages": 0x7,
+    "messages": [
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "unknown2": 0x1,
+            "msg_string": "Ei, isso tem meio que uma cara de tesouro.<CR>Tem algum jeito da gente levar isso?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "unknown2": 0x1,
+            "msg_string": "Se a gente de algum jeito conseguir soltar isso...<CR>Hum... hum..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x2,
+            "msg_string": "S-Sei lá. Acho que nem a Pana vai conseguir carregar isso..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "unknown2": 0x1,
+            "msg_string": "Hum, tá bom... Talvez isso seja bonito demais pra ser um tesouro..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "unknown2": 0x1,
+            "msg_string": "Aquele que a Marietta mostrou pra gente parecia sucata."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x5,
+            "msg_string": "Pior que parecia mesmo..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "unknown2": 0x1,
+            "msg_string": "Beleza, vamo procurar algo que pareça mais com uma sucata esquisita!"
+        }
+    ]
+}

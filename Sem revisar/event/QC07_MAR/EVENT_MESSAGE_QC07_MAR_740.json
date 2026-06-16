@@ -1,0 +1,265 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC07_MAR_740.ebm",
+    "nb_messages": 0x1d,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1f8,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "msg_string": "E aí, quanto tempo, mocinha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1ff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "msg_string": "Eu já tava começando a achar que você tinha finalmente desistido."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Desculpa por não ter vindo visitar depois de dizer que voltaria quantas vezes fosse preciso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Eu expliquei minha situação na carta, mas isso não muda o fato de que não pude vir."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x200,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "msg_string": "É. Sei que seu trabalho é puxado,<CR>mas você tem que cumprir com a sua palavra."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x200,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "msg_string": "Então não posso deixar entrar alguém que não cumpre o que diz."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x203,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "msg_string": "Agora, vai pra casa!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Tá bom. Por hoje eu vou embora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "O chefe parece bem feliz hoje."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Ué...? Ele parecia meio bravo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Que nada, eu conheço ele. Desde o dia em que ele recebeu a carta..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Ele anda todo inquieto."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xe9,
+            "expr_id": 0x4,
+            "msg_id": 0xc,
+            "msg_string": "Sem sorte hoje de novo. Ele é cabeça dura que nem as pedras da ruína."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Bom, Marion‐"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Peraí, Ayesha. Me dá só um segundinho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Ué...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Que pena, Marion."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xed,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Fazer o quê. Como o seu chefe disse, a culpa é minha por não ter cumprido minha promessa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Mas ainda não desisti. Vou continuar vindo aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "É, você devia mesmo. Ele é teimoso, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Por favor, continua vindo sem desanimar, tá?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Hã? Tá. Eu vou vir aqui quantas vezes for preciso, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x199,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Beleza, venha mais vezes."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x17,
+            "msg_string": "Regina, foi de boa?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Hahaha, bom, eu não quero estragar a alegria do Chefe."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Além do mais, talvez aquele trabalho que a Marion comentou já tenha dado certo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Aquele de construir boas relações."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Pra mim, aquilo não pareceu muito com \"boas relações\"..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Bom, a gente vai ter que observar nas sombras."
+        }
+    ]
+}

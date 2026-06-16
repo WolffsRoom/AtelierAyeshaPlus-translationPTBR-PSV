@@ -1,0 +1,97 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC03_LIN_080.ebm",
+    "nb_messages": 0xa,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x205,
+            "name_id": 0x1f,
+            "extra_id": 0x216,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "msg_string": "Oink muu!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "O que foi, chorando de alegria assim depois de ver o meu rosto?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x205,
+            "name_id": 0x1f,
+            "extra_id": 0x216,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "msg_string": "Oink mu, mu..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Quer que eu te faça carinho? Ah, entendi. Você é bem fofinho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x205,
+            "name_id": 0x1f,
+            "extra_id": 0x216,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "msg_string": "Oink, Oink mu."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Pronto, pronto. Então eu tenho que retribuir esse seu ânimo, também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Certo! Vou ser sua amiga. Você é meu terceiro amigo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x205,
+            "name_id": 0x1f,
+            "extra_id": 0x216,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "msg_string": "Oink mu. Moooo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x8,
+            "msg_string": "Então, você tá tão feliz assim?<CR>Hmhm, eu fiz uma coisa boa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x45,
+            "expr_id": 0x2,
+            "msg_id": 0x9,
+            "msg_string": "Ayesha, Marion, Pana... Meu objetivo deve estar bem perto..."
+        }
+    ]
+}

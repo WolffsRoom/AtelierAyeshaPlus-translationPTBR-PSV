@@ -1,0 +1,250 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC08_HAR_090.ebm",
+    "nb_messages": 0x1b,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x18,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Bom, com certeza é legal vir dar uma olhada em um local de verdade de vez em quando."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "De qualquer forma, essa ruína é magnífica. Ter tudo feito de vidro..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x22,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Superou as minhas expectativas!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x21b,
+            "name_id": 0x32,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "unknown2": 0x1,
+            "msg_string": "Mestre, por favor, cuidado onde pisa.<CR>Tá muito escorregadio."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x24,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Não precisa se preocupar. Não tenho histórico de escorregar ou cair."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Ah... Ayesha, você veio explorar esse lugar também?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Eu vim procurar materiais.<CR>Sr. Harry, você tá... explorando?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Uhum! Sou um homem ocupado, então não posso vir muito por aqui, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Tenho que fazer uma investigação em primeira mão de vez em quando. É meu dever como buscador de tesouros."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Pra escrever outro livro, achei que tinha que visitar esse lugar pelo menos uma vez."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Entendi. Parece mesmo que você precisaria examinar muita coisa antes de poder escrever um livro..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x18,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Uhum. Além disso, expor meu corpo a uma ruína antiga pode me dar umas boas ideias."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Bom, seria mais preciso dizer que vim aqui pra elaborar um conceito."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "E-Entendi. Bom, eu sei que tem uma coisa incrível mais pra baixo daqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0xe,
+            "msg_string": "É uma fornalha feita de vidro. Ela ainda queima em brasa, e..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x35,
+            "expr_id": 0x2,
+            "msg_id": 0xf,
+            "msg_string": "Tenho certeza que vai ser útil pra sua pesquisa também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x1a,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Depois de anos e anos, uma fornalha que continua a queimar... Isso é bem interessante."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Né? Fica nas profundezas da ruína, então demora um pouquinho pra chegar lá a pé, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Hã...? Nas profundezas...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Sim. Fica bem lá no fundo, então tem uns lugares escuros e perigosos pelo caminho, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Você pode acabar descobrindo o porquê de a fornalha sequer estar lá..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15d,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Sim. Com certeza eu devia dar uma olhada na próxima vez!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Hã? Na próxima vez?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15f,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Sim, na próxima. Eu volto e investigo aquela fornalha!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "E com certeza não é porque eu tô com medo de ir mais fundo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x56,
+            "expr_id": 0x2,
+            "msg_id": 0x19,
+            "msg_string": "Agora, se me dá licença, eu tenho que ir, hahahaha..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Ué? Mas não precisa voltar com tanta pressa..."
+        }
+    ]
+}

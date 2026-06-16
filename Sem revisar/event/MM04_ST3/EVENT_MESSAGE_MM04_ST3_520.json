@@ -1,0 +1,60 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM04_ST3_520.ebm",
+    "nb_messages": 0x6,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Acho que foi esse livro aqui que tinha aquele item que fazia alguma coisa com chuva."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Então é isso que ele faz... Eu não tinha conseguido entender quando li pela primeira vez."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Então se eu usar isso, parece que consigo fazer chover numa área grandona. A alquimia é muito prática mesmo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Tenho certeza de que não vai dar problema nenhum, mesmo se eu fizer chover no Dry Valley."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Já que eu sei a receita, vou tentar fazer."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Você aprendeu a fazer a Nimbus Stone."
+        }
+    ]
+}

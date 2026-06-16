@@ -1,0 +1,115 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MS03_010.ebm",
+    "nb_messages": 0xc,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x0,
+            "msg_string": "Ai não, o que eu faço...? Acho que eu entrei no território deles..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x123,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "Desculpa, eu já tô de saída..."
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x233,
+            "name_id": 0x55,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "msg_string": "Cue cue cue cue!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x123,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "Hyaaah, acho que ele não vai me deixar ir. Preciso me proteger!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Os inimigos andam livremente pelo Mapa do Campo. Aperte <IM04> para atingi-los com<CR>o seu cajado e ter a iniciativa."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Durante a batalha, alguém é nocauteado se o HP cair pra 0. Você será derrotada se o HP de todos os aliados cair pra 0."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Dê uma olhada na ordem de turnos da batalha na Barra de Ação à direita da tela. Escolha uma ação quando for o seu turno."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Dependendo da sua distância e posição em relação aos inimigos, algumas ações podem gerar bônus."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Você ganha EXP e dinheiro vencendo batalhas, e às vezes itens. Você vai subir de nível depois de ganhar uma certa quantidade de EXP."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Além disso, os inimigos perto das cidades não são tão fortes, mas à medida que você chega em regiões mais distantes, inimigos mais fortes vão aparecer."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Esses inimigos são formidáveis e não vão ser fáceis de derrotar."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Pra evitar perder tempo e ter toda a sua equipe nocauteada, prepare itens de ataque e cura quando for viajar pra longe."
+        }
+    ]
+}

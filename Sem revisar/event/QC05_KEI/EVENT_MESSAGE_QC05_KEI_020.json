@@ -1,0 +1,312 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC05_KEI_020.ebm",
+    "nb_messages": 0x22,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ah, é o...!<CR>Sr. Keith!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "O que será que ele tá fazendo num lugar desses?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Preciso tomar cuidado pras<CR>coisas não ficarem estranhas que<CR>nem foi lá na Vila Hallos."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "unknown2": 0x1,
+            "msg_string": "..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Hmm, o que você tá fazendo? Tá procurando alguma coisa?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "unknown2": 0x1,
+            "msg_string": "..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Ah, desculpa. Esqueci que te incomoda toda vez que eu falo com você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "msg_string": "(Tenho certeza de que ele tá investigando alguma coisa sobre alquimia...?)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15f,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x8,
+            "msg_string": "(Será que dá pra eu ficar observando ele aqui de trás? Talvez eu consiga aprender alguma coisa.)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x161,
+            "expr_id": 0x5,
+            "msg_id": 0x9,
+            "msg_string": "Uhum, uhum..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "unknown2": 0x1,
+            "msg_string": "..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Ooh..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "unknown2": 0x1,
+            "msg_string": "Fique quieta!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Ai! D-Desculpa!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xe,
+            "unknown2": 0x1,
+            "msg_string": "..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "msg_string": "..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "...Tem alguma coisa que você queira me perguntar? Eu não consigo me concentrar com você em pé aí atrás em silêncio."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "M-Mil desculpas. Achei que podia aprender alguma coisa só te observando."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Você tá fazendo algo de especial agora?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Eu não tenho nenhuma obrigação de responder a essa pergunta. Só de ter que te explicar isso já seria exaustivo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Nesse caso, tudo bem se eu te observar só mais um pouco?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Sinto que vai ser uma ótima referência pra mim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x91,
+            "expr_id": 0x3,
+            "msg_id": 0x16,
+            "msg_string": "...Estou verificando as propriedades desse material."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Hã?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x93,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Que foi? Eu já respondi sua pergunta.<CR>Não tá satisfeita?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Bem, isso deve bastar.<CR>Me deixa em paz logo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Hum, se possível, eu tava... esperando que você pudesse explicar com mais detalhes..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x1b,
+            "msg_string": "Eu comecei a estudar alquimia! Mas... não tá indo tão bem quanto eu esperava."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0x1c,
+            "msg_string": "Só mais um pouquinho já tava bom, então por favorzinho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x91,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1d,
+            "msg_string": "..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x92,
+            "expr_id": 0x3,
+            "msg_id": 0x1e,
+            "msg_string": "...Se eu puder ser breve."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x93,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "De qualquer forma, você não é muito tímida. Pouca gente ia querer se aproximar de mim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0x20,
+            "msg_string": "Não tem mais ninguém pra quem eu possa perguntar sobre alquimia. Não posso desperdiçar essa chance."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xe1,
+            "expr_id": 0x4,
+            "msg_id": 0x21,
+            "msg_string": "Minha nossa. Com certeza eu encontrei uma garota difícil..."
+        }
+    ]
+}

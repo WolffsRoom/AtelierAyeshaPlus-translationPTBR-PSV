@@ -1,0 +1,130 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC06_NIO_530.ebm",
+    "nb_messages": 0xe,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Bem-vinda à Zweiteturm, Ayesha.<CR>Veio aqui pesquisar hoje?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Ah, antes disso... o Sr. Keith tá aí?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Ele parece estar dentro da instalação. Porém, não consigo localizar seu paradeiro exato."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x31,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Me falaram que ele ia dar uma pesquisada no andar do meio da instalação, então ele deve ter descido."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x33,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "No momento, tá rolando uma falha nas vias de transmissão de comando da instalação, e não consigo pegar mais detalhes."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Beleza. Vou lá dar uma olhada pelos andares de baixo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x117,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "Será que ele não enjoa de ler livros o tempo todo...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Hahaha, ele disse que esse lugar era tipo o paraíso pessoal dele, então certeza que tá sendo divertido pra ele."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x118,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "Isso não dá pra entender. Eu tô de saco cheio de livros. Não quero nem ver a cara deles..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "C-Como você pode falar um negócio<CR>desses...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x119,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Ayesha, você ia entender se fosse bibliotecária dessa instalação por mais de 900 anos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc6,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "I-Isso deve ser um trabalho puxado.<CR>Eu agradeço pelo seu esforço."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Então eu ficaria grata se puder dar o papo nele pra que ele converse com a bibliotecária de vez em quando."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Beleza, vou falar com o Sr. Keith.<CR>Tô indo nessa!"
+        }
+    ]
+}

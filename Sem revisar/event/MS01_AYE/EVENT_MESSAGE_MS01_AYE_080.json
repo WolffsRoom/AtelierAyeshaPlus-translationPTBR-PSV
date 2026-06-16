@@ -1,0 +1,309 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MS01_AYE_080.ebm",
+    "nb_messages": 0x22,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0x12,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Olá? Oieeee? Ayesha, você tá aí?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Hã? Essa voz é da... Nanaca?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x46,
+            "expr_id": 0x2,
+            "msg_id": 0x2,
+            "msg_string": "Hehe, na mosca. Vim aqui te visitar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x47,
+            "expr_id": 0x2,
+            "msg_id": 0x3,
+            "msg_string": "Meu irmão me disse que você também tinha um ateliê nessa cidade."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "É bem conveniente, então eu uso bastante esse lugar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Além disso, eu tenho mais amigos aqui também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x48,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Amigos... Ayesha, parece que você tem um monte de amigos. Fico até com inveja."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Ayesha, tenho uma dúvida sobre um remédio... Ah, visita?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Oi, prazer em conhecer.<CR>Sou a Nanaca, amiga da Ayesha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1a0,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Ah, olá. Sou a Marietta."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "A Nanaca vive de pastoreio nômade com as vaquinhas dela."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "E a Marietta tem uma loja."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "É uma apresentação meio básica,<CR>mas acho que não tá errada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Hehe, não sou muito boa em apresentar as pessoas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Por favor, entra. Vou servir um chazinho agora mesmo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Hã? Mas eu tenho a minha loja...<CR>Bom, acho que um tempinho não faz mal."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Hehe, valeu."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x11,
+            "msg_string": "Hehe, esse chá tá uma delícia! Seria perfeito se tivesse uns biscoitos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Ah, Bell... quando você chegou?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Vim brincar, mas você parecia ocupada, então resolvi ir entrando."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Nossa, que caldeirão gigante..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Oieee, a Nio não tá aqui hoje?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Não, ela saiu pra coletar umas coisas na montanha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Entendi... Na verdade, eu vim aqui pra brincar com a Nio, mas fica pra próxima."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x69,
+            "expr_id": 0x2,
+            "msg_id": 0x18,
+            "msg_string": "Ah, é verdade. Recebi uma carta da Tanya."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6d,
+            "expr_id": 0x2,
+            "msg_id": 0x19,
+            "msg_string": "Ela tá vindo pra cá de novo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Ah, é? Então eu preciso preparar uma festa de boas-vindas!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1be,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Hã, aquela garota tá vindo? Entendi, entendi."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1c0,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Então eu preciso ensinar ela a se divertir na cidade de novo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Ah, Nanaca, por favor, participa também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Sério? Ebaaa, vou poder fazer mais amigos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6a,
+            "expr_id": 0x2,
+            "msg_id": 0x1f,
+            "msg_string": "Nossa, parece que vai ser uma festa bem animada. A gente tem que convidar a Nio também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x20,
+            "msg_string": "(Tá tão animado. Parando pra pensar, eu fiz um monte de amigos novos nesses últimos três anos...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x21,
+            "msg_string": "(É tão maravilhoso todo mundo estar conectado assim...)"
+        }
+    ]
+}

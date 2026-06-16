@@ -1,0 +1,472 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC03_LIN_610.ebm",
+    "nb_messages": 0x34,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Linca, depois que a gente passar por essa floresta, o que acha da gente parar pra um lanchinho?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Eu apoio. Ayesha, seus lanchinhos são o meu maior prazer enquanto estou em serviço... Ayesha!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Oi? Se estiver preocupada com os lanchinhos, eu trouxe um monte. O seu favorito‐ "
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x3,
+            "msg_string": "Fica atrás de mim!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x233,
+            "name_id": 0x55,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "unknown2": 0x1,
+            "msg_string": "Frrr!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "Kyah...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Tyah!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "M-Muito obrigada... Você me salvou."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Linca, sua habilidade com a espada é sempre incrível...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Eu só tenho total confiança em manusear uma espada. Não serei derrotada por alguma fera selvagem."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "Porém... talvez não seja o bastante ter só uma espada..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xb,
+            "msg_string": "(Hã? Ela ficou deprimida de repente... Será que tem algo errado?)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Humm, aconteceu alguma coisa?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd1,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "A Marion me deu outra missão, mas não acho que consigo cumprir..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd1,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "Eu sou uma inútil, no fim das contas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "msg_string": "(Ela tava se esforçando tanto pra fazer amigos, então o que poderia estar causando tanto problema pra ela...?)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "É uma missão tão difícil assim? O que é exatamente?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd1,
+            "expr_id": 0x4,
+            "msg_id": 0x11,
+            "msg_string": "Ela me mandou... descobrir exatamente o que eu quero fazer, e não pode ser só lutar com a espada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "msg_string": "(Humm, isso soa um pouco diferente de uma missão...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd1,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "A Marion sempre me manda fazer umas coisas absurdas. Será que ela não gosta de mim...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Humm, eu acho que a Marion se importa muito com você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd2,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "É mesmo? Eu só tenho a minha espada e a mim mesma."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Acho que é impossível eu encontrar outra coisa além disso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0x5,
+            "msg_id": 0x17,
+            "msg_string": "Humm, não sei quais são as verdadeiras intenções da Marion, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15f,
+            "expr_id": 0x5,
+            "msg_id": 0x18,
+            "msg_string": "Não acho que ela tá dizendo que espadas são ruins. Em vez disso, talvez seja pra você pensar em como usar a sua espada..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "É isso que eu acho que deve ser..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Como usar minha espada...? Bom, tem várias formas, tipo cortar, golpear, fatiar e esmagar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Bom, ahn, não foi isso que eu quis dizer. Acho que é mais sobre o que você quer fazer com a sua espada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Tipo ficar famosa, ou lutar pra chegar no topo, ou derrotar um inimigo forte... Algo assim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Derrotar um inimigo forte! Entendi...<CR>Acho que isso eu consigo fazer..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "O problema agora é encontrar um inimigo forte... Ayesha, você conhece algum?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Linca, por que você só quer fazer a última opção? Ficar famosa não seria legal também?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x12,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "As outras duas têm elementos que as deixam difíceis de entender."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "Mas derrotar um inimigo forte é fácil de entender, então achei que seria uma boa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "Bom, o importante aqui é descobrir o que você quer fazer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "Você acha que quer fazer isso de todo o seu coração?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x165,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "Isso... hrgggh."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x168,
+            "expr_id": 0x0,
+            "msg_id": 0x25,
+            "msg_string": "O que eu quero fazer?<CR>Eu me pergunto... Hmmm..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x16a,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x26,
+            "msg_string": "..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x16b,
+            "expr_id": 0x0,
+            "msg_id": 0x27,
+            "msg_string": "Ayesha, essa é uma pergunta muito difícil. Não acho que consigo encontrar a resposta agora mesmo, nem se eu pensar muito."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x28,
+            "msg_string": "Então, por enquanto, e se eu derrotar um inimigo forte e depois pensar nisso?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x29,
+            "msg_string": "Humm, se você diz, acho que tudo bem..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x79,
+            "expr_id": 0x3,
+            "msg_id": 0x2a,
+            "msg_string": "Humm, um inimigo forte talvez já tenha chegado. Ayesha! Se afasta!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x233,
+            "name_id": 0x55,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2b,
+            "unknown2": 0x1,
+            "msg_string": "Pi!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x2c,
+            "msg_string": "I-Isso é..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x7c,
+            "expr_id": 0x0,
+            "msg_id": 0x2d,
+            "msg_string": "É, tá faltando um pouco pra ser considerado um inimigo forte."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x233,
+            "name_id": 0x55,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2e,
+            "msg_string": "Piii!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2f,
+            "msg_string": "Então vamos fazer assim. Quando eu pensar num inimigo forte que sirva pra você..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x30,
+            "msg_string": "Eu venho te avisar na hora.<CR>Pode ser?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x31,
+            "msg_string": "Por favor, faça isso! Vou ficar esperando o seu relato!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x32,
+            "msg_string": "(Descobrir algo que você queira fazer... Parece bem difícil mesmo...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x33,
+            "msg_string": "(Até eu teria problema se me mandassem descobrir algo que eu queira fazer além de preparar remédios.)"
+        }
+    ]
+}

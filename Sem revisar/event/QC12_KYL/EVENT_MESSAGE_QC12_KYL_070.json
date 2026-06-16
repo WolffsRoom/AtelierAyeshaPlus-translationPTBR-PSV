@@ -1,0 +1,258 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC12_KYL_070.ebm",
+    "nb_messages": 0x1c,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x1a1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ah, é você, Ayesha.<CR>Bem-vinda."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "msg_string": "(Tô com medo de perguntar, mas tem algo que preciso checar com ele.)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Hmm, Mestre das Misturas, o que aconteceu com aquela comida Diabo Vermelho da última vez...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa2,
+            "expr_id": 0x3,
+            "msg_id": 0x3,
+            "msg_string": "Ah, aquilo...?<CR>Bom, teve um resultado tenso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Tô com medo de perguntar, mas o que aconteceu...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa3,
+            "expr_id": 0x3,
+            "msg_id": 0x5,
+            "msg_string": "Primeiro, eu chamei ele aqui, dizendo que ia pagar uma refeição pra ele, mas acho que ele suspeitou de alguma coisa..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa8,
+            "expr_id": 0x3,
+            "msg_id": 0x6,
+            "msg_string": "Eu nunca tinha pagado uma refeição pra ele antes, então isso foi um erro."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xab,
+            "expr_id": 0x3,
+            "msg_id": 0x7,
+            "msg_string": "Eu consegui fazer ele comer a comida Diabo Vermelho, e isso fez ele passar por uma experiência infernal, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa4,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "O cara batizou minha bebida com álcool!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Ahh, então vocês dois tavam pensando no mesmo nível."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x194,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Não, eu tava um passo à frente dele."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x17d,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "\"Juris, vamos declarar um empate por hoje. Agora, bebe essa água pra lavar a boca.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x182,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Foi o que eu disse enquanto oferecia uma água pra ele."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Ah... mas beber água depois de comer algo apimentado só acentua ainda mais a ardência..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Viu só? Sou bem estrategista, não sou? Então eu selei minha vitória e dei um gole na água..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x10c,
+            "expr_id": 0x4,
+            "msg_id": 0xf,
+            "msg_string": "Mas o cara tinha batizado com álcool de novo! Que babaca!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "T-Tenho certeza de que a culpa cai pros dois lados..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x10d,
+            "expr_id": 0x4,
+            "msg_id": 0x11,
+            "msg_string": "Bom, então o resultado acabou sendo um empate tenso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x10f,
+            "expr_id": 0x4,
+            "msg_id": 0x12,
+            "msg_string": "Nós dois ficamos nocauteados no dia seguinte, incapazes de fazer qualquer coisa..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x112,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Foi uma batalha onde perdemos muitas<CR>coisas... e não ganhamos nada. Porém!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Agora sinto uma sensação de dever cumprido no meu coração. Eu consegui!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0x15,
+            "msg_string": "E-Eu não sei se concordaria com você..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Bom, a gente declarou uma trégua por um tempo. Se continuássemos assim, nossos corpos não iam aguentar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc6,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Vocês deviam simplesmente acabar com isso em vez de declarar trégua. Eu realmente acho que vocês deviam parar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Esse é um pedido impossível.<CR>Esse é o nosso estilo de vida."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Bom, vou manter em segredo que você me deu a receita..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x1a,
+            "msg_string": "Então não se preocupe com isso.<CR>Hahaha!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1b,
+            "msg_string": "(Acho que o problema não é esse.<CR>Será que isso realmente acabou<CR>bem...?)"
+        }
+    ]
+}

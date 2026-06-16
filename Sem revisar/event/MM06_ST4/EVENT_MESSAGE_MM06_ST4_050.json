@@ -1,0 +1,91 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM06_ST4_050.ebm",
+    "nb_messages": 0x9,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "As flores estão florescendo aqui também... São tão lindas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Se esse for o lugar de que a Srta. Odelia me falou..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x3e,
+            "name_id": 0x12,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "unknown2": 0x1,
+            "msg_string": "Bem-vindos... é o que eu queria dizer, mas não posso deixar vocês avançarem mais."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x3e,
+            "name_id": 0x12,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "unknown2": 0x1,
+            "msg_string": "Ouçam este aviso, intrusos. Não avancem mais e saiam da minha jurisdição."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x4,
+            "msg_string": "Eu sabia! Então esse é o berço...<CR>Sendo assim, não posso recuar...!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x3e,
+            "name_id": 0x12,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "unknown2": 0x1,
+            "msg_string": "Eu sou aquele que protege a semente.<CR>Eu só existo pra cumprir o meu dever."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x3e,
+            "name_id": 0x12,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "unknown2": 0x1,
+            "msg_string": "Como protetor da semente, não tenho vontade de matar por matar. Mas..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x3e,
+            "name_id": 0x12,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "unknown2": 0x1,
+            "msg_string": "Se vocês derem mais um passo, vou assumir que são uma ameaça à preservação da semente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7a,
+            "expr_id": 0x3,
+            "msg_id": 0x8,
+            "msg_string": "Eu vim aqui pra levar a Nio de volta. Não importa o que você diga, não vou voltar sem ela!"
+        }
+    ]
+}

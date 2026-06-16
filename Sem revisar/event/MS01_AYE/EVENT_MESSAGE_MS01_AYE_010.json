@@ -1,0 +1,330 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MS01_AYE_010.ebm",
+    "nb_messages": 0x24,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x21e,
+            "name_id": 0x12,
+            "extra_id": 0x206,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "msg_string": "Com licença, moça bonita!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "msg_string": "(Bonita...? Então ele não pode tá<CR>falando comigo.)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x21e,
+            "name_id": 0x12,
+            "extra_id": 0x20c,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "msg_string": "Opa, espera aí."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x3,
+            "msg_string": "Hã... você tá falando comigo...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x21e,
+            "name_id": 0x5b,
+            "extra_id": 0x207,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "msg_string": "Isso aí. Você tá vendo alguma outra moça bonita por aqui?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x5,
+            "msg_string": "H-Hmm, bom... Eu não me acho assim tão bonita..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x21e,
+            "name_id": 0x5b,
+            "extra_id": 0x207,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "msg_string": "Ah, não seja tão modesta.<CR>Você é bem bonita sim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x7,
+            "msg_string": "Não, o que eu‐<CR>Eu acho que sou, sabe, normal..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x21e,
+            "name_id": 0x5b,
+            "extra_id": 0x207,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x8,
+            "msg_string": "Bom, eu tenho uma informação bem tentadora pra uma moça bonita que nem você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x21e,
+            "name_id": 0x5b,
+            "extra_id": 0x207,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x9,
+            "msg_string": "Eu tenho um prendedor de cabelo maravilhoso que vai deixar seu cabelo lindinho ainda mais bonito."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x21e,
+            "name_id": 0x5b,
+            "extra_id": 0x20c,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "msg_string": "Que tal? Por que não compra um?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0xb,
+            "msg_string": "Bom, é que..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xc,
+            "msg_string": "(Urgh, como eu vou recusar...?)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Aquela é... a Ayesha. Mas o cara do lado dela não me parece familiar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "O que será que eles tão fazendo...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x21e,
+            "name_id": 0x5b,
+            "extra_id": 0x1f7,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "msg_string": "Moça, você disse que ia comprar agorinha mesmo, não foi? Foi?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x21e,
+            "name_id": 0x5b,
+            "extra_id": 0x206,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x10,
+            "msg_string": "E agora tá falando que não quer? O que você tá tentando aprontar aqui?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0x11,
+            "msg_string": "Ahn, é que... eu tava só pensando se eu devia comprar ou não..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x21e,
+            "name_id": 0x5b,
+            "extra_id": 0x20c,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "msg_string": "Você é do tipo mais problemático de cliente. A minha vida depende desse trabalho, sabia?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xcd,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "M-Me desculpa... Hmm... então eu vou compr‐"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Tá, tá, para bem aí.<CR>O que você tá aprontando, Ayesha?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xcf,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Marietta! Bom, ahn, eu tava olhando esse prendedor de cabelo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x21e,
+            "name_id": 0x5b,
+            "extra_id": 0x207,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "msg_string": "Quem é você? A gente tá negociando, então não vem interromper."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Hmm... negociando, é? Moço, você pegou permissão pra abrir um negócio aqui?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x21e,
+            "name_id": 0x5b,
+            "extra_id": 0x20c,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x18,
+            "msg_string": "C-Claro. Se você tá tentando inventar alguma desculpa esfarrapada, eu não vou deixar você‐"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15d,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Ah, que estranho... Pra abrir uma loja nessa cidade, você precisa de uma licença da Casa de Comércio do Harry..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15f,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "E pra conseguir essa licença, tem que sempre passar por mim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Mas eu não conheço você, moço."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x21e,
+            "name_id": 0x5b,
+            "extra_id": 0x207,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1c,
+            "msg_string": "Q-Quem é você...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x21e,
+            "name_id": 0x5b,
+            "extra_id": 0x1f7,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1d,
+            "msg_string": "Grr...! Não sei o que tá rolando, mas acho melhor eu dar o fora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xf5,
+            "expr_id": 0x4,
+            "msg_id": 0x1e,
+            "msg_string": "Minha nossa... É bom que a cidade tá ficando mais animada, mas às vezes isso atrai esse tipo de gente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Marietta, você me salvou.<CR>Muito obrigada!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xf7,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Por nada. Mas a culpa é sua também, Ayesha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "Você tem que ter pulso firme nessas horas, se não vão se aproveitar de você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "Você tem razão. Vou tomar mais cuidado..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x23,
+            "msg_string": "(Acho que eu meio que me deixo levar...<CR>Preciso me impor melhor.)"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC06_NIO_520.ebm",
+    "nb_messages": 0x8,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x0,
+            "msg_string": "Juntei um monte de flores brilhantes... Talvez eu devesse tentar sintetizar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15d,
+            "expr_id": 0x5,
+            "msg_id": 0x1,
+            "msg_string": "Hmm, se eu extrair os componentes agora, só vai aumentar a quantidade..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15f,
+            "expr_id": 0x5,
+            "msg_id": 0x2,
+            "msg_string": "Pra um remédio normal, eu posso só ferver por mais tempo, mas o óleo essencial é o que eu consigo depois de tirar toda a umidade..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Já sei, devia ir dar uma pesquisada na biblioteca. Se eu der sorte, posso até topar com o Sr. Keith."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Preciso avisar pro Sr. Keith que teve um avanço com a Nio."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Ah, já sei! Devia pedir pra ele dar uma olhada<CR>no óleo essencial nesse recipiente.<CR>O Sr. Keith me falou pra não mexer nele, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Preciso levar isso comigo de algum jeito... Ué? Tá preso no ar e não quer sair do lugar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Hrrrm, hrrrmmm, eita! C-Consegui."
+        }
+    ]
+}

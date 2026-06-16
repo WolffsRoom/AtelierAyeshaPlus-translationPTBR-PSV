@@ -1,0 +1,470 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC06_NIO_650.ebm",
+    "nb_messages": 0x31,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Nio, vamos fazer uma pausa pro lanche.<CR>Onde você tá?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Espera um pouco, eu sinto que não vi a Nio hoje..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "...Hmm, eu sinto que algo assim aconteceu antes..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "E... lá vaaai você!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x4,
+            "msg_string": "O quê!? Esse barulho..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Ah, Mana, voltei!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Nio! Você foi colher ervas medicinais de novo?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Ah, é, eu tenho ervas medicinais também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "E muitas... Isso é muito mais que o normal."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Acho que eu não conseguiria usar tudo isso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Tudo bem, eu vou vender o que sobrar no bazar!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Entendi. Acho que tá tudo bem..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Hehehe, eu trouxe outras coisas além de ervas medicinais hoje. Olha, olha!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0xd,
+            "msg_string": "Hã? Isso é uma Garra de Fera...<CR>E isso é uma Escama de Dragão..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Nio, de onde no mundo você tirou essas coisas?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x13c,
+            "expr_id": 0x4,
+            "msg_id": 0xf,
+            "msg_string": "Wah, bem, isso é, hum..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Nossa, não faz isso, tá bom? Não faz nenhuma coisa perigosa sozinha..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x13e,
+            "expr_id": 0x4,
+            "msg_id": 0x11,
+            "msg_string": "Tá bom, mas não tinha nada que eu pudesse ter feito pra evitar. Ele me atacou de repente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0x12,
+            "msg_string": "...Você tá brava?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Não tô brava, mas tô muito preocupada.<CR>Eu sinto que você tem se esforçado<CR>demais ultimamente..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Não vai pra lugares perigosos sozinha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xd1,
+            "expr_id": 0x4,
+            "msg_id": 0x15,
+            "msg_string": "Tá bom..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Vai ser tarde demais se algo acontecer... Não me preocupa, tá bom?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "...Hã? Nio, seu rosto tá meio vermelho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xd2,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Hã, tá? Hmm, eu tô ficando meio tonta, e..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x19,
+            "msg_string": "Nio!?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1a,
+            "unknown2": 0x1,
+            "msg_string": "Hmm... Hã, onde eu tô...!?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1b,
+            "unknown2": 0x1,
+            "msg_string": "Ah, você acordou? Nio, você desmaiou de repente."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1c,
+            "unknown2": 0x1,
+            "msg_string": "O quê!? Urgh, minha cabeça dói..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1d,
+            "unknown2": 0x1,
+            "msg_string": "Parece que você ficou doente. Você desmaiou de repente, e me assustou."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1e,
+            "unknown2": 0x1,
+            "msg_string": "Entendi... Desculpa, Mana."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1f,
+            "unknown2": 0x1,
+            "msg_string": "Você realmente tem se esforçado demais..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x20,
+            "unknown2": 0x1,
+            "msg_string": "Talvez. Eu lembro de pensar, \"Eu ainda tô super de boa!\" Mas..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x21,
+            "unknown2": 0x1,
+            "msg_string": "Eu posso ter trabalhado um pouquinho demais..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x22,
+            "unknown2": 0x1,
+            "msg_string": "Eu tô feliz... que você tá trabalhando duro por mim, mas..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x23,
+            "unknown2": 0x1,
+            "msg_string": "Não vai ter sentido nenhum se você ficar doente."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x24,
+            "unknown2": 0x1,
+            "msg_string": "Eu sou mais que grata por você, mesmo agora."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x25,
+            "unknown2": 0x1,
+            "msg_string": "Pensar no quão triste eu vou ficar se você encontrar algum perigo..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x26,
+            "unknown2": 0x1,
+            "msg_string": "...Me desculpa. Mas..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x27,
+            "unknown2": 0x1,
+            "msg_string": "Mana, você é totalmente adulta agora."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x28,
+            "unknown2": 0x1,
+            "msg_string": "Ué...?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x29,
+            "unknown2": 0x1,
+            "msg_string": "Mas eu ainda sou só uma criança. Nossa diferença aumentou enquanto eu tava lá..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2a,
+            "unknown2": 0x1,
+            "msg_string": "Então eu me senti deixada pra trás, e..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2b,
+            "unknown2": 0x1,
+            "msg_string": "Eu fiquei triste."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2c,
+            "unknown2": 0x1,
+            "msg_string": "...Eu não sabia que você pensava assim. Obrigada, Nio."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2d,
+            "unknown2": 0x1,
+            "msg_string": "Mana..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2e,
+            "unknown2": 0x1,
+            "msg_string": "Mas não tem necessidade de se apressar assim. Em mais alguns anos, você vai ser uma mulher crescida também."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2f,
+            "unknown2": 0x1,
+            "msg_string": "Vamos dar um passo de cada vez por enquanto, tá bom?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x30,
+            "unknown2": 0x1,
+            "msg_string": "Tá bom... Obrigada."
+        }
+    ]
+}

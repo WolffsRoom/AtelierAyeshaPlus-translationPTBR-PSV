@@ -1,0 +1,105 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MS03_110.ebm",
+    "nb_messages": 0xb,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ah, acho que eu devia dar uma passada na loja da Bell..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Ei, moço, o que acha disso?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "É uma estátua misteriosa de verdade que você não vai achar em nenhum outro lugar!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Fui eu mesma que fiz! Não é fofa?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Ooh, isso é bem legal!<CR>Você tem talento!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15d,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Com certeza, eu vou levar!<CR>Você tem mais alguma coisa?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Ah, e que tal isso? É um chapéu de penas da sorte que eu mesma teci!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Dizem por aí que se você usar esse chapéu, você vai ser maravilhosamente abençoado com boa sorte!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15f,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Aham, aham, aham, mas foi você quem fez, né? Então como isso funciona exatamente?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x9,
+            "msg_string": "(É verdade, é um segredo que a Bell é uma bruxa.)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "msg_string": "(Tenho certeza que ela jogou uma magia nisso pra dar sorte, mas deve ser difícil não poder explicar desse jeito...)"
+        }
+    ]
+}

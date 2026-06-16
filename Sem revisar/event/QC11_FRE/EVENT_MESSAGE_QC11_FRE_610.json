@@ -1,0 +1,411 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC11_FRE_610.ebm",
+    "nb_messages": 0x2d,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Sr. Fred... Oi..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Seja bem-vinda!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "Opa, que susto! Você tá cheia de energia hoje!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Devo estar mesmo. Sinto que esqueci a chama que eu tinha quando ainda era só um novato..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "A emoção que senti quando finalmente pude abrir minha própria loja... Quero trazer isso de volta."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Isso é ótimo... Vou torcer por você!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Obrigado. Eu finalmente lembrei que o propósito da minha vida é o pão."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Não vou me distrair com mais nada. Quero sovar a massa, deixar crescer e..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "Por fim... fazer tudo sumir."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "H-Hã!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xd2,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Ah, desculpa... Quero que meus pensamentos mundanos sumam. Tudo além do pão é inútil pra mim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xb,
+            "msg_string": "(Parece que ele ficou bem desesperado...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "E esse é o pão supremo recém-assado que eu descobri depois de eliminar todos os meus pensamentos impuros...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0xd,
+            "msg_string": "Nossa, essa cor... esse cheiro... Só de olhar já tô babando...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Eu adoraria a sua opinião, já que você gosta tanto de pão."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Agora por favor! Você poderia comer isso pra mim?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "*glup* ...Tem certeza? Tudo bem uma pessoa como eu comer isso...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x199,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Eu, euzinha! Eu também quero comer!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Ah, Bell!? Por que você tá aqui...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Vim seguindo esse cheiro delicioso. Mas isso não importa agora! Ouvi dizer que você tá procurando gente pra provar isso!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Eu me ofereço!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x173,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Você? Mas você só fala \"tá bom\" ou \"quero mais\", não importa o que coma."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x174,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Isso me deixa feliz também, então vou te dar uma outra coisa hoje, beleza?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "O quuuê!? Injustiça! Mas acho que eu aceito, contando que seja de graça..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "E-Então, vou dar uma mordida...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "*engole*<CR>E-E aí, como tá...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1b4,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1a,
+            "msg_string": "Tá fofinho, mas crocante...<CR>Com casquinha, mas macio..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1b5,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1b,
+            "msg_string": "O doce tá perfeito, e eu super conseguiria comer muito mais disso!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1b5,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1c,
+            "msg_string": "*nhac* *nhac* O que eu tô comendo agora é... pão, né? *nhac*"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x177,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Eu usei os ingredientes da mais alta qualidade que existem, e fiz com todos os meios disponíveis pra mim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x179,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Eu acredito de verdade que criei uma obra-prima."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1b5,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1f,
+            "msg_string": "Incrível... Não, isso tá incrível demais! Eu tô até começando a chorar por algum motivo! *nhac* *nhac*"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x20,
+            "msg_string": "Entendo... Fico feliz que você esteja me elogiando tanto... Mas dá um pouco de vergonha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0x21,
+            "msg_string": "Eu queria ouvir a opinião de outras pessoas, mas não conheço mais ninguém que seria bom pra isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x44,
+            "expr_id": 0x2,
+            "msg_id": 0x22,
+            "msg_string": "Você tem algum amigo que tenha um paladar sofisticado?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "Aqui! Eu!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "Eu quero que esse pão supremo seja avaliado. Queria a opinião de um profissional."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1b6,
+            "expr_id": 0x0,
+            "msg_id": 0x25,
+            "msg_string": "Alguém que saiba avaliar pão...<CR>Bem, me vêm algumas pessoas à mente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x26,
+            "msg_string": "Obrigada! Eu sei que é pedir muito, mas tô contando com você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x7e,
+            "expr_id": 0x3,
+            "msg_id": 0x27,
+            "msg_string": "Eii! Eu disse que eu comeria pra você!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x28,
+            "msg_string": "Foi mal, não consegui fazer muitos desses. Você se contenta com esse Pão Supremo de Gatinho no lugar?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x80,
+            "expr_id": 0x0,
+            "msg_id": 0x29,
+            "msg_string": "Supremo? Eba!<CR>Acho que esse vai servir!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2a,
+            "msg_string": "(Hmm... alguém que eu possa pedir pra provar...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15f,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2b,
+            "msg_string": "(O Sr. Kyle sabe muito sobre comida, então pode ser bom pedir pra ele.)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15f,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2c,
+            "msg_string": "(E, hmm, a obsessão da Srta. Odelia por doces pode ajudar também...)"
+        }
+    ]
+}

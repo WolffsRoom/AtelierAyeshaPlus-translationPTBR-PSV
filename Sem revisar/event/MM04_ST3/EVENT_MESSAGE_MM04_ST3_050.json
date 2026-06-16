@@ -1,0 +1,115 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM04_ST3_050.ebm",
+    "nb_messages": 0xc,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x0,
+            "msg_string": "Já faz um tempinho desde que eu comecei essa viagem pra achar a Nio..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x1,
+            "msg_string": "E de lá pra cá, minhas habilidades com alquimia melhoraram, e eu juntei várias espécies diferentes de flores..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x2,
+            "msg_string": "Eu também consegui ver a Nio, mas o que é que eu faço agora...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15d,
+            "expr_id": 0x5,
+            "msg_id": 0x3,
+            "msg_string": "Minha cabeça tá ficando toda embaralhada..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15f,
+            "expr_id": 0x5,
+            "msg_id": 0x4,
+            "msg_string": "Acho melhor eu repassar o que eu já fiz. Hum... até agora, eu consegui..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15f,
+            "expr_id": 0x5,
+            "msg_id": 0x5,
+            "msg_string": "Várias pétalas misteriosas, e aquele livro de referência sobre flores que o Sr. Keith escolheu pra mim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15f,
+            "expr_id": 0x5,
+            "msg_id": 0x6,
+            "msg_string": "E bastante experiência como alquimista. Hum... acho que é só isso mesmo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Ah, e também peguei aquele recipiente misterioso com o Sr. Keith..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x8,
+            "msg_string": "Ah, e agora eu sei que a Nio continua viva em algum lugar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0x9,
+            "msg_string": "Disso eu tenho certeza agora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0xa,
+            "msg_string": "Se eu descobrir um jeito de ajudar ela, tenho certeza de que vou conseguir vê-la de novo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x78,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Tenho que dar uma investigada nessas flores que brilham. Talvez eu descubra alguma coisa se usar aquele recipiente..."
+        }
+    ]
+}

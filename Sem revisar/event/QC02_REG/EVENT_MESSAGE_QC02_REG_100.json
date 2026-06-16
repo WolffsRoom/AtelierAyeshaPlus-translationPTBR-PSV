@@ -1,0 +1,333 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC02_REG_100.ebm",
+    "nb_messages": 0x25,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Hmm... essa área é bem suspeita..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Ué, tem alguma coisa estranha? Pra mim, parece igual a qualquer outro lugar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xb,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Minha intuição de anos tá me sussurrando que tem alguma coisa aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x11,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Hmm, não adianta só ficar pensando nisso, vamos mandar tudo pelos ares."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Fica pra trás."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "3, 2, 1... lá vai bomba!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x125,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "Kyaaah! O que você tá fazendo?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x128,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Ah... i-isso é...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Hm-hmmm! Parece totalmente uma entrada selada... Tô sentindo cheiro de tesouro."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Uaaau, você tava certa...!<CR>Como você sabia?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Tô te falando, é a minha intuição. Quando você é escavadora, você simplesmente sabe."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x11,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Enfim, não tá curiosa pra ver o que tem aí dentro? Vamos dar uma olhada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Você tem razão... Pode ter algumas relíquias de uma civilização antiga..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Ou pode ter só os ossos de pessoas antigas... Hehehe!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Hyaaah! Não me assusta desse jeito!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0xf,
+            "msg_string": "Tá bem escuro...<CR>Devo acender alguma coisa?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Não, ainda não! Pode ter algum gás inflamável no ar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x81,
+            "expr_id": 0x3,
+            "msg_id": 0x11,
+            "msg_string": "E você não ia querer fazer CABUM quando acendesse o fogo, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Não, eu não ia querer isso não..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x80,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "A gente vai ter certeza quando formos mais fundo. Ayesha, fica perto de mim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Ah... o que é essa coisa macia?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x15,
+            "msg_string": "Hã!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x169,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Não muito dura, mas não muito macia.<CR>A textura parece a de um anjo...<CR>Isso é o tesouro!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "E-Essa sou eu, Regina!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x16a,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Ops, desculpa, Ayesha. Haha, mas olha, não é tão diferente de um tesouro..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x16a,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Vamos ver, aperta-aperta...<CR>Oho, agora sim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x38,
+            "expr_id": 0x2,
+            "msg_id": 0x1a,
+            "msg_string": "Nyah! Hyah!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x39,
+            "expr_id": 0x2,
+            "msg_id": 0x1b,
+            "msg_string": "E-Ei! Isso faz cócegas!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x16b,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Ops, foi mal! Te tocar é tão bom que não consigo me controlar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x39,
+            "expr_id": 0x2,
+            "msg_id": 0x1d,
+            "msg_string": "Hyaaah! Vamos só investigar!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0x1e,
+            "msg_string": "Hã? Ah, só mais um pouquinho..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3a,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Não! Mais um pouco e vou ficar confusa com um monte de coisas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd2,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Bom, não tô nem um pouco a fim de parar, mas acho que vou voltar ao trabalho..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "*sniff* *sniff* *sniff*<CR>...Parece que tá de boa acender um<CR>fogo. Vamos botar uma luz aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "Hmm... Acho que não tem nada de especial aqui. Mas essa ruína me parece familiar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "Agora que você falou, ela parece com a ruína de Riesengang."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "Talvez elas estejam conectadas.<CR>Vamos dar uma investigada melhor."
+        }
+    ]
+}

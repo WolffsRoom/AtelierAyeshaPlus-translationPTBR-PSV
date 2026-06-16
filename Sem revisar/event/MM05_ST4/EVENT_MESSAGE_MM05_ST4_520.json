@@ -1,0 +1,311 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM05_ST4_520.ebm",
+    "nb_messages": 0x22,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x7e,
+            "expr_id": 0x3,
+            "msg_id": 0x0,
+            "msg_string": "Por que os slags estão saindo da ruína?<CR>O que a guarda da cidade tava fazendo!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1f8,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "msg_string": "Foi mal. Os slags tão bem agitados ultimamente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1f9,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "msg_string": "Além disso, parte do muro caiu. Eles continuam saindo da ruína e causando destruição."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x7f,
+            "expr_id": 0x3,
+            "msg_id": 0x3,
+            "msg_string": "Mas mesmo assim, o que aqueles caras tavam fazendo enquanto essas coisas jorravam da ruína!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1fa,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "msg_string": "Bom..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1f8,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "msg_string": "Foi mal, garota. Nossa guarda da cidade não é de confiança..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x194,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Não, não se preocupe com isso.<CR>(Pode ser que a culpa seja toda minha...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "msg_string": "(O que eu faço...?<CR>Isso provavelmente é por causa da<CR>influência do Cristal de Flor...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Hmm, slags enfurecidos... Então os slags também conseguem entender aquelas \"palavras\"..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Senhor Keith... quando você chegou aqui?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Agora mesmo. Parecia que algo interessante tava acontecendo por aqui também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "As \"palavras\" que o cristal emite devem ser tipo a voz do deus deles, dando a esses slags suas ordens absolutas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Mas, quando você o usou, as palavras simplesmente se espalharam sem ter nenhum sentido."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "A voz sem sentido do deus deles ressoou dentro deles. Eles parecem estar bem confusos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "O que eu devo fazer...? Se alguém se machucar, eu vou‐"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Tenho certeza de que o pessoal que mora por aqui tá acostumado com esse nível de confusão, então não precisa se preocupar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x218,
+            "name_id": 0x2f,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x10,
+            "msg_string": "Chefe! Aquele grandão que tava lá dentro começou a se mexer!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x205,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x11,
+            "msg_string": "Eita, eita, ele também vai começar a se mexer...? Ah, isso... vai dar problema."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x218,
+            "name_id": 0x2f,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "msg_string": "E pra piorar, tem uma garota flutuando no ar, dando ordens pros slags."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x218,
+            "name_id": 0x2f,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13,
+            "msg_string": "O que diabos tá acontecendo...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Com licença, mas como era essa garota?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x218,
+            "name_id": 0x2f,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x15,
+            "msg_string": "Bom, o cabelo dela era curto e...<CR>Ué? Ela até que lembra você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "msg_string": "(Então essa garota... Será que é a Nio...?)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Chefe, eu vou lá."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1f8,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x18,
+            "msg_string": "Você? Sem chance. É muito perigoso entrar aí!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x196,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Não... Eu vou. Eu tenho que ir!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1f9,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1a,
+            "msg_string": "Se acontecer alguma coisa, não vamos conseguir te salvar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Não se preocupa, essa queridinha vai ficar bem. Deixa ela ir."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1fe,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1c,
+            "msg_string": "Se você diz... Mas, se sentir que tá em perigo, volta na mesma hora!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Beleza, tá decidido então. Vai."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Sim, senhor! A culpa é minha, então preciso fazer alguma coisa pra resolver isso...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Bom, não precisa ficar tão nervosa. Se o bicho pegar, eu resolvo isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Acima de tudo, com toda essa confusão, tenho certeza que vai ter momentos em que você vai conseguir pegar eles de guarda baixa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "T-Tá bom... Eu tô indo!"
+        }
+    ]
+}

@@ -1,0 +1,203 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC06_NIO_560.ebm",
+    "nb_messages": 0x16,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Pronto... Esse é o cristal<CR>que o Sr. Keith tava falando!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Esse cristal tá emitindo um poder absurdo... Eu sinto que isso provavelmente é um item perigoso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Eu queria tentar usar logo, mas... tem tanto poder, que eu não sei o que pode acontecer..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Mas não vai adiantar nada se eu não tentar. Beleza, eu vou em frente e usar!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Agora, cristal, me mostre os seus poderes ocultos... Iá!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x125,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "O-O que? Será que eu fiz... alguma coisa absurdamente errada!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x12,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "...Você, às vezes, mostra uma determinação extraordinária."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Normalmente, qualquer um hesitaria em usar o Cristal de Flor."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x127,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "M-Me desculpa. Eu achei que devia me apressar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x128,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "O que tá acontecendo?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "O estímulo provavelmente foi um pouco forte demais. Essa área por aqui foi pega de surpresa. Vai parar logo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Ah, é verdade..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x51,
+            "expr_id": 0x2,
+            "msg_id": 0xc,
+            "msg_string": "Como ele vai avançar, agora que foi atingido por \"palavras\" tão incrivelmente fortes?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x54,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Vai ser interessante ver que tipo de mudanças isso vai trazer. Temos que estar prontos pra quando ele aparecer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Você parece bem animado, Sr. Keith..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Esse tipo de fenômeno é uma primeira vez pra mim também. Então, eu estaria mentindo se dissesse que não tô animado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Pelo contrário, agora eu tô mais nervosa..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "A situação provavelmente vai mudar de repente. Se acontecer qualquer coisa, eu venho visitar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x15,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Não ignore nenhuma mudançazinha à toa e fique em alerta máximo o tempo todo. Adeus."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13,
+            "msg_string": "(Ficar em alerta máximo... Eu não sou muito boa nisso, mas acho que vou ter que ser...!)"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Você obteve o Cristal de Flor."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Usar o Cristal de Flor?"
+        }
+    ]
+}

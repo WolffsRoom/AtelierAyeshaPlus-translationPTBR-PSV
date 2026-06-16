@@ -1,0 +1,193 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC05_KEI_670.ebm",
+    "nb_messages": 0x15,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Esse lugar... parece uma oficina."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Hmm, parece uma exposição de antiguidades.<CR>Isso parecem ser artefatos raros."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Alguns desses equipamentos iam ser bem úteis pra minha pesquisa. É uma surpresa boa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Só vi esse material nos livros. Muito interessante..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Humm... você não disse algo sobre me ajudar a achar umas pistas sobre a Nio...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Esse é o seu objetivo, não o meu."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "T-Tá bom. Vou investigar lá do outro lado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Faz isso. Procura por pistas sobre esse lugar."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "unknown2": 0x1,
+            "msg_string": "Hmm... Acho que não é isso.<CR>Esse livro aqui é..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "unknown2": 0x1,
+            "msg_string": "Ah! Tá falando sobre um jeito de síntese que eu não conheço. Parece divertido!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "unknown2": 0x1,
+            "msg_string": "...Quer dizer, não é isso.<CR>Pistas sobre a Nio..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "unknown2": 0x1,
+            "msg_string": "Um registro da construção dos dois berços...? I-Isso é...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Hmm. Não tem muitos detalhes, mas parece ser sobre a construção de alguma coisa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Parece que tem algum tipo de relação sim. Acho que vou dar uma pesquisada nisso também..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x16c,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Sem dúvida, esse lugar é super importante."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x172,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Os detalhes tão escondidos de propósito.<CR>Ou talvez tenham apagado eles..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x191,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "É. De qualquer jeito, parece que a gente não vai achar mais nenhuma informação útil aqui, mesmo se a gente continuar procurando."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x16d,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Não, já achamos o suficiente. A gente só precisa perguntar pra alguém que entenda disso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x12,
+            "msg_string": "Entenda disso...?<CR>Ah! Você quer dizer a senhora Odelia?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x16e,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Isso mesmo. Agora, vambora!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Você conseguiu o livro: Causalidade do Crepúsculo."
+        }
+    ]
+}

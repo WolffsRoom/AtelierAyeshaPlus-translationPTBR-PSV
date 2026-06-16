@@ -1,0 +1,131 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC04_JUR_510.ebm",
+    "nb_messages": 0xe,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x14f,
+            "msg_string": "Ué...? É um beco sem saída..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x3558,
+            "msg_string": "Isso com certeza parece que desabou há pouco tempo... O que eu faço? Não parecia ter nenhum outro caminho..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0x155,
+            "msg_string": "A gente tava procurando um outro caminho também, mas não achamos nenhum."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x156,
+            "msg_string": "Ah, Nanaca!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x157,
+            "msg_string": "Hehehe, então nos encontramos de novo. Será que nossos destinos tão conectados de algum jeito..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x12,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x158,
+            "msg_string": "Não parece ter passado tanto tempo desde que desabou. É perigoso chegar perto."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x159,
+            "msg_string": "(Eita, ele é tão alto...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x15a,
+            "msg_string": "Ah, esse é meu irmão, Juris."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x15b,
+            "msg_string": "...Parece que vai ser melhor achar uma rota alternativa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x15c,
+            "msg_string": "Ah, já sei! Ayesha, você quer vir com a gente?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x15d,
+            "msg_string": "Eu sei que ele tem essa cara, mas meu irmão é super confiável."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x15e,
+            "msg_string": "Ah, sério? Isso seria ótimo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x3563,
+            "msg_string": "Beleza, bora procurar outro caminho!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0x5,
+            "msg_id": 0x3564,
+            "msg_string": "Talvez eu deva só tentar achar um lugar por onde tá saindo uma brisa..."
+        }
+    ]
+}

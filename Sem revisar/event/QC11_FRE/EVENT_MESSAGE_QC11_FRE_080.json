@@ -1,0 +1,237 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC11_FRE_080.ebm",
+    "nb_messages": 0x1a,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Tudo certo, tá pronto! Senhorita Ayesha, posso te pedir pra provar isso?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Uau! Se foi você que assou, eu adoraria provar a qualquer hora!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x2,
+            "msg_string": "Haha, me sinto honrado. Meu novo pão dessa vez é esse..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x45,
+            "expr_id": 0x2,
+            "msg_id": 0x3,
+            "msg_string": "Eu dei uma melhorada no pão de gatinho e fiz ele num tamanho pra comer numa mordida só."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1b7,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "msg_string": "*nhac* *nhac* Mas ainda tem geleia dentro, e... *nhac* *nhac* Ué? Esse aqui também tem creme...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0x5,
+            "msg_string": "Hmhmhm, cada um tem um recheio diferente. Esse é o ponto forte desse pão novo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x6,
+            "msg_string": "Incrível...! Mas, Sr. Fred, suas mãos são tão grandes..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Como você consegue fazer algo tão pequeno e fofo?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Eu sempre tive dedos ágeis desde novo. Eu tinha que ajudar com as tarefas de casa quando era criança."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Posso ter essa aparência, mas sou bom em costurar e lavar roupa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Hmm, então quem virar sua esposa deve ser muito feliz."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0xb,
+            "msg_string": "S-Senhorita M-M-Marietta!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Ah, Marietta, veio comprar alguma coisa?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x26,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Eu queria alguma coisa pra lanchar. Será que tem algum pão bom...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Claro! O Sr. Fred também acabou de fazer o pão mais novo dele!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "É um pão de uma mordida só, perfeito pra um lanche! Né, Sr. Fred?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x7a,
+            "expr_id": 0x3,
+            "msg_id": 0x10,
+            "msg_string": "S-Seja bem-vinda!!!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x12d,
+            "expr_id": 0x3,
+            "msg_id": 0x11,
+            "msg_string": "Eita, você me assustou!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Calma, Sr. Fred. A Marietta já tá aqui faz um tempo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x7c,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "E-Entendi. A primeira regra do atendimento ao cliente é cumprimentar quando eles entram..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "E-Então a segunda regra do atendimento ao cliente é perguntar o que tão procurando..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x12b,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Foi mal, eu tô com um pouco de pressa já que ainda tô de olho na minha loja. Posso levar alguns desses pães de gatinho?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Cl-Claro. Vou começar a embalar eles agora mesmo...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1a0,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Valeu. Bom, vou nessa. Até mais, Ayesha e Sr. Padeiro."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x79,
+            "expr_id": 0x3,
+            "msg_id": 0x18,
+            "msg_string": "M-M-M-Muito obrigado!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x19,
+            "msg_string": "(O Sr. Fred fica tão travado na frente da Marietta. Queria saber o porquê...)"
+        }
+    ]
+}

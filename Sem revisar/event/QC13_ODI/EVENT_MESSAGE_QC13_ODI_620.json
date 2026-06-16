@@ -1,0 +1,407 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC13_ODI_620.ebm",
+    "nb_messages": 0x2d,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x199,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Senhorita Odelia, vim brincaaar!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x19f,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Ayesha, eu tava te esperando.<CR>Agora, vamos nos ocupar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Hã? Por que vamos nos ocupar?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0xad,
+            "expr_id": 0x3,
+            "msg_id": 0x3,
+            "msg_string": "Para nos ocuparmos do tédio.<CR>Eu estava esperando sua chegada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0xaf,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Bom, o que vamos fazer hoje?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1a4,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Hehehe, eu te trouxe uma lembrancinha!<CR>Tcharam, doces!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Lembra que você me falou que queria provar algo doce?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x73,
+            "expr_id": 0x2,
+            "msg_id": 0x7,
+            "msg_string": "Isso é algo doce...<CR>De algum jeito... tem um cheiro nostálgico."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Eu preparei isso só pra você.<CR>Por favor, experimenta um."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x74,
+            "expr_id": 0x2,
+            "msg_id": 0x9,
+            "msg_string": "Se você insiste, não tenho motivo pra resistir a comer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x75,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Eu fui projetada sem a necessidade de comer, mas eu também sou equipada com uma função de processamento de refeição."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Hmm, não pensa muito nisso e só prova logo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Entendo. Então eu vou seguir o seu conselho. Ainda assim, me pergunto quanto tempo faz desde a minha última refeição..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x185,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Deixe eu ver. Eu devo procurar o registro da minha última refeição..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "V-Vamos só parar de pensar nessas coisas complicadas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x187,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Você tem razão. Agora, com licença..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x1b9,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x10,
+            "msg_string": "*nham* *nham* *nham*"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x11,
+            "msg_string": "Doces podem te deixar feliz de algum jeito,<CR>só de comer eles!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x35,
+            "expr_id": 0x2,
+            "msg_id": 0x12,
+            "msg_string": "Se você comer demais, você engorda,<CR>mas é difícil resistir à tentação."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x1ba,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "*nham* *nham* *nham*"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Eu gostaria que você também conhecesse o charme que os doces têm, Senhorita Odelia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Foi por isso que eu trouxe eles aqui!<CR>E aí, como eles tão?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x1ba,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "msg_string": "*nham* *nham* *nham*"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Se você gostou do que eu trouxe hoje, tem outros tipos que eu posso recomendar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Então eu queria saber o que você acha.<CR>Você gostou?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x1ba,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x19,
+            "msg_string": "*nham* *nham* *nham*"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Hmm, Senhorita Odelia...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x1ba,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1b,
+            "msg_string": "*nham* *nham* *nham* *nham*"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1c,
+            "msg_string": "(Hahaha... não adianta, ela não tá me ouvindo.)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x1bb,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Então isso são doces...<CR>Muito obrigada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "C-Como estavam?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x14e,
+            "expr_id": 0x4,
+            "msg_id": 0x1f,
+            "msg_string": "Como eu disse antes, não tenho necessidade de consumir refeições."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x151,
+            "expr_id": 0x4,
+            "msg_id": 0x20,
+            "msg_string": "Porém, não estavam ruins. Doces passam uma sensação bem interessante."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x155,
+            "expr_id": 0x4,
+            "msg_id": 0x21,
+            "msg_string": "Consumir refeições vai ser um bom jeito de ocupar meu tempo pra evitar o tédio."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x22,
+            "msg_string": "(Hmm, não tenho muita certeza se ela gostou ou não...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x150,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "Foram bem suaves, derretiam e eram encantadores. Foi um fenômeno interessante."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x24,
+            "msg_string": "(Que bom que ela gostou.)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x25,
+            "msg_string": "Pela sua saúde, você devia comer refeições de verdade."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0xad,
+            "expr_id": 0x3,
+            "msg_id": 0x26,
+            "msg_string": "Ayesha, como eu disse antes, fui criada por mãos humanas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0xae,
+            "expr_id": 0x3,
+            "msg_id": 0x27,
+            "msg_string": "Esse corpo, criado com alquimia avançada, não precisa de comida nem de sono..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0xae,
+            "expr_id": 0x3,
+            "msg_id": 0x28,
+            "msg_string": "E eu não vou ficar doente nem morrer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x29,
+            "msg_string": "Uau, i-isso é incrível..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0xaf,
+            "expr_id": 0x0,
+            "msg_id": 0x2a,
+            "msg_string": "Sim, é incrível. Porém..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x73,
+            "expr_id": 0x2,
+            "msg_id": 0x2b,
+            "msg_string": "Se for algo doce, não me importo de comer por você de novo. Você devia trazer alguma coisa na próxima vez."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x2c,
+            "msg_string": "Beleza, então pode esperar!"
+        }
+    ]
+}

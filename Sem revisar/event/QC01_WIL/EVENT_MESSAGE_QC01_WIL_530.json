@@ -1,0 +1,141 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC01_WIL_530.ebm",
+    "nb_messages": 0xf,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "...é isso que significa.<CR>E aí, deu pra entender?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Sim. Graças a você, tô finalmente começando a entender isso!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Bell, você manda muito bem ensinando.<CR>Você parece uma professora de verdade."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Hehe, sério? Pode me elogiar o quanto quiser!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Umm, bom...Bell, você é demais!<CR>Bravo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1,
+            "expr_id": 0x3,
+            "msg_id": 0x5,
+            "msg_string": "Hehe, sério?<CR>...Pera aí, não é assim!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2,
+            "expr_id": 0x3,
+            "msg_id": 0x6,
+            "msg_string": "Desse jeito até parece que foi eu quem aprendeu..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x6,
+            "expr_id": 0x3,
+            "msg_id": 0x7,
+            "msg_string": "Bom, agora você já consegue entender a maior parte das coisas desse livro, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Aham, então tudo que falta é fazer o Ferro Sagrado Madder!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Tenta fazer isso logo, por favor. Você acha que consegue fazer pra amanhã?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "A-Amanhã? Eu não sei... Mas vou me esforçar pra fazer o mais rápido possível."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x19a,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Hehe, valeu! Vou ficar esperando!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xc,
+            "msg_string": "(Ferro Madder... Será que eu consigo mesmo fazer isso...?)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15f,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "msg_string": "(Acho melhor eu dar uma tentada...)"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Agora você pode fazer o Ferro Sagrado Madder."
+        }
+    ]
+}

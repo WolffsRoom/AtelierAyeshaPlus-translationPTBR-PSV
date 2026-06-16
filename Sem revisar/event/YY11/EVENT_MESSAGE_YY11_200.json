@@ -1,0 +1,43 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_YY11_200.ebm",
+    "nb_messages": 0x4,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Aprendeu Comando Ativo de S. Esse comando vai gastar mais da barra de especial pra aumentar o efeito do suporte."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Se a barra de suporte e as condições do lugar baterem, você pode usar isso do mesmo jeito que usa os Comandos Ativos normais."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "O gasto da barra depende das habilidades e efeitos do personagem."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Os Comandos Ativos de S. que você aprendeu podem ser vistos na tela de status no menu."
+        }
+    ]
+}

@@ -1,0 +1,231 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC10_MER_010.ebm",
+    "nb_messages": 0x19,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0x12,
+            "extra_id": 0x69,
+            "expr_id": 0x2,
+            "msg_id": 0x3594,
+            "msg_string": "Bem-vindas!<CR>...Ah, oi, Regina."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x1bb,
+            "msg_string": "Oi, o Harry tá aí? Eu queria falar com ele."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6a,
+            "expr_id": 0x2,
+            "msg_id": 0x1bc,
+            "msg_string": "O Chefe? Aham, tá sim. Ele tá lá tentando parecer ocupado, mas não tá fazendo nada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6d,
+            "expr_id": 0x2,
+            "msg_id": 0x1bd,
+            "msg_string": "E aí, você veio ver ele?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x1be,
+            "msg_string": "Bem, na verdade, ela que quer falar com ele."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1bf,
+            "msg_string": "Eu sou Ayesha Altugle, uma boticária.<CR>É um prazer te conhecer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6a,
+            "expr_id": 0x2,
+            "msg_id": 0x1c0,
+            "msg_string": "Ayesha...? Sinto que já ouvi esse nome em algum lugar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6d,
+            "expr_id": 0x2,
+            "msg_id": 0x1c1,
+            "msg_string": "Seria você a pessoa que fez esse remédio aaaamargo?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc7,
+            "expr_id": 0x4,
+            "msg_id": 0x1c2,
+            "msg_string": "Ah, eu que fiz esse remédio sim.<CR>Desculpa ele ser tão amargo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6a,
+            "expr_id": 0x2,
+            "msg_id": 0x1c3,
+            "msg_string": "Que isso, não pede desculpa não. O seu remédio é super popular."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6d,
+            "expr_id": 0x2,
+            "msg_id": 0x1c4,
+            "msg_string": "Tem gente que até viaja de longe só pra comprar o seu remédio com a gente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6b,
+            "expr_id": 0x0,
+            "msg_id": 0x1c5,
+            "msg_string": "Eu ficava imaginando que tipo de pessoa faria esse remédio, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x1c6,
+            "msg_string": "Quem diria que ela ia ser tão novinha e fofa...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xca,
+            "expr_id": 0x0,
+            "msg_id": 0x1c7,
+            "msg_string": "H-Hã? F-F-Fofa...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x1c8,
+            "msg_string": "Awn, ficou com vergonha?<CR>Hehehe, que fofa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x38,
+            "expr_id": 0x2,
+            "msg_id": 0x1c9,
+            "msg_string": "Ai, eu não sou nada disso... Umm, não acho que sou tão fofa assim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x69,
+            "expr_id": 0x2,
+            "msg_id": 0x1ca,
+            "msg_string": "Hahaha, você é fofa sim, a ponto de me dar vontade de te provocar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3a,
+            "expr_id": 0x0,
+            "msg_id": 0x1cb,
+            "msg_string": "Por favor, para de falar que eu sou fofa..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x1cc,
+            "msg_string": "Ayesha... você tá caindo direitinho na lábia da Marietta..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6a,
+            "expr_id": 0x2,
+            "msg_id": 0x1cd,
+            "msg_string": "Hahaha, acho que devo me apresentar formalmente, já que uma boticária tão fofa veio de tão longe..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6d,
+            "expr_id": 0x2,
+            "msg_id": 0x1ce,
+            "msg_string": "Eu sou a Marietta, a gerente aqui da loja."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6a,
+            "expr_id": 0x2,
+            "msg_id": 0x1cf,
+            "msg_string": "Se precisar de qualquer coisa, ou se quiser bater um papo, fica à vontade pra me chamar a qualquer hora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1d0,
+            "msg_string": "Ah, tá bom. Prazer em conhecer..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x1d1,
+            "msg_string": "Então, Marietta, viemos ver o Harry. Ele tá por aí, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6b,
+            "expr_id": 0x0,
+            "msg_id": 0x1d2,
+            "msg_string": "Ah, verdade. Pera aí que eu vou lá chamar ele."
+        }
+    ]
+}

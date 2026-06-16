@@ -1,0 +1,605 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MS03_070.ebm",
+    "nb_messages": 0x3e,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1010,
+            "msg_string": "Ah, acabei de lembrar que eu preciso comprar mais alguns ingredientes de síntese."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1011,
+            "msg_string": "Tenho certeza que vou precisar de remédios, de um jeito ou de outro, daqui pra frente. Mas eu não tenho tanto dinheiro assim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0x5,
+            "msg_id": 0x1012,
+            "msg_string": "Hmm, talvez eu devesse procurar algum trabalho por aqui também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x1013,
+            "msg_string": "Vamos ver, no momento eu tenho... Ué?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x1014,
+            "msg_string": "N-Não tá aqui! Cadê a minha carteira!? Argh, eu devo ter deixado cair!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x123,
+            "expr_id": 0x4,
+            "msg_id": 0x1015,
+            "msg_string": "O-O-O-O que eu faço!? O que é que se faz numa hora dessas?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x34fb,
+            "msg_string": "Hmhm, moça, tá com problemas?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x34fc,
+            "msg_string": "Ah! Você não é aquela garota estranha de antes?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x7e,
+            "expr_id": 0x3,
+            "msg_id": 0x34fd,
+            "msg_string": "Não me chama de estranha! Você tá com problemas, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x80,
+            "expr_id": 0x0,
+            "msg_id": 0x34fe,
+            "msg_string": "Eu vou te ajudar, então só me diz o que foi."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x34ff,
+            "msg_string": "B-Bom..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1019,
+            "unknown2": 0x1,
+            "msg_string": "Eu tava pensando em como eu precisava ir fazer umas compras, e aí em como precisava arrumar trabalho..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x101a,
+            "unknown2": 0x1,
+            "msg_string": "Então eu fui checar quanto dinheiro eu tinha,<CR>e não achei em lugar nenhum!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x101b,
+            "unknown2": 0x1,
+            "msg_string": "Beleza, isso não fez o menor sentido. Só dá uma acalmada."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x101c,
+            "unknown2": 0x1,
+            "msg_string": "Ah, tá bom... vou me acalmar.<CR>Acho que deixei minha carteira cair..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x101d,
+            "unknown2": 0x1,
+            "msg_string": "Sua carteira? Hmm, entendi...<CR>Então, você é desastrada..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3505,
+            "unknown2": 0x1,
+            "msg_string": "Pelo seu jeito de antes, você devia estar viajando na maionese e deixou cair."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x101f,
+            "unknown2": 0x1,
+            "msg_string": "Argh, é... Talvez você tenha razão..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1020,
+            "unknown2": 0x1,
+            "msg_string": "O que eu faço agora?<CR>Com quem eu deveria falar?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3508,
+            "unknown2": 0x1,
+            "msg_string": "Hmhmhm, você tá com sorte!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1022,
+            "unknown2": 0x1,
+            "msg_string": "Hã? Mesmo eu tendo deixado a minha carteira cair?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x350a,
+            "unknown2": 0x1,
+            "msg_string": "Aham, porque procurar coisas perdidas é o meu forte."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1024,
+            "unknown2": 0x1,
+            "msg_string": "Vou achar ela num piscar de olhos com a minha magia!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x350c,
+            "unknown2": 0x1,
+            "msg_string": "M-Magia? Bom, seja como for, por favor, encontra ela!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x350d,
+            "unknown2": 0x1,
+            "msg_string": "Deixa comigo! Beleza então, hmm!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x350e,
+            "unknown2": 0x1,
+            "msg_string": "Que foi? Sua mão...?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1028,
+            "unknown2": 0x1,
+            "msg_string": "Como assim, \"Que foi?\" O pagamento!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1029,
+            "unknown2": 0x1,
+            "msg_string": "Caramba, você é meio lerda pra entender.<CR>Pagamento adiantado. 50 Cole!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x102a,
+            "unknown2": 0x1,
+            "msg_string": "Ué, você tá me cobrando?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x102b,
+            "unknown2": 0x1,
+            "msg_string": "Mas é claro. É assim que eu me sustento."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3513,
+            "unknown2": 0x1,
+            "msg_string": "Então, você sai por aí achando coisas pras pessoas? Que admirável alguém do seu tamanho já estar trabalhando."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x102d,
+            "unknown2": 0x1,
+            "msg_string": "E não é só isso. Numa cidade desse tamanho,<CR>um monte de gente tem problemas..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x102e,
+            "unknown2": 0x1,
+            "msg_string": "E eu simplesmente uso a minha magia na surdina pra resolver todos bem fácil."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x102f,
+            "unknown2": 0x1,
+            "msg_string": "Entendi. Que legal!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1030,
+            "unknown2": 0x1,
+            "msg_string": "Eu acabo ganhando uma grana boa. Se você precisa de dinheiro, por que não tenta?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1033,
+            "unknown2": 0x1,
+            "msg_string": "C-Chega de papo, meu pagamento!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1034,
+            "unknown2": 0x1,
+            "msg_string": "Ah, é verdade. Sobre isso, tudo que eu tenho tá na minha carteira perdida..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1035,
+            "unknown2": 0x1,
+            "msg_string": "Então, eu tô com... zero dinheiro em mim agora."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1036,
+            "unknown2": 0x1,
+            "msg_string": "Você é muito desastrada. Devia carregar pelo menos umas duas carteiras..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1037,
+            "unknown2": 0x1,
+            "msg_string": "E, isso é o mínimo de precaução."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1038,
+            "unknown2": 0x1,
+            "msg_string": "*suspiro* Eu não sei de nada sobre essas coisas. Vou fazer isso de agora em diante..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1039,
+            "unknown2": 0x1,
+            "msg_string": "Taaaá, como é sua primeira vez,<CR>vou fazer essa aqui de graça!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x351f,
+            "unknown2": 0x1,
+            "msg_string": "Sério? *suspiro* Muito obrigada. Então, por favor, se puder."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x103b,
+            "unknown2": 0x1,
+            "msg_string": "Tá bom, tá bom, deixa comigo...<CR>Umm, onde é que eu botei?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x103c,
+            "unknown2": 0x1,
+            "msg_string": "Hmm... Ué? Tava aqui? Ou aqui...?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x103d,
+            "unknown2": 0x1,
+            "msg_string": "Ah, tá aqui! Prontinho!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x103e,
+            "unknown2": 0x1,
+            "msg_string": "...Hã?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x103f,
+            "unknown2": 0x1,
+            "msg_string": "Como assim, \"Hã?\"<CR>Ela é sua, não é?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3525,
+            "unknown2": 0x1,
+            "msg_string": "S-Sim, é. Mas por que...?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1041,
+            "unknown2": 0x1,
+            "msg_string": "Tava no chão logo ali há um tempinho atrás. Acabei de pegar."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1043,
+            "unknown2": 0x1,
+            "msg_string": "Aaaah, eu ia procurar o dono dessa carteira perdida e arrancar uma grana dele."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1044,
+            "unknown2": 0x1,
+            "msg_string": "Mas, dessa vez é um caso especial.<CR>Trate de me agradecer bastante!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x3529,
+            "msg_string": "(Ela é só uma criança, mas já tá trabalhando. Que admirável...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1047,
+            "msg_string": "(Talvez eu devesse procurar alguma coisa que eu possa fazer...)"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "As pessoas da cidade têm vários problemas. Ao resolver esses problemas, você pode receber recompensas ou ganhar a confiança delas."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "A maioria dos problemas que o pessoal da cidade tem são coisas que dá pra resolver entregando itens sintetizados pra eles."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Alguns problemas podem até especificar materiais ou categorias de itens, não necessariamente um item específico."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Ao cumprir certas condições com os itens que você entregar pra eles, vai ser mais fácil de resolver os problemas."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Vai depender do seu estilo de jogo resolver um problema cumprindo as condições por qualidade ou quantidade."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Tem limite de tempo pras recompensas. Se você passar do limite, sua recompensa vai ser afetada."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "As conversas na cidade podem ser vistas de novo acessando as Anotações."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Se não tiver certeza de qual item preparar, dá uma olhada nas Anotações."
+        }
+    ]
+}

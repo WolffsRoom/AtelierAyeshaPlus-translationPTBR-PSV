@@ -1,0 +1,258 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC05_KEI_060.ebm",
+    "nb_messages": 0x1c,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x0,
+            "msg_string": "Olááá! Uau, isso é muito livro..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Você..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Já vou logo te avisando..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x91,
+            "expr_id": 0x3,
+            "msg_id": 0x3,
+            "msg_string": "O que eu mais odeio é ser interrompido enquanto tô trabalhando."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x92,
+            "expr_id": 0x3,
+            "msg_id": 0x4,
+            "msg_string": "Especialmente quando falam comigo enquanto tô lendo. Eu acho isso extremamente irritante."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x93,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "...Mas mesmo eu dizendo isso, é você, e você provavelmente não iria embora em silêncio de qualquer jeito."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "Desculpa... Eu não tenho tantas chances assim de falar com você, então eu não consigo me conter."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc6,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Mesmo assim, é muito livro. Você vai ler todos esses também?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Parece até que você vai ler todos os livros da biblioteca inteira."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Naturalmente. Eu vim aqui justamente pra isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Embora eu já tenha lido a maioria dos livros daqui antes."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x17,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Não tem tantos livros que eu ainda preciso dar uma olhada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "E-Entendi... Você é tão incrível,<CR>Sr. Keith..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0xd,
+            "msg_string": "Eu acho que não ia conseguir lembrar o conteúdo de todos esses livros..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Você costuma esquecer o conteúdo dos livros que leu? Isso é raro..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0xf,
+            "msg_string": "Eu acho que é mais raro conseguir lembrar de tudo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Tem uns truquezinhos na leitura. Truques pra ler rápido e truques pra lembrar o conteúdo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x17,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Hmm, mas não tem necessidade de te dar uma palestra sobre métodos de leitura. Agora, me libere."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "msg_string": "(Eu não tenho tantas chances de falar com o Sr. Keith. Preciso pensar em algum assunto...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "...Ah, o livro que você tá lendo, é aquele sobre o nosso folclore local, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Eu também já li esse aí antes!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x91,
+            "expr_id": 0x3,
+            "msg_id": 0x15,
+            "msg_string": "...O quê?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x93,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Tô no processo de ler toda a literatura única dessa terra, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x93,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Entendi, então você já leu esse."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Esse livro era bem interessante. Principalmente no Capítulo 3, onde‐"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x95,
+            "expr_id": 0x3,
+            "msg_id": 0x19,
+            "msg_string": "Para! Me irrita profundamente saber que existe algum conhecimento que você tem, mas eu não."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x97,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Eu gostaria que você não falasse comigo até eu terminar de ler esse livro."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1b,
+            "msg_string": "(Ele me deu bronca. Mas o Sr. Keith foi surpreendentemente...)"
+        }
+    ]
+}

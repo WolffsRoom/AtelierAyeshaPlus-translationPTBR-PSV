@@ -1,0 +1,284 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC01_WIL_520.ebm",
+    "nb_messages": 0x1f,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0x5,
+            "msg_id": 0x0,
+            "msg_string": "Hmm...hmm... Bell, esse livro é muito difícil."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x7e,
+            "expr_id": 0x3,
+            "msg_id": 0x1,
+            "msg_string": "Sem choro. Você tecnicamente é uma alquimista, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x80,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Tem alguma parte específica que você não entende?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Eu mal consigo entender a introdução. Tudo a partir do Capítulo 1 tá além da minha compreensão."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "A introdução é só o prólogo! Então você basicamente não entende nada!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xd2,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Bem, é um livro de magia, então acho que isso é natural... Tá bom! Vou te ensinar passo a passo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Então, essa primeira parte é..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "E é mais ou menos isso. Sacou?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "É, mais ou menos... Falando nisso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x9,
+            "msg_string": "Essa é a sua tarefa, não é?<CR>Tem problema eu estar fazendo isso?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Tá de boooa. A gente pode escolher nossas tarefas, então somos livres pra fazer qualquer coisa!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0xb,
+            "msg_string": "S-Sério?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Sério. Além do mais, acho que é muita arrogância tentar resolver tudo sozinha!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Não é impossível pra uma pessoa ter o conhecimento total de todas as inumeráveis verdades do mundo?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Mesmo que ela seja a maior bruxa do mundo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Então, pedir ajuda pras pessoas é um jeito excelente de conquistar as coisas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Ahhh, entendi. Isso soa convincente...ou talvez não."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "De qualquer forma, contanto que essa tarefa seja concluída, o processo de fazê-la não vai ser questionado. Eu acho..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0x12,
+            "msg_string": "É-É mesmo...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "Contanto que ela não descubr-<CR>...Digo, nada não!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Em todo caso, esse é o meu primeiro passo pra me tornar a maior e melhor bruxa do mundo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Então vamos dar o nosso melhor juntas! Tá bom?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Aí, seu nome vai entrar pra história..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Como a melhor amiga da Wilbell, a Grande Bruxa!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc6,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "N-Na história? Isso só vai me deixar tímida e morrendo de vergonha..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Não tem motivo pra ficar com vergonha.<CR>Vamos seguir de cabeça erguida!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Hahaha, t-tá bom."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Bom, vamos parar por aqui hoje.<CR>A gente ainda tem um longo caminho pela frente!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x19a,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "A gente continua da próxima vez!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1d,
+            "msg_string": "(Hmm, espero que isso não dê problema. Tomara que a Bell não leve bronca por isso depois.)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1e,
+            "msg_string": "(Mas o conteúdo desse livro é muito interessante. Acho que eu gostaria de estudar ele mais um pouquinho.)"
+        }
+    ]
+}

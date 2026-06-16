@@ -1,0 +1,205 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC09_ERN_520.ebm",
+    "nb_messages": 0x16,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1a4,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Oi. Trouxe o remédio que você pediu."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x5f,
+            "expr_id": 0x2,
+            "msg_id": 0x1,
+            "msg_string": "Uau, sério!? Obrigado! Meu próximo trabalho vai correr super bem, graças a isso!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x2,
+            "msg_string": "Hmhmhm, que bom que eu pude ajudar. Boa sorte no seu grande trabalho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x61,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Meu grande trabalho... Agora tô começando a ficar nervoso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Ah, é raro alguém que tá sempre feliz que nem você ficar nervoso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "É uma reunião de negócios com um certo proprietário de terras, então até eu ficaria nervoso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Então, o mercador que cuidava das safras colhidas na propriedade dele acabou de se aposentar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "E ele ainda não decidiu quem vai ficar no lugar dele."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "E-Então se você conseguir, vai ser incrível, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Aham. Vou me tornar um grande mercador que lida com todas as safras daquela região inteira..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Normalmente, um novato que nem eu não teria nem chance numa oportunidade tão grande..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "O dono é uma pessoa difícil, e ainda não escolheu um substituto..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Mas graças ao seu remédio, parece que eu consegui agradar ele."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Nossa, então eu vou ficar torcendo por você! Eu também vou ficar super feliz se você virar um grande mercador!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x102,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "Argh, eu não me dou muito bem quando o pessoal cria muita expectativa sobre mim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x108,
+            "expr_id": 0x4,
+            "msg_id": 0xf,
+            "msg_string": "É uma oportunidade de negócio, mas essa reunião ainda é grande e pesada demais pra eu lidar agora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Entendi... Acho que eu também nem saberia o que fazer se alguém me dissesse: \"Você vai ser um grande mercador a partir de amanhã!\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x11,
+            "msg_string": "Mas essa é uma baita oportunidade. Tenho certeza que você deveria dar o seu melhor!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x109,
+            "expr_id": 0x4,
+            "msg_id": 0x12,
+            "msg_string": "É... você deve ter razão. Não sei o quanto eu consigo fazer, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x10a,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Vou dar o meu melhor pra poder voltar aqui com ótimas notícias pra você!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x78,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x14,
+            "msg_string": "(O Ernie sempre dá o melhor dele. Tenho certeza que tudo vai dar certo.)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x15,
+            "msg_string": "(Mas se ele conseguir... será que vai ficar mais difícil falar com ele...?)"
+        }
+    ]
+}

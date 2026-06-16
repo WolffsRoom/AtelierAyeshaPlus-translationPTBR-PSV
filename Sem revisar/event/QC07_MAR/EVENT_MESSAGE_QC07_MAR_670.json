@@ -1,0 +1,258 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC07_MAR_670.ebm",
+    "nb_messages": 0x1c,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Voltei!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Eu tava te esperando. E aí, como foi?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Então, humm..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Entendi. Então você viu os aldeões que sumiram aparecerem num campo de flores..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Mas de repente eles sumiram de novo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "Sim. A Nio... minha irmã também tava lá, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc5,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "Parecia que ela não conseguia me ouvir."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc6,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Pelo menos, não parecia ser coisa de ladrões ou gás venenoso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Conseguimos confirmar que rolou um fenômeno misterioso. Isso é muito interessante."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Falando em misterioso, eu também achei esse negócio brilhante no campo de flores da vila..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Mas tinha um outro cara lá investigando, e ele levou com ele..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Um negócio brilhante e misterioso...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Talvez tenha a ver com os desaparecimentos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Hmm, que pena que a gente não conseguiu pegar o item mesmo, mas... foi uma baita informação."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Obrigada. Eu preparei uma recompensa,<CR>então pode levar com você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "De nada. Então, eu já vou indo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x10,
+            "msg_string": "(Acho que terminamos essa tarefa,<CR>mas é um pouco decepcionante...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x11,
+            "msg_string": "(Queria ter descoberto mais sobre a Nio.)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Marion, tem um relatório extra. Aquele objeto misterioso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Quem levou foi o Keithgriff."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Ele tava na Vila Hallos?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Sim, eu enfrentei ele diretamente. Não tenho a menor dúvida."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Infelizmente, eu não consegui pegar ele..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Então nem a Linca conseguiu segurar ele...<CR>Ele é tão bom quanto dizem."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Bom, tamo com as mãos atadas com outros trampos agora, então acho que vamos deixar ele passar dessa vez..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Na próxima... eu com certeza pego ele!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Você conseguiu 800 Cole."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Marion agora pode entrar pro seu grupo."
+        }
+    ]
+}

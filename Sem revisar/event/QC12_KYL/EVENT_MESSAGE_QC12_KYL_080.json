@@ -1,0 +1,214 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC12_KYL_080.ebm",
+    "nb_messages": 0x17,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "*suspiro* Isso é tão relaxante..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Tem razão. Eu nunca estive numa taverna tão relaxante antes."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "É meio estranho tomar um chá delicioso numa taverna."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Já que não posso beber álcool, eu me esforcei muito pra ser o melhor em outras coisas. Espero que consiga ver isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Eu recomendo esse chá preto aromatizado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Eu já experimentei. O aroma é bem doce, mas tem gosto de chá normal."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Essa é a parte boa. Seria demais se o gosto fosse doce também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x7,
+            "msg_string": "Ah, é? Eu acho que quanto mais doce, mais gostoso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x194,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Não, não, você tem que apreciar o quão saboroso o chá é. Ia ser meio sem graça se ele cheirasse e tivesse gosto doce."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Nada a ver. Eu acho que chá doce é o melhor."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Eu concordo. Coisas doces também são boas pra recuperar as energias, e deixam a gente mais de boa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x141,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "Dois contra um!? Eu tô errado nessa história!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x143,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Ainda não consigo concordar, mas se você gosta de doces, tenho uma coisa boa pra você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Um doce assado que é o mais doce possível. É tão doce quanto um casal de recém-casados."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1b4,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xe,
+            "msg_string": "Uau, valeu!<CR>*nham* *nham* *nham*"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1b6,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "...Talvez seja um pouco doce até demais..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15e,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "É, é muito doce. É a única coisa que dá pra sentir o gosto..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x141,
+            "expr_id": 0x4,
+            "msg_id": 0x11,
+            "msg_string": "Ué!? Você não acabou de falar que quanto mais doce, melhor!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x12,
+            "msg_string": "Aí é que tá o problema. Eu também não quero engordar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15f,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Verdade. Comer uma coisa muito doce só vai te deixar cansado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x143,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Não foi isso que você disse agorinha! Você não tá se contradizendo!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Pode até parecer contradição,<CR>mas não é. É isso que faz<CR>os doces serem tão misteriosos..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x110,
+            "expr_id": 0x4,
+            "msg_id": 0x16,
+            "msg_string": "Hmm... não consigo concordar com nada disso..."
+        }
+    ]
+}

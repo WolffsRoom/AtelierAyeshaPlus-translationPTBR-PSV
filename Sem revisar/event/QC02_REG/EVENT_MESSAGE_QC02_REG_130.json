@@ -1,0 +1,257 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC02_REG_130.ebm",
+    "nb_messages": 0x1c,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x34,
+            "extra_id": 0x1af,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "msg_string": "\"Querida irmã, obrigado por me enviar<CR>as roupas formais pra minha cerimônia<CR>de maioridade.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x34,
+            "extra_id": 0x1b0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "msg_string": "\"Serviu certinho, mesmo você não tendo tirado as minhas medidas, então fiquei muito surpreso. Você é demais.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x34,
+            "extra_id": 0x1b0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "msg_string": "\"Mana, como tá a vida por aí?<CR>Espero que não tenha ficado doente nem<CR>se machucado.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x34,
+            "extra_id": 0x1b0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "msg_string": "\"Já faz muitos anos desde que você assumiu o lugar do nosso pai e virou escavadora.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x34,
+            "extra_id": 0x1b0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "msg_string": "\"Como seu irmão mais novo, por mais que eu queira te apoiar por trabalhar tão duro...\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x34,
+            "extra_id": 0x1b0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "msg_string": "\"Eu ainda quero que você volte pra casa.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x34,
+            "extra_id": 0x1b0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "msg_string": "\"Mana, você tem tanto talento, tenho certeza de que pode fazer muitos outros trabalhos além de ser escavadora.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x34,
+            "extra_id": 0x1b0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "msg_string": "\"As roupas que você me mandou ficaram incríveis. O que acha de ser costureira?\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x34,
+            "extra_id": 0x1b0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x8,
+            "msg_string": "\"A partir de agora, vou sair e trabalhar duro que nem você, mana.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x34,
+            "extra_id": 0x1b0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x9,
+            "msg_string": "\"Agora, é a minha vez de sustentar nossa família.<CR>Não posso deixar você carregar esse fardo<CR>pra sempre.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x34,
+            "extra_id": 0x1b0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "msg_string": "\"Tô ansioso pro dia em que todos nós vamos poder morar juntos como família de novo. Bom, a gente se fala depois.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x34,
+            "extra_id": 0x1b0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xb,
+            "msg_string": "\"P.S.: Mamãe e Papai mandaram avisar pra você vir em casa de vez em quando.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x34,
+            "extra_id": 0x1b0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xc,
+            "msg_string": "\"A família toda gostaria de ver seu rosto de novo.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x1b0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "msg_string": "..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x1b0,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Hmm, aquele pirralho cresceu mesmo, me mandando uma carta dessas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x1b1,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "É muito bom que meus irmãos estejam crescendo, mas meus pais também tão envelhecendo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Oi, Regina. Hã? Você tava chorando?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "O quêêê? Claro que não!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "...É o que eu gostaria de dizer, mas acho que meus olhos começaram a lacrimejar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "O q-que aconteceu? Foi alguma coisa triste...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x165,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Hmm, foi triste, mas também feliz."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x167,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Recebi uma carta do meu irmão mais novo, agradecendo pelas roupas que mandei pra ele."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x16,
+            "msg_string": "Uau, o que ele achou delas?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Heh, parece que serviram certinho. E é tudo graças ao Juris."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Regina, você é muito boa com costura. Acho que podia até abrir sua própria loja!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Se você abrir uma loja, eu vou te apoiar com certeza!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "A Ayesha tá falando a mesma coisa também. Hmm, entendi..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Uma costureira... Acho que seria legal também..."
+        }
+    ]
+}

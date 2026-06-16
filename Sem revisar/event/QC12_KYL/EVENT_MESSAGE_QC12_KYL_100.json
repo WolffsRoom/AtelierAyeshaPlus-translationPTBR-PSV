@@ -1,0 +1,456 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC12_KYL_100.ebm",
+    "nb_messages": 0x32,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Beleza, então acho que vou ouvir sua história do dragão hoje..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "O que vocês dois quiserem hoje é por minha conta, então não se acanhem. Aproveitem."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Então eu vou."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x3,
+            "msg_string": "Tem certeza...? Eu nem fiz nada demais."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Você foi com ele matar o dragão, né? Você tem todo o direito de estar aqui e beber de graça."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Então, vou querer um leite quente, por favor!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x6,
+            "msg_string": "Mesmo assim, nunca imaginei que aquele pirralho remelento do Juris ia ficar tão grande..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0x7,
+            "msg_string": "Sempre achei que você ia ser um caçador muito bom, mas nunca pensei que você realmente ia matar o dragão."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x45,
+            "expr_id": 0x2,
+            "msg_id": 0x8,
+            "msg_string": "Mas também, desde que a gente era criança, ele sempre falava que ia matar aquele dragão."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Ah, desde aquela época..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x46,
+            "expr_id": 0x2,
+            "msg_id": 0xa,
+            "msg_string": "Hehe, isso mesmo. Quando eu era jovem, me contaram uma história sobre meus ancestrais que mataram um dragão..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x4a,
+            "expr_id": 0x2,
+            "msg_id": 0xb,
+            "msg_string": "E aquilo virou tudo pra mim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0xc,
+            "msg_string": "Todo mundo só ria da cara dele. Falavam pra ele não acreditar naquela história velha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x4c,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Não julgo eles. É verdade que matar um dragão traria a maior honra pra um caçador, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Aquela história virou lenda."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Mas Juris, não vai se empolgar muito só porque você matou aquele dragão."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa2,
+            "expr_id": 0x3,
+            "msg_id": 0x10,
+            "msg_string": "Mesmo com a sua idade, você ainda é um moleque."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Eu não planejava me empolgar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa4,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Nunca se sabe. Você pode parecer um cara calmo, mas é bem fácil de provocar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Mix Master, você tá pegando muito pesado com o Juris..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x14,
+            "msg_string": "Hehehe, ele virou um adulto sério e chato."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x45,
+            "expr_id": 0x2,
+            "msg_id": 0x15,
+            "msg_string": "Como seu \"Irmãozão Kyle\", isso tá me deixando super chateado. Não é, Jurry?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xda,
+            "expr_id": 0x4,
+            "msg_id": 0x16,
+            "msg_string": "Para de me chamar assim...<CR>Não somos mais crianças."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Ah qual é, não fica com vergonha. Não é legal relembrar de quando a gente era criança?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Ué? Vocês dois são amigos de infância?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xdb,
+            "expr_id": 0x4,
+            "msg_id": 0x19,
+            "msg_string": "Não era nada além de uma relação forçada. Nossos pais se conheciam."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa2,
+            "expr_id": 0x3,
+            "msg_id": 0x1a,
+            "msg_string": "Eu conheço ele desde que eu tinha uns 13 ou 14 anos, e ele tinha uns 7."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa3,
+            "expr_id": 0x3,
+            "msg_id": 0x1b,
+            "msg_string": "Ele era só uma criança fofinha com bochechas gordinhas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa3,
+            "expr_id": 0x3,
+            "msg_id": 0x1c,
+            "msg_string": "Ele me seguia pra todo lado, me chamando de Irmãozão Kyle."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Eu não sabia disso!<CR>Quero ouvir tudo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa8,
+            "expr_id": 0x3,
+            "msg_id": 0x1e,
+            "msg_string": "Claro. Acho que foi mais ou menos um ano depois que a gente se conheceu..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa9,
+            "expr_id": 0x3,
+            "msg_id": 0x1f,
+            "msg_string": "O Jurry queria virar um caçador mesmo naquela época, e um dia, ele tava fazendo uma armadilha pra bicho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa9,
+            "expr_id": 0x3,
+            "msg_id": 0x20,
+            "msg_string": "Era uma simples armadilha de buraco. O Jurry começou a cavar um buraco de manhã, e..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa9,
+            "expr_id": 0x3,
+            "msg_id": 0x21,
+            "msg_string": "Quando a noite caiu, ele ainda não tinha voltado pra casa, então os adultos saíram pra procurar ele."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xaa,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "Aí, eles ouviram alguém chorando de dentro desse buraco."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x23,
+            "msg_string": "\"Eu cavei fundo demais, e não consigo<CR>sair!\" Foi hilário."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xe0,
+            "expr_id": 0x4,
+            "msg_id": 0x24,
+            "msg_string": "Para de ficar contando essas histórias do passado..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0x25,
+            "msg_string": "E também, teve um dia em que ninguém levou o Jurry pra caçar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xdc,
+            "expr_id": 0x0,
+            "msg_id": 0x26,
+            "msg_string": "Kyle!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x27,
+            "msg_string": "Opa, o Jurry tá ficando bravo. Talvez seja melhor não contar essa história..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x28,
+            "msg_string": "Mas eu quero saber...<CR>Por favor, continua."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x29,
+            "msg_string": "Tá bom então. Ele saiu pra caçar um coelho sozinho. Então o pequeno e sem noção do Jurry..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x17d,
+            "expr_id": 0x0,
+            "msg_id": 0x2a,
+            "msg_string": "Decidiu tentar assar o coelho numa fogueira, mas o fogo se espalhou pra barraca dele, e..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x2b,
+            "msg_string": "E-E o que aconteceu depois?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x182,
+            "expr_id": 0x0,
+            "msg_id": 0x2c,
+            "msg_string": "Virou um pequeno incêndio. Mais tarde, ele tava chorando porque os pais dele deram a maior bronca nele."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x2d,
+            "msg_string": "Hahaha, é tão difícil imaginar isso vendo ele agora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x2e,
+            "msg_string": "Mas aquele pequeno Jurry cresceu e virou o caçador que matou aquele dragão..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0x2f,
+            "msg_string": "Como o Irmãozão Kyle dele, eu não poderia estar mais feliz."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x30,
+            "msg_string": "Caramba... amigos de infância conseguem ser tão<CR>cruéis..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x35,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x31,
+            "msg_string": "(Amigos de infância... Queria ter alguém assim...)"
+        }
+    ]
+}

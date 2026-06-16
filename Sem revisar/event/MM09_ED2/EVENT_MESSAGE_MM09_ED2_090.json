@@ -1,0 +1,587 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM09_ED2_090.ebm",
+    "nb_messages": 0x3a,
+    "messages": [
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "unknown2": 0x1,
+            "msg_string": "\"Quero salvar a Nio...\" Tudo começou<CR>daí. Uma jornada com um objetivo. Mas<CR>nesse tempo, a Ayesha cresceu rapidinho."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "unknown2": 0x1,
+            "msg_string": "Uma lenda viva que sabe e faz<CR>de tudo. Era assim que ela era<CR>vista nessa época."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "unknown2": 0x1,
+            "msg_string": "Tendo sucesso em todas as áreas, ela<CR>acabou virando uma líder famosa por<CR>restaurar a alquimia nessas terras..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x44,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "unknown2": 0x1,
+            "msg_string": "Ah, é a Lady Ayesha!<CR>A Lady Ayesha chegou!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x45,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "unknown2": 0x1,
+            "msg_string": "A divindade dela... Ela é tipo uma deusa de mitos antigos."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x46,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "unknown2": 0x1,
+            "msg_string": "Olha, mãe, é a Lady Ayesha!<CR>A Lady Ayesha veio ver a gente!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x47,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "unknown2": 0x1,
+            "msg_string": "Sim, que incrível a Lady Ayesha vir na nossa cidade...!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "unknown2": 0x1,
+            "msg_string": "Qual é, Lady Ayesha, tá todo mundo te chamando. Você devia acenar pra eles."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x8,
+            "unknown2": 0x1,
+            "msg_string": "P-Para de me chamar assim, Nio..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x9,
+            "unknown2": 0x1,
+            "msg_string": "Foi mal. Mas viu? Parece que tá todo mundo esperando por você."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "unknown2": 0x1,
+            "msg_string": "*suspiro* Não importa quantas vezes me tratem assim, eu nunca vou me acostumar com isso..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xb,
+            "unknown2": 0x1,
+            "msg_string": "Eu não fiz nada pra merecer isso..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xc,
+            "unknown2": 0x1,
+            "msg_string": "Ninguém parece concordar com você. Seus remédios são incríveis."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "unknown2": 0x1,
+            "msg_string": "Eu só quero me trancar na oficina e sintetizar..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xe,
+            "unknown2": 0x1,
+            "msg_string": "Sem choro. Vai logo, acena com a mão!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "unknown2": 0x1,
+            "msg_string": "Eles fizeram a gentileza de dar uma grande cerimônia de boas-vindas pra gente."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x10,
+            "unknown2": 0x1,
+            "msg_string": "Haha... Tá bom..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x44,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x11,
+            "unknown2": 0x1,
+            "msg_string": "Ooh! A Lady Ayesha tá acenando pra gente!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x48,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "unknown2": 0x1,
+            "msg_string": "A Lady Ayesha é tão maravilhosa!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x49,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13,
+            "unknown2": 0x1,
+            "msg_string": "Nossa, quanta sorte. Agora minha dor nas costas vai sarar!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x4a,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x14,
+            "unknown2": 0x1,
+            "msg_string": "Sem dúvida nossa fazenda vai ter uma boa colheita esse ano! Ah, graças aos céus!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x4b,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x15,
+            "unknown2": 0x1,
+            "msg_string": "Ooh, Lady Ayesha! Que linda..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "unknown2": 0x1,
+            "msg_string": "Ha, haha, hahahaha... ha."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x43,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x17,
+            "unknown2": 0x1,
+            "msg_string": "Senhora Sábia Ayesha! Bem-vinda à nossa cidade!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x43,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x18,
+            "unknown2": 0x1,
+            "msg_string": "A gente tá muito honrado por você ter se dado ao trabalho de vir aqui hoje!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x19,
+            "unknown2": 0x1,
+            "msg_string": "Que gentileza. Então, sem demora, você pode contar a sua história pra gente?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x43,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1a,
+            "unknown2": 0x1,
+            "msg_string": "Claro. A nossa cidade tá sendo ameaçada por um slag preto e misterioso agora."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x43,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1b,
+            "unknown2": 0x1,
+            "msg_string": "Nossas plantações foram destruídas e as nossas crianças não podem brincar lá fora."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x43,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1c,
+            "unknown2": 0x1,
+            "msg_string": "Por favor, se com o poder da Lady Ayesha, vocês pudessem salvar nosso‐"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1d,
+            "unknown2": 0x1,
+            "msg_string": "Mana, o que você acha?<CR>Consegue derrotar ele?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1e,
+            "unknown2": 0x1,
+            "msg_string": "Hmm, acho que vai ser fácil, mas..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1f,
+            "unknown2": 0x1,
+            "msg_string": "Saquei! Pode deixar com a gente. Nós vamos exterminar esse slag até o fim do dia."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x43,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x20,
+            "unknown2": 0x1,
+            "msg_string": "Ah, como as suas palavras são reconfortantes! Pessoal, é como vocês ouviram!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x43,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x21,
+            "unknown2": 0x1,
+            "msg_string": "A nossa cidade vai ser salva! Pelas mãos da Lady Ayesha, o slag malvado vai ser destruído!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x4b,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x22,
+            "unknown2": 0x1,
+            "msg_string": "Ooh, Lady Ayesha! Muito obrigado!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x44,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x23,
+            "unknown2": 0x1,
+            "msg_string": "Ooh, agora a nossa cidade tá praticamente salva. Não, já tá salva!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x4a,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x24,
+            "unknown2": 0x1,
+            "msg_string": "Graças aos céus..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x25,
+            "unknown2": 0x1,
+            "msg_string": "Hmm, vocês não precisam ser tão humildes..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x47,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x26,
+            "unknown2": 0x1,
+            "msg_string": "Se você fizer malcriação, eu vou pedir pra Lady Ayesha te dar bronca."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x46,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x27,
+            "unknown2": 0x1,
+            "msg_string": "Eu não vou fazer nada pra levar bronca da Lady Ayesha."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x28,
+            "unknown2": 0x1,
+            "msg_string": "Ahh... ninguém tá me escutando. O que eu faço...?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x29,
+            "unknown2": 0x1,
+            "msg_string": "Ei, Nio. Eu só queria ajudar as pessoas normalmente..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2a,
+            "unknown2": 0x1,
+            "msg_string": "Por que o pessoal sempre fica tão animado?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2b,
+            "unknown2": 0x1,
+            "msg_string": "É porque você é incrível demais, mana."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2c,
+            "unknown2": 0x1,
+            "msg_string": "*suspiro* Mas eu não sou. Eu sou só uma boticária normal."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2d,
+            "unknown2": 0x1,
+            "msg_string": "Eu fiquei falando isso pra eles no começo, mas ninguééém escutou."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2e,
+            "unknown2": 0x1,
+            "msg_string": "Mas vai ficar tudo bem, desde que a gente não se deixe levar."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2f,
+            "unknown2": 0x1,
+            "msg_string": "Mesmo com uma recepção da realeza, a gente vai conseguir seguir em frente sem perder nossa essência."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x30,
+            "unknown2": 0x1,
+            "msg_string": "Ugh, fico feliz que eles estejam felizes,<CR>mas ainda prefiro as coisas \"normais\"..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x4a,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x31,
+            "unknown2": 0x1,
+            "msg_string": "Ooh, ver o sorriso da Lady Ayesha, parece que ganhei mais 50 anos de vida."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x44,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x32,
+            "unknown2": 0x1,
+            "msg_string": "Viva a Lady Ayesha!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x45,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x33,
+            "unknown2": 0x1,
+            "msg_string": "Viva a Lady Ayesha!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x46,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x34,
+            "unknown2": 0x1,
+            "msg_string": "Viva a Lady Ayesha!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x47,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x35,
+            "unknown2": 0x1,
+            "msg_string": "Viva a Lady Ayesha!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x48,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x36,
+            "unknown2": 0x1,
+            "msg_string": "Viva a Lady Ayesha!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x49,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x37,
+            "unknown2": 0x1,
+            "msg_string": "Viva a Lady Ayesha!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x4a,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x38,
+            "unknown2": 0x1,
+            "msg_string": "Viva a Lady Ayesha!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x4b,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x39,
+            "unknown2": 0x1,
+            "msg_string": "Viva a Lady Ayesha!"
+        }
+    ]
+}

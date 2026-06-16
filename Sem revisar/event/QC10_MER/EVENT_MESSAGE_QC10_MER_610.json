@@ -1,0 +1,249 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC10_MER_610.ebm",
+    "nb_messages": 0x1b,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xf5,
+            "expr_id": 0x4,
+            "msg_id": 0x0,
+            "msg_string": "Hmm, o que será que deu errado... Eu tomei muito, muito cuidado quando fui decidir..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Olá. Ué? O clima tá meio pesado aqui hoje..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x100,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "Você deve ter razão.<CR>Eu tô num beco sem saída."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "É sobre as joias dos Homunculi?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xf7,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Bingo. Eu fico escolhendo e mandando um monte de joias diferentes, mas elas não param de voltar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x5,
+            "msg_string": "Qual é o problema dos brilhos que eu escolho!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x6,
+            "msg_string": "Marietta, você tá começando a falar que nem um Homunculus..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x18,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Foi por isso que eu falei pra você desistir desse pedido."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "A gente já mandou todas as joias que conseguiu encontrar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x1e,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "E na última remessa foi uma joia enorme que nem ia dar lucro com o que eles iam pagar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x196,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Mas, o resultado final foi esse.<CR>Vamos só largar a mão disso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x78,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Arrrrgh, eu não queeero."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Hum, posso falar uma coisa?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Eu já fui na Cidade dos Homunculi..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "E é um lugar maravilhoso, mas também muito simples. Tipo, não tem absolutamente nada de chique lá..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x1c,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Entendi! Então é por isso que eles estão procurando joias super chiques!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0x5,
+            "msg_id": 0x10,
+            "msg_string": "Hum, acho que é o contrário... Sinto que Homunculi e joias simplesmente não combinam."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Olhando pra aquela cidade, eu não consigo imaginar os Homunculi querendo joias."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15e,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Mas pagando tão bem assim,<CR>tem que ser um item muito valioso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15f,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "E outra, eles querem brilhos, né? Eu não consigo pensar em outra coisa a não ser joias."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x164,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Hmm... Mas talvez seja só o nosso senso de valor falando mais alto..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Eu com certeza vou pra cidade deles de novo logo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Então eu te dou um toque se eu descobrir alguma coisa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Faria isso? Desculpa tá sempre pedindo sua ajuda, Ayesha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Faço das palavras dela as minhas. Por favor, faz esse favorzinho pra gente, Ayesha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Já que a Marietta tá tão focada nisso, quero que essa negociação termine bem."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Claro. Eu não garanto nada, mas vou dar o meu melhor."
+        }
+    ]
+}

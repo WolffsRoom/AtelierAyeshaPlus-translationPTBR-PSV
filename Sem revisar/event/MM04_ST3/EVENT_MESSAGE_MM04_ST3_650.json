@@ -1,0 +1,87 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM04_ST3_650.ebm",
+    "nb_messages": 0x9,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x0,
+            "msg_string": "Nossa... que flor grande...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "É, o que será que vai acontecer se ela desabrochar de verdade...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Hmm, acho que ia soltar muito pólen. Hehe, as pessoas iam ficar espirrando sem parar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "*suspiro* Isso ia ser meio chato, mas eu ainda queria ver."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x184,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Será que eu vou viver pra ver isso desabrochar...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x5,
+            "msg_string": "Quem sabe... Eu também queria ver, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "msg_string": "(Mas eu já tenho pistas o bastante pra me levar até a Nio.)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "msg_string": "(É uma pena, mas é melhor eu desistir dessa.)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x8,
+            "msg_string": "Hahaha, espero que desabroche com o passar do tempo!"
+        }
+    ]
+}

@@ -1,0 +1,191 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC07_MAR_550.ebm",
+    "nb_messages": 0x15,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Hmm, acho que é isso...<CR>Isso te ajudou de alguma forma?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Claro que sim. Teve muita coisa que a Linca e eu não teríamos como saber."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Linca, você tem algo a dizer?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "...Achei que os monstros dessa ruína não foram lá muito desafiadores."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Viver por aqui vai me deixar mais fraca."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xe9,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "Linca... não foi isso que eu perguntei."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xed,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Mesmo assim, aquele Hamster de Fruta que a gente viu era uma graça."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Acho que quero um mesmo...<CR>Linca, bora lá pegar!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Ele não parecia ter muitas partes comestíveis..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Por que diabos você achou que a gente ia comer ele?<CR>Eu quero um de bicho de estimação."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Você devia parar de pensar só em briga e comida."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Então tá, a gente volta outra hora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Ayesha, valeu mesmo. Fez mó diferença ter alguém que realmente conhece a ruína."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Agora, Linca, vamos nos retirar?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Pode deixar. Deixa a retaguarda comigo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Não é isso! Eu quis dizer voltar pra casa. Credo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Ah, é mesmo. A gente alugou um escritório em Vierzeberg."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Queria te pedir pra fazer um servicinho,<CR>então dá uma passada lá quando der."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Ah, beleza. Valeu."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x19f,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Toma aqui, o mapa. Valeu por hoje. Até mais!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Agora você pode ir no Escritório da Marion em Vierzeberg."
+        }
+    ]
+}

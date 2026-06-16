@@ -1,0 +1,230 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC09_ERN_030.ebm",
+    "nb_messages": 0x19,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "sniff sniff<CR>Hã? Que cheiro delicioso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x1a0,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Ei, Ayesha. Ótimo momento."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Eu tava prestes a almoçar.<CR>Gostaria de se juntar a mim?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x194,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Bem... eu tava planejando pular o almoço hoje."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Por quê? Você não vai ter energia suficiente se não comer direito."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Não importa o que você faça, o seu corpo é um patrimônio importante."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x38,
+            "expr_id": 0x2,
+            "msg_id": 0x6,
+            "msg_string": "Hehe, bem, hum... eu tô começando a lidar com um probleminha de peso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x7,
+            "msg_string": "Você engordou?<CR>Não parece..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x39,
+            "expr_id": 0x2,
+            "msg_id": 0x8,
+            "msg_string": "Mas tipo, eu engordei um pouquinho em lugares que você não consegue ver..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x126,
+            "expr_id": 0x2,
+            "msg_id": 0x9,
+            "msg_string": "Um pouquinho? Não acho que um pouquinho seja um grande problema."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3a,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Maaas, ainda importa. Afinal de contas, eu sou uma garota."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x128,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Com um corpo como o seu, acho estranho se preocupar com o peso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0xc,
+            "msg_string": "Hrgh... Mas mesmo assim, é melhor ser mais leve..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0xd,
+            "msg_string": "Não! Enquanto você tá viajando, é muito importante manter a sua condição física no auge."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x78,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Nunca ouvi falar de alguém fazendo dieta enquanto viaja antes!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc5,
+            "expr_id": 0x4,
+            "msg_id": 0xf,
+            "msg_string": "Mas, mas, mesmo assim... eu não posso engordar mais..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15e,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Hmm, então isso significa tanto assim pra você?<CR>As garotas são muito confusas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15f,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Hmm... mas não parece mesmo que você engordou..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Na verdade, parece que você emagreceu..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc6,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Hã...? Sério...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Uhum. Talvez você tenha ganhado mais músculos desde que começou a viajar?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "E-Eu me pergunto... Mas isso ainda não muda o fato de que eu peso mais agora..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "É saudável, e isso é tudo o que importa. Agora, não se esqueça de comer o seu almoço."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Eu vou dividir com você, então vem cá."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Hmm, parece delicioso.<CR>Bem, se você insiste!"
+        }
+    ]
+}

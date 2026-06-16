@@ -1,0 +1,402 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM03_ST2_060.ebm",
+    "nb_messages": 0x2c,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Com licença, sobre o que é esse livro...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Você tem pedra no lugar do cérebro? Tá falando sério que tá me fazendo uma pergunta que você pode responder simplesmente lendo?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "D-Desculpa. Claro que eu mesma vou ler depois."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc6,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "É que... eu queria saber por que você me recomendou esse livro."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x1cc,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "msg_string": "...Ser interrompido enquanto leio é a coisa que mais odeio no mundo... mas tá bom."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x1cd,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Esse lugar tem muitos livros que foram preservados em ótimas condições. É praticamente um milagre nos dias de hoje."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x1ce,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Essa coleção de livros é inestimável. É como o meu próprio paraíso pessoal."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Acho que entendi. Mas o que isso tudo tem a ver com esse livro?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Bom, enquanto eu tinha me trancado nesse paraíso, devorando seu conhecimento em paz..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x1cf,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x9,
+            "msg_string": "Uma garotinha muito barulhenta apareceu um dia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Ah. Isso deve ter te incomodado..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "E como. Então, eu decidi entregar um livro pra ocupar ela e fazer ela ir embora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Essa garotinha era...? Eu te incomodei tanto assim mesmo?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x1cf,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "msg_string": "Exatamente. Na verdade, até agora, você continua atrapalhando meus estudos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "Aaah, desculpa... Eu não queria te atrapalhar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "No entanto, eu entendo muito bem a sua sede por conhecimento."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Eu dei uma olhada em todos os livros dessa seção, e até agora, esse é o mais adequado pra você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x1d0,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Foi por isso que eu recomendei. É simples assim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc6,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "msg_string": "(Nessa seção... Será que ele leu todos esses livros...? Caramba...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xe5,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "...Agora eu sinto vontade de te fazer uma pergunta também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xe7,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Por que você veio até aqui?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Pra sintetizar... Eu quero aprender alquimia de verdade. Eu sempre fui autodidata, então..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Qualquer livro de alquimia serviria, mas eu nunca imaginei que pudessem existir tantos tipos deles."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Mas enquanto eu tava conversando com a bibliotecária, meu foco meio que mudou pra um livro sobre flores..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Acho que acabei sendo um pouco gananciosa. Hehehe..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x17,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Hmph, se você veio aqui pra encontrar uma resposta, receio que não vai achar nada do tipo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Mesmo com todos esses livros? Eu vim pra cá com a esperança de descobrir alguma coisa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x91,
+            "expr_id": 0x3,
+            "msg_id": 0x1b,
+            "msg_string": "Naturalmente, você será capaz de encontrar vários fragmentos que vão te levar até a resposta."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x92,
+            "expr_id": 0x3,
+            "msg_id": 0x1c,
+            "msg_string": "Porém, esses fragmentos só vão começar a fazer sentido quando a própria buscadora juntar todos eles."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x92,
+            "expr_id": 0x3,
+            "msg_id": 0x1d,
+            "msg_string": "A alquimia exige mais do que apenas uma atenção passageira. Existem muitos princípios que formam a sua base."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x93,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Além disso, existem vários métodos entre os diferentes praticantes, então a sua essência verdadeira fica estritamente oculta."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Em outras palavras, eu não vou achar um \"essa é a resposta!\" em nenhum desses livros, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Claro que não. Não se esqueça que mesmo no passado, poucas pessoas tinham a habilidade de usar a alquimia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "Com certeza não vai ser tão simples quanto folhear um livro e achar a resposta bem na sua frente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x22,
+            "msg_string": "Entendi... Acho que não é tão fácil quanto eu pensei que fosse..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "A alquimia exige um vasto conhecimento sobre as propriedades dos objetos e teorias de como transformar esses objetos..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "Assim como a inspiração pra dar o primeiro passo em direção à verdade."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x25,
+            "msg_string": "Inspiração... Então, só ter o conhecimento não é o suficiente...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x26,
+            "msg_string": "De qualquer forma, o básico começa com o conhecimento. E adquirir conhecimento começa observando os fenômenos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x27,
+            "msg_string": "Aquele livro vai te ajudar a começar. Certo, isso deve ser o suficiente por enquanto."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x17,
+            "expr_id": 0x0,
+            "msg_id": 0x28,
+            "msg_string": "Vá embora antes que o meu humor piore."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x29,
+            "msg_string": "Ah, tá bom. Muito obrigada..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2a,
+            "msg_string": "(O Sr. Keith dá medo... mas acho que esse foi o maior tempo que já conversamos.)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2b,
+            "msg_string": "(Espero que a gente possa ter uma conversa mais legal na próxima vez.)"
+        }
+    ]
+}

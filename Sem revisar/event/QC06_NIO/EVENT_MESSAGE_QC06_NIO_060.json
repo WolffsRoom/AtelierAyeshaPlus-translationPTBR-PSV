@@ -1,0 +1,220 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC06_NIO_060.ebm",
+    "nb_messages": 0x18,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ayesha, bem-vinda de volta. E Nio, seja bem-vinda."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Faz mesmo um tempão desde que vocês vieram aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Hehehe, obrigada por me receber. Esse lugar não mudou nadinha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Muito obrigada por toda a ajuda que você deu pra minha irmã enquanto eu tava fora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Nossa, quanta educação... Nio, você é tão educadinha e bem-comportada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "É que a minha mana me falou que você fez muita coisa por mim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x19f,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Muito obrigada mesmo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x165,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Para com isso. Eu conheço vocês há um tempão, o que eu fiz foi mais do que natural."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Caramba, Regina, esse quarto me traz tantas lembranças!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd6,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Acho que, no máximo, a Ayesha colocou umas coisinhas a mais."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Antigamente, vocês duas vinham dormir aqui de vez em quando..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Sim. Você me deu um monte de aulas de costura."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "E você me ensinou a cozinhar.<CR>Acho que nós duas aprendemos habilidades<CR>super valiosas direto da Regina."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0xd,
+            "msg_string": "Hehehe, a Regina é tipo a nossa irmã mais velha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Hehe, e vocês duas são tipo minhas irmãzinhas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Irmãzinhas? Isso quer dizer...<CR>...Mana Regina?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x122,
+            "expr_id": 0x3,
+            "msg_id": 0x10,
+            "msg_string": "Ué? Que que você tá falando do nada?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Hehehe, eu só queria ver como soava."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x45,
+            "expr_id": 0x2,
+            "msg_id": 0x12,
+            "msg_string": "Ah, que injustiça. Eu quero também!<CR>Mana Regina!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x126,
+            "expr_id": 0x3,
+            "msg_id": 0x13,
+            "msg_string": "Ah, ganhei duas irmãs do nada. Então, vou fazer a minha parte e..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x128,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Ayesha, faz a janta! Nio! Vai lavar a roupa e limpar o quarto!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x15,
+            "msg_string": "Ué? Não era a irmã mais velha que devia fazer essas coisas?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Pode até ser assim pras outras, mas a gente é diferente. É assim que a banda toca na minha família."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x123,
+            "expr_id": 0x4,
+            "msg_id": 0x17,
+            "msg_string": "Regina, isso é bem diferente do que eu imaginava..."
+        }
+    ]
+}

@@ -1,0 +1,363 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC02_REG_840.ebm",
+    "nb_messages": 0x26,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "...Como estamos, Ayesha?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Um... dois... três.<CR>Pronto, peguei todos os materiais."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Já vamos poder começar a trabalhar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Beleza, então vamos começar logo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Vou lá chamar o pessoal.<CR>Pode ir começando!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x5,
+            "msg_string": "Regina, tá pronto..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Pois é. Nunca achei que a gente ia conseguir fazer uma ponte tão firme assim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Será que o pessoal vai gostar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Bom, como meu último trabalho, esse ficou realmente esplêndido!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x9,
+            "unknown2": 0x1,
+            "msg_string": "Com certeza. Agora, esse túnel pode ser usado por mais 50‐não, 100 anos."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "unknown2": 0x1,
+            "msg_string": "Regina, você é mesmo uma garota incrível!<CR>Sempre soube que ia me encher de orgulho."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xb,
+            "unknown2": 0x1,
+            "msg_string": "Credo, para. Você não vai ganhar nada me bajulando."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xc,
+            "unknown2": 0x1,
+            "msg_string": "Bobinha, não tô dizendo isso só porque quero alguma coisa!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "unknown2": 0x1,
+            "msg_string": "Eu cuido de você desde que seus pais te confiaram a mim, mas no começo, eu fiquei bem preocupado."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xe,
+            "unknown2": 0x1,
+            "msg_string": "Me perguntava se uma garota delicada ia aguentar o trabalho de prospector... Até os homens acham difícil."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "unknown2": 0x1,
+            "msg_string": "Mas você conquistou seu espaço num piscar de olhos. Seu esforço botou muito marmanjo no chinelo."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x10,
+            "unknown2": 0x1,
+            "msg_string": "Você sempre foi meu orgulho e alegria. Você foi muito mais macho que qualquer um dos caras por aqui."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x11,
+            "unknown2": 0x1,
+            "msg_string": "Mais macho? Dá um tempo.<CR>Eu sou uma garota, sabia!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "unknown2": 0x1,
+            "msg_string": "Fica quieta! Sempre achei que você era a única que podia me suceder...<CR>*sniff* *sniff*"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13,
+            "unknown2": 0x1,
+            "msg_string": "Ooh, até o coração do Chefe consegue se emocionar às lágrimas!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x14,
+            "unknown2": 0x1,
+            "msg_string": "Não zomba de mim! Enfim, meu orgulho sempre esteve com você."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x15,
+            "unknown2": 0x1,
+            "msg_string": "E fazer algo assim bem no final... Eu tô..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "unknown2": 0x1,
+            "msg_string": "Essa é a última coisa que podemos fazer por você. Agora... vai logo se casar ou sei lá e seja feliz."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x17,
+            "unknown2": 0x1,
+            "msg_string": "Pode deixar. Chefe, muito obrigada por tudo que você fez por mim até agora!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd4,
+            "expr_id": 0x4,
+            "msg_id": 0x18,
+            "msg_string": "Nossa, tô tão cansada de fazer algo que não tô acostumada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd6,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Mas agora, não tenho mais arrependimentos.<CR>Fiz tudo o que podia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "E é tudo graças a você, Ayesha. Muito obrigada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Não, que isso. Eu não fiz tanta coisa. Foi você que fez isso, Regina."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Não seja modesta. Só consegui dar tudo de mim por sua causa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Enfim, meu trabalho aqui terminou. Consegui acabar num clima melhor do que eu esperava."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Verdade. E tenho certeza que tem algo novo reservado pra você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "É! Embora eu ainda não saiba o que vai ser."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Seu nome vai durar por toda a eternidade nesse túnel também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "Para de exagero. Meu nome não vai durar tanto assim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "Ué? Mas o chefe disse que ia chamar de Ponte Regina Kurtis..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0x23,
+            "msg_string": "CHEFE!!!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x24,
+            "msg_string": "Ele disse que ia construir um monumento de pedra em sua honra."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd1,
+            "expr_id": 0x4,
+            "msg_id": 0x25,
+            "msg_string": "Ahhh! Só pode tá de brincadeira!"
+        }
+    ]
+}

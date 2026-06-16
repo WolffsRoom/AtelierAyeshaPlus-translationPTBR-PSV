@@ -1,0 +1,447 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC02_REG_740.ebm",
+    "nb_messages": 0x2e,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x0,
+            "msg_string": "Ta-dá! Eu consegui arrastar o Juris!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x46,
+            "expr_id": 0x2,
+            "msg_id": 0x1,
+            "msg_string": "Ooh, boa garota, Ayesha! Você tá de parabéns!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x35,
+            "expr_id": 0x2,
+            "msg_id": 0x2,
+            "msg_string": "Hehehe, a Regina me elogiou!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xda,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "Foi mal aí estragar a festinha, mas... do que é que vocês tão falando?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "De uma coisa muito legal. Mais pra Regina e pro irmão mais novo dela."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xdc,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Tô sentindo uma aura sinistra no ar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x48,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Ah, para de graça. Não tem nada de sinistro. Mas enfim... tira a roupa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x129,
+            "expr_id": 0x3,
+            "msg_id": 0x7,
+            "msg_string": "POR QUÊ!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x169,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Hehehe, hmmm, por que será, né...<CR>Você deve tá morrendo de curiosidade..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x38,
+            "expr_id": 0x2,
+            "msg_id": 0x9,
+            "msg_string": "Relaxa, Juris. Vai ser rapidinho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x12a,
+            "expr_id": 0x3,
+            "msg_id": 0xa,
+            "msg_string": "O-O que tá rolando...? Acho que agora eu sei como os animais que eu caço se sentem... Ahhh!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xb,
+            "unknown2": 0x1,
+            "msg_string": "Uau...! Juris, você tá incrível!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xc,
+            "unknown2": 0x1,
+            "msg_string": "Mmhm. Nada mal, nem um pouco..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "unknown2": 0x1,
+            "msg_string": "Por que é que eu tenho que passar por isso...?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xe,
+            "unknown2": 0x1,
+            "msg_string": "Calma, calma, não faz essa cara. Finge que você tá só me dando uma mãozinha."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "unknown2": 0x1,
+            "msg_string": "Regina, eu jogo o cabelo dele todo pra trás pra dar aquele efeito \"páá\"?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x10,
+            "unknown2": 0x1,
+            "msg_string": "Pode ser. A roupa deixou ele super elegante, então o cabelo tem que combinar."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x11,
+            "unknown2": 0x1,
+            "msg_string": "Talvez fique legal dar uma arrepiada no cabelo dele também."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "unknown2": 0x1,
+            "msg_string": "Ei, já deu, né."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13,
+            "unknown2": 0x1,
+            "msg_string": "Ainda não. Vai, levanta os braços. Tenho que dar uma apertadinha nas laterais."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x14,
+            "unknown2": 0x1,
+            "msg_string": "Se você se mexer, eu posso acabar te espetando com a agulha, então fica parado!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x15,
+            "unknown2": 0x1,
+            "msg_string": "Ai! Ei, você me espetou!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "unknown2": 0x1,
+            "msg_string": "Hahaha, foi maaaal, minha mão escorregou."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x17,
+            "unknown2": 0x1,
+            "msg_string": "...Eu não tô nem um pouco acostumado com essas coisas."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x18,
+            "unknown2": 0x1,
+            "msg_string": "Então essa é uma ótima chance de superar seus pontos fracos. Encare isso como um treino e aguenta firme!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x19,
+            "unknown2": 0x1,
+            "msg_string": "Juris! Agora vamos provar essa roupa vermelha!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1a,
+            "unknown2": 0x1,
+            "msg_string": "O forro tem uma estampa de listras rosas, então aposto que vai ficar super bem em você!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1b,
+            "unknown2": 0x1,
+            "msg_string": "Não. Eu não vou usar um negócio tão chamativo assim."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1c,
+            "unknown2": 0x1,
+            "msg_string": "Mas vai ficar ótimo em você. Com um corpo forte igual o seu, você consegue vestir cores chamativas de boa."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1d,
+            "unknown2": 0x1,
+            "msg_string": "Então tá decidido. Beleza, Juris, tira a roupa de novo."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1e,
+            "unknown2": 0x1,
+            "msg_string": "Urgh, não tenta me despir! Eu consigo tirar minha própria roupa!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1f,
+            "unknown2": 0x1,
+            "msg_string": "Ah, finalmente você tá entrando no clima.<CR>Pois bem, continua assim e vamos em frente."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x20,
+            "unknown2": 0x1,
+            "msg_string": "Mudando de assunto, Ayesha, você tá com energia pra dar e vender como sempre."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x21,
+            "unknown2": 0x1,
+            "msg_string": "Hehehe, é que isso é muito divertido.<CR>Parece que a gente tem um bonecão pra vestir."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x22,
+            "unknown2": 0x1,
+            "msg_string": "Não me trate como um brinquedo..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x23,
+            "unknown2": 0x1,
+            "msg_string": "Olha, a sua roupa de caçador é bacana e tals, mas você também fica muito bem nesse tipo de roupa!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x24,
+            "unknown2": 0x1,
+            "msg_string": "Ayesha, eu tô realmente começando a ficar cansado..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x25,
+            "msg_string": "Ufa, você quebrou um galhão, Juris!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x26,
+            "msg_string": "Vou poder mandar a melhor das roupas pra cerimônia de maioridade do meu irmão."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x27,
+            "msg_string": "E de quebra, ainda pudemos ver o Juris no seu maior estilo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x28,
+            "msg_string": "Né? Juris, tenho certeza de que você descobriu um \"novo eu\" hoje, não descobriu?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xda,
+            "expr_id": 0x4,
+            "msg_id": 0x29,
+            "msg_string": "Não tive tempo pra isso. Trocar de roupa num pique desses só me deixou tonto..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x2a,
+            "msg_string": "Olha, escolher a roupa certa é super importante. Não dá pra aceitar qualquer coisa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x2b,
+            "msg_string": "Valeu mesmo, Juris e Ayesha!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x2c,
+            "msg_string": "Eu mesma preparei o almoço de hoje pra agradecer vocês. Fiquem à vontade pra comer o quanto quiserem!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2d,
+            "msg_string": "Ebaaa, a comida da Regina é a melhor!"
+        }
+    ]
+}

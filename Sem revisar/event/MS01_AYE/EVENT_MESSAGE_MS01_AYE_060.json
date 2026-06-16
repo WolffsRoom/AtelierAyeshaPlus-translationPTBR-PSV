@@ -1,0 +1,677 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MS01_AYE_060.ebm",
+    "nb_messages": 0x4b,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ayesha, você tá aí? Tenho uma entrega!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Ah, beleza! Obrigada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Pra mim, é? O que será que é..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Uau, esqueceu do próprio aniversário? Parece um presente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15d,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Como você tinha saído, eu guardei até você voltar, mas tô curiosa pra saber o que tem dentro..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Se for comida, divide comigo!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Haha, tá bom, a gente divide."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Que emoção! De quem será que é..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x26,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Aqui. É de uma garota cheia de energia com um chapéu pontudo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1a3,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Da Bell? Ah, tem uma carta junto."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1aa,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Beleza, vamos ver..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "\"Feliz aniversário.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "\"Obrigada por sempre aguentar o meu egoísmo.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "\"Por favor, seja minha amiga de agora até pra seeempre.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "\"Deu o maior trabalho escolher seu presente. Espero que você goste.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "\"Tô ansiosa pra passar mais tempo com você. Com carinho, Wilbell.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Bell... obrigada. Eu também vou ficar ansiosa por isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x2,
+            "msg_id": 0x11,
+            "msg_string": "Hehehe, a Bell escreveu umas frases tão educadas na carta... Parece até outra pessoa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Obrigada pelo presente. Vou cuidar muito bem dele."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x26,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Aqui, é da Regina."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1a3,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Da Regina? Ah, tem uma carta junto."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1aa,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Beleza, vamos ver..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "\"Obrigada por me ajudar no meu último trabalho.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "\"Ainda sobrou um pouco de tecido, então eu fiz isso no meu tempo livre.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "\"Espero que goste.<CR>Feliz aniversário, Ayesha!\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "\"Pode ser simples, mas vamos comemorar. Com carinho, Regina.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1ac,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Obrigada, Regina. Sou muito grata por tudo que você fez por mim também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "O que será que tem dentro...<CR>A Regina é tão boa na costura."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x26,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Aqui. É daquela dupla estranha que eu vejo direto pela cidade."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1a3,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Da Marion e da Linca? Ah, tem uma carta junto."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1aa,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Beleza, vamos ver..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "\"Ayesha, obrigada por sempre ser legal com a Linca.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "\"Por favor, deixe a gente te mandar um presente de aniversário pra expressar nossa gratidão.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "\"A gente se vê por aí.<CR>Marion e Linca.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "Obrigada, Marion e Linca."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "Hehe, será que elas escolheram esse presente juntas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x26,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "Aqui. É de um cara com um corpão. Por acaso ele não seria um amigo \"especial\" seu, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1a3,
+            "expr_id": 0x0,
+            "msg_id": 0x25,
+            "msg_string": "C-Claro que não. Humm, acho que é do Juris."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1aa,
+            "expr_id": 0x0,
+            "msg_id": 0x26,
+            "msg_string": "Ah, tem uma carta junto."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x27,
+            "msg_string": "\"Ayesha, feliz aniversário. Valeu pela ajuda com aquele dragão.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x28,
+            "msg_string": "\"Fiquei sabendo pela Nanaca que era seu aniversário.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x29,
+            "msg_string": "\"É um dia especial, então achei que devia te mandar alguma coisa.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x2a,
+            "msg_string": "\"Nunca dei presente pra uma garota antes, então não tenho certeza se você vai gostar.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x2b,
+            "msg_string": "\"Mas eu gostaria que você aceitasse. Vou contar com você daqui pra frente também.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x2c,
+            "msg_string": "Juris, não esperava que você fosse tão atencioso com uma coisa dessas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x2d,
+            "msg_string": "Mas muito obrigada!<CR>Com certeza vou usar!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x26,
+            "expr_id": 0x0,
+            "msg_id": 0x2e,
+            "msg_string": "Aqui. É daquele cliente rústico e bonitão que eu te falei! Você tem muita sorte, Ayesha. Muuita sorte mesmo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1a3,
+            "expr_id": 0x0,
+            "msg_id": 0x2f,
+            "msg_string": "Não sabia que o Sr. Keith fazia tanto o seu tipo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x69,
+            "expr_id": 0x2,
+            "msg_id": 0x30,
+            "msg_string": "Pois é. Você não vai encontrar um cavalheiro tão maneiro e rústico em nenhum outro lugar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6b,
+            "expr_id": 0x0,
+            "msg_id": 0x31,
+            "msg_string": "Me apresenta ele da próxima vez, por favor!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x32,
+            "msg_string": "Hahaha, eu apresento, na próxima vez que eu tiver uma chance... Ah, tem uma carta junto."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1aa,
+            "expr_id": 0x0,
+            "msg_id": 0x33,
+            "msg_string": "Beleza, vamos ver..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x34,
+            "msg_string": "\"Vou te dar isso.<CR>Keith.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x35,
+            "msg_string": "O quê? Só isso? Não parece nem um pouco com um cartão de aniversário..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x36,
+            "msg_string": "Mas muito obrigada, Sr. Keith."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x69,
+            "expr_id": 0x2,
+            "msg_id": 0x37,
+            "msg_string": "É de uma garotinha que dizia ser sua irmã."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x38,
+            "msg_string": "Hã? Você quer dizer... a Nio?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6a,
+            "expr_id": 0x2,
+            "msg_id": 0x39,
+            "msg_string": "Entãão, fiquei sabendo que você encontrou sua irmã desaparecida."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6a,
+            "expr_id": 0x2,
+            "msg_id": 0x3a,
+            "msg_string": "Tô com vontade de conhecer ela e bater um papinho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x3b,
+            "msg_string": "Ah, é verdade. Você e a Nio nunca se conheceram..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x3c,
+            "msg_string": "Foi mal, eu trago ela na loja da próxima vez."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6a,
+            "expr_id": 0x2,
+            "msg_id": 0x3d,
+            "msg_string": "Traz mesmo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x3e,
+            "msg_string": "Mesmo assim, a Nio podia muito bem ter me dado isso pessoalmente..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6b,
+            "expr_id": 0x0,
+            "msg_id": 0x3f,
+            "msg_string": "Haha, ela deve ter ficado com vergonha. Especialmente porque vocês duas tão sempre juntas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x2d,
+            "expr_id": 0x0,
+            "msg_id": 0x40,
+            "msg_string": "Beleza, e aqui tá um presente atrasado meu!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x2e,
+            "expr_id": 0x0,
+            "msg_id": 0x41,
+            "msg_string": "É que eu ficaria numa situação chata se fosse só isso que você ganhasse."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x42,
+            "msg_string": "Isso não é verdade! Você não precisava se preocupar com isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x2e,
+            "expr_id": 0x0,
+            "msg_id": 0x43,
+            "msg_string": "Qual é, você já me ajudou pra caramba, então deixa eu te levar pra jantar ou algo do tipo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x2e,
+            "expr_id": 0x0,
+            "msg_id": 0x44,
+            "msg_string": "Eu conheço um lugar muito bom. Vamos comer lá hoje, beleza?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Você recebeu um Cajado Floral."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Você recebeu Luvas de Pele."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Você recebeu uma Camisa de Cota de Malha."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Você recebeu uma Pele de Criptídeo."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Você recebeu Himmel Schenk x3."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Você recebeu Baguete Real x3."
+        }
+    ]
+}

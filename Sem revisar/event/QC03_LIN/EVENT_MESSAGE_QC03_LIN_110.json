@@ -1,0 +1,195 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC03_LIN_110.ebm",
+    "nb_messages": 0x15,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Brrr, que frio.<CR>Tá bem gelado hoje..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Já é inverno. Essa área aqui tem um clima temperado, mas ainda fica friozinho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Marion, tem uma coisa que sempre me lembro nesta época do ano."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Eu também. Já faz... nove anos desde então?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Sim. Naquele dia, estava nevando."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Nove anos...? Nevando...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Ah, desculpa. Não queria te deixar de fora. É sobre o dia que nos conhecemos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Foi quando eu ainda era novata nessa ocupação e ela trabalhava para o antigo mestre dela..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Foi quando eu ainda era mais baixa que a Marion."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Você tem razão... Naquela época, a Linca era pequena e tão fofa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Pensando bem, você cresceu bastante mesmo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Eu não tenho frescura nenhuma com o que eu como!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Isso é algo pra se orgulhar?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x12,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Sim. Eu sou superior à Marion, que tem um monte de frescura com o que come."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Marion, você devia comer feijões de vidro também. Você não vai crescer se não comer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x99,
+            "expr_id": 0x3,
+            "msg_id": 0xf,
+            "msg_string": "Não! Eu não gosto de nenhum tipo de feijão!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x9b,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Quer dizer, mesmo se eu comesse esses feijões, eu não cresceria mais."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Umm... sinto que essa conversa fugiu um pouco do assunto..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Ah, desculpa, você tem razão.<CR>Hmm, sobre o que a gente tava falando mesmo?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x165,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Umm, era se você devia ou não comer feijões de vidro?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x14,
+            "msg_string": "(Hmm, eu queria saber mais, mas será que é falta de educação tocar no assunto de novo? Pareceu meio complicado...)"
+        }
+    ]
+}

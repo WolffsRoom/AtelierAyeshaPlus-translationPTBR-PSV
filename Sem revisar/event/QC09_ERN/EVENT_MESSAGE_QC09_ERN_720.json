@@ -1,0 +1,305 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC09_ERN_720.ebm",
+    "nb_messages": 0x1f,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "expr_id": 0x2,
+            "msg_id": 0x0,
+            "msg_string": "Hmhmhm♪<CR>Hmhmhm♪"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Ah, Tanya, tá trabalhando por aqui hoje?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Você parece tá de super bom humor.<CR>Aconteceu alguma coisa boa?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x3,
+            "msg_string": "Hehehe, na verdade tô indo fazer uma coisa boa. Eu vou tomar um banho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Ah, quer vir comigo, Ayesha?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Hã? Tem banho num lugar desses?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Siiim. Mais pra baixo daqui, tem uma fonte termal."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Você pode tirar todo o suor,<CR>é uma delícia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x8,
+            "msg_string": "(Uma fonte termal...? Minha pele tá mesmo toda grudenta por causa da areia, do sal e da poeira...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Sim! Eu adoraria ir com você!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Beleza, então eu te levo lá!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xb,
+            "unknown2": 0x1,
+            "msg_string": "Aaaah... Isso é tããão bom. Sinto que vou até derreter..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xc,
+            "unknown2": 0x1,
+            "msg_string": "Poder ver o horizonte em todas as direções... parece um milagre tomar banho num lugar desses."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "unknown2": 0x1,
+            "msg_string": "Tenho certeza que não tem ninguém olhando, mas ficar pelada aqui fora me deixa meio nervosa."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xe,
+            "unknown2": 0x1,
+            "msg_string": "Hahaha, relaxa e aproveita. Não tem ninguém tentando espiar a gente."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "unknown2": 0x1,
+            "msg_string": "Pra começo de conversa, não tem nem viva alma morando por aqui."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x10,
+            "unknown2": 0x1,
+            "msg_string": "A água quente daqui tem sal nela,<CR>então você vai flutuar se<CR>esticar os braços e as pernas."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x11,
+            "unknown2": 0x1,
+            "msg_string": "Deixa eu ver... Nossa, é verdade!<CR>Isso é tão legal e maravilhoso..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "unknown2": 0x1,
+            "msg_string": "A água vem do lago de sal, então é ótima pra tratar queimaduras de frio e dor nas costas."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13,
+            "unknown2": 0x1,
+            "msg_string": "Sem falar que fica mais difícil pegar um resfriado depois do banho."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x14,
+            "unknown2": 0x1,
+            "msg_string": "Se não fosse tão difícil chegar aqui,<CR>eu espalharia pra todo mundo."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x15,
+            "unknown2": 0x1,
+            "msg_string": "Entendi. Então tem um monte de efeitos benéficos... Vai ver é alguma coisa no sal..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "unknown2": 0x1,
+            "msg_string": "Não é igual aos seus remédios,<CR>mas o poder do sal é incrível!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x17,
+            "unknown2": 0x1,
+            "msg_string": "O poder do sal... Ah, é isso!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x18,
+            "unknown2": 0x1,
+            "msg_string": "Ué? Aconteceu alguma coisa?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x19,
+            "unknown2": 0x1,
+            "msg_string": "Se as pessoas usassem o sal pra mais coisas além de cozinhar, como aqui, ele ia vender bem mais."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1a,
+            "unknown2": 0x1,
+            "msg_string": "Hm? Como aqui...?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1b,
+            "unknown2": 0x1,
+            "msg_string": "Aham. Tanya, acabei de ter uma ideia genial!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1c,
+            "unknown2": 0x1,
+            "msg_string": "Ahn, meus parabéns?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1d,
+            "unknown2": 0x1,
+            "msg_string": "Hehehe, é melhor eu ir contar pro Ernie logo de uma vez!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1e,
+            "unknown2": 0x1,
+            "msg_string": "...Mas antes disso, eu preciso aproveitar bem aqui. Aaaah, que delícia..."
+        }
+    ]
+}

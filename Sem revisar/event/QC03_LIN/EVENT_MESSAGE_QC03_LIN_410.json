@@ -1,0 +1,249 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC03_LIN_410.ebm",
+    "nb_messages": 0x1b,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x0,
+            "msg_string": "Urrrrrr."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "msg_string": "(Ué? É a Linca.<CR>Ela parece bem séria...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0x2,
+            "msg_string": "Urrrrrrrrr."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "msg_string": "(S-Será que eu devia falar com ela...? A pessoa da loja também parece preocupada.)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0x4,
+            "msg_string": "Urrrrrrrrrrrr."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Hum... oi, Linca. Tá fazendo compras?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Ah, Ayesha, chegou na hora certa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "O que você acha disso?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x8,
+            "msg_string": "Nossa, que presilha de cabelo fofa!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Eu sabia. Então é fofa mesmo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Será que eu compro...?<CR>Mas, não."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "Se eu comprar algo por impulso,<CR> a Marion vai ficar brava comigo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd1,
+            "expr_id": 0x4,
+            "msg_id": 0xc,
+            "msg_string": "Eu já gastei dinheiro à toa recentemente..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "msg_string": "(O que será que ela comprou...?<CR>Mas, acho melhor não perguntar.)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Mas é raro te ver interessada em acessórios."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Achei que você não ligasse muito pra essas coisas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd3,
+            "expr_id": 0x4,
+            "msg_id": 0x10,
+            "msg_string": "Não, isso não é pra mim.<CR>Eu achei... que poderia ficar<CR>bem na Marion."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd5,
+            "expr_id": 0x4,
+            "msg_id": 0x11,
+            "msg_string": "Ela sempre compra as coisas pra mim, então..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Então é um presente pra Marion...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x38,
+            "expr_id": 0x2,
+            "msg_id": 0x13,
+            "msg_string": "Linca, você devia comprar! Tenho certeza que ficaria ótimo nela!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x39,
+            "expr_id": 0x2,
+            "msg_id": 0x14,
+            "msg_string": "E acho que a Marion ia ficar super feliz de ganhar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3a,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Não é tão caro, então ela não vai ficar brava com você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd5,
+            "expr_id": 0x4,
+            "msg_id": 0x16,
+            "msg_string": "E-Entendi. Então talvez eu devesse criar coragem e comprar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd5,
+            "expr_id": 0x4,
+            "msg_id": 0x17,
+            "msg_string": "O preço tem dois zeros a menos do que a última compra que fiz, então isso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd6,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Obrigada, Ayesha. Por sua causa,<CR>eu decidi comprar isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x19,
+            "msg_string": "Vou comprar todas as presilhas<CR>desse tipo que tiverem aqui e dar<CR>pra Marion..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x1a,
+            "msg_string": "O quuue!? Tenho certeza que só uma presilha igual já é mais que suficiente!"
+        }
+    ]
+}

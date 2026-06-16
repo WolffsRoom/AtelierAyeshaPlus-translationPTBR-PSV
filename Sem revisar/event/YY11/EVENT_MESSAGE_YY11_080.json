@@ -1,0 +1,43 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_YY11_080.ebm",
+    "nb_messages": 0x4,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Batalha Livre é um sistema de treinamento de combate virtual que pode ser acessado pelo diário."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Sua pontuação de batalha vai aparecer na tela de resultados da batalha."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Diferente das batalhas normais, você não vai ganhar pontos de experiência nem dinheiro."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Pra mais informações, dá uma olhada na seção de Ajuda na Biblioteca."
+        }
+    ]
+}

@@ -1,0 +1,213 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC16_RAN_080.ebm",
+    "nb_messages": 0x17,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "*suspiro* Nunca reparei nisso esse tempo todo... mas parece que não tenho muita sorte."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "O q-que foi?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xe1,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "Relaxa, tá tudo bem. Isso não significa muita coisa..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "msg_string": "(P-Por que será que ele tá emburrado...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "O Ernie te forçou a trabalhar contra a sua vontade de novo?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xe2,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "Não. Eu não ia ficar tão na bad por causa disso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Então, você deixou sua carteira cair em algum lugar...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xe4,
+            "expr_id": 0x4,
+            "msg_id": 0x7,
+            "msg_string": "Eu pareço tão infantil assim pra você...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xe6,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "No fim das contas, não consegui ver aquela flor lendária com meus próprios olhos..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x9,
+            "msg_string": "Ah, mas graças a você, eu consegui ver!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Era muito linda... mas, não fica tão deprimido assim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Tenho certeza que vai ter uma próxima vez.<CR>E quando ela chegar, você com certeza<CR>vai ver...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xe7,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Será mesmo...? Pra acontecer outro eclipse solar daqueles, pelos meus cálculos..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x188,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Vai ser na primavera, daqui a 52 anos..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "Tudo isso...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x18a,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Sim. Eu vou ser um vovô de 80 anos!<CR>Nessa idade, o verdadeiro mistério vai<CR>ser como eu ainda tô vivo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "I-Isso não é verdade. Tenho certeza que se você se esforçar, vai ficar bem... eu acho!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xe5,
+            "expr_id": 0x4,
+            "msg_id": 0x11,
+            "msg_string": "Mesmo que eu viva até lá, me pergunto se ainda vou ter vontade de cantar sobre aquela flor..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xe8,
+            "expr_id": 0x4,
+            "msg_id": 0x12,
+            "msg_string": "Ó, o mundo foi engolido pelas trevas. É como se o poeta dentro de mim já tivesse morrido!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xe2,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "Os deuses são tão injustos... Ayesha, você pode pelo menos me descrever a flor em detalhes?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Claro. Hum, deixa eu ver..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x15,
+            "msg_string": "(Hmm, eu consegui ver a flor graças ao Ranun, então é o mínimo que posso fazer.)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "msg_string": "(Mas isso pode demorar um pouco...)"
+        }
+    ]
+}

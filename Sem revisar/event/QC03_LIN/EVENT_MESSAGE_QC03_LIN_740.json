@@ -1,0 +1,151 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC03_LIN_740.ebm",
+    "nb_messages": 0x10,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "...foi isso que aconteceu."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Então ela veio, no fim das contas. Mas mesmo assim, por que ela teve que ir atrás da Ayesha de novo...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Me desculpa por isso. Fico muito feliz que você não tenha se machucado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Ela dava muito medo, mas não foi violenta."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x194,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "No entanto, não podemos te colocar em mais perigo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x1e2,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Eu sei. Ela pediu com educação, então por que a gente não aceita o convite dela?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xe9,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "Se ela for ficar satisfeita com isso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Hmm, o que eu deveria fazer...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xed,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Se ter você com a gente era uma das condições dela, eu acho que não temos escolha..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "A gente não quer te envolver mais nisso, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x3,
+            "msg_id": 0xa,
+            "msg_string": "Não, não, eu cheguei até aqui,<CR>então vou com vocês."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x3,
+            "msg_id": 0xb,
+            "msg_string": "Além disso, tô curiosa sobre a outra Linca."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Se você diz, isso vai nos ajudar muito. Vamos aceitar a sua oferta."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Só não abaixe a guarda. É perigoso, então tente ficar perto da Linca o tempo todo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "E-Entendido!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "msg_string": "(Isso virou algo enorme agora.<CR>Mas não posso mais fingir que não<CR>sei de nada.)"
+        }
+    ]
+}

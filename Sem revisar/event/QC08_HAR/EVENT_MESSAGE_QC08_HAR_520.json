@@ -1,0 +1,103 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC08_HAR_520.ebm",
+    "nb_messages": 0xb,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Chegaaaamos! Caramba, tudo é feito de vidro!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Essa área ainda não foi muito investigada, então pode ser perigoso ir fundo demais."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "O-O quê!? Regina! Faz quanto tempo que você tá aí?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Tipo, desde o começo. Ruínas são a minha praia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Eu não te notei de jeito nenhum..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Hehehe, você vai precisar de olhos na nuca e no topo da cabeça dentro de uma ruína, porque elas são perigosas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x12,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Aqueles antigos malvados podem ter deixado centenas de armadilhas por toda parte."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "E-Eu vou tomar cuidado..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "A área por aqui parece de boa, mas não baixa a guarda."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x19a,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Bom, vou dar uma volta por aqui. Até mais."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Muito bem. Eu também devia começar a minha investigação!"
+        }
+    ]
+}

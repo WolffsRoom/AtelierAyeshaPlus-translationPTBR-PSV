@@ -1,0 +1,304 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC05_KEI_160.ebm",
+    "nb_messages": 0x22,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x1cf,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "msg_string": "*suspiro*"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Mestre, você parece bem entediado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x1d0,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "É... Já terminei tudo que eu devia fazer nessas terras, então tô me sentindo bem inquieto."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Então, faço um chá pra você?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x196,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Não, tá de boa. Não tô com sede."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Agora... pra onde eu devia ir? Já viajei por metade do mundo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "...<CR>Você vai embora destas terras?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Sim. Já tava na hora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "O resto do mundo ainda tem muitos segredos que eu ainda preciso descobrir."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Quero ver de tudo enquanto este corpo ainda se move... Embora eu saiba que isso é ganância demais da minha parte."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Quero ver o máximo possível com estes olhos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Preciso me despedir de você. Não foi por muito tempo, mas valeu pela hospitalidade."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xe1,
+            "expr_id": 0x4,
+            "msg_id": 0xc,
+            "msg_string": "Como o seu mestre, vou te dar a minha última ordem."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xe4,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "Eu cancelo todos os seus comandos.<CR>A partir de agora, aja por conta própria<CR>e use o seu próprio julgamento."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xe7,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Você não precisa mais ficar presa ao passado, ou a mim. Você tá livre."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x197,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "...Entendido. Eu aceito a sua última ordem."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Agora... desculpe a pressa, mas também vou fazer os preparativos pra viagem."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Se me permitir, eu vou te acompanhar pra onde quer que você vá."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Ei, não tem necessidade disso. Eu te disse que você tá livre."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Sim, por isso vou fazer o que eu quiser."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0xad,
+            "expr_id": 0x3,
+            "msg_id": 0x14,
+            "msg_string": "Eu já cansei de ser deixada pra trás pelo Mestre."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xe5,
+            "expr_id": 0x4,
+            "msg_id": 0x15,
+            "msg_string": "Bom, acho que por mim tudo bem também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xe6,
+            "expr_id": 0x4,
+            "msg_id": 0x16,
+            "msg_string": "Teve algumas coisas que eu consegui desde que cheguei nessas terras, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xe7,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Odelia, conseguir você foi uma baita de uma recompensa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Obrigada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0xaf,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Mesmo assim, pensar que eu não devo ser páreo pra Ayesha..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Me sinto um pouco incapaz."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Você tem razão. A possibilidade dela desbravar uma alquimia nova que nem eu conheço também é..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Oi, Srta. Odelia. Vim devolver o livro que peguei emprestado!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xe1,
+            "expr_id": 0x4,
+            "msg_id": 0x1d,
+            "msg_string": "Caramba. Falando no diabo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Hã? Do que vocês tão falando?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xe3,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Nada não. A gente só tava conversando."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Exatamente. Era uma conversa secreta entre o Mestre e eu."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x21,
+            "msg_string": "Não é do feitio de vocês dois terem conversas secretas..."
+        }
+    ]
+}

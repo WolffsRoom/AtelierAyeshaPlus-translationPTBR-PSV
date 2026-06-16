@@ -1,0 +1,424 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC12_KYL_030.ebm",
+    "nb_messages": 0x2f,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ah, olá, Mestre das Misturas. Dei uma passadinha pra comer algo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Ah, Ayesha, é você. Eu tava justamente pensando em você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Tava me perguntando quando aquela boticária linda ia voltar pra minha taverna..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x10c,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "...Ah droga! Fui demitido tantas vezes por fazer isso nos meus tempos de ajudante."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x10f,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "Usar cantadas no trabalho é estritamente proibido! Essa é uma regra básica desse ramo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x112,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "De qualquer forma, fico feliz que o sabor da nossa comida aqui foi do seu agrado!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa2,
+            "expr_id": 0x3,
+            "msg_id": 0x6,
+            "msg_string": "Mesmo assim... você com certeza tem um monte de coisas. Parece até que tá movendo uma montanha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa3,
+            "expr_id": 0x3,
+            "msg_id": 0x7,
+            "msg_string": "Cê sempre viaja com tanta bagagem na sua vaca?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Sim.<CR>...Isso é esquisito?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa8,
+            "expr_id": 0x3,
+            "msg_id": 0x9,
+            "msg_string": "Eu não diria esquisito, tá mais pra incrível."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xaa,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Parece que cê empacotou a sua casa inteira..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0xb,
+            "msg_string": "Agora que você falou... cê pode ter razão..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Muiiito bem, vou preparar uma comida bem gostosa pra você! Deve tá cansada de carregar esse monte de coisas por aí..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "E vou dar uma água deliciosa pra sua vaca também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Uau, muito obrigada! Hehehe, pior que eu tô com muita fome."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Bom, o que cê quer comer hoje? Vou dar o meu melhor pra fazer o que cê quiser!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Bem, vejamos... Tô inclinada a pedir o \"Especial do Dia do Mestre das Misturas\" que você listou na frente da loja."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Excelente! Vou te mostrar que chamar isso de especial não é um exagero!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Hmm, tô cheia.<CR>Acho que comi demais..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Eu gosto de garotas que conseguem comer bastante. Acho que tô quase me apaixonando por você..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Ah, para de brincadeira.<CR>Cê tá me deixando envergonhada..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Só tô te elogiando. Não é bom comer em excesso, mas não tem nada de errado em comer bastante."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa2,
+            "expr_id": 0x3,
+            "msg_id": 0x16,
+            "msg_string": "Ficar obcecada demais com o seu peso ou o corpo não é muito atraente, na minha opinião..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x38,
+            "expr_id": 0x2,
+            "msg_id": 0x17,
+            "msg_string": "Mas acho que toda garota se preocupa com isso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa6,
+            "expr_id": 0x3,
+            "msg_id": 0x18,
+            "msg_string": "Pois é, mas você tá super bem, Ayesha! Garotas são bem mais atraentes quando têm umas curvas!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x39,
+            "expr_id": 0x2,
+            "msg_id": 0x19,
+            "msg_string": "V-Você acha? Vai me custar um pouco de coragem pra concordar com você..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa4,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Bom, cê devia ficar aqui mais um pouco. Não é bom se mexer muito logo depois de comer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3a,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Beleza! Já que cê tá dizendo, não me importo de ficar!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Aqui tá! Uma bela cerveja pra você!"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x222,
+            "name_id": 0x41,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1d,
+            "msg_string": "Ooh, eu tenho que tomar uma dessas toda vez que eu vier pra cidade."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1e,
+            "msg_string": "(Ah, isso tem álcool... Será que o gosto é bom...?)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Ah é, voltando ao assunto, o que tem em toda aquela bagagem que cê trouxe lá na frente?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x20,
+            "msg_string": "São ferramentas que eu uso pra sintetizar remédios. Tipo meu caldeirão de síntese, materiais pra fazer os remédios..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x21,
+            "msg_string": "Outros materiais que eu possa precisar... Ah, e um caldeirão reserva, e o reserva do caldeirão reserva..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x10c,
+            "expr_id": 0x4,
+            "msg_id": 0x22,
+            "msg_string": "Eita, você realmente precisa de tudo isso? Especialmente a segunda metade dessa lista?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x10d,
+            "expr_id": 0x4,
+            "msg_id": 0x23,
+            "msg_string": "E você não deveria limitar a quantidade de coisas que você leva numa jornada?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "Você provavelmente tem razão, mas eu me sentiria tão insegura se não trouxesse comigo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x10f,
+            "expr_id": 0x4,
+            "msg_id": 0x25,
+            "msg_string": "Heh, tá mais pra uma mudança de casa do que uma jornada..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x112,
+            "expr_id": 0x0,
+            "msg_id": 0x26,
+            "msg_string": "Beleza então! Por favor, deixe o Sr. Kyle te dar uma mãozinha!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x17d,
+            "expr_id": 0x0,
+            "msg_id": 0x27,
+            "msg_string": "Esse lugar costumava ser parte de uma estalagem, mas os quartos tão todos vazios agora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x17e,
+            "expr_id": 0x0,
+            "msg_id": 0x28,
+            "msg_string": "Vou deixar você usar o quarto que quiser, então você devia deixar suas coisas extras aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x29,
+            "msg_string": "Ué, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x17f,
+            "expr_id": 0x0,
+            "msg_id": 0x2a,
+            "msg_string": "Ficar te olhando me deixa preocupado..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2b,
+            "msg_string": "Além disso, pra começar são quartos vazios. Não deve ter problema nenhum você usar um."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x2c,
+            "msg_string": "Em troca, é só vir aqui comer de vez em quando."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2d,
+            "msg_string": "Já que você tá dizendo, talvez eu aceite a oferta..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Agora você pode acessar o Quarto do Corvo."
+        }
+    ]
+}

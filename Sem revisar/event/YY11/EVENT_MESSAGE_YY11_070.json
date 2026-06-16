@@ -1,0 +1,34 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_YY11_070.ebm",
+    "nb_messages": 0x3,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Pular Efeitos de Batalha pode encurtar o tempo do combate."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Para acelerar a batalha, é só apertar o botão <IM19> durante o combate."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Essa função não vai funcionar durante a inserção de comandos e seleção de itens."
+        }
+    ]
+}

@@ -1,0 +1,267 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC06_NIO_120.ebm",
+    "nb_messages": 0x1d,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ufa... Hmm, acho que isso tá bom."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Talvez eu faça uma pausa pra tomar um chá..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x125,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "Queee-!<CR>O-O que foi isso!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Ah, Mana! A Nio acabou de voltar!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Quanta coisa... O que você pegou dessa vez...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Hehehe, um estoque de um ano de Pedras de Fogo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Como você deve imaginar, eu não consegui carregar tudo sozinha, então pedi pro Ernie me ajudar!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x7,
+            "msg_string": "Ahhh, desculpa, Ernie.<CR>A Nio te forçou a ajudar ela?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Ela atrapalhou o seu trabalho?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x194,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Não, não. Minha carroça tava vazia, e foi perfeito porque arrumei alguém pra conversar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x106,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "Mas, talvez eu fique todo dolorido amanhã."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Kyaaah, então deixa eu pelo menos te dar um remédio que é bom pra dor muscular."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x10a,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Além disso, eu não consigo dizer não pra Nio."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Olha! Com isso tudo, eu posso até abrir minha própria loja especializada em Pedras de Fogo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Meu deus... Nio, você já esqueceu a promessa que fez quando ficou doente?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Você disse que não ia se forçar demais e ia devagar, um passo de cada vez."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Eu não me forcei, e eu tô indo um passo de cada vez."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "É verdade. Não quero quebrar minha promessa pra você, então eu não tenho me forçado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Hmm, se você tá dizendo, eu acredito. Mas falando sério, isso é muita coisa..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Devemos levar pra dentro primeiro?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Tá bom. Ah, mas numa das caixas tem ovos, então toma cuidado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x15,
+            "msg_string": "Ovos de quem? Onde você pegou eles?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x15e,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Bom, tinha um ninho de lagarto lá pros lados da montanha rochosa. Foi super complicado de trazer eles comigo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x17,
+            "msg_string": "Montanha rochosa? Quer dizer que você escalou o penhasco vestindo isso?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Aham. Pensei que como ninguém tava olhando..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Isso não é nada feminino, então vamos parar de ser tão hiperativa vestindo saia de agora em diante, tá bom?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x1a,
+            "msg_string": "Hehehe, tá bom..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1b,
+            "msg_string": "(Talvez a ideia da Nio de ir<CR>devagar seja bem mais rápida que a minha ideia de<CR>ir devagar...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1c,
+            "msg_string": "(Eu me assusto muito, mas tudo que<CR>posso fazer por agora é confiar na Nio e<CR>cuidar dela...)"
+        }
+    ]
+}

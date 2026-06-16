@@ -1,0 +1,256 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC01_WIL_620.ebm",
+    "nb_messages": 0x1c,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "...e então, eu quero que você compre isso de mim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Oi, Marietta... Ah, Bell!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Vieram fazer compras? Desculpa, mas podem esperar até eu terminar meus negócios?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "No momento tô negociando uma venda!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15e,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Vamos ver... Como se usa isso? Na verdade, o que é isso pra começo de conversa?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Hum, isso é segredo de negócio. Você só precisa manjar do assunto pra usar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Mas, vai dar tudo certo, já que eu tenho certeza que a pessoa que entender o que é vai conseguir descobrir como usar!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Não é assim que funciona. Eu não posso botar um negócio pra vender na loja se eu não consigo explicar o que é."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Abre uma exceção pra mim! Relaxa, eu tenho certeza que você vai conseguir vender isso por uma nota no futuro!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Bell, isso não é uma ferramenta mágica?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Aham, é uma peça valiosa. É um item chique que raramente se vê por aí."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Mas, é difícil de vender quando eu tenho que esconder que é um item mágico."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xf5,
+            "expr_id": 0x4,
+            "msg_id": 0xc,
+            "msg_string": "Wilbell, desculpa... mas eu acho que não posso comprar isso de você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "Uééé? Por que nããão?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xf7,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Tenho certeza que o chefe toparia se desse pra notar fácil que é um grande tesouro."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xd2,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "...Um grande tesouro?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1a6,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Aham. Tipo aqueles das ruínas.<CR>Por exemplo, esse aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1c2,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Saquei... Só por curiosidade, quanto custaria esse?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15e,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Vamos ver... O chefe curte muito esse tipo de coisa, então seria pelo menos um milhão de Cole..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "UM MILHÃO!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x14,
+            "msg_string": "(Ixi, acho que isso vai acabar em...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Bell, acabei de lembrar que tenho um negócio pra fazer, então já vou indo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Peraí."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Ahn, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "A gente divide a grana meio a meio,<CR>então você vem comigo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x19,
+            "msg_string": "*suspiro* Eu já sabia..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Bom, bora lá procurar um grande tesouro!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1b,
+            "msg_string": "(Eu sabia que isso ia acontecer...<CR>A Bell bota logo os<CR>pensamentos em prática.)"
+        }
+    ]
+}

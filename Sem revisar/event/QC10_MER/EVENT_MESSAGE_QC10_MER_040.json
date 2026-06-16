@@ -1,0 +1,293 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC10_MER_040.ebm",
+    "nb_messages": 0x20,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x70,
+            "name_id": 0x36,
+            "extra_id": 0x1f7,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "msg_string": "Moça, esse remédio, qual a eficácia dele?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x69,
+            "expr_id": 0x2,
+            "msg_id": 0x1,
+            "msg_string": "Ah, esse? É um remédio revigorante,<CR>então tenho certeza que varia de pessoa pra<CR>pessoa..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6d,
+            "expr_id": 0x2,
+            "msg_id": 0x2,
+            "msg_string": "Mas seus efeitos principais tratam dores de cabeça, calafrios, visão embaçada, ombros tensos e perda de apetite por causa da idade."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x70,
+            "name_id": 0x36,
+            "extra_id": 0x1f7,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "msg_string": "Isso não é bom demais pra ser verdade? Tenho certeza que não funciona pra tudo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6a,
+            "expr_id": 0x2,
+            "msg_id": 0x4,
+            "msg_string": "Pior que funciona. Não é incrível?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6d,
+            "expr_id": 0x2,
+            "msg_id": 0x5,
+            "msg_string": "De qualquer forma, um boticário habilidoso mistura ingredientes secretos pra fazer esse remédio."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x70,
+            "name_id": 0x36,
+            "extra_id": 0x1f7,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "msg_string": "Hmm... se isso for mesmo verdade, então é incrível. Porém, eu simplesmente não consigo acreditar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "msg_string": "(Esse é o remédio que eu sintetizei...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x70,
+            "name_id": 0x36,
+            "extra_id": 0x1f7,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x8,
+            "msg_string": "Se puder, eu queria que você me explicasse os efeitos dele em detalhes."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6a,
+            "expr_id": 0x2,
+            "msg_id": 0x9,
+            "msg_string": "Claro, só espera aqui.<CR>Ayesha, troca!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6a,
+            "expr_id": 0x2,
+            "msg_id": 0xa,
+            "msg_string": "Você pode explicar os efeitos desse remédio pra esse cliente?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Ah, beleza. Bom, esse remédio usa os nutrientes das raízes pra melhorar a circulação do sangue..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "E ele tem um componente que limpa as toxinas no seu sangue."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Limpando seu sangue, ele consegue reduzir as dores no corpo e evitar calafrios."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x70,
+            "name_id": 0x36,
+            "extra_id": 0x1f7,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xe,
+            "msg_string": "Uhum, saquei. Então é assim que funciona..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x70,
+            "name_id": 0x36,
+            "extra_id": 0x1f7,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "msg_string": "Parece ótimo! Vou levar um frasco desse remédio!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x70,
+            "expr_id": 0x2,
+            "msg_id": 0x10,
+            "msg_string": "Beleza, obrigada pela preferência!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Valeu. Isso ajudou bastante. Explicações de especialistas com certeza são melhores."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x38,
+            "expr_id": 0x2,
+            "msg_id": 0x12,
+            "msg_string": "Hehehe, fui eu quem fiz esse remédio."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xf8,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "Mas é uma pena que aquele era o último do seu remédio!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xf6,
+            "expr_id": 0x4,
+            "msg_id": 0x14,
+            "msg_string": "Seu remédio vendeu tão bem na nossa loja que o dono também tá triste."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3a,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Entendi. Eu me sinto meio mal agora..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x2d,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Bom, não se preocupa com isso. Você tem outras coisas pra fazer, então não tem jeito."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x2e,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Em troca, se você voltar ao seu emprego normal, me avisa, tá bom?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Pode deixar, com certeza."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x2f,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Se você quiser, a gente pode pular o Ernie e você vende direto pra gente..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x1a,
+            "msg_string": "S-Será que eu posso fazer isso...<CR>Eu preciso falar com o Ernie primeiro."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x69,
+            "expr_id": 0x2,
+            "msg_id": 0x1b,
+            "msg_string": "Hehehe, você fica tão fofa quando tá confusa. Foi só uma brincadeira."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6a,
+            "expr_id": 0x2,
+            "msg_id": 0x1c,
+            "msg_string": "Não só os nossos clientes, mas eu também uso o seu remédio."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6a,
+            "expr_id": 0x2,
+            "msg_id": 0x1d,
+            "msg_string": "Vou ficar esperando o dia que você voltar! Tipo, esperando muito!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Q-Quando você exagera tanto assim,<CR>eu não sei nem o que dizer..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x1f,
+            "msg_string": "Mas eu vou dar o meu melhor. Então, por favor, me espera!"
+        }
+    ]
+}

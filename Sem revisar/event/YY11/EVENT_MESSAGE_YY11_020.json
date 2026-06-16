@@ -1,0 +1,43 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_YY11_020.ebm",
+    "nb_messages": 0x4,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Aprendeu \"Extrair Poder\". Aumenta o valor da propriedade do próximo ingrediente em +15."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Durante a síntese, aperte o botão <IM08><CR>quando estiver prestes a usar os ingredientes para usar a Habilidade de Síntese."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Ao adicionar uma propriedade a um ingrediente, você tem uma chance maior de descobrir novas propriedades."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "As Habilidades de Síntese custam CP, então pense bem antes de usar."
+        }
+    ]
+}

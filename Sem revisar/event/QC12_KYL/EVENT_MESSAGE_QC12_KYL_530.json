@@ -1,0 +1,177 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC12_KYL_530.ebm",
+    "nb_messages": 0x13,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Mestre das Misturas, eu trouxe o que você me pediu pra fazer..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x1,
+            "msg_string": "Ah, eu tava te esperando!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Sim. Eu te fiz uma promessa, então<CR>isso não é porque eu fui tentada<CR>pelos almoços à vontade..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0x3,
+            "msg_string": "Haha, eu sei. Eu sei que você é uma boa garota, Ayesha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Bom, agora vamos dar uma olhada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa7,
+            "expr_id": 0x3,
+            "msg_id": 0x5,
+            "msg_string": "Hmm, isso parece uma sopa normal..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Tenho certeza que ficou do jeito<CR>que você queria..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Só não usa isso pra algo muito terrível, tá...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xaa,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Ayesha, você já é minha cúmplice. Tamos nessa juntos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "Ué... o quê!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x1b9,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "msg_string": "Agora, me deixa provar um pouco...<CR>*slurp*"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x1bb,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xb,
+            "msg_string": "..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "E a-aí, como tá...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x141,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "I-I-I-Isso é muuuuuuito apimentado!<CR>Mas tá delicioso! Isso é incrível!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1a4,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Aqui tá a receita. Vou te entregar só por precaução."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x143,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Massa, valeu. É exatamente o que eu esperava."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x10,
+            "msg_string": "Hehehe, Juris, a próxima vez que eu te ver vai ser o seu fim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0x11,
+            "msg_string": "Eu vou me tornar o monstro que vai recuperar a minha dignidade...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc7,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "msg_string": "(O quuue...? Me desculpa, Juris.<CR>Eu fiz uma coisa terrível.)"
+        }
+    ]
+}

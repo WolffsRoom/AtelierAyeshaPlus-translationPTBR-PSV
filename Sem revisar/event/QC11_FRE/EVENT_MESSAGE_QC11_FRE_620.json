@@ -1,0 +1,241 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC11_FRE_620.ebm",
+    "nb_messages": 0x1a,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Oi, Ayesha.<CR>Hmm, que beleza..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Sempre que você entra, você deixa o clima dessa taverna escura super brilhante e alegre na hora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Veio comprar alguma coisa?<CR>Ou veio aqui só pra me ver?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Haha, hmm, eu vim aqui te pedir um favor."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1a4,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Quero que você coma esse pão e me diga o que achou."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa2,
+            "expr_id": 0x3,
+            "msg_id": 0x5,
+            "msg_string": "Hmm, isso aqui foi muito bem feito...<CR>Você tá dizendo que é pra mim?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa6,
+            "expr_id": 0x3,
+            "msg_id": 0x6,
+            "msg_string": "Ayesha, eu confirmo que recebi e aceito os seus sentimentos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x196,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Não, não é meu. É de um padeiro lá de Vierzeberg."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Ele queria a opinião sobre esse pão de pessoas que sabem dizer o que é bom ou ruim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa4,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Ah, entendi. Mesmo que eu não possa beber álcool, eu confio muito no meu paladar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x1b9,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "msg_string": "Bom, acho que vou provar.<CR>*nhac* *nhac* *nhac*<CR>...!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "O-O que foi!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x1ba,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xc,
+            "msg_string": "...Bom demais!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Beleza, vou avisar pro padeiro que tá \"bom demais!\" M-Mais alguma coisa?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x1bb,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "É difícil avaliar comida, além de dizer se tá gostoso ou não."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa2,
+            "expr_id": 0x3,
+            "msg_id": 0xf,
+            "msg_string": "Mas, beleza. Se eu tivesse que falar de outro jeito... tá incrivelmente bom!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "\"Bom demais\" e \"incrivelmente bom!\"<CR>Entendi."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa3,
+            "expr_id": 0x3,
+            "msg_id": 0x11,
+            "msg_string": "Não tenho do que reclamar do sabor. Eu nunca comi um pão tão delicioso na minha vida!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa8,
+            "expr_id": 0x3,
+            "msg_id": 0x12,
+            "msg_string": "Mas, eu não acho que seja algo que eu possa servir na minha taverna..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Ué? Por que não?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa9,
+            "expr_id": 0x3,
+            "msg_id": 0x14,
+            "msg_string": "Como você pode ver, a minha taverna funciona servindo comida e bebida barata."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xaa,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Se eu começasse a servir esse pão,<CR>ia acabar com esse equilíbrio."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Então o que eu quero dizer é que esse pão é chique demais."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x17,
+            "msg_string": "Chique demais... Entendi..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x18,
+            "msg_string": "(Hmm. Isso quer dizer que não é todo mundo que pode comer...?)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Isso ajudou muito.<CR>Valeu mesmo!"
+        }
+    ]
+}

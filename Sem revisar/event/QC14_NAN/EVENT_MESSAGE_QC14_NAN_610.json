@@ -1,0 +1,122 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC14_NAN_610.ebm",
+    "nb_messages": 0xd,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Eiiiii! Pra onde você foiii?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Ah, Nanaca. O que houve?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x11a,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "A minha Poro sumiu."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x11e,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "O que eu faço? O Juris me falou pra tomar cuidado..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x4,
+            "msg_string": "Poro... Essa é a bezerrinha que tem um apetite gigante, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x5,
+            "msg_string": "Hmm, eu não vi ela.<CR>Onde foi a última vez que você a viu?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x121,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "No caminho de Hornheim pra cá. Eu perdi ela de vista antes mesmo de perceber."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x11b,
+            "expr_id": 0x4,
+            "msg_id": 0x7,
+            "msg_string": "Ela é uma bezerra travessa, mas eu ainda não posso deixar ela sozinha..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x11e,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "Se cães de rua ou lobos pegarem ela,<CR>eu não sei o que eu faria..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Eu vou procurar por ela também. Se eu achar, eu pego ela."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x120,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Obrigada, Ayesha. Por favor, faz isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "O nome dela é Poro. Mas se você chamar ela pelo nome, ela vai sair correndo, então toma cuidado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Parece que vai ser difícil pegar ela sem chamar pelo nome... mas vou dar o meu melhor."
+        }
+    ]
+}

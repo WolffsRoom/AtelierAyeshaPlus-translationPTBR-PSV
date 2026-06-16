@@ -1,0 +1,52 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM05_ST4_630.ebm",
+    "nb_messages": 0x5,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x0,
+            "msg_string": "A ferramenta que o Sr. Keith me ensinou... tá pronta!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x78,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Então, o jeito que isso funciona é que um emite as \"palavras\", e o outro localiza de onde as \"palavras\" tão vindo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x2,
+            "msg_string": "Se eu puder dar isso pra Nio, então vou conseguir descobrir a localização dela daqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x3,
+            "msg_string": "Mas como eu vou entregar isso pra ela? Não vejo ela desde a última vez."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15d,
+            "expr_id": 0x5,
+            "msg_id": 0x4,
+            "msg_string": "Hmm... talvez eu só tenha que acreditar e esperar..."
+        }
+    ]
+}

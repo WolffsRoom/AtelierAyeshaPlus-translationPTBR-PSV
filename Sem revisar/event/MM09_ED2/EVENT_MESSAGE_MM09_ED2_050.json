@@ -1,0 +1,387 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM09_ED2_050.ebm",
+    "nb_messages": 0x26,
+    "messages": [
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "unknown2": 0x1,
+            "msg_string": "Uma arca para proteger sementes... criada em<CR>tempos antigos e ativada por engano,<CR>teve que ser destruída para resgatar Nio."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "unknown2": 0x1,
+            "msg_string": "Mas, até que ponto foi certo derrotar \"ele\"? Essa dúvida continuou no coração de Ayesha, forçando-a a tomar uma decisão."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "unknown2": 0x1,
+            "msg_string": "\"Vamos procurar a resposta...!\""
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "unknown2": 0x1,
+            "msg_string": "Para se redimir? Ou provar que fez a<CR>coisa certa? Ayesha decide fazer mais<CR>uma viagem aos picos da alquimia..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "unknown2": 0x1,
+            "msg_string": "Você veio. Hmm, sua expressão melhorou."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "unknown2": 0x1,
+            "msg_string": "Sim, já fiz todos os preparativos pra viagem."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "unknown2": 0x1,
+            "msg_string": "Que prudente.<CR>...É o que eu gostaria de dizer, mas..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "unknown2": 0x1,
+            "msg_string": "Ir atrás da verdade vai ser uma longa jornada."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x8,
+            "unknown2": 0x1,
+            "msg_string": "Partir da terra em que você nasceu deve vir acompanhado de apegos insuportáveis."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x9,
+            "unknown2": 0x1,
+            "msg_string": "Mesmo se conseguir voltar pra esta terra, você pode já estar com uma idade bem avançada até lá."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "unknown2": 0x1,
+            "msg_string": "Sabendo disso, você não vai mudar de ideia?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xb,
+            "unknown2": 0x1,
+            "msg_string": "...Não. Eu já decidi."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xc,
+            "unknown2": 0x1,
+            "msg_string": "Preciso encontrar a resposta sobre o que eu fiz nesta terra."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "unknown2": 0x1,
+            "msg_string": "Para isso, eu quero dominar o caminho da alquimia o máximo que puder."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xe,
+            "unknown2": 0x1,
+            "msg_string": "Hmm, isso sequer é possível? Você teria, no mínimo, que me superar."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "unknown2": 0x1,
+            "msg_string": "Se é pra descobrir a verdade,<CR>eu tô totalmente preparada pra isso."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x10,
+            "unknown2": 0x1,
+            "msg_string": "Se essa é a sua decisão, não vou deixar você voltar atrás, entendeu?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x11,
+            "unknown2": 0x1,
+            "msg_string": "Sim."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "unknown2": 0x1,
+            "msg_string": "Tá bom. Então não vou te pedir mais nada. Mas..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13,
+            "unknown2": 0x1,
+            "msg_string": "Não é da minha conta, mas a sua irmã concordou com isso?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x14,
+            "unknown2": 0x1,
+            "msg_string": "Não tenho certeza se ela concorda ou não,<CR>mas ela disse que vai ficar esperando."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x15,
+            "unknown2": 0x1,
+            "msg_string": "Enquanto nós duas estivermos vivas, a gente pode se ver quando quiser... Mesmo separadas... vamos ficar bem!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "unknown2": 0x1,
+            "msg_string": "Caramba, como você é teimosa!<CR>Claro que eu não tô de boa com isso!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x17,
+            "unknown2": 0x1,
+            "msg_string": "N-Nio!?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x18,
+            "unknown2": 0x1,
+            "msg_string": "Eu vou com você! Mesmo que diga que não posso, eu não vou desistir!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x19,
+            "unknown2": 0x1,
+            "msg_string": "Então... me leva junto..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1a,
+            "unknown2": 0x1,
+            "msg_string": "Nio, você tá sempre arrumando confusão...<CR>Senhor Keith...!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1b,
+            "unknown2": 0x1,
+            "msg_string": "Você vai voltar?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1c,
+            "unknown2": 0x1,
+            "msg_string": "Não. Eu não vou retirar o que eu disse. Mas será que dá... pra levar ela comigo?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1d,
+            "unknown2": 0x1,
+            "msg_string": "Vai ser uma jornada difícil. O peso vai ser grande demais pra sua irmã aguentar."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x14,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1e,
+            "unknown2": 0x1,
+            "msg_string": "A gente vai ficar bem! Se estivermos juntas!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1f,
+            "unknown2": 0x1,
+            "msg_string": "A gente vai ficar bem! Se estivermos juntas!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x20,
+            "unknown2": 0x1,
+            "msg_string": "Hmm... Hmhm, acho que vocês duas são fortes. Ou talvez só otimistas..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x21,
+            "unknown2": 0x1,
+            "msg_string": "Acho que eu deveria seguir o exemplo de vocês também."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x22,
+            "unknown2": 0x1,
+            "msg_string": "Mestre, tá quase na hora das estrelas se alinharem."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x23,
+            "unknown2": 0x1,
+            "msg_string": "Ah, então eu vou abrir a porta."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x24,
+            "unknown2": 0x1,
+            "msg_string": "Muito bem. Como seu professor, vou repassar tudo pra você."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x25,
+            "unknown2": 0x1,
+            "msg_string": "Beleza! Agora... vamos nessa!"
+        }
+    ]
+}

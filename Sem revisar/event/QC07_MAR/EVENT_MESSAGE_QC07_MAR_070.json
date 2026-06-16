@@ -1,0 +1,383 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC07_MAR_070.ebm",
+    "nb_messages": 0x2a,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Essa ruína é incrível... A gente nem tem uma estrutura desse tamanho lá na nossa terra."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Parece que foi completamente abandonada, mas me pergunto se essa área costumava ser um centro de alquimia..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd4,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "Marion, vamos indo?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Indo? Mas a gente acabou de chegar.<CR>A verdadeira investigação começa agora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd5,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "Mas é que..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Ah, desculpa. Você não gosta de altura."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd5,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "Posso comer qualquer comida, e posso lutar contra qualquer pessoa ou coisa, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd5,
+            "expr_id": 0x4,
+            "msg_id": 0x7,
+            "msg_string": "Ainda não gosto de lugares altos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Se quiser, você pode ir ali e dar uma descansada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd5,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "Não, eu não vou sair do seu lado.<CR>Sou sua guarda-costas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Mesmo assim, você tá bem pálida."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Vou dar uma olhada mais de perto e...<CR>Hã?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd6,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Tem alguém vindo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Ah, oi. Vocês tão investigando o túnel ou algo assim?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0xe,
+            "msg_string": "Ah, é você. Você me assustou..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Que alívio..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Hã? Eu assustei vocês duas?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Não se preocupa, a Linca não vai ser de muita ajuda hoje, então eu só tava em alerta máximo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "...Esse lugar não tem necessariamente nada fora do normal, mas é bem interessante."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Como será que eles conseguiram fazer uma estrutura tão grande..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "As pessoas do passado eram incríveis.<CR>Se esse lugar não existisse..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Riesengang e a minha oficina ficariam isoladas do resto do mundo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "É verdade... Uma estrutura enorme dessas sendo tratada como se fosse só uma estrada..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Riesengang é só uma pedreira agora, e parece que não ligam pra essas relíquias do passado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Se desse pra usar bem as coisas do passado, a qualidade de vida por aqui ia melhorar muito."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x19,
+            "msg_string": "Hmm, nunca parei pra pensar nisso. Acho que tá todo mundo satisfeito com a vida que tem agora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Não é das mais fáceis, mas contanto que você não tente viver no luxo, vai ficar tudo bem."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Viver modestamente com o que você tem agora... Acho que é um jeito de se viver."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Acho que não tem limite quando se quer sempre mais."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Igualzinho ao sucesso pra uma oficial."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Pois é. Uma faz-tudo sempre vai ser uma faz-tudo,<CR>não importa o quanto eu rale!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x99,
+            "expr_id": 0x3,
+            "msg_id": 0x1f,
+            "msg_string": "Ah, que droga! Me deu zero vontade de trabalhar agora! Até porque o meu salário também não aumenta!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Hmm, então por que você tá investigando as ruínas?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x9b,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "Hmm, é meio que uma investigação pra outra investigação. Primeiro, eu tenho que investigar o que tem em cada ruína."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "Tô investigando ruínas que valem a pena e fazendo relatórios pros especialistas que vão vir no futuro."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "Entendi. Então você tá fazendo todo o preparo dos bastidores..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "Fala sério. Até eu acho que tô fazendo um trabalho chato, mas alguém tem que fazer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x25,
+            "msg_string": "Eu sei muito bem que você é uma pessoa brilhante, Marion."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x26,
+            "msg_string": "Hmhm, valeu. Acho que não posso ficar emburrada depois de ouvir isso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x27,
+            "msg_string": "Bom, vamos trabalhar mais um pouco então."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x28,
+            "msg_string": "Entendido. Ayesha, a gente se vê depois."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x29,
+            "msg_string": "(Ser uma oficial é um trabalho duro.<CR>Eu tenho que pelo menos tentar não<CR>atrapalhar elas.)"
+        }
+    ]
+}

@@ -1,0 +1,213 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM04_ST3_070.ebm",
+    "nb_messages": 0x17,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x2d,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ah, oi, Ayesha. Tá sabendo dos boatos recentes sobre fantasmas?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "O quê!? F-F-Fantasma?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1a8,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Aham. Pelo que me falaram, ela aparece em todo canto dessa colina."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x126,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "Hyaaah...! T-Talvez alguém só tenha confundido alguma coisa com um fantasma..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x2e,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Certa noite, voltando do trabalho tarde, um cara viu uma garota."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x2e,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Parece que ele foi avisar ela de que não é seguro ficar andando sozinha à noite..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x2f,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Mas a garota ignorou ele totalmente e continuou olhando pro outro lado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x7,
+            "msg_string": "De primeira, ele só achou que ela tava sendo mal-educada, então tentou chamar a atenção dela de novo. Mas aí..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x78,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Ele percebeu que a garota tava no alto da colina, flutuando no ar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x127,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "Hyaaah! Então, ela tava flutuando lá...!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1a6,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Aham. Quando ele chegou mais perto pra olhar, percebeu que ela tava meio borrada e parecia tá coberta por uma luz sombria."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x27,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "E depois, a garota murmurou alguma coisa sobre ervas medicinais e bala, sei lá..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x128,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "I-Isso é assustador demais!<CR>...Pera, ervas medicinais e bala?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x2e,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "O cara ficou com tanto medo que correu direto pra casa, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x2f,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Desde então, um monte de gente tem relatado ter visto. Fiquei sabendo que ela até apareceu... bem na frente dessa loja."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xf5,
+            "expr_id": 0x4,
+            "msg_id": 0xf,
+            "msg_string": "O pessoal tem escutado o fantasma murmurando \"Mana\" também... Que medo disso, né!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "...Mana? Será que é...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xf7,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Ayesha, é melhor você tomar cuidado.<CR>Afinal de contas, você mora sozinha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Ah, tá bom... Mas aquela garota... talvez não seja um fantasma..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Hã? Como você sabe? Você conhece ela ou algo do tipo?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Mais do que só conhecer... Ah, hahaha..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x15,
+            "msg_string": "(Nio, outras pessoas tão começando a te ver...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "msg_string": "(Sei que você não faz por mal, mas não devia assustar os outros desse jeito...)"
+        }
+    ]
+}

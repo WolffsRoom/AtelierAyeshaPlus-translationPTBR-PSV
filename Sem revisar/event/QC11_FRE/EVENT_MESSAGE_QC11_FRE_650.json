@@ -1,0 +1,391 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC11_FRE_650.ebm",
+    "nb_messages": 0x2b,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x199,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Sr. Fred! Eu fui pedir opiniões sobre o seu pão!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Ah, obrigado! Foi mal ter te feito fazer isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Por favor, me conta tudo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Tá bom. Todo mundo gostou bastante. Falaram que nunca comeram um pão tão bom antes."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Eu também achei esse pão incrível quando comi a primeira vez."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Não tava só delicioso. Eu comecei a chorar enquanto tava comendo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Entendi, que bom... Fico feliz que todo mundo tenha gostado tanto..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Eu coloquei tudo de mim pra fazer ele."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Foi uma obra-prima que talvez eu nunca mais consiga fazer de novo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Então eu tava certa...<CR>Hmm..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x144,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "U-Ué? Tem alguma coisa te incomodando?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0xb,
+            "msg_string": "...Esse pão era mesmo algo que você queria fazer, Sr. Fred?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x148,
+            "expr_id": 0x4,
+            "msg_id": 0xc,
+            "msg_string": "Ah, i-isso é..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0xd,
+            "msg_string": "Dá pra ver que levou muito tempo e esforço pra fazer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Mas você consegue fazer esse pão todo dia?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x149,
+            "expr_id": 0x4,
+            "msg_id": 0xf,
+            "msg_string": "Bom, é que... Só pra fazer a massa levou vários dias..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x14a,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Eu usei ingredientes raros também, então seria impossível eu fazer ele todo dia..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x11,
+            "msg_string": "Então isso também significa que ele vai ser bem caro..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x78,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Mas eu sinto que isso não combina com o objetivo que você me falou antes."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x173,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "V-Você tem toda a razão... Fazer as pessoas comerem o meu pão todo dia..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x177,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Esse era o meu único desejo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Em vez de um pão incrível que você só consegue fazer poucos, acho que fazer um pão mais normal..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "É bem melhor. Desculpa por dizer isso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x178,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "...Não. Eu tava tão focado em fazer o pão supremo, que esqueci da coisa mais importante..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x179,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Eu falhei como padeiro...<CR>Não, o problema é bem maior que esse..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Eu posso ter só tentado fugir da minha dura realidade, usando o pão supremo como desculpa..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0x1a,
+            "msg_string": "*suspira* Eu sou um ser humano tão ruim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xd1,
+            "expr_id": 0x4,
+            "msg_id": 0x1b,
+            "msg_string": "Acho que preciso esfriar a cabeça. Talvez eu deva tirar umas férias e ir pra alguma montanha isolada em algum lugar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xd2,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Beleza! Já que tá decidido, preciso me preparar pras montanhas!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x1d,
+            "msg_string": "Opa, eu não terminei de falar!<CR>Por favor, escuta até o fim!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Ah, desculpa. Eu tenho a tendência de me perder nas coisas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Bom, não sei como dizer isso, mas eu gosto muito do seu pão, Sr. Fred."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Eu ficaria muito triste se não pudesse comer o seu pão."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "E tem outras pessoas que também tão esperando pelo seu pão além de mim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x144,
+            "expr_id": 0x4,
+            "msg_id": 0x22,
+            "msg_string": "Tem pessoas esperando pelo meu pão...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "Sim! A Marietta e a Bell também tão sempre ansiosas pelo seu pão!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x146,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "Srta. Marietta..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x25,
+            "msg_string": "Se você consegue fazer um pão tão incrível assim, só fazer um pão normal ainda ia ser..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x26,
+            "msg_string": "Ainda ia ser bem incrível."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x27,
+            "msg_string": "Então, por favor, asse um pão normal e delicioso pra gente de novo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x176,
+            "expr_id": 0x0,
+            "msg_id": 0x28,
+            "msg_string": "...Obrigado, Srta. Ayesha. Sinto que finalmente voltei ao meu ponto de partida."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x178,
+            "expr_id": 0x0,
+            "msg_id": 0x29,
+            "msg_string": "E o que posso fazer de agora em diante...<CR>Vou começar a pensar nisso de novo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x78,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2a,
+            "msg_string": "(Eu não consegui me expressar muito bem,<CR>então me pergunto se ele entendeu o que<CR>eu tava querendo dizer...)"
+        }
+    ]
+}

@@ -1,0 +1,230 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC08_HAR_530.ebm",
+    "nb_messages": 0x19,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ah, Ayesha, vem cá!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Tá bom. Você achou alguma coisa?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Hehehe, você vai saber quando ver.<CR>Olha isso!? Não é incrível!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x3,
+            "msg_string": "Uau... tem um fogo queimando dentro do vidro..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Vendo isso, não dá a sensação de que essa ruína ainda tá viva?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x78,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Essa ruína... viva?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x196,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "É. Geralmente falando, existem ruínas que estão mortas, e ruínas que estão vivas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Então essa é uma das vivas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0x5,
+            "msg_id": 0x8,
+            "msg_string": "Uma fornalha numa ruína feita de vidro...<CR>E as flores de vidro..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Não é algo que eu saiba com certeza, mas eu sinto que deve ter a ver com a Nio."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x161,
+            "expr_id": 0x5,
+            "msg_id": 0xa,
+            "msg_string": "Beleza. Tenho certeza que vou poder ver a Nio um dia se eu continuar procurando em ruínas como essa!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Sim. Eu também vou te ajudar. Se o assunto é ruína, deixa comigo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "É, e eu preciso aprender mais sobre as ruínas também!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Então, o que é... isso?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "Sei lá. Só sei que é uma coisa que foi feita há muuuito tempo atrás."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd4,
+            "expr_id": 0x4,
+            "msg_id": 0xf,
+            "msg_string": "Se isso era um templo pra adorar os deuses ou uma fábrica pra fazer alguma coisa..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd5,
+            "expr_id": 0x4,
+            "msg_id": 0x10,
+            "msg_string": "Eu não faço a menor ideia. Mas a civilização antiga era incrível."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd6,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Tenho certeza que o Harry vai ficar satisfeito depois que a gente contar o que viu aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Ah, já que você vai voltar, devia levar uma lembrancinha pro Harry."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Uma lembrancinha? O que será que eu levo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Qualquer coisa serve pro Harry. Vamos ver... talvez esse negócio tipo uma vareta."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x15,
+            "msg_string": "Ela tem uns desenhos legais... mas ainda é só uma vareta..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Vai ser o suficiente. É só contar o que você achou na ruína, que ele vai ficar feliz."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x12,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Tá de boa, o Harry se amarra muito nessas coisas mesmo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Então, vou levar essa vareta como lembrancinha. Regina, muito obrigada."
+        }
+    ]
+}

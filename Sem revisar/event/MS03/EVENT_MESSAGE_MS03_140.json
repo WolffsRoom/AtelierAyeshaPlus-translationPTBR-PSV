@@ -1,0 +1,183 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MS03_140.ebm",
+    "nb_messages": 0x14,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Vamos ver... O que será que eu compro hoje?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x1a1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Ei, princesinha encantadora, precisa de alguém pra carregar suas coisas?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Ah, Mix Master! Não esperava te ver no bazar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Pois é. Eu gosto de vir procurar por uns achados de vez em quando."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Mas, como era de se esperar de Vierzeberg, várias coisas diferentes me chamaram a atenção."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Verdade. Tem um monte de<CR>ingredientes ou comidas de tudo quanto é<CR>canto."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x6,
+            "msg_string": "É, é, tem os ingredientes também, mas o mais importante é que tem um montão de garotas gatinhas!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x7,
+            "msg_string": "Poxa, Mix Master, cê tem compras pra fazer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0x8,
+            "msg_string": "Bwahaha, eu sei disso. Mas, como eu posso dizer? Isso aqui é tipo uma oportunidade de ouro."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Vir de tão longe até Vierzeberg... será que é de boa ficar só procurando ingredientes mesmo?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x17d,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Será que não tem mais nada que eu devia tá fazendo?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0xb,
+            "msg_string": "Como o mestre de uma taverna, acho que você devia procurar por ingre‐"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x17f,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Não! Tem tantas garotas que tão só esperando eu chamar elas pra sair!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x10c,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "Se eu ignorar o apelo delas, eu ficaria morrendo de vergonha de mim mesmo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0xe,
+            "msg_string": "É-É mesmo...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x10e,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Quer dizer, cê tem um ponto aí. Eu tava me perguntando a mesma coisa..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Mas...<CR>Ooolááá, senhoritas!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "...Eu?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "msg_string": "(O quê? Marion e Linca? O-O que será que vai acontecer...?)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13,
+            "msg_string": "(Hahaha... eu sabia que isso ia acontecer...)"
+        }
+    ]
+}

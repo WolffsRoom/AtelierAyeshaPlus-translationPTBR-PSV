@@ -1,0 +1,254 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC04_JUR_610.ebm",
+    "nb_messages": 0x1c,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Parece que você ajudou a Nanaca. Obrigado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Eita! Senhor Irmão!<CR>Há quanto tempo cê tá aí?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0xb0,
+            "expr_id": 0x3,
+            "msg_id": 0x2,
+            "msg_string": "Juris, teus maus hábitos tão aparecendo de novo. Você esconde demais a sua presença!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Hrm, não foi minha intenção te assustar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Não, não, me desculpa por ter me assustado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Foi mal. Eu acabo escondendo minha presença sem perceber..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x11,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Em todo caso, é uma boa oportunidade pra te agradecer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Por causa do trabalho da Nanaca, não tem como ela não se afastar um pouco das pessoas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x19d,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Eu ficaria agradecido se você pudesse continuar sendo amiga da minha irmãzinha daqui pra frente também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Hehe, claro. Fico feliz de ter feito mais amigos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Se você ver ela de novo em algum lugar,<CR>por favor, dá um oi pra ela. Tchau."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x141,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "Uau, eu nunca vi meu irmão conversar com alguém por tanto tempo assim antes."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0xc,
+            "msg_string": "Ué? Isso foi muito tempo!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x143,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "Ele só fala o mínimo necessário com as pessoas que não são da nossa família..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Saquei. Será que seu irmão... não curte outras pessoas?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Acho que não. Acho que ele só é um cara na dele mesmo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Ele fica bastante sozinho na floresta ou lá nas montanhas, então não interage com as pessoas com tanta frequência."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Hehe, acho que isso também serve pra mim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Com o que ele trabalha? Já que você mencionou florestas e montanhas, ele é tipo um lenhador?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Basicamente, ele é um caçador. Ele passa a maior parte do tempo correndo atrás de feras."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Eu ouvi falar que chifres de animais podem ser usados como ingredientes pra remédios, então..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Vocês dois já podem ter algum tipo de conexão, Ayesha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "É. Talvez seu irmão já tenha me ajudado de alguma forma antes..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Queria ter cumprimentado ele direito..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x11a,
+            "expr_id": 0x4,
+            "msg_id": 0x18,
+            "msg_string": "Ele some logo que termina o que tem pra fazer..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x11c,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Mas se você puder ser amiga do meu irmão, isso me deixaria bem feliz também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Cê tá certa. Vou cumprimentar ele direito na próxima vez que eu ver ele."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x46,
+            "expr_id": 0x2,
+            "msg_id": 0x1b,
+            "msg_string": "Hehehe, por favor."
+        }
+    ]
+}

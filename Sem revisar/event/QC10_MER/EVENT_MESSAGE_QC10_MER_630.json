@@ -1,0 +1,322 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC10_MER_630.ebm",
+    "nb_messages": 0x23,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Hum, oi. Posso conversar com você um pouquinho?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x217,
+            "name_id": 0x2e,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "msg_string": "Sim. Gosto de falar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Hum, você gosta de coisas que brilham?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x217,
+            "name_id": 0x2e,
+            "extra_id": 0x222,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "msg_string": "Brilhos! Gosto!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Que bom. Quero saber um pouquinho mais sobre esses brilhos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "De que tipo de brilhos você gosta?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x217,
+            "name_id": 0x2e,
+            "extra_id": 0x224,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "msg_string": "Brilhos, vários diferentes."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x217,
+            "name_id": 0x2e,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "msg_string": "Brilhos duros. Vêm das pedras. Gosto."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x8,
+            "msg_string": "(Será que ele tá falando de minérios?)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x217,
+            "name_id": 0x2e,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x9,
+            "msg_string": "Brilhos do céu. Aparecem de noite.<CR>Gosto desses também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15f,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "msg_string": "(Essas... devem ser as estrelas.)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x217,
+            "name_id": 0x2e,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xb,
+            "msg_string": "Brilhos doces. Ganhei de um humano. Gosto muito."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15f,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xc,
+            "msg_string": "(Brilhos doces...?<CR>Será que são balinhas?)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x217,
+            "name_id": 0x2e,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "msg_string": "Brilhos duros. Tenho um monte."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x217,
+            "name_id": 0x2e,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xe,
+            "msg_string": "Brilhos do céu. Não dá pra tocar com as mãos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x217,
+            "name_id": 0x2e,
+            "extra_id": 0x226,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "msg_string": "Brilhos doces. Eu não tenho. Eu quero..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Hum... por brilhos doces, você quer dizer isso aqui?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x217,
+            "name_id": 0x2e,
+            "extra_id": 0x221,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x11,
+            "msg_string": "Sim, isso aí! ...Eu quero."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1a4,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Claro. Aqui, pode pegar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x217,
+            "name_id": 0x2e,
+            "extra_id": 0x221,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13,
+            "msg_string": "Você dá isso? Sério?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Claro que sim. Não precisa ficar com vergonha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x217,
+            "name_id": 0x2e,
+            "extra_id": 0x222,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x15,
+            "msg_string": "Obrigado.<CR>Muito feliz!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "msg_string": "(Ainda bem. Então os brilhos que eles falaram são doces.)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x17,
+            "msg_string": "(Acho melhor eu voltar logo e contar pra Marietta... Ué? Tô sentindo algo se aproximando por trás...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x214,
+            "name_id": 0x2b,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x18,
+            "msg_string": "Brilho doce. Sorte, inveja."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x19,
+            "msg_string": "Sorte."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x216,
+            "name_id": 0x2d,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1a,
+            "msg_string": "Eu quero."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x214,
+            "name_id": 0x2b,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1b,
+            "msg_string": "Eu também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1c,
+            "msg_string": "Eu três."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x216,
+            "name_id": 0x2d,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1d,
+            "msg_string": "Quero brilho doce."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x214,
+            "name_id": 0x2b,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1e,
+            "msg_string": "Me dá um também!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x1f,
+            "msg_string": "Ahhh, eu não trouxe tantos assim. Foi mal!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x123,
+            "expr_id": 0x4,
+            "msg_id": 0x20,
+            "msg_string": "Vou trazer mais da próxima vez, então me perdoem."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x216,
+            "name_id": 0x2d,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x21,
+            "msg_string": "Eu perdoo. Então me dá!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x123,
+            "expr_id": 0x4,
+            "msg_id": 0x22,
+            "msg_string": "Já falei, não tenho mais nenhum..."
+        }
+    ]
+}

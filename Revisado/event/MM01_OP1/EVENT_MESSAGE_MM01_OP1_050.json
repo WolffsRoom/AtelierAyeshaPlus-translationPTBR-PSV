@@ -1,0 +1,123 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM01_OP1_050.ebm",
+    "nb_messages": 0xd,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Bom, Pana. Vamos pra casa. Eu ainda tenho roupa pra lavar!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x205,
+            "name_id": 0x1f,
+            "extra_id": 0x216,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "msg_string": "Oink muu!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Eu volto em breve, Nio."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x12,
+            "extra_id": 0x1d7,
+            "expr_id": 0x1,
+            "msg_id": 0x3,
+            "msg_string": "Mana..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Ué...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x5,
+            "msg_string": "Nio!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x1d9,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "msg_string": "..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0x7,
+            "msg_string": "Isso... não é um sonho, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0x8,
+            "msg_string": "Nio! O-Onde você se meteu esse tempo todo!? Fiquei louca de preocupação com você!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x138,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x9,
+            "msg_string": "...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7c,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Ah..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "Ela... sumiu..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc5,
+            "expr_id": 0x4,
+            "msg_id": 0xc,
+            "msg_string": "Nio? Cadê você?"
+        }
+    ]
+}

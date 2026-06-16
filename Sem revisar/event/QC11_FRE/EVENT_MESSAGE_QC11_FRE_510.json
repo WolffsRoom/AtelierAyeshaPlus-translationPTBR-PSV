@@ -1,0 +1,268 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC11_FRE_510.ebm",
+    "nb_messages": 0x1d,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x199,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Oi, Sr. Fred! Vim comprar um pão... Hã?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "*suspiro* Eu simplesmente não consigo engrenar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "O-O que foi, Sr. Fred!?<CR>Sua barriga tá doendo?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xd3,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "Não... Se eu tivesse que colocar em palavras,<CR>eu diria que é mais o meu coração<CR>que tá doendo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xd5,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "Já faz um tempo desde que abri minha loja, então eu tava pensando em criar um novo tipo de pão, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xd7,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "Não tá indo tão bem quanto eu esperava."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xd2,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Já que você gosta do meu pão, talvez eu devesse pedir sua opinião..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Um novo tipo de pão...? Vamos ver... Alguma coisa doce e fofa...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Haha, desculpa, não sei explicar muito bem."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x194,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Não, foi mancada minha te perguntar isso. Não tô com pressa, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x173,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "É que quando a Srta. Marietta passou por aqui uns dias atrás, a gente começou a falar sobre isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x177,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Ela perguntou se eu tinha alguma novidade, e se possível, eu queria fazer o tipo de pão que ela deseja..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Entendi... Então por que você não pergunta direto pra Marietta?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x179,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Eu não tenho toda essa coragem..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0xe,
+            "msg_string": "Hã? Coragem...?<CR>Você realmente precisa de coragem?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x147,
+            "expr_id": 0x4,
+            "msg_id": 0xf,
+            "msg_string": "Ah, bem, digo, eu não tenho muitas chances de falar com a Srta. Marietta."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x10,
+            "msg_string": "(Mas as lojas deles ficam bem de frente uma pra outra... Tenho certeza que ele poderia perguntar se só fosse até lá...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x14a,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Srta. Ayesha, que tipo de pão ela deseja?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "B-Bem... Eu não faço ideia. Desculpa..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x176,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Saquei... Eu achei que talvez você soubesse, mas pelo visto me enganei..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x179,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "No entanto, agora cheguei num impasse…"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0x15,
+            "msg_string": "Aff, acho que é o fim pra mim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "msg_string": "(Nossa... O Sr. Fred ficou todo deprê...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Hum, se não se importar, quer que eu vá perguntar pra Marietta?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xd2,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "S-Sério!? Seria ótimo se você pudesse."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xd4,
+            "expr_id": 0x4,
+            "msg_id": 0x19,
+            "msg_string": "E se possível, você pode esconder que é pra mim?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "O quê? Sério? Mas por quê?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xd6,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "É-É que... ah, já sei! É pra que<CR>a Srta. Marietta não precise se preocupar<CR>com nada!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Beleza, então vou lá perguntar rapidinho!"
+        }
+    ]
+}

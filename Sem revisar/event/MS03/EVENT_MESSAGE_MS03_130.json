@@ -1,0 +1,223 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MS03_130.ebm",
+    "nb_messages": 0x18,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ah, Fred, fazendo compras?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xd4,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "É, hã, bom, eu tava pensando em comprar um presente pra uma certa pessoa..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Ooh, pra Marietta?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xd2,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "C-C-C-Como você sabe!? Eu nem falei nada..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x4,
+            "msg_string": "Haha, tava escrito na sua cara."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x176,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Na minha cara!? E-Entendi. Preciso tomar mais cuidado..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x17a,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Bom, a Marietta sempre me ajudou,<CR>então eu queria agradecer ela de algum jeito."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x174,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Mas, se o assunto não é pão, eu não manjo de muita coisa. Eu não tenho a menor ideia do que dar pra ela."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Escolher presentes é difícil, já que a gente quer que a pessoa goste."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x174,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Ah, já sei! Se você fosse eu, o que você daria pra Marietta?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0xa,
+            "msg_string": "Hmm... Eu consigo pensar em algumas coisas,<CR>mas não vou te contar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0xb,
+            "msg_string": "Porque só vai significar alguma coisa se for você quem escolher."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x177,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "E-Entendi... Acho que cê tem razão..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Bom, vou te dar uma dica.<CR>Por que não escolhe uma coisa que a pessoa<CR>ia ficar muito feliz em ganhar?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x178,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "A-Ainda é difícil, mas beleza. Hmm, alguma coisa que a Marietta ia adorar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x179,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Ah, já sei, que tal um colar de cobra com visual raro que eu achei na loja de um mercador de fora?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Uma co-cobra!? Eu não acho que ela ia curtir muito isso não..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Então não é uma boa? E que tal um item essencial pra viajar pelo deserto, um turbante deslumbrante?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Eu acho que esse exotismo estrangeiro seria perfeito pra Marietta."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "S-Será...? Eu não acho que a Marietta viaja muito pelo deserto..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Então, que tal um forno de porcelana que facilita a vida de qualquer um na hora de assar pão...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Acho que é uma boa, mas se você desse isso pra ela, sinto que ela iria menos na sua padaria..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x147,
+            "expr_id": 0x4,
+            "msg_id": 0x16,
+            "msg_string": "I-Isso não ia dar certo!<CR>Hmmm, então que tal...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x17,
+            "msg_string": "(Hmm, talvez eu devesse falar pra ele<CR>especificamente...)"
+        }
+    ]
+}

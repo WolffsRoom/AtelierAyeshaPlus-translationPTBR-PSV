@@ -1,0 +1,275 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC05_KEI_050.ebm",
+    "nb_messages": 0x1e,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0x5,
+            "msg_id": 0x0,
+            "msg_string": "Hum, agora, eu coloco o extrato... Hmm, me pergunto quanto eu deveria colocar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15f,
+            "expr_id": 0x5,
+            "msg_id": 0x1,
+            "msg_string": "Hmm, minha intuição me diz que talvez a mesma quantidade de leite que eu bebo de manhã..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15f,
+            "expr_id": 0x5,
+            "msg_id": 0x2,
+            "msg_string": "Ou talvez a quantidade de chá que eu bebo no almoço? Hmm..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15f,
+            "expr_id": 0x5,
+            "msg_id": 0x3,
+            "msg_string": "Sinto que é mais pro chá e nem tanto pro leite... eu acho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Ok, isso tá começando a ficar assustador, mas é melhor eu seguir minha intuição e colocar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Tô entrando... Hmm, então você tá sintetizando..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Que!? Sr. Keith!<CR>Você passou aqui pra brincar!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Claro que não... Quantos anos de diferença você acha que a gente tem?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x15,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Já que eu vim pra cidade pra dar uma olhada no bazar, decidi vir ver como você tava."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "E-Espera só um momentinho. Eu já vou trazer um pouco de extrato pra você!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xe1,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "O que diabos você tá tentando me dar pra beber?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Ops, eu quis dizer chá. É que eu tava pensando na síntese, e..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xe4,
+            "expr_id": 0x4,
+            "msg_id": 0xc,
+            "msg_string": "Não liga pra mim. Eu não vim aqui pra uma visita social."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xe7,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Vou embora logo logo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "V-Você já vai pra casa? Mas você acabou de chegar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Ok, então me ensina uma coisa! Acabei de esbarrar num negócio que eu não sei..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x91,
+            "expr_id": 0x3,
+            "msg_id": 0x10,
+            "msg_string": "Não me use como um livro didático...<CR>Mas nem adianta eu dizer isso,<CR>não é?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Desculpa. Não tem mais ninguém pra quem eu possa perguntar. Então..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Esse livro diz pra colocar a quantidade certa de extrato... mas eu não sei quanto é o certo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x93,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Você tem que sentir isso na prática. Não é algo que dá pra perguntar pros outros."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Eu entendo isso, mas eu venho<CR>estudando sozinha esse tempo todo,<CR>então não tenho muita noção do padrão."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x15,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Hmm..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Bom, parece que você não tá tendo nenhum problema até agora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Ah, assim tá bom...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Sim, é uma reação normal. Na verdade, você tá indo muito bem."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Com a reação correta, o líquido vai ficar dessa cor. Lembre-se disso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "T-Tá bom. E eu tenho outras dúvidas que tão se acumulando como uma montanha e que eu queria te perguntar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xe1,
+            "expr_id": 0x4,
+            "msg_id": 0x1b,
+            "msg_string": "Minha nossa... Achei que ia ser só \"uma coisa\"."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xe3,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Acho que não tenho escolha...<CR>Vou ficar aqui mais um pouco.<CR>Nesse caso, eu aceito o chá."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x1d,
+            "msg_string": "Ah... sim! Vou servir agora mesmo!"
+        }
+    ]
+}

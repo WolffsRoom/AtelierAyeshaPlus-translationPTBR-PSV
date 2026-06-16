@@ -1,0 +1,456 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC16_RAN_520.ebm",
+    "nb_messages": 0x32,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ayesha... isso é cruel.<CR>Isso é muito, muito cruel."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "O-O que foi? Tá com fome de novo?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xe1,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "A sua imagem de mim se firmou como a de um jovem morto de fome?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xe3,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Isso também é cruel, do seu próprio jeito.<CR>Com certeza estou com fome, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x188,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Esse não é o problema. Agora, estou sofrendo com a minha má sorte por ter sido abandonado pela deusa da música."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x189,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Ela não está soprando um vento com uma nova melodia pra mim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Mas, tenho certeza que você tem se esforçado bastante, então isso vai chegar até você algum dia..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x18b,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Mas quando esse dia vai chegar? Enquanto eu continuo esperando, as estações continuam indo e vindo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x18e,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Ó, Ayesha, eu te imploro! Por favor, me leve para um lugar onde o vento sopre..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x9,
+            "msg_string": "(Um lugar onde o vento sopre...?<CR>S-Será que ele quer que eu leve<CR>ele pra um penhasco...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x1a0,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Ah, e aí, Ayesha. Como você tem passado?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Hã? Quem é essa pessoa...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Quem, eu? Eu sou Ranun.<CR>Sou um buscador de sons."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "msg_string": "(Hã? Essa foi uma apresentação bem simples comparada com a minha...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "Uh, sons...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x17,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "E quem é você? Não vai se apresentar depois de perguntar o meu nome?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x126,
+            "expr_id": 0x2,
+            "msg_id": 0x10,
+            "msg_string": "Eu sou Ernie! Eu ganho a vida como comerciante."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x128,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Eu também conheço a Ayesha há um tempão."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Ah, que coincidência. A Ayesha também já cuidou de mim várias vezes."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x13,
+            "msg_string": "C-Cuidou!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x17,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Não tem necessidade de um obstáculo inútil ficar entre a gente. Né, Ayesha?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Hum, eu não tenho muita certeza..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x78,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Ayesha, posso falar com você rapidinho?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Essa pessoa não presta. Tô sentindo uma energia muito ruim vindo dele."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Hã? Sério?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "É, não tenho a menor dúvida.<CR>Minha intuição raramente falha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Isso não pode ser verdade. Tá certo que ele é um pouco diferente, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Ele não trabalha pra poder focar todo o esforço dele na música."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x1c,
+            "msg_string": "Isso é bizarro! Resumindo, ele não trabalha e tá sempre só vagando por aí, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Eu acho que é mais como se... ele estivesse sempre tentando criar músicas novas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x78,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Uma vida sem contribuir pra sociedade não faz sentido! Será possível que ele não tenha nem uma casa?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1f,
+            "msg_string": "(Eu nunca vi o Ernie reagir a alguém desse jeito...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x19f,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Eii, me deixar de fora da conversa e ficar sussurrando um com o outro é bem rude, sabia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "Ranun, eu entendo a sua situação. Você deve estar com muitos problemas, não é?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "O quê? Você tem razão. Tô com problemas porque não teve nenhum som do vento, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "Tem uma parte de mim que acha que a minha agonia pode me fazer parecer descolado..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "Eu não sei nada sobre sons ou sobre o vento, mas tirando isso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x25,
+            "msg_string": "Eu acredito que posso te ajudar no lugar da Ayesha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x188,
+            "expr_id": 0x0,
+            "msg_id": 0x26,
+            "msg_string": "Hã? Você? Hahaha, vou passar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x189,
+            "expr_id": 0x0,
+            "msg_id": 0x27,
+            "msg_string": "Tô com um mau pressentimento sobre isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x18a,
+            "expr_id": 0x0,
+            "msg_id": 0x28,
+            "msg_string": "É, algo sobre a compatibilidade das nossas frequências, e isso é o que eu mais valorizo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x196,
+            "expr_id": 0x0,
+            "msg_id": 0x29,
+            "msg_string": "Eu não admiro como você usa um sistema tão infantil como base para as suas relações sociais."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2a,
+            "msg_string": "Acredito que o que conecta as pessoas umas às outras é um relacionamento sólido e baseado em confiança mútua."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xb7,
+            "expr_id": 0x3,
+            "msg_id": 0x2b,
+            "msg_string": "Hahaha, me pergunto com que base ele determina o que é algo sólido..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2c,
+            "msg_string": "(Ah, entendi! O Ernie e o Ranun têm jeitos de viver totalmente opostos!)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2d,
+            "msg_string": "(Agora que parei pra pensar, eles são igual água e óleo. Hum... o que eu deveria fazer?)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2e,
+            "msg_string": "Não se preocupe, Ayesha. Eu assumo a responsabilidade total de fazer essa pessoa criar juízo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xbf,
+            "expr_id": 0x3,
+            "msg_id": 0x2f,
+            "msg_string": "Falando em juízo, eu tô perfeitamente bem.<CR>Já tenho controle total sobre ele."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x30,
+            "msg_string": "Não tem motivo pra hesitar.<CR>Bora, vamos lá."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x31,
+            "msg_string": "(Aaaah, espero que isso acabe bem...)"
+        }
+    ]
+}

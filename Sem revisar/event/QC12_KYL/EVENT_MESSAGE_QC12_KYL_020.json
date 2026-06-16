@@ -1,0 +1,312 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC12_KYL_020.ebm",
+    "nb_messages": 0x22,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x1a1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ah, bem-vinda! Eu tava esperando você aparecer!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "É-Éhh, isso aqui é uma taverna, né?<CR>Tem certeza que eu posso entrar?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x194,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Não, não, não, peraí, Ayesha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Como você pode ver, esse é um lugar pra beber, mas também é um lugar pra comer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Meu objetivo é que essa taverna seja um lugar onde qualquer um, desde caras relaxados até garotas fofas, possa vir livremente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Então não precisa se acanhar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Entendi, então é por isso que o interior é arredondado e meio fofo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x7,
+            "msg_string": "Hmhmhm, fiz o meu melhor pra garantir que as garotas dissessem que esse lugar é fofo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Enfim, eu sou o dono, assim como o cozinheiro e o barman, Kyle!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Uau, é incrível ser tão jovem e ter o seu próprio negócio..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Eu ralei muito em vários lugares pra juntar dinheiro o bastante pra abrir esse lugar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x10c,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "Embora eu tenha sido demitido várias vezes por conversar com garotas enquanto eu trabalhava!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Entendi. Ah-haha..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "msg_string": "(S-Será que eu devia sentir pena<CR>dele...?)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x10e,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Mas já dei adeus aos meus dias de juventude. Agora levo meu trabalho a sério."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x17d,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Até as pessoas que não bebem álcool, especialmente os caras que não conseguem beber, vêm pra minha taverna!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x17e,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Eu tenho comida boa e doces bonitinhos também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Agora que você falou, tô sentindo um cheiro muito delicioso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x182,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Aham. Tô preparando o meu prato do dia.<CR>Minha comida é muito boa!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13,
+            "msg_string": "(Eita! Minha barriga acabou de roncar!)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x123,
+            "expr_id": 0x4,
+            "msg_id": 0x14,
+            "msg_string": "Humm... você ouviu isso?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x15,
+            "msg_string": "Ha! Uma barriga barulhenta é a prova de que seu corpo tá saudável. Vem cá e come alguma coisa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Hehehe, acho que eu vou. O que você tem no seu cardápio?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0x17,
+            "msg_string": "Bom, sabe como é... pratos insanos que usam só os ingredientes da mais alta qualidade que só gente rica consegue pagar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Não vão ser encontrados no meu cardápio, então não se preocupa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "A-Ah, entendi..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa2,
+            "expr_id": 0x3,
+            "msg_id": 0x1a,
+            "msg_string": "Mas eu coloco todas as minhas habilidades em tudo que cozinho. Também escolho os ingredientes a dedo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa6,
+            "expr_id": 0x3,
+            "msg_id": 0x1b,
+            "msg_string": "Meu lema é oferecer comida gostosa com preços baixos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Sr. Kyle, o seu lema é muito lindo. Isso me ajuda bastante!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa8,
+            "expr_id": 0x3,
+            "msg_id": 0x1d,
+            "msg_string": "Sr. Kyle... Hmm... isso não soa muito bem pra mim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa9,
+            "expr_id": 0x3,
+            "msg_id": 0x1e,
+            "msg_string": "Vejamos... Me chama de \"Mestre das Misturas\"."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xaa,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Não soa mais maneiro? Eu sempre quis ser chamado de \"Mestre\"."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Haha, beleza, vou te chamar de Mestre das Misturas a partir de agora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "Maravilha! Então vou lá preparar a sua comida!"
+        }
+    ]
+}

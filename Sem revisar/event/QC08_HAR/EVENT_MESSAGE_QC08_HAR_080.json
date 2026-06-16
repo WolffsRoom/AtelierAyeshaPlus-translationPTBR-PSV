@@ -1,0 +1,160 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC08_HAR_080.ebm",
+    "nb_messages": 0x11,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x18,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Olá, Ayesha. Bem-vinda."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Hã? Você que tá cuidando da loja hoje?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Coloquei um produto novo em exposição hoje,<CR>então hoje é um dia especial!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Entendi. Um produto novo...? O que é?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Hmhmhm, então te chamou a atenção? É um item raro que você só vai ver nesta loja...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x22,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "É... este livro!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x6,
+            "msg_string": "\"Tesouros do Mundo\"...?<CR>De Harry Olson...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x23,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Compilei toda a minha pesquisa neste único livro. Ele tá cheio dos tesouros mais raros, fantásticos e secretos do mundo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x1f,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Tá tudo neste livro! E aí? Não é incrível?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "A-Ahn... sim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Este livro tem tanta informação valiosa, ele por si só não tem preço!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x22,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Deixa eu te presentear com este livro. É uma cópia especial que eu autografei!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Muito obrigada..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x25,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Ei, não precisa agradecer.<CR>Eu te admiro bastante."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Absorva mais conhecimento deste livro e abra as asas pra voar!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "msg_string": "(J-Já que ele me deu mesmo,<CR>acho que eu devia levar pra casa...)"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Você conseguiu o livro: Tesouros do Mundo."
+        }
+    ]
+}

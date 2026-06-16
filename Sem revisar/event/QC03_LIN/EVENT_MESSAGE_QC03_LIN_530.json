@@ -1,0 +1,214 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC03_LIN_530.ebm",
+    "nb_messages": 0x17,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Agora, hoje vamos fazer um ensopado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Eu gosto de ensopado, embora a minha especialidade seja comer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "É fácil de fazer e você pode usar vários ingredientes."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Além disso, mesmo se você errar no meio, ainda dá pra consertar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Que alívio! Esse é o prato perfeito pra mim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Então, vamos começar. Primeiro, encha a panela com água e jogue os ingredientes de carne."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x11,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Ingredientes de carne... entendido. Então eu vou jogar os sapos e lagartos que eu trouxe..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x7,
+            "msg_string": "Peraí, alto lá! Você não pode usar sapos ou lagartos!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x165,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Você não gosta de sapos? A textura deles é parecida com frango, e são uma delícia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0x9,
+            "msg_string": "Então vamos usar frango mesmo!<CR>Só... diga não a sapos e lagartos!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x166,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "E salamandras?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x78,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Uhhh, isso também é um não...<CR>Desculpa, mas por favor, usa os<CR>ingredientes que eu preparei."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x167,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Entendido. Eu só vou seguir as suas instruções, Ayesha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Beeem, tá pronto! E aí, como ficou?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "A aparência tá drasticamente diferente dos ensopados que eu costumo comer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd1,
+            "expr_id": 0x4,
+            "msg_id": 0xf,
+            "msg_string": "O tamanho dos ingredientes tá tudo diferente, e o principal, a cor da sopa tá com uma cara ruim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Tá muito bom pra sua primeira vez. Agora você só precisa pegar o jeito."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "O tempero tá perfeito, então eu tenho certeza que vai ter um gosto bom quando você comer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Quando for fazer ensopados, é sempre melhor fazer porções maiores."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Os ingredientes vão se misturar mais, deixando o ensopado com um sabor mais marcante."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd2,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Quanto mais você fizer, mais gostoso vai ficar... Essa é uma informação muito útil."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x15,
+            "msg_string": "Então, é só eu fazer uma quantidade absurda!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "msg_string": "(Deu tudo certo dessa vez... eu acho.)"
+        }
+    ]
+}

@@ -1,0 +1,208 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC02_REG_110.ebm",
+    "nb_messages": 0x17,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x14e4,
+            "msg_string": "Regina, desculpa a demora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x357a,
+            "msg_string": "Não, tudo bem, eu também acabei de chegar...<CR>Ah, quem é esse?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x357b,
+            "msg_string": "Ah, esse é o Juris. Ele é um caçador e mestre com o arco."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x14e9,
+            "msg_string": "E essa é a Regina. Ela é uma escavadora e sabe muito sobre ruínas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x19e,
+            "expr_id": 0x0,
+            "msg_id": 0x14ea,
+            "msg_string": "Sou Juris. Prazer em te conhecer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x199,
+            "expr_id": 0x0,
+            "msg_id": 0x14eb,
+            "msg_string": "Ora, ora, prazer em te conhecer também...<CR>Mas nossa..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x14ec,
+            "msg_string": "Uhum uhum... i-isso é...!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0x14ed,
+            "msg_string": "T-Tem algo errado...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x14ee,
+            "msg_string": "Não quero ser grossa do nada, mas você parece muito com o meu irmão..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x12,
+            "expr_id": 0x0,
+            "msg_id": 0x14ef,
+            "msg_string": "A altura e a sua aura... são iguaizinhas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x14f0,
+            "msg_string": "A medida do seu peitoral é quase a mesma também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x38,
+            "expr_id": 0x2,
+            "msg_id": 0x14f1,
+            "msg_string": "Kyah! Regina, o que você tá fazendo!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x129,
+            "expr_id": 0x3,
+            "msg_id": 0x14f2,
+            "msg_string": "O qu-... o que você tá fazendo!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x14f3,
+            "msg_string": "Fica paradinho. Só vou tirar a medida do seu peito."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x12b,
+            "expr_id": 0x0,
+            "msg_id": 0x14f4,
+            "msg_string": "Não. Ser o guarda da Ayesha não tem nada a ver com as medidas do meu peito."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0x14f5,
+            "msg_string": "Pode parar de ficar encostando no meu corpo?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd4,
+            "expr_id": 0x4,
+            "msg_id": 0x14f6,
+            "msg_string": "Poxa, que cara chato. Você com certeza é que nem meu irmão."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd6,
+            "expr_id": 0x0,
+            "msg_id": 0x14f7,
+            "msg_string": "Beleza, vou te considerar como meu irmãozinho a partir de agora!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x194,
+            "expr_id": 0x0,
+            "msg_id": 0x14f8,
+            "msg_string": "Não faz isso! Eu nunca tive uma irmã mais velha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x14f9,
+            "msg_string": "Que sem graça..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3a,
+            "expr_id": 0x0,
+            "msg_id": 0x14fa,
+            "msg_string": "Hehehe, que bom que vocês dois já tão se dando bem."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x14fb,
+            "msg_string": "Tô feliz. Vou contar com vocês dois a partir de agora também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x14fc,
+            "msg_string": "Como e por que você chegou nessa conclusão depois de ver o que acabou de acontecer...?"
+        }
+    ]
+}

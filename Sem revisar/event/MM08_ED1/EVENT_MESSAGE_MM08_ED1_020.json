@@ -1,0 +1,288 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM08_ED1_020.ebm",
+    "nb_messages": 0x1f,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Oi, Nio. Como tá indo o trabalho?<CR>Vim buscar o remédio."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Ernie, seja bem-vindo. Foi mal,<CR>mas ainda não tá pronto."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Minha irmã tá dando o melhor dela, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x5f,
+            "expr_id": 0x2,
+            "msg_id": 0x3,
+            "msg_string": "Heh, não precisa se desculpar. Fui eu que fiz um pedido enorme."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x60,
+            "expr_id": 0x2,
+            "msg_id": 0x4,
+            "msg_string": "Os pedidos não param de chegar, então não teve jeito."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x60,
+            "expr_id": 0x2,
+            "msg_id": 0x5,
+            "msg_string": "Eu me sinto mal com isso, mas não consigo dizer não para as pessoas que só querem remédios."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x61,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Vou esperar aqui um pouquinho, então."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Beleza. Ah, então vou te trazer um chá... Espera, antes disso, eu preciso... Mana!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x8,
+            "msg_string": "Anda logo! O Ernie disse isso porque ele é legal... mas você já tá uma semana atrasada!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "Hyaaah, me desculpa! Ainda não tá pronto."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15e,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Hmm... talvez a quantidade do pedido tenha sido grande demais dessa vez..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Tudo bem. Desde que a Nio voltou, a gente consegue trabalhar juntas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x13a,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Aham. Eu sou uma baita ajuda."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Hmhm, desde que você voltou, Nio, esse lugar tem sido super animado toda vez que eu visito."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0xe,
+            "msg_string": "Hehe, deixar tudo animado é parte do meu trabalho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "E, poxa, me sinto mal, já que você ainda não terminou esse pedido, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Eu recebi um pedido adicional.<CR>Você acha que dá pra fazer?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Claro, eu entendo que você pode ter outros planos, então não precisa aceitar de jeito nenhum..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Ainda tem tempo o bastante pra incluir no meu próximo pedido. O que você quer fazer?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13,
+            "msg_string": "(Mais remédio? Eu tenho planos de sair<CR>com minha amiga depois do trabalho de hoje...<CR>O que eu faço?)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Claro que a gente faz! O trabalho de uma boticária é fazer remédio!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Valeu... Mas tem certeza?<CR>Parece que você já tá trabalhando<CR>no seu limite."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Não. Eu atrasei dessa vez, então quero trabalhar duro pra me redimir."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Tá bom, entendi. Obrigadão, Ayesha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x196,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Me desculpa. Eu já tenho um compromisso depois disso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Tá bom, entendi. Então vou juntar com o meu próximo pedido."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Beleza. Vou dar o meu melhor quando eu voltar, então por favor, espere até lá!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1b,
+            "unknown2": 0x1,
+            "msg_string": "Ayesha, que resgatou a Nio em segurança, reabriu a loja como um negócio das duas irmãs."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1c,
+            "unknown2": 0x1,
+            "msg_string": "O Atelier Ayesha ganhou uma ótima reputação na região, e essa reputação trouxe mais popularidade..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1d,
+            "unknown2": 0x1,
+            "msg_string": "O Atelier Ayesha se tornou indispensável para as pessoas que viviam na região."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1e,
+            "unknown2": 0x1,
+            "msg_string": "As duas desfrutaram de uma vida corrida, mas recompensadora, enquanto continuavam ajudando no bem-estar das pessoas."
+        }
+    ]
+}

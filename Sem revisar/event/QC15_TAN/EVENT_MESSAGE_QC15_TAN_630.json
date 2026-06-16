@@ -1,0 +1,427 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC15_TAN_630.ebm",
+    "nb_messages": 0x2f,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x0,
+            "msg_string": "Uau, o que é isso!?<CR>É tão brilhante e bonito!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x165,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Você não conhece as pedras espirituais? Você é meio desinformada, não é?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x166,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Todo mundo sabe que essa é a melhor pedra pra orar pela saúde e pelo bem-estar da família."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x45,
+            "expr_id": 0x2,
+            "msg_id": 0x3,
+            "msg_string": "Entendi. T-Talvez eu devesse comprar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x167,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Ah, vai comprar?<CR>Então vou te dar um desconto!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Ah, mas eu não posso gastar meu dinheiro por impulso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x165,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Poxa! Não me dá falsa esperança. Achei que você ia ser minha primeira venda..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "msg_string": "(Essa é... a Tanya!)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Tanya! Oi!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Ah... Ayesha! Graças a Deus te encontrei!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Eu tava preocupada. Recebi sua carta, mas fiquei pensando se você ia conseguir chegar aqui a salvo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "Desculpa. Eu nunca imaginei que teria tanta gente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xd3,
+            "expr_id": 0x4,
+            "msg_id": 0xc,
+            "msg_string": "Achei que talvez daria tudo certo quando eu chegasse aqui, mas não foi o caso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xd6,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Eu nem sabia que tanta gente podia morar num lugar só..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Eu também fiquei surpresa na primeira vez que vim pra cá. Achei que teria umas cem pessoas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Mas tinha muito mais do que isso.<CR>Você não se perdeu?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x10,
+            "msg_string": "Me perdi. Eu tava pensando em perguntar pra alguém onde ficava a sua casa, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0x11,
+            "msg_string": "Não sabia pra quem eu podia perguntar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0x12,
+            "msg_string": "E eu tava procurando a loja que vende sal, mas também não achei."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x44,
+            "expr_id": 0x2,
+            "msg_id": 0x13,
+            "msg_string": "Acabei achando uma loja que vende umas coisas estranhas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x7e,
+            "expr_id": 0x3,
+            "msg_id": 0x14,
+            "msg_string": "Ei, espero que não esteja falando da minha loja!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x82,
+            "expr_id": 0x3,
+            "msg_id": 0x15,
+            "msg_string": "Quer dizer, não façam o reencontro emocionante de vocês na frente da minha loja! Tá atrapalhando meus negócios!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x83,
+            "expr_id": 0x3,
+            "msg_id": 0x16,
+            "msg_string": "Se vocês não vieram pra comprar nada,<CR>então vão pra caaasa!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x14,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x17,
+            "msg_string": "M-Me desculpa!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x129,
+            "expr_id": 0x4,
+            "msg_id": 0x18,
+            "msg_string": "M-Me desculpa!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Viu? O bazar é bem ali."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "E minha casa é pra lá.<CR>E do outro lado..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x12d,
+            "expr_id": 0x4,
+            "msg_id": 0x1b,
+            "msg_string": "Uau, uau, uaaau! Incrível!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x1c,
+            "msg_string": "*aham* Agora você tá vendo o tamanho dessa cidade, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x78,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1d,
+            "msg_string": "(Por que eu tô me gabando?)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1a0,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Ayesha, o que você tá fazendo num lugar desses?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x129,
+            "expr_id": 0x3,
+            "msg_id": 0x1f,
+            "msg_string": "Ah, você é... Você é a Tanya?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Ah, Marietta, eu tava planejando te visitar depois daqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "Essa é a Tanya, e essa é a Marietta!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "Ela é a dona da loja que vende o seu sal."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "Oi, eu sou a Tanya Volta. Obrigada por comprar nosso sal!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "E obrigada pelo lenço!<CR>Eu queria muito te agradecer!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x12b,
+            "expr_id": 0x0,
+            "msg_id": 0x25,
+            "msg_string": "Ah, imagina. Obrigada a você pela parceria."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x69,
+            "expr_id": 0x2,
+            "msg_id": 0x26,
+            "msg_string": "Bem-vinda a Vierzeberg de tão longe! Deve ter sido uma viagem cansativa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x27,
+            "msg_string": "Sim, mas tudo nessa cidade é incrível! Até meu cansaço foi embora!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6a,
+            "expr_id": 0x2,
+            "msg_id": 0x28,
+            "msg_string": "Todo mundo diz isso na primeira vez que vem pra cá. Bom, acho que não dá pra culpar eles..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6a,
+            "expr_id": 0x2,
+            "msg_id": 0x29,
+            "msg_string": "É mesmo, quase me esqueci!<CR>Eu preparei uma coisa pra você!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6d,
+            "expr_id": 0x2,
+            "msg_id": 0x2a,
+            "msg_string": "Tanya, você pode vir até a minha loja agora mesmo?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2b,
+            "msg_string": "Agora? Tá bom."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6a,
+            "expr_id": 0x2,
+            "msg_id": 0x2c,
+            "msg_string": "Ah, Ayesha, você deveria vir também.<CR>Eu não queria que você perdesse isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x2d,
+            "msg_string": "Tá bom... O que você não quer que eu perca?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6a,
+            "expr_id": 0x2,
+            "msg_id": 0x2e,
+            "msg_string": "Hmhmhm, é segredo!<CR>Tô ficando super empolgada agora!"
+        }
+    ]
+}

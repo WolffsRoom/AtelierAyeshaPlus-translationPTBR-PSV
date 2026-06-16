@@ -1,0 +1,114 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC07_MAR_110.ebm",
+    "nb_messages": 0xc,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ah, verdade, verdade. Lembra daquela vila que eu pedi pra você investigar um tempo atrás?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Ah, cê diz a Vila de Hallos? Foi tipo quando eu conheci você e a Linca."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Uhum. Fiquei sabendo que o pessoal começou a voltar pra lá recentemente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "msg_string": "(Parando pra pensar, os moradores tavam no mesmo lugar que a Nio.)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "msg_string": "(Eu nem cheguei a pensar direito nisso,<CR>mas... será que o Sr. Keith fez<CR>alguma coisa?)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Ué? Achei que você fosse ficar um pouquinho mais surpresa..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Ah, não, magina.<CR>Que notícia ótima!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xe9,
+            "expr_id": 0x4,
+            "msg_id": 0x7,
+            "msg_string": "É... Apesar que agora eu vou ter que<CR>investigar aquele lugar de novo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Hahaha... bom, foi mal."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xed,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Ué? Por que cê tá pedindo desculpas?<CR>Você é tão estranha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "msg_string": "(Ainda bem que, graças à alquimia, os moradores puderam voltar, mas...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xb,
+            "msg_string": "(A gente deu mais trabalho pra Marion...)"
+        }
+    ]
+}

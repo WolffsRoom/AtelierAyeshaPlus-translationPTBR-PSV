@@ -1,0 +1,34 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MS03_090.ebm",
+    "nb_messages": 0x3,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x38,
+            "expr_id": 0x2,
+            "msg_id": 0x0,
+            "msg_string": "Ahhh, eles são todos tão pequenos e fofinhos!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x39,
+            "expr_id": 0x2,
+            "msg_id": 0x1,
+            "msg_string": "E as casas são todas baixinhas e fofas! Parece até que saiu de um conto de fadas!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x39,
+            "expr_id": 0x2,
+            "msg_id": 0x2,
+            "msg_string": "O passeio de balão deu medo, mas ainda bem que eu vim. Hehe, será que eles vão deixar eu fazer carinho neles...?"
+        }
+    ]
+}

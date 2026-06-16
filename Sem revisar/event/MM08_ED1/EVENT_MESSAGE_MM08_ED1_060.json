@@ -1,0 +1,148 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM08_ED1_060.ebm",
+    "nb_messages": 0x10,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x138,
+            "expr_id": 0x4,
+            "msg_id": 0x0,
+            "msg_string": "Uau, tudo isso aqui são livros?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Hehe, quer ler algum, Nio? Tem um monte que é interessante."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x13a,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Hmm, acha que tem livros que até eu consigo ler? Vou dar uma olhadinha por aí!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "O que é isso, Ayesha? Essa criatura barulhenta?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "Foi mal, Srta. Odelia. A Nio implorou pra vir junto."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc6,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Eu peço pra ela fazer menos barulho depois."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Eu tava meio preocupada, mas parece que não ficou nenhuma sequela..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "É, ela tá cheia de energia agora. Tá muito mais animada do que nunca."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Que bom. Garotas da idade dela tagarelam feito passarinhos... Tá procurando alguma coisa?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Tô sim... Só pensei que deveria tentar descobrir mais sobre \"ele\"."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Que bom. Eu vou embora em breve. Com você por perto, aqueles Slags vão ter um pouco de competição."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Sr. Keith, você vai pra algum lugar?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Ainda tem um monte de coisa que eu queria que você me ensinasse... Quando você vai embora?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Mestre, a \"porta\" tá pronta.<CR>O senhor pode partir hoje à noite."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x15,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Tá aí a sua resposta."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0xf,
+            "msg_string": "P-Pera aí, por favor!"
+        }
+    ]
+}

@@ -1,0 +1,197 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM03_ST2_040.ebm",
+    "nb_messages": 0x15,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x0,
+            "msg_string": "Parece que o tipo de flor muda bastante dependendo de onde eu acho elas, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x1,
+            "msg_string": "Elas parecem ser completamente diferentes das ervas medicinais que eu uso normalmente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x2,
+            "msg_string": "Que nem o Sr. Keith falou, as flores e a Nio... talvez elas tenham alguma ligação..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x3,
+            "msg_string": "Mas o que será que eu devia fazer com essas flores...? Não tem nada sobre elas nos livros..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x4,
+            "msg_string": "Mesmo quando eu uso elas pra sintetizar, elas viram umas coisas que eu nunca vi na vida..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "*suspiro* Acho que eu ainda tenho um longo caminho pela frente..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Hmm, preciso dar um jeito de investigar essas flores mais a fundo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0x7,
+            "msg_string": "Por enquanto, eu não sei absolutamente nada sobre elas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc5,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x8,
+            "msg_string": "..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc5,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "Será que eu vou saber tuuudo sobre essas flores quando for uma alquimista de verdade...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc5,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "Vai ver eu só preciso me dedicar bem mais à síntese por enquanto..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc6,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Bom, de qualquer jeito, essas flores... são tão lindas. Nunca tinha visto nada igual."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Nio, você ia ficar tão feliz em ver elas. Você gostava muito de flores, não é...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0xd,
+            "msg_string": "Cheguei! Mana, fiz uma super descoberta!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Eu tava procurando uns materiais pra fazer remédio e achei uma flor linda!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x15e,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Você acha que dá pra usar pra fazer remédio? Tenho certeza que vai dar um remédio ótimo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x10,
+            "msg_string": "Ah, mana, você tava trabalhando tanto que esqueceu de comer de novo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x78,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Você não devia trabalhar até desmaiar, sabe... Pera aí, vou preparar alguma coisa pra você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0x12,
+            "msg_string": "Poxa, mana, você não consegue fazer nada sem mim mesmo, né!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13,
+            "unknown2": 0x1,
+            "msg_string": "Hrmm hrmm... Obrigada, Nio."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x14,
+            "unknown2": 0x1,
+            "msg_string": "Vou dar o meu melhor por você..."
+        }
+    ]
+}

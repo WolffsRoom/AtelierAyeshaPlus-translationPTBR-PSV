@@ -1,0 +1,248 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC01_WIL_720.ebm",
+    "nb_messages": 0x1b,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x169,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Começando pelas coisas que a gente ainda pode fazer agora... O que será que eu devia fazer..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x16a,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Pra deixar a Tataravó feliz logo de cara, eu preciso fazer alguma coisa grande..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x16a,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Mesmo que eu não consiga sozinha, vai ser possível com duas pessoas!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x16b,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Hehe, vamos dar o nosso melhor e mirar em algo desafiador!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x4,
+            "msg_string": "Ahhh, vamos não fazer nada muito desafiador. A gente devia fazer algo que sabe que consegue, e fazer bem feito..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Não, não, vai dar tudo certo! Acho que vai dar bom de algum jeito."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x78,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "V-Você acha...? Então, o que seria essa coisa desafiadora?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Hmhm, que bom que perguntou. Na verdade, eu tenho uma coisa em mente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Desde os tempos antigos, as bruxas têm três objetivos principais."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Um é capturar o vento, o outro é devorar uma sombra..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "E o outro é estilhaçar as estrelas. Eu acho que a Tataravó é a única pessoa que consegue fazer os três."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Vamos começar pelo que parece mais fácil, capturar o vento."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Vento... Você quer dizer tipo aqueles que fazem woooosh, soprando pra todo lado?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Aham. A gente só precisa capturar o ser que controla ele."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Capturar o vento... Eu sei que isso vai soar estranho, mas é que nem tentar agarrar fumaça."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "O ser que controla o vento...<CR>Isso é tipo um espírito do vento?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Acho que sim, mas mesmo entre os espíritos,<CR>a gente precisa capturar um super grande."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Não adianta nada capturar um que tá aqui perto..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Então a gente precisa subjugar um espírito nobre<CR>e de primeira classe!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x13,
+            "msg_string": "Que que você acha? Não parece uma coisa bem de bruxa?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Parece, mas você acha que vai ser tão fácil assim?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "E outra, onde é que tem espíritos do vento mesmo?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Eu conheço o lugar. Fica nos céus além de Hornheim!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Eu já vi um por lá uma vez."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0x5,
+            "msg_id": 0x18,
+            "msg_string": "Ah, agora que você falou, parece mesmo um bom lugar pra começar. Mas, não é uma área super grande pra procurar?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Bom, não tem o que fazer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x1a,
+            "msg_string": "Bora lá!"
+        }
+    ]
+}

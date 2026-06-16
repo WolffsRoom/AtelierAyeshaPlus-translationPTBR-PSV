@@ -1,0 +1,82 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC07_MAR_720.ebm",
+    "nb_messages": 0x8,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1f8,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "msg_string": "Ei, hum... vem cá, aquela mocinha não veio hoje?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x218,
+            "name_id": 0x2f,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "unknown2": 0x1,
+            "msg_string": "Mocinha? Quem?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1fe,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "msg_string": "Sabe, qual é o nome dela?<CR>Aquela mocinha de cabelo preto que é<CR>cheia de energia."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x218,
+            "name_id": 0x2f,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "unknown2": 0x1,
+            "msg_string": "Ah, é mesmo, não tenho visto ela por aqui ultimamente."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x218,
+            "name_id": 0x2f,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "unknown2": 0x1,
+            "msg_string": "Talvez ela tenha desistido, já que você vivia enxotando ela?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1f9,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "msg_string": "O quê? Ela já desistiu? Depois de ouvir não só algumas vezes...? Que frouxa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1f9,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "msg_string": "É por isso que os jovens de hoje em dia não dão conta do recado. *resmunga* *resmunga*"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "msg_string": "(Como será que a Marion tá...<CR>Acho que vou dar uma passadinha lá mais tarde.)"
+        }
+    ]
+}

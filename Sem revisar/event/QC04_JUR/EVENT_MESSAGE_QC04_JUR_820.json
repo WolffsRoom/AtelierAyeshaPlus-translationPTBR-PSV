@@ -1,0 +1,246 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC04_JUR_820.ebm",
+    "nb_messages": 0x1b,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x129,
+            "expr_id": 0x3,
+            "msg_id": 0x0,
+            "msg_string": "Espera, Ayesha... Olha..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x1,
+            "msg_string": "É... o dragão! Então ele tava mesmo aqui...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x12b,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "É. Finalmente cheguei a um ponto onde eu quase posso esticar as mãos e agarrar a garganta dele."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Daqui em diante é o domínio do dragão. Cada passo à frente vai exigir muita determinação."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x78,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Não precisa nem me falar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Mesmo entre os dragões, possuindo tanta sabedoria quanto poder, esse dragão ancião é digno de ser chamado de o mais forte."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "E lá está ele. Eu o considero um oponente digno."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Eu sei que agora pode não ser a melhor hora pra perguntar isso, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Por que você quer derrotar esse dragão, Juris?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Realmente não é hora pra perguntar, mas bem, acho que isso é bem a sua cara."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "...As garras dele tiraram inúmeras vidas, e o fogo que ele cospe reduziu a cinzas várias cidades."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Então quer dizer... que você tá lutando pra proteger os moradores dessas cidades?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x194,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Não. Eu não acho que tô desafiando o dragão só porque exterminar criaturas perigosas é o trabalho de um caçador."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Eu não sou um herói, então também é bem diferente de lutar por uma causa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15e,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Bem... eu não tenho um motivo específico."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "V-Você não tem um motivo, mas ainda assim vai lutar!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Tendo nascido em uma vila de caçadores,<CR>eu cresci observando outros caçadores."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Na nossa vila, temos uma tradição. Qualquer um que cace um dragão, a espécie que se ergue acima de todas as criaturas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "É considerado um verdadeiro caçador."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x196,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Porém, a nossa realidade é bem diferente. Basicamente, ninguém vai atrás de algo que não tenha certeza se dá pra caçar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Caçadores também têm vidas. Assim como coisas que precisam proteger."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Pra você, essa pessoa é a Nanaca."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Isso. Mesmo assim, já teve<CR>alguém... na minha família que caçou<CR>dragões."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Tendo sido criado ouvindo as velhas histórias dos meus ancestrais, caçar dragões acabou virando o meu sonho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Não tem nenhum motivo pra eu caçá-lo.<CR>Eu só quero realizar o meu sonho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Ainda bem que eu perguntei. Sinto que consegui encontrar um pouco mais de determinação."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x12,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Entendo...<CR>...Agora, vamos lá!"
+        }
+    ]
+}

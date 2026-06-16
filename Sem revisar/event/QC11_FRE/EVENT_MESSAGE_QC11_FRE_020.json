@@ -1,0 +1,274 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC11_FRE_020.ebm",
+    "nb_messages": 0x1e,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "msg_string": "(*snif snif* Tem um cheiro tão bom...<CR>Ah, a padaria abriu!)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x1,
+            "msg_string": "Bem-vinda! Ah, olá senhorita, que bom que veio!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Pois é. O cheiro do pão assando me guiou até aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0x3,
+            "msg_string": "Haha! Pão fresquinho tem esse poder misterioso de atrair as pessoas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x45,
+            "expr_id": 0x2,
+            "msg_id": 0x4,
+            "msg_string": "Eu tenho de tudo, desde pão fresquinho até pães que duram bastante tempo, então fique à vontade pra olhar tudo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Tá bom! Uau, tem tantas opções, eu nem sei qual escolher."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Esse pãozinho de gato é tão fofo! Ah, e esse de ursinho de pelúcia aqui também!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "São tão fofinhos que dá até pena de comer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0x8,
+            "msg_string": "Hahaha, coma sem remorso. É isso que os pães iam querer também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x44,
+            "expr_id": 0x2,
+            "msg_id": 0x9,
+            "msg_string": "A propósito, o gatinho é recheado com geleia, e o de urso tem creme de confeiteiro."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Que incrível...! É você que faz todos esses pães fofinhos também?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Sou eu mesmo. Quero que os meus clientes sintam alegria na hora de comer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x173,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Pode não parecer, mas os pães de animais são bem difíceis de fazer. Tem que calcular certinho o quanto a massa vai crescer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x175,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Até eu pegar o jeito, todos os meus bichinhos acabavam parecendo monstros."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0xe,
+            "msg_string": "Entendi. Olhando bem de perto agora, eles têm expressões um pouco diferentes. Ah, esse aqui é muito fofo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0xf,
+            "msg_string": "Hahaha, pode escolher o que você quiser. Fico feliz que esteja gostando."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x45,
+            "expr_id": 0x2,
+            "msg_id": 0x10,
+            "msg_string": "Fazer pães que sejam divertidos de olhar e deliciosos de comer é o meu maior objetivo, e..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x37,
+            "expr_id": 0x2,
+            "msg_id": 0x11,
+            "msg_string": "Ahhh, o que que eu faço!?<CR>Tem tantas opções, não consigo me decidir!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x39,
+            "expr_id": 0x2,
+            "msg_id": 0x12,
+            "msg_string": "Ai, que problema. Tem tantos que eu quero comer, e eu sei que não vou dar conta de tudo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Hmhm, então deixa que eu escolho. Você é a minha primeira cliente, então esse é por minha conta."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3a,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Ué? Sério mesmo...!? Mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Essa é a forma como os padeiros cumprimentam as pessoas.<CR>Por favor, não hesite em aceitar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Hã? Mas se você continuar cumprimentando o pessoal da cidade assim, logo você vai ter problemas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x42,
+            "expr_id": 0x2,
+            "msg_id": 0x17,
+            "msg_string": "Haha, se todo mundo comer o meu pão,<CR>isso já é o suficiente pra mim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "M-Muito obrigada. Então eu vou aceitar de bom grado!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Err, meu nome é Ayesha. Sou uma boticária... Apesar de que, no momento, eu tô dando um tempo nisso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Olá, Srta. Ayesha. Eu sou o Fred. Adoraria ter você como minha cliente daqui pra frente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Com certeza. Vou passar aqui mais vezes!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1c,
+            "msg_string": "(Ganhei pão de graça. Espero que não tenha problema... E parece delicioso!)"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Agora você pode ir na Padaria do Fred."
+        }
+    ]
+}

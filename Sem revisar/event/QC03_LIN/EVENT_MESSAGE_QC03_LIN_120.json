@@ -1,0 +1,380 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC03_LIN_120.ebm",
+    "nb_messages": 0x2a,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Hã? Aquela pessoa ali é... a Linca?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x199,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Linca! O que você tá fazendo num lugar desses?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Hm? Ah... eu tava pensando um pouco sobre o passado..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Ah, sobre a história que vocês não terminaram antes?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "msg_string": "(Eu quero ouvir mais da história, mas... será que seria rude da minha parte perguntar...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Sim... Eu decidi. Acho que eu deveria te contar sobre o meu passado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Hã...? Mas... se você não quiser falar disso, não quero que se force a nada..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Ayesha, você é minha amiga. Quero que você ouça. Se você não quiser, eu não vou..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x196,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Bom, se você diz. Eu sou sua amiga."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x19b,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Obrigada. Então por favor me escute. Não tenho certeza se consigo descrever isso bem, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "No passado, eu tava... fazendo umas coisas que não eram muito boas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Ué, não muito boas...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Sim. Seguindo as ordens que eu recebia da pessoa que me criou, eu causei problemas para a Marion e outras pessoas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Naquela época, eu acreditava que não tinha permissão pra desobedecer essas ordens."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Um dia, houve uma grande batalha e eu fui capturada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Sem parentes ou guardiões,<CR>tudo o que eu podia fazer era esperar<CR>pelo meu dia do julgamento."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Porém, por algum motivo, a Marion me salvou, mesmo eu sendo inimiga dela."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "A Marion não me conta por que me salvou, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Agora eu fico do lado da Marion pra pagar minha dívida por ela ter salvado a minha vida."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "Então foi isso que aconteceu..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Talvez seja porque o meu \"eu\" daquela época ainda tá em algum lugar dentro do meu coração, mas usar a minha espada pra proteger as pessoas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Não parece que combina comigo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x11,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Ayesha, você é minha amiga,<CR>mas na verdade, eu não<CR>mereço ter amigos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc6,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Linca..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Ayesha...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Mesmo assim, eu continuo sendo sua amiga."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Não sei todos os detalhes, mas Linca, você é uma pessoa gentil e legal."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "E isso basta pra mim. Vamos continuar sendo amigas do jeito que somos agora, tá bom?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Ayesha... se tá tudo bem pra você,<CR>então eu também gostaria disso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Mas por que você tá me contando isso de repente?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0x1e,
+            "msg_string": "...Eu tenho um palpite, e não é coisa boa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd1,
+            "expr_id": 0x4,
+            "msg_id": 0x1f,
+            "msg_string": "Esta terra, comparada com o centro,<CR>é bem pacífica, então eu acabei esquecendo<CR>o passado, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd1,
+            "expr_id": 0x4,
+            "msg_id": 0x20,
+            "msg_string": "Pode ser que algo aconteça no futuro relacionado ao meu passado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd2,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "Por causa disso, comecei a me preocupar que você acabasse sendo envolvida nisso... então eu queria te contar a minha história."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "Seu passado...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "Sim. Se você ver a Linca... por favor, tome cuidado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "...Hã? Se eu ver... a Linca?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x165,
+            "expr_id": 0x0,
+            "msg_id": 0x25,
+            "msg_string": "Ayesha, você é tão gentil que me preocupo com você. Mas não pode abaixar a guarda perto de mim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x26,
+            "msg_string": "C-como assim?<CR>Não tô entendendo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x167,
+            "expr_id": 0x0,
+            "msg_id": 0x27,
+            "msg_string": "Apenas tome cuidado com a Linca.<CR>Por favor, lembre-se disso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x28,
+            "msg_string": "Bom, então..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x29,
+            "msg_string": "(Cuidado com a Linca... E-eu não entendi.<CR>O que será que isso significa...)"
+        }
+    ]
+}

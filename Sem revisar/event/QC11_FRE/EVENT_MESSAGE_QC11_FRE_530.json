@@ -1,0 +1,250 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC11_FRE_530.ebm",
+    "nb_messages": 0x1b,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Sr. Fred, eu fui lá perguntar pra Marietta que tipo de pão ela quer comer!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x144,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "Sério!? Eu não tava conseguindo me concentrar o bastante pra assar, então nem sabia o que fazer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x146,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Pode me falar de uma vez!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x173,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Uma combinação de carne e pão...<CR>Eu nunca tinha pensado nisso antes..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x177,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Isso geralmente cai na área das tortas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Entendi... Afinal, qual é a diferença entre torta e pão?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x178,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "De modo simples, são feitos de jeito diferente. Você tem que fermentar a massa pra fazer pão."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x179,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Mas pra torta, você precisa usar bastante manteiga na massa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Ouvindo assim, parecem coisas totalmente diferentes..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Claro, tem pães que você não precisa fermentar a massa, e pães que levam muita manteiga."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Farinha e água são os ingredientes básicos pra ambos, então uma distinção absoluta seria..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Pães são vendidos em padarias, e tortas são vendidas em lojas de torta... Eu acho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0xc,
+            "msg_string": "Hahaha, essa é uma diferença fácil!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Hahaha, bem, você não precisa diferenciar. Ideias novas ajudam muito a criar novos pães."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "E aí, a Srta. Marietta mencionou mais alguma coisa?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x35,
+            "expr_id": 0x2,
+            "msg_id": 0xf,
+            "msg_string": "Bem, ela disse que ter mais opções de pães fofos a deixaria feliz."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Hehehe, então ela tem a mesma opinião que eu."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Entendi... Uhum, então as mulheres gostam de coisas fofas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Isso. Ela disse que gosta da loja porque tem um monte de tipos de pães fofos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xd4,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "Fofos...!? Tipo... o quê!? Ainda não tô mentalmente preparado pra isso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x14,
+            "msg_string": "Ah, mas ela tava preocupada porque você é tão quieto e assustador, e que sua loja não vai pra frente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xd7,
+            "expr_id": 0x4,
+            "msg_id": 0x15,
+            "msg_string": "A-Assustador...? Entendi, então eu sou uma pessoa assustadora..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Bem, eu não acho, mas a Marietta parece pensar assim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xd1,
+            "expr_id": 0x4,
+            "msg_id": 0x17,
+            "msg_string": "Não, tá de boa... Tenho certeza que tudo que ela falou é verdade..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xd2,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "De qualquer forma, obrigado. Vou pensar num pão novo a partir do que você me falou."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x43,
+            "expr_id": 0x2,
+            "msg_id": 0x19,
+            "msg_string": "Isso é só minha forma de agradecer,<CR>então por favor, aceite."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Você recebeu 500 Cole."
+        }
+    ]
+}

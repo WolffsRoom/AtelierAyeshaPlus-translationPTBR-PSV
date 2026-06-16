@@ -1,0 +1,292 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC02_REG_610.ebm",
+    "nb_messages": 0x20,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1f7,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "msg_string": "Ei, a Regina tá aí!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Tô sim. Mas Chefe, você não devia bater antes?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Da última vez que você invadiu aqui, eu tinha acabado de sair do banho e ainda tava pelada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1fc,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "msg_string": "Ah, foi mal. Eu só não sou muito bom nessas coisas chiques, tipo bater em portas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Eu não acho que bater seja tão chique assim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1f9,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "msg_string": "Bom, não se preocupe, o seu corpo nu foi tão chamativo quanto uma pedrinha no chão pra mim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd4,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "Isso ainda dói um pouco..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1f9,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "msg_string": "Não é do seu feitio se ofender com isso. Se você realmente não gostou, tenta gritar \"kyaaah\" ou algo do tipo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1fe,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x8,
+            "msg_string": "Hmm? Ah, não sabia que você tinha visita."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Eu sou a Ayesha. A Regina tá cuidando de mim há um tempo já."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1f9,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "msg_string": "Que educada. Eu sou o Glide, o chefe deste local de escavação."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1f9,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xb,
+            "msg_string": "Ooh, que mocinha bonita. Ei, Regina..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1f9,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xc,
+            "msg_string": "Vou bater antes de entrar a partir de agora..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd6,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Por favor, faça isso. Teria sido ainda pior se fosse a Ayesha no banho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Falando nisso, por que você veio aqui hoje?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1f9,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "msg_string": "Ah, quase me esqueci. A gente vai fazer uma festa em breve, então se prepare."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x125,
+            "expr_id": 0x3,
+            "msg_id": 0x10,
+            "msg_string": "De novo? A gente teve uma não faz muito tempo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Hã? Uma festa? Em breve...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1fe,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "msg_string": "As pragas nas ruínas tão aumentando de novo, então decidimos dar uma reduzida nelas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x128,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Diminuir os slags...<CR>Não importa quantas vezes a gente faça isso,<CR>eles não têm fim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1f9,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x14,
+            "msg_string": "A gente cavou bem fundo, então devemos ter esbarrado num ninho de slags em algum lugar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1fa,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x15,
+            "msg_string": "Então é isso.<CR>Apareçam lá na praça mais tarde."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0x16,
+            "msg_string": "Desculpa, Ayesha.<CR>Acho que eu tenho planos agora..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Então a festa é pra exterminar slags? Parece bem trabalhoso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd2,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Bom, faz parte do meu trabalho. Se os números deles aumentarem, eles só vão atrapalhar a gente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Basicamente, uma vez por mês, todos os escavadores se juntam e fazem uma limpa geral."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Então, é meio que uma festa pra nós escavadores."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Mas chamar de festa faz parecer que vai ser divertido."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Hahaha, eles gostam de zoar.<CR>Um monte de caras idiotas gosta<CR>de fazer esse tipo de trabalho também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Se você se interessar, por que não aparece lá na praça?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Bom, acho que eu já vou indo então!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1f,
+            "msg_string": "(Exterminar slags... Como será que é isso? Eu... talvez esteja interessada...)"
+        }
+    ]
+}

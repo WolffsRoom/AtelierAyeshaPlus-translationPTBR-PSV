@@ -1,0 +1,250 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC12_KYL_520.ebm",
+    "nb_messages": 0x1b,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ayesha, sobre aquela parada de antes..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Parada? Ah, você quer dizer... aquilo lá?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "É, a estratégia de \"vamos nos vingar do Juris\"... Não tá funcionando muito bem..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Falando nisso, isso é o que o Juris realmente não suporta."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Isso é... muito apimentado, né?<CR>O Juris não gosta de comida apimentada?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Na mosca. Ele parece uma criança, né? Então meu plano era esconder isso na comida dele, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Do mesmo jeito que é apimentada, o cheiro também é forte, então ele vai perceber na hora que tá no prato dele."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa2,
+            "expr_id": 0x3,
+            "msg_id": 0x7,
+            "msg_string": "Isso aí! Além disso, a comida fica bem vermelha também, então ele vai sacar na hora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa3,
+            "expr_id": 0x3,
+            "msg_id": 0x8,
+            "msg_string": "Então, é aí que eu preciso da sua ajuda. Você consegue fazer uma comida sem cheiro, sem cor e que seja tão apimentada quanto isso?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa6,
+            "expr_id": 0x3,
+            "msg_id": 0x9,
+            "msg_string": "O Ernie me disse que você manda muito bem nesse tipo de coisa, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "E-Eu não acho que sou tão boa assim nisso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0xb,
+            "msg_string": "Além disso, até seria possível eu fazer, mas eu ficaria com pena do Juris..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa4,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Não precisa ficar. Só tô fazendo isso pelo próprio bem dele, já que ele passou dos limites."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x17d,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Tô tentando ensinar a ele que não se deve fazer coisas com os outros que a gente sabe que eles não vão gostar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x182,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Isso não é só uma pegadinha!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0xf,
+            "msg_string": "S-Se você diz..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x10c,
+            "expr_id": 0x4,
+            "msg_id": 0x10,
+            "msg_string": "Por favor! Eu te imploro! Não é como se eu fosse usar isso pro mal!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15d,
+            "expr_id": 0x5,
+            "msg_id": 0x11,
+            "msg_string": "Hum, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x10e,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "E sua recompensa vai ser almoço<CR>de graça à vontade por um ano!<CR>Que tal!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x161,
+            "expr_id": 0x5,
+            "msg_id": 0x13,
+            "msg_string": "Argh... isso é bem tentador..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x14,
+            "msg_string": "E eu ainda incluo o bônus de uma sobremesa grátis com a refeição. Viu? Não quer fazer isso?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x15,
+            "msg_string": "Hmm... tá bom, eu faço."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "*suspiro* Eu respondi no automático! Mestre das Misturas, eu não queria dizer isso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0x17,
+            "msg_string": "Hehehe, agora é tarde demais. Você já disse que sim, então tá fechado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0x18,
+            "msg_string": "Traz pra mim quando estiver pronto. Vou ficar esperando!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x19,
+            "msg_string": "(E-Eu sinto que fiz uma promessa<CR>terrível...)"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Você aprendeu a fazer Sopa do Inferno."
+        }
+    ]
+}

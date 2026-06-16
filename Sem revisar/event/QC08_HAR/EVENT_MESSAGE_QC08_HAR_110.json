@@ -1,0 +1,160 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC08_HAR_110.ebm",
+    "nb_messages": 0x11,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x59,
+            "expr_id": 0x2,
+            "msg_id": 0x0,
+            "msg_string": "Bem-vinda, Campeã! Eu tava te esperando, mwahahaha!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "Ãh... hã? Campeã?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x18,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Preciso te agradecer. Eu andava meio mal já fazia um tempão, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Graças a você, me recuperei totalmente e voltei à minha condição original! Obrigado!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "E não é do meu feitio ficar perdendo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x22,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Então, eu proponho uma revanche! Com certeza você vai aceitar, não vai!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Hmm, isso é algo que eu deveria mesmo aceitar?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x25,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Claro. E eu sou um desafiante com uma alma inabalável!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "É uma história de cortar o coração ter que derrubar a minha benfeitora no chão..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x1a,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Mas eu vou te derrotar! Porque esse é o meu dever como ex-campeão!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0xa,
+            "msg_string": "Eu entendo, mas eu também não vou perder!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x56,
+            "expr_id": 0x2,
+            "msg_id": 0xb,
+            "msg_string": "Hmhmhm, boa resposta. É por isso que você é a minha rivaaal!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x57,
+            "expr_id": 0x2,
+            "msg_id": 0xc,
+            "msg_string": "Agora, vamos dar tudo de nós. Hoje, nós vamos-"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Tá bom, tá bom, tá bom, então vamos logo começar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x58,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Espera, Marietta. Eu ainda preciso fazer o meu discurso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Desculpa. A gente tá com o tempo meio curto, então tenha um pouco de paciência comigo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1e8,
+            "expr_id": 0x2,
+            "msg_id": 0x10,
+            "msg_string": "Bom, o Emocionante Concurso de Tesouros vai começaaaar!"
+        }
+    ]
+}

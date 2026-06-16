@@ -1,0 +1,267 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC03_LIN_040.ebm",
+    "nb_messages": 0x1d,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ah, é a Marion.<CR>Oi... Ué!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "O-O que foi, Marion!?<CR>Você tá cambaleando!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xe9,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "...Não tenho comido bem ultimamente..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Isso não é bom. Você devia fazer todas as refeições."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xec,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "Eu tô comendo. Bom, eu tenho comido<CR>substâncias parecidas com comida..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x5,
+            "msg_string": "S-Substâncias parecidas com comida...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xea,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "A Linca aprendeu a cozinhar há pouco tempo,<CR>então ela tem feito várias coisas<CR>pra mim, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Ah, e como tá indo? Fui eu quem ensinou ela a cozinhar, já que ela me pediu."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xee,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "Ahhh, então foi você..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xf0,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "Bom, no café da manhã de hoje, ela me serviu uma coisa que lembrava ovos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xf0,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "Talvez seja melhor dizer que era<CR>um monte de uma coisa marrom escura.<CR>Marrom escuro...? Ou preto escuro...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xf2,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "É um mistério total pra mim como<CR>alguém pode preparar um prato e<CR>ele acabar daquele jeito."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Hahaha, hmm, eu também ensinei ela a grelhar carne e fazer ensopado..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xed,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Ela não tem habilidade pra cozinhar coisas diferentes de uma vez só."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Então ontem a gente teve uma quantidade gigante de ensopado no almoço, e uma quantidade gigante de carne grelhada na janta."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Acho que lembro de ouvir ela dizendo que fazer em grande quantidade deixaria mais gostoso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0x10,
+            "msg_string": "Ah, isso... M-Me desculpa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Ué? Por que você tá pedindo desculpa?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc5,
+            "expr_id": 0x4,
+            "msg_id": 0x12,
+            "msg_string": "Bem, hmm, sobre grandes quantidades deixarem gostoso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc5,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "Acho que não passei a ideia direito..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc6,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Desculpa não ter conseguido ensinar ela a cozinhar melhor."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x194,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Tudo bem. Eu tava preocupada que a Linca estivesse te causando problemas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Acho que já deu pra perceber, mas ela é completamente inútil com qualquer coisa que não seja a espada dela."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Queria que ela ficasse feliz com coisas normais, agora que ela conheceu você e tudo mais, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Acho que isso não vai acontecer tão cedo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x19f,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Ah, bom, vou indo nessa.<CR>Valeu, Ayesha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Ah, e eu queria saber por que ela sempre coloca uma bandeirinha na comida agora..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Ouvi ela falando algo tipo,<CR>\"Levantei outra bandeira hoje...\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1c,
+            "msg_string": "(Me sinto meio responsável.<CR>Se eu tivesse ensinado ela melhor...)"
+        }
+    ]
+}

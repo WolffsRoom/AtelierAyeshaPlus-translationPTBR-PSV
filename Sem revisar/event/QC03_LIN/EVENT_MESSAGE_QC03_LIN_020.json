@@ -1,0 +1,277 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC03_LIN_020.ebm",
+    "nb_messages": 0x1e,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Linca, você é incrível...<CR>Conseguir balançar uma espada desse jeito, mesmo sendo uma garota..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x165,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Hm? Isso que eu tô fazendo é tão incrível assim?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Com certeza! Se fosse eu, não ia nem conseguir levantar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x167,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Eu tenho confiança nas minhas habilidades com a espada. Eu conseguiria fazer isso antes de um café da manhã balanceado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Embora, na realidade, minhas habilidades de combate aumentem depois de colher os benefícios da minha refeição matinal."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Mesmo assim, ainda antes de uma refeição, eu não serei derrotada por uma fera selvagem..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "S-Sim, entendi o que você disse sobre as refeições. Acho que você passou por muito treinamento..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Sim. Não consigo lembrar quantas vezes já balancei a minha espada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "No começo, era eu quem<CR>estava sendo balançada pela espada,<CR>mas agora, consigo até fazer isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x9,
+            "msg_string": "Uau uau uau, que incrível!<CR>Você é muito legal!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x122,
+            "expr_id": 0x3,
+            "msg_id": 0xa,
+            "msg_string": "Sua empolgação por eu apenas balançar a espada... me surpreendeu."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x35,
+            "expr_id": 0x2,
+            "msg_id": 0xb,
+            "msg_string": "Toda vez que você balança, seu cabelo esvoaça... igual ao de uma deusa mítica!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Meu cabelo... Seria mais fácil de lutar se fosse mais curto ou se eu simplesmente não tivesse nenhum..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "Mas a Marion não deixa eu cortar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd1,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "E conforme foi crescendo, ela começou a falar umas coisas absurdas, tipo pra eu pentear."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0xf,
+            "msg_string": "Entendi... I-Isso é um absurdo...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd2,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Eu acho que quanto mais curto o cabelo, menos ele atrapalha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Isso não é nem um pouco verdade! O seu penteado agora tá super lindo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Você não pode cortar, Linca!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x165,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Hmm... Ayesha, você tá começando a falar igual a Marion..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "É porque a Marion tá certa. Linca,<CR>você tá muito linda agora!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x15,
+            "msg_string": "Hmhm. De qualquer forma, a Marion é tipo a sua mentora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x168,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Com certeza. Por exemplo, não pegar comida do chão pra comer, ou não seguir estranhos..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x16a,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Ela me dá bronca com frequência."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x16b,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Até agora, eu só fiz cada uma dessas coisas uma vez."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Ah, então você já fez isso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Não se preocupe. Essas coisas aconteceram faz um tempo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Cá entre nós, se um bando de<CR>criminosos viesse me levar hoje,<CR>tenho certeza de que eu conseguiria voltar sozinha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "I-Isso é reconfortante... eu acho..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Sim, é reconfortante.<CR>Agora a gente devia ir."
+        }
+    ]
+}

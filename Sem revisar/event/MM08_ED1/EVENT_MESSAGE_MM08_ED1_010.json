@@ -1,0 +1,616 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM08_ED1_010.ebm",
+    "nb_messages": 0x44,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x205,
+            "name_id": 0x1f,
+            "extra_id": 0x216,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "msg_string": "Oink muu!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x138,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "Opa, demorou mais do que eu achei! Preciso correr pra casa!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x13a,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Com certeza a Mana tá preocupada uma hora dessas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Se eu deixar ela mais preocupada ainda,<CR>vou acabar de castigo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x4,
+            "msg_string": "Beleza, tá quase pronto,<CR>mas... a Nio tá demorando."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Hyaaah, desculpa o atraso, Mana! Cheguei!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Bem-vinda de volta. Por que você demorou tanto?<CR>Fiquei preocupada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Hehe, desculpa. Perdi a noção do tempo colhendo as ervas medicinais."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Nio, esse não foi o único motivo, foi?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x13c,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "Ahh, deu pra perceber, né?<CR>...Eu acabei enrolando por aí.<CR>Desculpa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Eu te conheço. Com o tempo bom desse jeito..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Até eu ia querer dar umas voltinhas lá fora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0xc,
+            "msg_string": "Bom, tô terminando as coisas aqui,<CR>então vamo fazer a nossa pausa pro almoço."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x13e,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "Ebaaa! Tô morreeeendo de fome!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Terminei!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Hmhmhm..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x15e,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Tá rindo de quê do nada? Tem comida no meu rosto?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x196,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Não, não, não é nada. Comer com você assim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Reabrir o nosso ateliê, um monte de trabalho aparecendo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x13,
+            "msg_string": "Caramba, não tô dando conta de tanto pedido! Não tenho tempo nem pra comer direito!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x78,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "...Era isso que eu tava pensando. Mas aí eu fiquei feliz em perceber que é com esse tipo de coisa que tenho que lidar agora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Pera aí, você não devia tá comemorando! Mana, você aceita trabalho demais sem pensar duas vezes!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x16,
+            "msg_string": "Haha, eu sei, mas são todos tão importantes, não consigo dizer não."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Se eu me esforçar trabalhando a noite toda, acho que tudo vai dar certo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Uau, Mana! Com esses amigos novos, você tem um montão de clientes agora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Se você não começar a se planejar, isso vai sair do controle rapidinho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Você sabe qual é o seu próximo plano?<CR>Você foi bem vaga sobre isso,<CR>então tô um pouquinho preocupada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0x5,
+            "msg_id": 0x1b,
+            "msg_string": "Tenho uma ideia por cima. Vamos ver..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Ah, é verdade. Tem um monte de pedidos do Ernie acumulando."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x138,
+            "expr_id": 0x4,
+            "msg_id": 0x1d,
+            "msg_string": "*gasp* Ai, não! Se você atrasar, vai complicar a vida do Ernie."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Eu sei, mas como ele é super de boa com os prazos, eu acabo atrasando..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x13a,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "O Ernie cuida tanto da gente, você não pode atrasar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Tem razão. Beleza, depois de comer eu volto direto pro trabalho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "Nio, você me ajuda?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "Claro! Se a gente fizer juntas, acho que a gente termina amanhã de manhã!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x23,
+            "msg_string": "Vamo lá! Ebaaa!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "Tô com a sensação de que tinha uma entrega pra fazer em Vierzeberg..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x25,
+            "msg_string": "Acertou! Hmhmhm, você tá ficando mais responsável!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x26,
+            "msg_string": "Eu fiz um monte de viagens e treinei bastante enquanto você tava fora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x27,
+            "msg_string": "Acho que vou sair amanhã de manhã. Quer vir comigo, Nio?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x45,
+            "expr_id": 0x2,
+            "msg_id": 0x28,
+            "msg_string": "Ooh, quero, quero! Não me deixa aqui!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x29,
+            "msg_string": "Hmhm, tá bom. Então vamo terminar logo as coisas hoje e-"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0x2a,
+            "msg_string": "E arrumar as coisas pra amanhã! Deixa as malas comigo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x2b,
+            "msg_string": "Ah, verdade, chegou uma carta do<CR>Sr. Harry...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x2c,
+            "msg_string": "Ele disse que tem algo especial pra gente. O que será que é...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x15e,
+            "expr_id": 0x0,
+            "msg_id": 0x2d,
+            "msg_string": "Sério? Aposto que é muito legal!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x15f,
+            "expr_id": 0x0,
+            "msg_id": 0x2e,
+            "msg_string": "Talvez ele tenha achado uma ruína nova.<CR>Ou arrumado alguma coisa legal."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x2f,
+            "msg_string": "Parece ser bem divertido. Eu quero ir ver também...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x30,
+            "msg_string": "Você adora mesmo os hobbies do Sr. Harry, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x31,
+            "msg_string": "Aham. Ei, posso ir junto com você?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x32,
+            "msg_string": "Claro. O Sr. Harry com certeza vai ficar feliz se você for junto."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x33,
+            "msg_string": "Então tá decidido. Amanhã, a gente vai pra Vierzeberg ver essa tal coisa especial dele!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x34,
+            "msg_string": "...Bom, não tem nenhum pedido urgente. E eu consegui adiantar muita coisa hoje..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x15e,
+            "expr_id": 0x0,
+            "msg_id": 0x35,
+            "msg_string": "Ah, sério? Então acho que a gente não precisa se matar de trabalhar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x15f,
+            "expr_id": 0x0,
+            "msg_id": 0x36,
+            "msg_string": "Mana, você tá trabalhando sem parar nesses últimos dias."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x37,
+            "msg_string": "Acho melhor você dar uma pausa..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x38,
+            "msg_string": "Hum... mas ainda tenho um monte de trabalho, se eu pegar leve agora, os prazos vão me pegar de surpresa rapidinho..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x39,
+            "msg_string": "Nada disso! Se você trabalhar demais e acabar desmaiando, só vai dar dor de cabeça!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0x3a,
+            "msg_string": "Uma boticária de primeira tira uma folga quando pode! Descansar também faz parte do trabalho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x3b,
+            "msg_string": "É, você tem razão. Então acho que vou pegar leve hoje..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x3c,
+            "msg_string": "...Ah, é mesmo, esqueci de uma coisa importante. Tem um negócio que eu preciso pesquisar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x3d,
+            "msg_string": "Você precisa estudar? Mas mana, você já é boa o bastante para ser professora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x3e,
+            "msg_string": "Haha, eu ainda não tô num nível em que me sentiria à vontade ensinando alguém."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x3f,
+            "msg_string": "Ainda tem um monte de coisas que eu não sei. Ainda tenho que ralar muito."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x40,
+            "msg_string": "Talvez seja mais por puro interesse em alquimia do que por obrigação de estudar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x13c,
+            "expr_id": 0x4,
+            "msg_id": 0x41,
+            "msg_string": "Eu não gosto muito de ler livros..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x42,
+            "msg_string": "Então, você quer ficar em casa?<CR>Eu vou ficar fora por uns dias."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x13d,
+            "expr_id": 0x4,
+            "msg_id": 0x43,
+            "msg_string": "Aaah, eu não quero isso!<CR>Eu vou com você!"
+        }
+    ]
+}

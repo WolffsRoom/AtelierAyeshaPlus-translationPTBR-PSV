@@ -1,0 +1,259 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC03_LIN_060.ebm",
+    "nb_messages": 0x1c,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0x0,
+            "msg_string": "*suspiro* Que chatice..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x1,
+            "msg_string": "O que foi? Não é do seu feitio suspirar assim, Linca."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd1,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "A Marion me falou outra coisa absurda de novo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd1,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "Ela me disse para fazer amigos. Não tem como eu conseguir fazer uma coisa tão difícil assim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "msg_string": "(Sério...?)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd1,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "Tentei conversar com o pessoal da cidade, mas ainda não consegui fazer um amigo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd1,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "Não me parece que vou conseguir bater a meta de quantidade..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "msg_string": "(Meta de quantidade...? Linca, acho que não é assim que se fala...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Hã, se não tiver problema pra você,<CR>eu vou ser sua amiga!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Na verdade, eu acho que a gente já é amiga."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd2,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Ayesha...? Não. O meu dever é proteger você. Você não é minha amiga."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x169,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "A Marion também não ia aprovar. Tenho certeza de que ela me daria uma bronca por trapacear."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Eu acho que não. Tenho certeza de que ela ficaria feliz."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x168,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Porém... estaria tudo bem alguém como eu ser sua amiga?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Não tem motivo pra você não ser.<CR>Eu ficaria muito feliz também!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x16b,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "...Entendido. Obrigada.<CR>Ayesha, você é a minha primeira amiga."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Como sua amiga, vou dar o meu melhor de agora em diante. Espero que não se importe com os meus pedidos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Não precisa ser tão formal. A gente é amiga agora, então vamos conversar de um jeito mais casual."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "De um jeito mais casual...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Tipo falar de coração aberto, sem ser muito rígida, mais solta e tranquila..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Entendi. Então é isso que amigos são... Agora, se me der licença..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "E aí, eu sou a Linca."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "A-Acho que assim tá bom... Ficou um pouco monótono, mas acho que combina com você,<CR>e é adorável."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Entendi. De qualquer forma, mesmo que tenha sido só um, sinto que cumpri com meu dever."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Vou lá relatar pra Marion."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x19,
+            "msg_string": "Agora eu tenho uma amiga. Tô muito... feliz."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Só faltam 99...<CR>Eu consigo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1b,
+            "msg_string": "(Só 99...? Eu queria ajudar,<CR>mas isso foge do meu controle...)"
+        }
+    ]
+}

@@ -1,0 +1,274 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC06_NIO_080.ebm",
+    "nb_messages": 0x1e,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Oi, Marion e Linca. Tô entrando."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x19f,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Ayesha, bem-vinda. Ah, essa garota seria a...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Minha irmã, Nio. Ela voltou a salvo,<CR>então a gente passou aqui pra dar um oi."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Vem cá, Nio."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Prazer em te conhecer, Marion.<CR>Mana... quer dizer, minha irmã<CR>me falou muito sobre você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Fiquei sabendo que você se preocupou bastante comigo várias vezes, então muito obrigada!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x6,
+            "msg_string": "Nossa, como você é fofa.<CR>Hmhmhm, de nada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0x7,
+            "msg_string": "E é um prazer te conhecer também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Prazer em te conhecer, Nio."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x19f,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Sim. E, por favor, continue cuidando tanto da minha irmã quanto de mim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Nossa, ela é uma irmã tão educada.<CR>Tô com inveja."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x165,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Ué? Por que você tá com inveja?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x1e2,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Porque eu passo um sufoco pra lidar com uma criança mal-educada todo dia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x16b,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Entendi. Parece ser bem problemático."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0xe,
+            "msg_string": "Hehehe, Mana, fui elogiada!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Se você ficar muito empolgada, ela vai descobrir que você é super hiperativa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Ah... ops."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Uhum, ela com certeza é fofa. Pensando bem, eu já tive uma fase assim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x122,
+            "expr_id": 0x3,
+            "msg_id": 0x12,
+            "msg_string": "Hã?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15d,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Por que você tá me questionando...? Era só você ter fingido que não notou nada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Me desculpa. Eu não consegui evitar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "A Nio ficaria bem com roupas parecidas com as da Linca."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Talvez eu devesse preparar um conjunto pra Nio também..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Nio, por favor, foge. A mania ruim da Marion tá atacando."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Se você não se apressar, vai ser forçada a usar roupas assim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Ué? Mas essas roupas são super fofas!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x1a,
+            "msg_string": "Não sei se iam ficar bem em mim ou não, mas ficam ótimas em você!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Não, essas roupas não oferecem proteção contra lâminas. Não recomendo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Eu acho que as garotas normalmente não escolhem as roupas baseadas em se elas protegem contra lâminas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Nio, por favor, não cresça pra virar que nem essa moça aqui..."
+        }
+    ]
+}

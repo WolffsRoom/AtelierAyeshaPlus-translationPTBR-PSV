@@ -1,0 +1,439 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC09_ERN_080.ebm",
+    "nb_messages": 0x30,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x210,
+            "name_id": 0x26,
+            "extra_id": 0x1f7,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "msg_string": "Com licença.<CR>A boticária tá aí?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x210,
+            "name_id": 0x26,
+            "extra_id": 0x20d,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "msg_string": "Hmm... essa oficina continua pequena e velha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x211,
+            "name_id": 0x27,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "msg_string": "Com certeza. Chega a dar tédio..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x210,
+            "name_id": 0x26,
+            "extra_id": 0x20e,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "msg_string": "Mas, o remédio é feito aqui. Acho que ser velho tem lá suas vantagens..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x211,
+            "name_id": 0x27,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "msg_string": "Eu concordo plenamente com o senhor."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "O-Oi.<CR>Hum, vou servir um pouco de chá pra vocês..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x210,
+            "name_id": 0x26,
+            "extra_id": 0x20e,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "msg_string": "Não precisa. A hospitalidade dos plebeus é intragável."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x210,
+            "name_id": 0x26,
+            "extra_id": 0x213,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "msg_string": "Enfim, trago boas notícias. Eu ficaria muito feliz se me desse uma resposta favorável."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Ah, o que é? Um pedido de remédio?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x210,
+            "name_id": 0x26,
+            "extra_id": 0x20e,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x9,
+            "msg_string": "É algo numa escala bem maior que isso. Mas também não é nada ruim pra você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x210,
+            "name_id": 0x26,
+            "extra_id": 0x20e,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "msg_string": "Eu, Modus, gostei muito das suas habilidades."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x210,
+            "name_id": 0x26,
+            "extra_id": 0x20e,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xb,
+            "msg_string": "Então, pensei em te contratar pessoalmente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x210,
+            "name_id": 0x26,
+            "extra_id": 0x213,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xc,
+            "msg_string": "Pode contar com uma oficina maior e grana sobrando pra bancar tudo. E, claro, você também vai receber muito bem por isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x211,
+            "name_id": 0x27,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "msg_string": "É uma oferta e tanto."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x210,
+            "name_id": 0x26,
+            "extra_id": 0x20d,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xe,
+            "msg_string": "Se quiser, pode começar até hoje mesmo. E aí, o que acha?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Ah, hum, parece uma boa ideia, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x210,
+            "name_id": 0x26,
+            "extra_id": 0x20e,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x10,
+            "msg_string": "O quê? Vai recusar a minha proposta? Te garanto que não vai achar uma oferta melhor em lugar nenhum."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x211,
+            "name_id": 0x27,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x11,
+            "msg_string": "Ela perdeu o juízo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x210,
+            "name_id": 0x26,
+            "extra_id": 0x20e,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "msg_string": "Vendendo seus remédios no atacado pro Ernie, você não ganha muita grana, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x210,
+            "name_id": 0x26,
+            "extra_id": 0x213,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13,
+            "msg_string": "Se deixar comigo, eu consigo vender pra todo canto. Você vai ficar muito rica."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x14,
+            "msg_string": "Quuueee? Hum, eu não tô muito interessada nesse tipo de negócio..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x79,
+            "expr_id": 0x3,
+            "msg_id": 0x15,
+            "msg_string": "Sr. Modus! Visitar a Ayesha direto assim não fazia parte do acordo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x210,
+            "name_id": 0x26,
+            "extra_id": 0x20e,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "msg_string": "Ah, Ernie, fala com ela. Tá difícil fazer essa garota entender."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x210,
+            "name_id": 0x26,
+            "extra_id": 0x213,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x17,
+            "msg_string": "Eu falei que vou contratar ela direto, mas ela tá hesitando."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x7a,
+            "expr_id": 0x3,
+            "msg_id": 0x18,
+            "msg_string": "Eu achei que já tinha te falado que isso não ia ser possível."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x7b,
+            "expr_id": 0x3,
+            "msg_id": 0x19,
+            "msg_string": "Eu te falei que ela não pode ficar focada só em fazer remédios agora por problemas pessoais!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x210,
+            "name_id": 0x26,
+            "extra_id": 0x20f,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1a,
+            "msg_string": "O quê? Não tava sabendo disso não."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x211,
+            "name_id": 0x27,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1b,
+            "msg_string": "É a primeira vez que ouço isso também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x7d,
+            "expr_id": 0x3,
+            "msg_id": 0x1c,
+            "msg_string": "É verdade que... eu posso ter sido meio discreto... e não falei exatamente com essas palavras, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x210,
+            "name_id": 0x26,
+            "extra_id": 0x1f7,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1d,
+            "msg_string": "Ernie, sempre tive você em alta conta..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x210,
+            "name_id": 0x26,
+            "extra_id": 0x214,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1e,
+            "msg_string": "Mas você, um mero mercador, tá tentando ir contra os meus planos?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x211,
+            "name_id": 0x27,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1f,
+            "msg_string": "Isso é um absurdo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0x20,
+            "msg_string": "Peço sinceras desculpas, mas não vou mudar minha resposta."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0x21,
+            "msg_string": "Eu não posso deixar a Ayesha trabalhar pra você!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x210,
+            "name_id": 0x26,
+            "extra_id": 0x20d,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x22,
+            "msg_string": "Que insolência! Você tem ideia de com quem tá falando?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "H-Hum... eu não quero que vocês briguem..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x210,
+            "name_id": 0x26,
+            "extra_id": 0x20e,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x24,
+            "msg_string": "Fica fora disso!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0x25,
+            "msg_string": "Ai! D-Desculpa..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x210,
+            "name_id": 0x26,
+            "extra_id": 0x20e,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x26,
+            "msg_string": "Beleza, acabei por aqui. Isso foi incrivelmente desagradável!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x210,
+            "name_id": 0x26,
+            "extra_id": 0x20e,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x27,
+            "msg_string": "Que fique claro, a gente não tem negócio nenhum com você!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x7a,
+            "expr_id": 0x3,
+            "msg_id": 0x28,
+            "msg_string": "Eu não posso arrumar problema pra minha grande amiga."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x7d,
+            "expr_id": 0x3,
+            "msg_id": 0x29,
+            "msg_string": "Eu me recuso a fazer negócios com quem impõe condições unilaterais que só beneficiam a si mesmo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x210,
+            "name_id": 0x26,
+            "extra_id": 0x20f,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2a,
+            "msg_string": "Hmph. Nem pense que você vai poder voltar atrás nessa decisão!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x211,
+            "name_id": 0x27,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2b,
+            "msg_string": "Você com certeza vai se arrepender disso!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0x2c,
+            "msg_string": "H-Hum... acho que o negócio ficou meio sério..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2d,
+            "msg_string": "Não, não posso causar mais problemas pra você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2e,
+            "msg_string": "Enfim, desculpa por ter alterado a voz. Eu volto depois pra pedir desculpas direito..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2f,
+            "msg_string": "(O Ernie tava tão pra baixo...<CR>Espero que ele fique bem...)"
+        }
+    ]
+}

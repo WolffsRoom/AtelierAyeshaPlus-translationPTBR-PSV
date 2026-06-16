@@ -1,0 +1,258 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC16_RAN_060.ebm",
+    "nb_messages": 0x1c,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Nossa, que melodia linda...<CR>Só pode ser o Ranun."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Oi, Ranun. Parece que você tá indo bem."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Você largou o trabalho com o Ernie?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "É claro que sim. Eu não podia continuar sofrendo passando por uma experiência tão amarga daquelas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Esperei minha chance e dei no pé. Eu não tenho o menor jeito pra trabalho pesado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "A-Ah, entendi..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x188,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Já fiz todo o trabalho braçal que eu conseguia aguentar pro resto da vida. Já dei o meu melhor."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x18a,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Agora quero continuar caçando minhas músicas do meu próprio jeito."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x8,
+            "msg_string": "Hahaha, bom, acho que isso é bem a sua cara mesmo, Ranun."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Será que foi graças ao Ernie que você conseguiu voltar a tocar...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xe1,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "Eu odeio ter que admitir... mas a minha experiência com ele me apresentou a um tipo de música totalmente novo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xe4,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "Este mundo não é feito só de doce néctar.<CR>Às vezes, a gente precisa engolir um remédio<CR>bem amargo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xe7,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Foi bom eu ter conseguido aprender isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Hahaha, Ranun, seus valores são muito únicos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x188,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Mas de qualquer forma, fico pensando no que o Ernie quer alcançar trabalhando tão duro assim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x18b,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Ele acorda cedinho de manhã, trabalha, almoça, trabalha... Ele até trabalha de noite..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x18f,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Será que ele curte mesmo essa vida de não fazer nada além de trabalhar...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Acho que o Ernie ama o trabalho dele tanto quanto você ama a sua música."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "O Ernie tem orgulho do trabalho dele."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x18a,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Mesmo assim, isso vai muito além da minha compreensão. Tenho certeza que dinheiro não é tudo nesse mundo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Pode até ser, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x157,
+            "expr_id": 0x4,
+            "msg_id": 0x15,
+            "msg_string": "Ah...? Argh, droga! Consigo ouvir a carroça do Ernie!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x16,
+            "msg_string": "O s-som da carroça dele?<CR>Não tô ouvindo nada..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x159,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Não, não tem erro. Minha audição é muito superior à de pessoas normais."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Ser amado pelos deuses da música não é à toa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x15,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Vou ser arrastado de volta pro mundo do trabalho do Ernie."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x19f,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Tenho que fugir pros céus! Te vejo depois, Ayesha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x1b,
+            "msg_string": "Ah, beleza... <CR>Pros céus...?"
+        }
+    ]
+}

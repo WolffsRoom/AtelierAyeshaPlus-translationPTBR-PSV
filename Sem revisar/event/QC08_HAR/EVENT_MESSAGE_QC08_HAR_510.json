@@ -1,0 +1,489 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC08_HAR_510.ebm",
+    "nb_messages": 0x36,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x1a0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Olá. Desculpa incomodar, mas trago boas notícias!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Além disso, eu queria te agradecer, então vai se animando."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x2,
+            "msg_string": "Ah... hã, agradecer pelo quê?<CR>Eu fiz alguma coisa?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xf5,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "Argh... Lembra de como você participou do meu Emocionante Concurso de Tesouros?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xf7,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Fiquei muito impressionado com o brilho nos seus olhos e sua busca por conhecimento e razão."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "msg_string": "(E-Eu tava buscando tanto assim...?<CR>Meio que não lembro disso.)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xb0,
+            "expr_id": 0x3,
+            "msg_id": 0x6,
+            "msg_string": "É um evento especial que sempre atrai muitos tesouros, mas não era muito popular com o público geral."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xb1,
+            "expr_id": 0x3,
+            "msg_id": 0x7,
+            "msg_string": "A gente tava com dificuldade de achar participantes suficientes, e eu já tava começando a ficar impaciente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xb1,
+            "expr_id": 0x3,
+            "msg_id": 0x8,
+            "msg_string": "É lamentável! Itens acadêmica e historicamente raros do mundo todo são apresentados lá."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xb2,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Porém, não se engane, você tem talento!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x18,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Dito isso, você gostaria de irmos juntos atrás dos mistérios que adormecem na ruína!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Mistérios que adormecem nas ruínas...? Haha, posso estar interessada..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x56,
+            "expr_id": 0x2,
+            "msg_id": 0xc,
+            "msg_string": "A Marietta também me falou do remédio que você faz!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x5e,
+            "expr_id": 0x2,
+            "msg_id": 0xd,
+            "msg_string": "É o nosso produto mais vendido!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Hehehe, não sabia que era tão popular assim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Fico muito feliz que as pessoas estejam tão felizes em usar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x58,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Oh, Ayesha, eu preciso expressar minha gratidão de alguma forma!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Porém, não consegui pensar em nada que te deixaria feliz."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Pensei em dinheiro, mas isso é muito deselegante. Aí eu tive uma ótima ideia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15d,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Na verdade, eu gerencio um grupo de grande autoridade acadêmica."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "E como um dos membros dele, tava pensando em te dar um presente intangível!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x18,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Não precisa se acanhar! Como presidente do Grupo das Ruínas de Mistério, se você quiser..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x22,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Eu gostaria de te presentear com o título de membro honorária!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x17,
+            "msg_string": "M-Membro honorária...<CR>Hã... tudo bem."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x24,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Hmhm, só \"tudo bem\"? É a maior honra que um entusiasta de antiguidades pode receber."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x19,
+            "msg_string": "Não, não foi isso que eu quis dizer. Hã... eu acho que não... preciso desse título."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x141,
+            "expr_id": 0x4,
+            "msg_id": 0x1a,
+            "msg_string": "O-O-O quê!? Você não precisa dessa honra!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x143,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Hmm... parece que você é uma pessoa muito mais interessante do que eu imaginava."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Mas isso é um problema. Me pergunto se tem alguma outra coisa que eu possa te dar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Já sei, então vamos fazer isso!<CR>Acho que você vai aceitar isso aqui!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Em um lugar razoavelmente perto desta cidade, uma ruína foi descoberta."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "É um lugar onde artefatos antigos de vidro foram escavados, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Depois de escavar a terra, uma ruína inteira feita de vidro foi descoberta! Né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "Hã? Regina?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xb0,
+            "expr_id": 0x3,
+            "msg_id": 0x22,
+            "msg_string": "Regina, eu que queria ter contado essa parte pra ela."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "Ah, hahaha, desculpa. Eu ouvi sem querer e não resisti."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "Como uma prospectora, isso é algo que eu não podia ignorar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xb2,
+            "expr_id": 0x0,
+            "msg_id": 0x25,
+            "msg_string": "É o mesmo pra mim, também. Eu simplesmente não consigo ficar parado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x18,
+            "expr_id": 0x0,
+            "msg_id": 0x26,
+            "msg_string": "Porém, sou um homem ocupado. Então, infelizmente, investigar em primeira mão seria muito difícil..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x22,
+            "expr_id": 0x0,
+            "msg_id": 0x27,
+            "msg_string": "Então é o seguinte. Ayesha, gostaria de pedir que investigue ela pra mim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x23,
+            "expr_id": 0x0,
+            "msg_id": 0x28,
+            "msg_string": "Você poderia me reportar as coisas que vir e encontrar lá na ruína?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x24,
+            "expr_id": 0x0,
+            "msg_id": 0x29,
+            "msg_string": "Por essas informações, vou te pagar uma bela recompensa!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2a,
+            "msg_string": "É um trabalho? Então... eu também tô interessada nessa ruína."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2b,
+            "msg_string": "(Se a ruína e a Nio tiverem alguma conexão, talvez eu consiga achar algumas pistas por lá.)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x2c,
+            "msg_string": "Certo, então tá decidido.<CR>Conto com você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x2d,
+            "msg_string": "Hahaha, Harry, você gosta de ruínas, mas não gosta de lugares escuros e estreitos, não é?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xb0,
+            "expr_id": 0x3,
+            "msg_id": 0x2e,
+            "msg_string": "Regina! Achei que tinha prometido que nunca ia tocar nesse assunto!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xb2,
+            "expr_id": 0x0,
+            "msg_id": 0x2f,
+            "msg_string": "Você não veio me ver pra falar de alguma coisa? Vou falar com você ali, então vai lá e me espera."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x19a,
+            "expr_id": 0x0,
+            "msg_id": 0x30,
+            "msg_string": "Tá bom, entendi. Bom, a gente se vê depois, Ayesha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x18,
+            "expr_id": 0x0,
+            "msg_id": 0x31,
+            "msg_string": "Ruínas são palácios de tesouros para tecnologia e conhecimento. Você pode até acabar achando algo que goste."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x22,
+            "expr_id": 0x0,
+            "msg_id": 0x32,
+            "msg_string": "Agora, deixa eu te pagar um adiantamento.<CR>Por favor, aceite sem cerimônia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x24,
+            "expr_id": 0x0,
+            "msg_id": 0x33,
+            "msg_string": "Você pode ir investigar quando der na sua agenda. Vou ficar esperando notícias suas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x34,
+            "msg_string": "(Não sei o que vou encontrar,<CR>mas é melhor eu ir lá primeiro.)"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Você recebeu 500 Cole."
+        }
+    ]
+}

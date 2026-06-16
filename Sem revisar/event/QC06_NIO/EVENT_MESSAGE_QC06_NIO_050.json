@@ -1,0 +1,186 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC06_NIO_050.ebm",
+    "nb_messages": 0x14,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ebaaa, baita vitória a nossa.<CR>Aham!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x1,
+            "msg_string": "Niooo! Que bom que você tá a salvo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x138,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "Q-Que foi, Mana? Você tá super pálida."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0x3,
+            "msg_string": "Se machucou em algum lugar?<CR>Aconteceu alguma coisa?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x13a,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Umm, acho que eu tô bem.<CR>Mana, você se preocupa demais."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Ah, mas acho que dei uma raladinha no joelho..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0x6,
+            "msg_string": "Pera aí! Vou passar uma pomada e botar um curativo agora mesmo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Credo, eu tô bem. Você tá exagerando, Mana."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x78,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Não, pode infeccionar e virar algo bem pior."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Anda, toma logo esse remédio.<CR>Você vai se sentir melhor rapidinho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "E passa um pouco dessa pomada...<CR>E põe esse adesivo curativo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x138,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "Q-Q-Que isso! Não preciso desse monte de remédio..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x13a,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Eu tô ótima! Tá vendo!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "S-Sério? Se você tá dizendo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Mas me avisa na hora se começar a doer quando você for andar, beleza?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Eu confio muito nos meus remédios, então vou garantir que você não sinta nadinha de dor!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0x10,
+            "msg_string": "Mana, isso não é meio assustador...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Ué? Eu falei alguma coisa estranha?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xd2,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Nossa, você não tem jeito mesmo, Mana. Vem, vamo só continuar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x13,
+            "msg_string": "Ei, Nio! É perigoso sair correndo!"
+        }
+    ]
+}

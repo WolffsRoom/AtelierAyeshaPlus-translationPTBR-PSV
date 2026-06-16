@@ -1,0 +1,339 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM08_ED1_510.ebm",
+    "nb_messages": 0x25,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0x0,
+            "msg_string": "Nio... Onde será que ela tá...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc5,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "Faz um tempinho desde que vi aquele homem de óculos..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc8,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "Tentei dar o meu melhor sozinha, mas ainda não consegui salvar a Nio..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc9,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "Não tenho nem ideia de como salvar ela..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc5,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "Faz um tempinho que eu não vejo o<CR>Sr. Keith..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc5,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "Conheci um monte de gente, aprendi a sintetizar várias coisas, fui pra lugares diferentes..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc8,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "Mas ainda não consigo salvar a Nio..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc9,
+            "expr_id": 0x4,
+            "msg_id": 0x7,
+            "msg_string": "Talvez seja impossível pra mim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Provavelmente. Você demorou tempo demais."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "V-Você é...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "Sr. Keith!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Desculpe a intromissão. Terminei minha pesquisa nestas terras, e tava planejando ir embora hoje, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Tenho uma coisa pra te entregar. Vem aqui fora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "L-Lá fora...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "Ni...o...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Mana!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Nio, como você veio parar aqui...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Aquele moço me salvou! Eu tava num lugar muito escuro..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "E aí ouvi a voz dele do nada, então andei na direção de onde vinha..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "E então consegui sair. Waaah, eu fiquei com tanto medo, mana...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Nio... Que bom. Que bom mesmo...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Enquanto eu tava investigando uma certa ruína, por coincidência acabei encontrando a sua irmã."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Acabei roubando o seu propósito de você.<CR>Por favor, me perdoe."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x17,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Apesar de que a culpa é um pouco sua por ter demorado tanto..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Não, imagina. Você fez uma coisa que eu não consegui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x91,
+            "expr_id": 0x3,
+            "msg_id": 0x19,
+            "msg_string": "Você \"não conseguiu\"...?<CR>Você acredita mesmo nisso?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Hã? Como assim...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x93,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Na minha opinião, você era totalmente capaz de resgatar sua irmã com as suas próprias forças."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "O motivo de não ter conseguido... é provavelmente por causa de algo que te faltou."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0x1d,
+            "msg_string": "Algo que me faltou...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xe1,
+            "expr_id": 0x4,
+            "msg_id": 0x1e,
+            "msg_string": "Conhecimento, ou habilidade, ou talvez outra coisa... Não sei bem o que pode ser."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xe3,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Mas tenho certeza de que... não foi o seu talento pra alquimia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Ou isso, ou você não levou a alquimia tão a sério quanto eu pensava."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x15,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "Pense bem no que te faltou. Adeus."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x22,
+            "unknown2": 0x1,
+            "msg_string": "Ayesha achava que tinha se esforçado muito durante os<CR>3 anos. O que tinha faltado? O desejo de<CR>salvar a Nio com as próprias mãos não se realizou."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x23,
+            "unknown2": 0x1,
+            "msg_string": "A Nio voltou a salvo graças ao Keithgriff,<CR>mas Ayesha ficou com sentimentos mistos. Ela tava<CR>aliviada, mas frustrada por sua incapacidade."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x24,
+            "unknown2": 0x1,
+            "msg_string": "Ela continuou dando duro e teve muitas<CR>grandes conquistas como uma alquimista...<CR>Mas essa é uma outra história..."
+        }
+    ]
+}

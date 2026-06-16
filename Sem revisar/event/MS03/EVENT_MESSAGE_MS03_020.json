@@ -1,0 +1,124 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MS03_020.ebm",
+    "nb_messages": 0xd,
+    "messages": [
+        {
+            "type": 0x0,
+            "voice_id": 0x233,
+            "name_id": 0x55,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "msg_string": "Cue cuuue!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x81,
+            "expr_id": 0x3,
+            "msg_id": 0x1,
+            "msg_string": "Oooh, ele parece que vai..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x125,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "O-O que a gente faz?<CR>Será que a gente foge...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x88,
+            "expr_id": 0x3,
+            "msg_id": 0x3,
+            "msg_string": "Nada disso. Se não dá pra conversar com o oponente, você só precisa usar os punhos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x83,
+            "expr_id": 0x3,
+            "msg_id": 0x4,
+            "msg_string": "Bora, vamos acabar logo com isso!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Numa batalha com aliados, você pode levar vantagem se ajudando."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "A Barra de Suporte vai aumentar a cada ação tomada. Você pode dar suporte aos seus aliados quando a barra estiver cheia."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Essa ação se chama Comando Ativo. Seu Comando Ativo pode ser executado quando certas condições forem cumpridas."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Essas condições dependem de a sua Barra de Suporte estar cheia e da posição do seu alvo."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Quando um Comando Ativo estiver disponível, alguns botões vão aparecer na tela. Aperte o botão mostrado para executar o efeito de suporte."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Cada efeito gasta um tanto da sua Barra de Suporte, e alguns podem até gastar uma ou duas barras inteiras."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Use o Comando Ativo pra proteger um personagem de tomar dano, ou pra derrotar todos os inimigos de uma vez só."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Use essas mecânicas pra virar o jogo da batalha a seu favor."
+        }
+    ]
+}

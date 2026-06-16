@@ -1,0 +1,317 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC11_FRE_630.ebm",
+    "nb_messages": 0x23,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ah, Ayesha. Eu estava num estado de puro tédio. Bem-vinda."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Eu vim te pedir um favor.<CR>Não vai ser nada chato."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Posso confiar nas suas palavras? As engrenagens do meu coração estão rodando mais rápido com a sua confiança."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1a4,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Ta-da! Dá uma olhada nisso! Eu trouxe um pedaço de pão que parece super gostoso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x117,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "...Eu não posso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x5,
+            "msg_string": "O que foi, Srta. Odelia? Você não gosta desse tipo de coisa?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x118,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "Ayesha, não posso comer comida.<CR>Meus dentes vão doer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x118,
+            "expr_id": 0x4,
+            "msg_id": 0x7,
+            "msg_string": "Eu não gosto de sentir dor. Eu também não posso comer doces..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x8,
+            "msg_string": "É verdade, você teve cárie."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x119,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Sim. Fui restaurada muito mais rápido do que eu esperava, mas foi uma experiência bem amarga."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Fica tranquila. Se você escovar os dentes depois de comer, não vai ter cáries."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Eu adoro doces, mas nunca tive cárie."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Eu não sabia disso.<CR>Então... eu vou comer esse pão."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Ah, pera aí. Tenho um pedido."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Eu vim pedir a sua opinião sobre o pão depois que você comer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Então, eu quero que você coma devagar e saboreie..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x14e,
+            "expr_id": 0x4,
+            "msg_id": 0x10,
+            "msg_string": "Isso é uma ordem?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Ah, não, não é nada disso, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x150,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Só o meu mestre tem permissão pra me dar ordens. Senão, eu ajo de acordo com a minha própria vontade."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Sendo assim, vou comer do jeito que eu quiser."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x1b9,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x14,
+            "msg_string": "Agora, com licença...<CR>*nhac* *nhom* *nhom* *nhac* *nhom* *nhom*"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x15,
+            "msg_string": "Nossa, precisava comer tão rápido?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x1ba,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "msg_string": "I-Isso é...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x1ba,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x17,
+            "msg_string": "Esse sabor, essa textura... Não é só doce, tem muita profundidade nisso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x1bb,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "A essência não é de um pão comum, e uma melodia toca na minha língua, igual a uma bela sinfonia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Uma essência que não é de um pão comum e uma melodia... Entendi."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x73,
+            "expr_id": 0x2,
+            "msg_id": 0x1a,
+            "msg_string": "Ele foi feito com vários materiais raros. Deve ter sido difícil conseguir tudo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1b,
+            "msg_string": "(Entendi... Ué? Mas isso não é...?)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x74,
+            "expr_id": 0x2,
+            "msg_id": 0x1c,
+            "msg_string": "Isso merece ser chamado de a joia mais perfeita. Ayesha, esse pão é maravilhoso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x75,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Ayesha, eu gostaria de pedir pra você trazer esse pão de novo na sua próxima visita."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Ah, sei não. Se é feito com ingredientes raros como você falou, não sei se dá pra fazer o mesmo pão de novo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x117,
+            "expr_id": 0x4,
+            "msg_id": 0x1f,
+            "msg_string": "Hmm... O-O...<CR>O que...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x118,
+            "expr_id": 0x4,
+            "msg_id": 0x20,
+            "msg_string": "Nunca mais poder comer esse pão...? Pode existir um fim tão cruel assim?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "Ah, não...<CR>Hmm, me desculpa mesmo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x22,
+            "msg_string": "(Eu consegui fazer ela ficar feliz, mas aí deixei ela triste... Que complicado.)"
+        }
+    ]
+}

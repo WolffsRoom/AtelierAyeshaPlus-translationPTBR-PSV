@@ -1,0 +1,142 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC16_RAN_070.ebm",
+    "nb_messages": 0xf,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ei Ranun, antes de você descer, carrega isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Por quê? Já te falei que me aposentei do trabalho braçal."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x17,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Sua consciência não dói por fazer um fracote que nem eu carregar uma coisa tão pesada?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Qual é. Você vai morder a língua se continuar falando."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xbe,
+            "expr_id": 0x3,
+            "msg_id": 0x4,
+            "msg_string": "Hmph. Um cantor de primeira que nem eu<CR>nunca faria uma coisa tão<CR>feia como‐aii!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Tá vendo, o que foi que eu disse? Ranun, você sempre fala demais..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xc3,
+            "expr_id": 0x3,
+            "msg_id": 0x6,
+            "msg_string": "É assim que eu vivo. Meu Deus, não quero carregar nada que pese mais do que o meu instrumento."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Eu te dei uma carona até aqui, não dei?<CR>Vou considerar isso pra cobrir o<CR>preço da sua passagem."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xbc,
+            "expr_id": 0x3,
+            "msg_id": 0x8,
+            "msg_string": "Que golpe baixo. Se é assim, por que você não me avisou antes?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Porque eu sabia que você ia reclamar se eu falasse."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15d,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Quando a gente terminar, eu te pago a refeição que você quiser, beleza?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xe5,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "Você acha que pode me fisgar com comida? Você tá me subestimando demais."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xe8,
+            "expr_id": 0x4,
+            "msg_id": 0xc,
+            "msg_string": "Mas, se você tá dizendo qualquer refeição, então eu vou querer o prato do dia do White Crow..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15f,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "A comida depois do trabalho fica até mais gostosa. Bora lá, vamos acabar logo com isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xe,
+            "msg_string": "(Ele caiu direitinho na lábia do Ernie. Mas o Ranun parece estar se divertindo também...)"
+        }
+    ]
+}

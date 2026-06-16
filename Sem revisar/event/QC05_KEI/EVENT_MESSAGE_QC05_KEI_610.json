@@ -1,0 +1,447 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC05_KEI_610.ebm",
+    "nb_messages": 0x31,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "O céu é... tão gigante. Sinto que vou ser sugada se eu continuar olhando pra cima."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "O que você tá fazendo aqui com essa cara de boba?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Ah, oi.<CR>...Eu só tava olhando pro céu."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x17,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Hum... É tão interessante assim?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Eu nunca enjoo de olhar pra essas ilhas flutuantes e pras nuvens passando."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Hmph, como você é despreocupada. Eu achei que você estaria mais nervosa agora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Bem, eu tava morrendo de nervosismo até chegar aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Mas olhar essa paisagem daqui de cima me acalmou um pouco."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Eu tô preocupada com a Nio, mas percebi que ficar nervosa demais também não ia adiantar nada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "É, você tem razão. Então ficar olhando pro céu de bobeira até que teve um efeito positivo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "É uma vista tão linda, seria um desperdício se eu não aproveitasse."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xe1,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "Linda... Você sabe como esse vale enorme surgiu?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Não... Não era um vale lindo desde sempre?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xe3,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Não era. As terras por aqui eram super ricas em minérios especiais e metais raros diferentes."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "E era cheia de espíritos que moravam dentro deles. Foi assim que essa paisagem fantástica se revelou."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "É o que foi registrado nos livros antigos. Isso foi a apenas algumas centenas de anos atrás."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Os restos do que sobrou depois que tudo foi arrancado daqui... é essa a paisagem que você tá vendo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x11,
+            "msg_string": "Arrancado...? P-Por quem?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x91,
+            "expr_id": 0x3,
+            "msg_id": 0x12,
+            "msg_string": "Pelos humanos, claro. Cavoucando o chão atrás de recursos... as técnicas de destruição deles chegam a ser admiráveis."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x92,
+            "expr_id": 0x3,
+            "msg_id": 0x13,
+            "msg_string": "Mas pensando bem, isso pode ser a prova das grandes possibilidades da alquimia..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x93,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Pra qualquer um que sabe como esse vale era antes, provavelmente seria uma visão de cortar o coração."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Sério que algo assim aconteceu?<CR>Eu nem sabia..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Mas é interessante que pra você, sem saber da história, esse lugar pareça tão bonito."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Eu acho que a beleza é algo que mora na natureza, e mesmo assim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x17,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "As coisas que foram devastadas pelas mãos humanas também podem ser parte da natureza."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0x19,
+            "msg_string": "As civilizações do passado eram incríveis mesmo. Mas dão um pouco de medo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc5,
+            "expr_id": 0x4,
+            "msg_id": 0x1a,
+            "msg_string": "Será que essas habilidades antigas são magníficas mesmo? Ou..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xe1,
+            "expr_id": 0x4,
+            "msg_id": 0x1b,
+            "msg_string": "Como a alquimia do passado ajudou no desenvolvimento do mundo, e o levou direto pro caminho da extinção..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xe2,
+            "expr_id": 0x4,
+            "msg_id": 0x1c,
+            "msg_string": "Seguir esses passos é um dos objetivos da minha jornada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xe2,
+            "expr_id": 0x4,
+            "msg_id": 0x1d,
+            "msg_string": "Seja com ferramentas de pedra ou alquimia, o que os humanos fazem nunca muda."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xe2,
+            "expr_id": 0x4,
+            "msg_id": 0x1e,
+            "msg_string": "Uma coisa eu posso dizer... transformar um simples erro em algo irreversível é a história da alquimia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc5,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1f,
+            "msg_string": "(Senhor Keith... Ele parece meio triste...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc6,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "A alquimia pode até ter destruído algumas<CR>coisas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "Mas tenho certeza que fez muito bem pras pessoas também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "Tipo curar os doentes, consertar coisas quebradas e deixar a vida mais fácil..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "Tenho certeza de que fez um monte de coisas boas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "Além disso, a alquimia também pode salvar a Nio, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xe3,
+            "expr_id": 0x0,
+            "msg_id": 0x25,
+            "msg_string": "Tem esse lado sim. Mas são os dois lados da mesma moeda."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x26,
+            "msg_string": "O estado atual do mundo mostra qual lado tá ganhando. No caminho que a gente tá, logo vamos estar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x91,
+            "expr_id": 0x3,
+            "msg_id": 0x27,
+            "msg_string": "À beira da extinção."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0x28,
+            "msg_string": "O quê...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x92,
+            "expr_id": 0x3,
+            "msg_id": 0x29,
+            "msg_string": "É só cavar um pouquinho num deserto sem vida e você vai achar materiais tóxicos..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x92,
+            "expr_id": 0x3,
+            "msg_id": 0x2a,
+            "msg_string": "As fontes de água tão sumindo, o que deixa mais difícil conseguir água potável..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x92,
+            "expr_id": 0x3,
+            "msg_id": 0x2b,
+            "msg_string": "Isso é prova de que rolou um desastre no passado que passou muito da capacidade da natureza se curar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc5,
+            "expr_id": 0x4,
+            "msg_id": 0x2c,
+            "msg_string": "Essa é a..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x93,
+            "expr_id": 0x0,
+            "msg_id": 0x2d,
+            "msg_string": "Eu tenho certeza que uma hora você vai entender. Bom, acho que tá na hora de eu ir."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x15,
+            "expr_id": 0x0,
+            "msg_id": 0x2e,
+            "msg_string": "A gente continua esse papo da próxima vez. Até mais."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc5,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2f,
+            "msg_string": "(Pra uma coisa tão horrível ter acontecido com o mundo no passado...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc5,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x30,
+            "msg_string": "(Acho que eu não sei nada sobre alquimia ainda...)"
+        }
+    ]
+}

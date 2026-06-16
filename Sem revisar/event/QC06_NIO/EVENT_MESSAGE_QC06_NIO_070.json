@@ -1,0 +1,390 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC06_NIO_070.ebm",
+    "nb_messages": 0x2b,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ooooi, Ayesha, tá aaaaí?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Quero fazer alguma coooisa. Bora tomar um chá juntas?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Seja bem-vinda, Wilbell!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Ué? Por que você tá aqui!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x4,
+            "msg_string": "Porque tô viajando com a minha Mana. A gente vai dormir aqui essa noite."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "Eita, quem é você...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Muito prazer! Eu sou a irmã da Ayesha, a Nio."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x126,
+            "expr_id": 0x4,
+            "msg_id": 0x7,
+            "msg_string": "Hm, aaah.<CR>Aaaah, hmm..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x127,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "Tá, tá, hmm, tô vendo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Você é a Wilbell, né? Obrigada por sempre ajudar a minha mana."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x128,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Uhum, uhum. Eu ajudo ela suuuper.<CR>Só aaaaàs vezes ela me ajuda também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0xb,
+            "msg_string": "Você é uma bruxa, né?<CR>Foi o que a minha irmã me disse!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "É um pouquinho diferente.<CR>Eu sou a grande bruxa!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Bell, por favor, faz amizade com a Nio também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Claro. Se ela é sua irmã,<CR>então ela pode ser minha subordinada, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Hmm, eu posso te chamar de Bell também?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x196,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Não, porque eu sou mais velha que você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Você tem que me chamar de Senhorita Wilbell pra mostrar respeito, tá bom?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x13c,
+            "expr_id": 0x4,
+            "msg_id": 0x12,
+            "msg_string": "Ahh, é longo demais..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x165,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Ué? Sério? Então que tal<CR>Senhorita Irmãzona Wilbell?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x13c,
+            "expr_id": 0x4,
+            "msg_id": 0x14,
+            "msg_string": "Isso é mais longo ainda. Além disso, você não faz muito o tipo irmãzona..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x166,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "E por que não!? Qualquer um que olhar pra gente vai ver que eu sou super mais velha que você!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Hmm, se eu tivesse que escolher, eu diria que a Bell parece mais velha... Eu acho?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x17,
+            "msg_string": "Viu!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x13e,
+            "expr_id": 0x4,
+            "msg_id": 0x18,
+            "msg_string": "Hmm, hmm... tá bom. Vou te chamar pelo seu nome todo, Wilbell."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Bom, tá bom. Eu gosto de garotas obedientes que nem você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Eu posso abrir uma exceção e fazer de você a minha pupila!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x1b,
+            "msg_string": "Ué, sério!? Eu posso virar uma bruxa também!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x165,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Aí eu já não sei. O poder do seu sangue, ou talento natural, é o mais importante pra alimentar sua magia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x166,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Se você não tiver poderes mágicos, não importa o quanto você treine, você não vai conseguir ser uma bruxa..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x168,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Mas como você é irmã de uma alquimista, talvez você tenha algum poder mágico..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0x1f,
+            "msg_string": "Eu posso virar uma bruxa...? Ebaaa, parece ser super divertido!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x16a,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Não vai ser só \"diversão\". Pra virar uma grande bruxa que nem eu..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x16b,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "Você tem que passar por um treinamento muuuito pesado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "Ué? Eu nunca te vi fazer um treinamento tão..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "Ei, você aí, por favor guarde seus comentários pra você!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "Enfim! O que você precisa pra virar bruxa são poderes mágicos e esforço. Ah, e poderes mentais também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x25,
+            "msg_string": "O que eu tenho que fazer pra fortalecer meus poderes mentais...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x83,
+            "expr_id": 0x3,
+            "msg_id": 0x26,
+            "msg_string": "Bom... um sacrifício..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x138,
+            "expr_id": 0x4,
+            "msg_id": 0x27,
+            "msg_string": "Um sacrifício!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x83,
+            "expr_id": 0x3,
+            "msg_id": 0x28,
+            "msg_string": "Hmhmhm, talvez você seja nova demais pra ouvir isso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x88,
+            "expr_id": 0x3,
+            "msg_id": 0x29,
+            "msg_string": "Mas entrando em detalhes, você precisa preparar uma faca feita de prata e de cabra..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x2a,
+            "msg_string": "Ei, Bell, não ensina essas coisas esquisitas pra Nio!"
+        }
+    ]
+}

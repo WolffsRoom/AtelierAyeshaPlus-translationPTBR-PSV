@@ -1,0 +1,105 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC02_REG_180.ebm",
+    "nb_messages": 0xb,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Nossa, tá bem mais limpo agora..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "É verdade. Ficou bem bonitinho, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Bom, eu ainda vou ficar aqui por um tempo, então deixei meus itens básicos separados."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Suas coisas também continuam aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "É, mas sei lá, um quarto limpo assim dá uma certa solidão."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Então, quando você vai voltar pra casa dos seus pais?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x49,
+            "expr_id": 0x2,
+            "msg_id": 0x6,
+            "msg_string": "Bom, não é como se eu precisasse correr pra casa, então eu pretendo ficar aqui mais um pouquinho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x4b,
+            "expr_id": 0x2,
+            "msg_id": 0x7,
+            "msg_string": "Quero pensar melhor sobre o que vou fazer daqui pra frente, e o que eu quero fazer, antes de voltar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x4b,
+            "expr_id": 0x2,
+            "msg_id": 0x8,
+            "msg_string": "Eu pretendo voltar na<CR>hora certa, mas até lá,<CR>tudo vai continuar igual."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x4c,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Vem falar comigo quando precisar da minha ajuda.<CR>Eu vou com você sempre que precisar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Tá bom. Regina, muito obrigada por tudo o que você já fez por mim..."
+        }
+    ]
+}

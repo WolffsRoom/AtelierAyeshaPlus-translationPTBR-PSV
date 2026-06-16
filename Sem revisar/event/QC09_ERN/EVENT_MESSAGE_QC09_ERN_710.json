@@ -1,0 +1,373 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC09_ERN_710.ebm",
+    "nb_messages": 0x29,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ayesha, tem um minutinho? Queria saber se você pode me ajudar com uma coisa..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Claro que sim! Pode me pedir qualquer coisa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15e,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Beleza... Hã? Por que você tá sorrindo?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x3,
+            "msg_string": "Hehehe, eu só tô feliz que você veio me pedir ajuda."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Você tá sempre cuidando de mim, então por favor, pode falar o que é."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x161,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Beleza, bem... beeeem a oeste daqui, tem uma garota que está dando um duro danado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "Uma garota...? Isso quer dizer que... eu posso presumir que é \"aquele\" tipo de assunto?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15d,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Q-Que tipo de assunto?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc6,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Sabe, tipo uma garota que você tá a fim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15f,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Nada a ver. Ela é ainda mais nova que a Nio."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Ayesha, você gosta mesmo desse tipo de fofoca, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Urgh, desculpa..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x101,
+            "expr_id": 0x4,
+            "msg_id": 0xc,
+            "msg_string": "Bom, essa garota tá juntando dinheiro pra realizar o sonho dela, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x103,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "Parece que ela tá tendo muita dificuldade pra bater a meta dela."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x104,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "Eu queria dar uma força pra ela de algum jeito, mas não consigo pensar em nada..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Entendi. Falando nisso, qual é a sua relação com essa garota?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x105,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "É só uma relação de negócios normal. Embora a gente seja amigo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Eu compro o que ela vende, e depois revendo pra outras lojas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Saquei. Então a solução é fácil!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "Hã? E qual seria...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "É só você comprar um item dela por um preço bem alto!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x126,
+            "expr_id": 0x2,
+            "msg_id": 0x15,
+            "msg_string": "Hmm... eu também pensei nisso, mas só ia ajudar temporariamente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x128,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Além disso, acho que, como mercador, isso é algo que eu não devia fazer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x17,
+            "msg_string": "Hmm, acho que você tem razão...<CR>Nesse caso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x18,
+            "msg_string": "Talvez você pudesse só comprar mais coisas dela pelo mesmo preço por unidade..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Não. Eu não posso comprar mais do que dou conta de vender..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Sem estresse. É aí que você prova suas habilidades, Ernie!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15d,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Entendo o que você quer dizer, mas esse item é... sal."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15f,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "A demanda por sal não aumenta ou diminui do nada, então vou acabar com um estoque encalhado se eu simplesmente comprar um monte."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15f,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Como mercador, fica difícil dar uma mão pra ela..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0x1e,
+            "msg_string": "Hmm, sinto que não ajudei em nada..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc6,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Ué? Peraí. Uma garota que vende sal... Você tá falando da Tanya?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Hã? Ayesha, de onde você conhece ela?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "Eu conheci ela um tempo atrás. Entendi, então é a Tanya..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "Eu queria muito poder ajudar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "Se você tiver alguma ideia,<CR>pode me dar um toque, por favor?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "Um jeito pra Tanya juntar dinheiro... Beleza, vou pensar nisso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x1a0,
+            "expr_id": 0x0,
+            "msg_id": 0x25,
+            "msg_string": "Valeu.<CR>Bom, eu já vou indo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x26,
+            "msg_string": "(Um jeito pra Tanya ganhar dinheiro...<CR>Seria ótimo se as pessoas começassem a<CR>comprar um monte de sal...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15f,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x27,
+            "msg_string": "(Talvez fazer comida salgada virar moda...<CR>Mas como eu ia fazer isso?)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15f,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x28,
+            "msg_string": "(Hmm, acho que não vou ter uma ideia assim de cara, mas vou tentar deixar isso na cabeça.)"
+        }
+    ]
+}

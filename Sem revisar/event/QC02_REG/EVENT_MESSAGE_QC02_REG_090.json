@@ -1,0 +1,247 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC02_REG_090.ebm",
+    "nb_messages": 0x1b,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x0,
+            "msg_string": "Obrigada pela comida!<CR>Regina, tava uma delícia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x49,
+            "expr_id": 0x2,
+            "msg_id": 0x1,
+            "msg_string": "Hahaha, eu só consigo fazer umas coisinhas simples por aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Sério? Eu achei que tava super bem feito."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x4b,
+            "expr_id": 0x2,
+            "msg_id": 0x3,
+            "msg_string": "Bom, eu cozinho pra minha<CR>família desde pequenininha,<CR>então eu mando bem na cozinha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Agora que eu parei pra pensar, quando eu era mais nova, foi você que me ensinou a cozinhar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x4c,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Ooh, é verdade. Foi na época em que eu tinha acabado de me mudar pra cá."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Você era tão fofa naquela época.<CR>Sabe, você era super animadinha!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Desde aquela época, você sempre cuidou de mim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Tranquilo, eu gosto de crianças. E eu me divertia te ensinando a cozinhar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Regina, você leva jeito pra coisa de casa.<CR>Tenho certeza de que você daria uma ótima esposa!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Né! Eu sou muito boa em costura, e em qualquer tarefa de casa, na verdade."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Digo, eu venho de uma família grande, então eu tenho bastante tempo de experiência nisso!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Ué, sua família é tão grande assim?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x12,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Pois é. Eu nunca te contei?<CR>Tenho cinco irmãos mais novos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0xe,
+            "msg_string": "Tudo isso? Parece que deve ser super divertido e animado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Não consigo nem imaginar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "É animado sim. Você não tem absolutamente nenhum tempo pra ficar sozinha..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Se eu deixar eles quietos, meus irmãos começam a brigar e minhas irmãs começam a me seguir por todo canto."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Bom, como irmã mais velha deles,<CR>é isso que faz eles serem fofos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x11,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Eu tô trabalhando longe de casa, pegando no pesado por causa dessas crianças também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Se for por eles, não importa o quão difícil seja, eu consigo seguir em frente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Regina, você tá com uma cara tão gentil..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x169,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Hahaha, eu tô agindo diferente do normal?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x16b,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Mas ainda assim, um dos meus irmãos caçulas vai virar adulto logo, então talvez eu possa começar a pensar em mim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Ah, mas o meu irmãozinho ainda é<CR>bem novo... e minhas irmãzinhas<CR>não são lá muito confiáveis."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Acho que ser a irmã mais velha dá muito trabalho..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Hmhm, agora que você me fez começar<CR>a falar sobre eles, já tô começando<CR>a sentir falta da minha família."
+        }
+    ]
+}

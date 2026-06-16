@@ -1,0 +1,365 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC06_NIO_420.ebm",
+    "nb_messages": 0x28,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15e,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Hã? Um cheirinho bom tá vindo da oficina da Ayesha..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Será que a Ayesha tá na oficina hoje..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Beleza, vamo dar o nosso melhor como sempre!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Mana, você esqueceu seu almoço?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Hã? Achei que tinha colocado na bolsa...<CR>Ué? Não tá lá!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x1a0,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Oi. Vocês tão mais animadas que o normal."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Ah, Ernie. Bem-vindo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Ah Ernie. Quanto tempo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Então, vocês duas tão na oficina hoje."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Dei sorte de pegar as duas hoje."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Tinha umas coisas pra fazer,<CR>então tamo aqui por hoje."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Ernie, Errrnie! Cadê minha lembrancinha?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Opa, Nio. Tá bom, tá bom, eu trouxe, como sempre."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0xd,
+            "msg_string": "Eba! Eu te adoro, Ernie!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x5f,
+            "expr_id": 0x2,
+            "msg_id": 0xe,
+            "msg_string": "Haha, você ama mesmo doces, Nio."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Niiio, você não pode comer tudo de uma vez ou vai ficar com cáries."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "O que!? Vai ficar tudo de boa.<CR>Meus dentes são fortes."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x11,
+            "msg_string": "Caramba, cáries são um problemão. Tem que tomar cuidado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x78,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Vai ser tarde demais pra escovar os dentes depois que a dor começar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "N-Não me trata como bebê..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x61,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Hahaha, sua oficina simplesmente não fica completa sem a Nio."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Mesmo se isso for só um sonho, tá<CR>me deixando feliz. Espero que essa cena<CR>vire realidade no futuro..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x16,
+            "msg_string": "Sonho...? Ernie?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "É, porque a Nio tá na oficina."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Tenho certeza que o eu de verdade ainda tá dormindo e tendo um sonho divertido e feliz."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x102,
+            "expr_id": 0x4,
+            "msg_id": 0x19,
+            "msg_string": "Tudo isso faz sentido contanto que eu pense desse jeito..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Ahhh, me desculpa mesmo, Ernie.<CR>Eu esqueci completamente!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x15e,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Ah! Entendi, verdade.<CR>Hum, Ernie, eu voltei."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Desculpa por te fazer se preocupar enquanto eu tava sumida!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x108,
+            "expr_id": 0x4,
+            "msg_id": 0x1d,
+            "msg_string": "Hã...? Então quer dizer que, que... isso não é um sonho? É real?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "É. Eu te fiz se preocupar tanto, mas eu acabei esquecendo de vez..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x109,
+            "expr_id": 0x4,
+            "msg_id": 0x1f,
+            "msg_string": "Ah...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x10a,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Bem-vinda de volta, Nio! Que bom!<CR>Tô tão feliz..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "Sim, eu tô feliz de te ver de novo, Ernie."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "Nio, você não mudou nadinha desde que sumiu, então eu achei que era um sonho..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "Certeza que você passou aperto com comida e tudo mais..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "Tem um motivo pra isso...<CR>Mas é uma longa história..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x25,
+            "msg_string": "Bora comer uns petiscos enquanto a gente te conta tudo sobre isso!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x26,
+            "msg_string": "Vou preparar um cházinho também!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x27,
+            "msg_string": "Beleza. Eu também tenho um monte de coisas pra te contar sobre tudo que rolou enquanto você tava fora..."
+        }
+    ]
+}

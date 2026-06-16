@@ -1,0 +1,91 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC13_ODI_720.ebm",
+    "nb_messages": 0x9,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Hmph... Então esse é o painel de controle? Esse lugar com certeza foi criado com uma estrutura bem problemática."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "unknown2": 0x1,
+            "msg_string": "É necessário pra garantir que a situação não piore mais ainda quando a pior coisa possível acontecer."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "unknown2": 0x1,
+            "msg_string": "Agora, tô totalmente preparada. Por favor, podem operar o painel de controle."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "B-Beleza. Vou mexer nele."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "unknown2": 0x1,
+            "msg_string": "Consegui parar o sistema de controle. Avançando pra reconstrução do sistema de controle."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "unknown2": 0x1,
+            "msg_string": "O resto do trabalho é meu. Vocês dois poderiam voltar pra cá enquanto cuidam da sua própria segurança?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x17,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Nossa. Parece que a gente finalmente pode ter um alívio, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Você consegue, Srta. Odelia...!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x8,
+            "unknown2": 0x1,
+            "msg_string": "Sim. Eu tenho que proteger esse lugar que o Mestre deixou pra mim...!"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM02_ST1_620.ebm",
+    "nb_messages": 0x7,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Seguindo a receita... eu consegui fazer alquimia..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "O livro dizia que um alquimista habilidoso é uma pessoa incrível capaz de criar qualquer coisa, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Eu não sinto que virei uma pessoa incrível nem nada do tipo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "De qualquer jeito, pra que será que serve esse Craft...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Acho que falava sobre isso no livro. Hmm, deixa eu ver..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Então... ele explode quando é arremessado. Ah, entendi."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "Quêêê!? Isso é... uma bomba!?<CR>Aaaah, o-o que eu faço!?"
+        }
+    ]
+}

@@ -1,0 +1,360 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MS01_AYE_020.ebm",
+    "nb_messages": 0x28,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x208,
+            "name_id": 0x21,
+            "extra_id": 0x216,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "msg_string": "Oink muuu muuu."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Ah, Ayeshaaa!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Eu sabia! Aquela é a vaca da Nanaca."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Eu tô voltando de uma entrega na cidade."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x205,
+            "name_id": 0x1f,
+            "extra_id": 0x216,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "msg_string": "Oink! Oink muuu!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x208,
+            "name_id": 0x21,
+            "extra_id": 0x216,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "msg_string": "Muuu? Oink muuu?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Pana, parece que você tá feliz de ver uma amiga."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x205,
+            "name_id": 0x1f,
+            "extra_id": 0x215,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "msg_string": "Oink muuu."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "A Pana tá sempre sozinha, então ela parece animada de conhecer suas vacas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Saquei. Que bom. Então vamos levar elas pra comer um capim bem gostoso da próxima vez."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x205,
+            "name_id": 0x1f,
+            "extra_id": 0x216,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "msg_string": "Oink! Oink muuu!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Aham, aham. A comida é sempre bem mais gostosa quando você tem com quem comer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Ah, é igual com a gente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "É isso aí. Sejam vacas ou humanos, comer junto é... ah!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Ei, galera, tá vindo uma carruagem,<CR>então vão fazer fila na beira da estrada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x208,
+            "name_id": 0x21,
+            "extra_id": 0x216,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "msg_string": "Muuu."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Uau, uma profissional faz as coisas tão diferente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x46,
+            "expr_id": 0x2,
+            "msg_id": 0x11,
+            "msg_string": "Hehe, fico feliz que elas são todas tão obedientes."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x48,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Embora algumas sejam mais bagunceiras."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20c,
+            "name_id": 0x22,
+            "extra_id": 0x216,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13,
+            "msg_string": "Oink muu!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "O que é isso? Com todas vocês aqui... Que lugar inesperado pra gente se encontrar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Ah, oi, Ernie."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Ah, oi, Ernie."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "H-Hã? Nanaca, você já conhecia o Ernie?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Você conhece ele também?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Eu também não sabia que vocês duas eram amigas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Hehehe, a gente acabou de se encontrar,<CR>então só távamos batendo um papo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Entendi. Hmm, que coincidência."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Parece algum tipo de destino, já que todos nós temos vacas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Pois é. E as vacas da Nanaca são incríveis."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Com só um comando da Nanaca,<CR>todas as vacas dela fizeram fila."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "O quê, sério? Elas conseguem fazer isso?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Elas conseguem fazer isso também!<CR>Beleza, todo mundo, meia-volta!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x21,
+            "msg_string": "Caramba, que incrível! Elas são tão espertas!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "Uau, que irado... Ah, já sei! Pana, tenta você também! Beleza, meia-volta!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x205,
+            "name_id": 0x1f,
+            "extra_id": 0x216,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x23,
+            "msg_string": "Oink?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "Acho que não... Então, faz fila!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x205,
+            "name_id": 0x1f,
+            "extra_id": 0x216,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x25,
+            "msg_string": "Muuu?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x46,
+            "expr_id": 0x2,
+            "msg_id": 0x26,
+            "msg_string": "Ayesha, acho que não dá pra fazer fila com uma vaca só..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x27,
+            "msg_string": "Haha, acho que você tem razão..."
+        }
+    ]
+}

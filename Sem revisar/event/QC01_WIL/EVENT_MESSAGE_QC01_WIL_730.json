@@ -1,0 +1,196 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC01_WIL_730.ebm",
+    "nb_messages": 0x15,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ayesha, ali...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x1,
+            "msg_string": "Aeee, achamos ela! Olha, olha,<CR>aquela é a Governante do Vento."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x2,
+            "msg_string": "Nossa, ela é muito linda...<CR>Ela tá brilhando."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Beleza, vamo amarrar ela!<CR>Ayesha, você tá pronta!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Vamos só contar a nossa situação pra ela e ver se ela colabora. Ela não parece ser um espírito malvado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Que que você tá falando? Só tem um jeito de lidar com um espírito!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Você dá um soco bem forte e faz eles te escutarem! É assim que funciona."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x7,
+            "msg_string": "Ehhh... tem certeza que é de boa fazer isso com um espírito tão lindo como ela?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Não abaixa a guarda. Eles podem parecer assim, mas espíritos são bem cruéis."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Os valores deles são completamente diferentes dos nossos. Se você não tomar cuidado, eles te fatiam com lâminas de vento..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Hrgh, eu... não queria que isso acontecesse."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Ei, não amarela. A gente finalmente chegou aqui, então temos que ir com tudo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Então, você não hesitou em vir tão longe, Governante do Vento!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Bell, na real, fomos nós que viemos tão longe..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Hrgh... D-De qualquer forma, a gente veio aqui pra te capturar!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x7e,
+            "expr_id": 0x3,
+            "msg_id": 0xf,
+            "msg_string": "Vem de boa! Se entrega!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x3d,
+            "name_id": 0x33,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x10,
+            "unknown2": 0x1,
+            "msg_string": "Estão dizendo que vão me capturar?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x82,
+            "expr_id": 0x3,
+            "msg_id": 0x11,
+            "msg_string": "Aham. Poupa tempo se você entender rápido. Você pode resistir, mas vai ser inútil!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x83,
+            "expr_id": 0x3,
+            "msg_id": 0x12,
+            "msg_string": "Eu vou te pegar e provar que sou uma bruxa de verdade!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x3d,
+            "name_id": 0x33,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13,
+            "unknown2": 0x1,
+            "msg_string": "Que tolice. Vejam se aguentam as minhas lâminas...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x14,
+            "msg_string": "Uoou... a-aí vem ela!"
+        }
+    ]
+}

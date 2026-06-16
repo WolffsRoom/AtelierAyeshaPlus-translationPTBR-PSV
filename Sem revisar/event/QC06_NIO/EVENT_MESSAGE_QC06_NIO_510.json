@@ -1,0 +1,338 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC06_NIO_510.ebm",
+    "nb_messages": 0x25,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Hmhmhmmm♪<CR>Hmmm, hmhmmhmm♪"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x12,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Hmhm, essa cantoria aí quer dizer que a sua síntese tá indo bem."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Aham. Eu tava justamente pensando que a síntese de hoje tá indo‐"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Hã!? Nio!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x1d9,
+            "expr_id": 0x1,
+            "msg_id": 0x4,
+            "msg_string": "Aham. Sou eu.<CR>Oi, Mana."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Nio, mas o que você tá fazendo aqui agora...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x1d9,
+            "expr_id": 0x1,
+            "msg_id": 0x6,
+            "msg_string": "Hehehe, vai saber... Eu não faço a menor ideia do porquê."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x1d9,
+            "expr_id": 0x1,
+            "msg_id": 0x7,
+            "msg_string": "Mas do nada, consigo saber onde você tá..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x1d9,
+            "expr_id": 0x1,
+            "msg_id": 0x8,
+            "msg_string": "Porque tem algo com um cheiro muito bom.<CR>Viu, até agora, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Um cheirinho bom...? Será que é o óleo essencial que eu fiz das flores brilhantes?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "É! Eu descobri onde você tá porque é daqui que o cheiro tá vindo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Se o cheiro fosse mais forte, seria mais fácil de te achar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0xc,
+            "msg_string": "Entendi. Como será que isso funciona? Não dá pra sentir bem o cheiro do óleo a menos que você esteja na sala..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x196,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Isso não é verdade. Não importa o quão longe esteja, ainda me alcança."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Dá pra sentir o cheiro... ou é quase como se eu visse uma luz."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Lá do lugar escuro que eu sempre fico, eu consigo ver esse cheiro..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Nio, sei que já te perguntei antes, mas você não sabe onde tá, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "É. É escuro e quentinho... e é quase fofinho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0x12,
+            "msg_string": "Eu não sei de mais nada além disso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Parece até que você tá dentro de um sonho..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xd1,
+            "expr_id": 0x4,
+            "msg_id": 0x14,
+            "msg_string": "É, até o doce que ganhei de você da última vez..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xd1,
+            "expr_id": 0x4,
+            "msg_id": 0x15,
+            "msg_string": "Tentei várias vezes, mas não consigo abrir a embalagem de jeito nenhum."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xd2,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "E é como se eu fosse correr,<CR>mas não saio nem um pouco do lugar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Quanto mais você me descreve isso, mais misterioso parece. Tem mais alguma coisa fora do comum?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x1d2,
+            "expr_id": 0x4,
+            "msg_id": 0x18,
+            "msg_string": "*bocejo* ...Bom, eu fico com sono bem rápido sempre que saio..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x1d4,
+            "expr_id": 0x4,
+            "msg_id": 0x19,
+            "msg_string": "Consigo te ver agora, mas quando eu durmo e acordo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Volto pro mesmo lugar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Nio, então..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x1d2,
+            "expr_id": 0x4,
+            "msg_id": 0x1c,
+            "msg_string": "Não... Tô ficando com sono de novo.<CR>Boa noite, Mana..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Ela sumiu... Mas acho que finalmente tô me acostumando com isso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x1e,
+            "msg_string": "Então ela não tá num lugar que dói, que seja frio ou quente..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Isso já é meio que um alívio..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Aham, eu devia ser otimista. Acabei de descobrir umas coisas agora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "Primeiro, que eu devia deixar os efeitos do óleo essencial das flores brilhantes mais fortes."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "Ainda não sei o que são as flores, mas posso descobrir algo enquanto continuo minha pesquisa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "E pra isso... eu preciso de mais flores brilhantes!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x24,
+            "msg_string": "Me espera, Nio.<CR>Sua mana vai dar o melhor dela!"
+        }
+    ]
+}

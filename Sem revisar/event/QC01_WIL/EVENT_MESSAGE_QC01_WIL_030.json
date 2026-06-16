@@ -1,0 +1,232 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC01_WIL_030.ebm",
+    "nb_messages": 0x19,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Bom, agora que tenho a Bell comigo, vamos nessa com tudo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x7e,
+            "expr_id": 0x3,
+            "msg_id": 0x1,
+            "msg_string": "Peraí! Antes da gente sair da cidade, tem uma coisa que preciso te contar!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x82,
+            "expr_id": 0x3,
+            "msg_id": 0x2,
+            "msg_string": "Entendido? É importante,<CR>então presta bem atenção."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x83,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Nós, bruxas, não podemos revelar a nossa existência para o mundo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x84,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Porque os nossos poderes mágicos são fortes demais. É coisa muito séria se abusarmos do nosso poder."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Podemos controlar o clima, criar coisas do nada, e até derrubar estrelas do céu noturno..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Se a gente abusar, podemos até mesmo...<CR>destruir o mundo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "I-I-Incríveeel! Bell, eu não sabia que você conseguia usar esse tipo de magia...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xd4,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "Hã? C-Claro que consigo... ou melhor, eu vou conseguir, com o passar do tempo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xd5,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "De qualquer forma, vivemos modestamente,<CR>escondidas do mundo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Não sabia não. Acho que ser bruxa deve ser bem difícil. Hã? Mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Que foi!? A minha roupa é esquisita?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0xc,
+            "msg_string": "Não é esquisita, mas, como eu posso dizer...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "msg_string": "(Será que só eu<CR>acho que ela não tá tentando muito<CR>esconder isso...?)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Hã? Que foi? Por que cê tá me olhando assim?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x194,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Não, não, não é nada!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Se você revelar a minha verdadeira identidade, eu te transformo num sapo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Ai! Eu não gosto de sapos, então não rola me transformar num gato ou numa vaca..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x194,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Gatos e vacas não são a minha especialidade!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Ah, então eu prefiro algo com pelo fofinho, tipo um cachorro."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x7e,
+            "expr_id": 0x3,
+            "msg_id": 0x14,
+            "msg_string": "Caramba, vai ficar tudo bem desde que você não conte pra ninguém!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Certo. Eu não vou contar pra ninguém que você é uma bruxa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x80,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Shhh! Fala baixo! Vai que alguém escuta!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc7,
+            "expr_id": 0x4,
+            "msg_id": 0x17,
+            "msg_string": "Ahhh, desculpa!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Toma mais cuidado. Beleza, vamo nessa!"
+        }
+    ]
+}

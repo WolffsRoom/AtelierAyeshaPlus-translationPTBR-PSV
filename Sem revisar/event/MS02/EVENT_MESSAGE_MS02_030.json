@@ -1,0 +1,79 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MS02_030.ebm",
+    "nb_messages": 0x8,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x20f,
+            "name_id": 0x25,
+            "extra_id": 0x206,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "msg_string": "E aí, moça. Já se decidiu sobre comprar o balão?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20f,
+            "name_id": 0x25,
+            "extra_id": 0x207,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "msg_string": "Não posso te dar um desconto,<CR>mas e aí, o que me diz?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "msg_string": "(Se eu tivesse um balão, ia ser super conveniente, mas... o que eu faço?)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20f,
+            "name_id": 0x25,
+            "extra_id": 0x207,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "msg_string": "Beleza, vendido! Me segue, por favor."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20f,
+            "name_id": 0x25,
+            "extra_id": 0x207,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "msg_string": "Entendo... Bom, é bastante grana mesmo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20f,
+            "name_id": 0x25,
+            "extra_id": 0x207,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "msg_string": "Achei que podia confiar o Balão Nº 1 pra você... Ele é como um filho pra mim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20f,
+            "name_id": 0x25,
+            "extra_id": 0x20c,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "msg_string": "Vem falar comigo quando tiver se decidido."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Preço do balão: 20.000 Cole."
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC01_WIL_540.ebm",
+    "nb_messages": 0xf,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x199,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Oi. Posso entrar?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Ah, Bell. Fica à vontade."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Ei, Ayesha, já terminou aquela coisa que eu te pedi antes?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "...\"Aquela coisa\"?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "O Ferro Sagrado Madder! Você esqueceu?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "msg_string": "(Ahhh, é verdade! Eu esqueci completamente disso...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc8,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "D-Desculpa. Na real ainda não tá pronto..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "O quê, ainda? Pelo jeito você tá levando todo o tempo do mundo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc9,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "Desculpa. Tinha outras coisas que eu precisava fazer, e coisas que eu precisava procurar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xca,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Não vou esquecer dessa vez, então você pode esperar só mais um pouquinho?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x165,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Poxa, me coloca como prioridade, tá bom?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x166,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "A minha tarefa tá nas suas mãos agora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x167,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Sem falta dessa vez, beleza?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "msg_string": "(Hmm, eu tava ocupada e acabei deixando totalmente pra depois.)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xe,
+            "msg_string": "(Mas eu fiz uma promessa, então tenho que garantir que vou fazer.)"
+        }
+    ]
+}

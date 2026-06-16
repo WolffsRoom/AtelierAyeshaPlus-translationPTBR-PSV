@@ -1,0 +1,248 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC01_WIL_550.ebm",
+    "nb_messages": 0x1b,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Bell, eu terminei o item que você me pediu!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Ah, sério!? Deixa eu ver, deixa eu ver!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x2,
+            "msg_string": "Uau...que incrível!<CR>Ficou muito bom!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x41,
+            "expr_id": 0x2,
+            "msg_id": 0x3,
+            "msg_string": "Isso é perfeito pra minha tarefa! Será que a Tataravó vai me elogiar por isso também..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Ainda bem que eu te pedi, Ayesha! Valeu!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "De nada. Mas, pra que essa ferramenta serve?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Pra magia, é claro. Eu já devo ter te falado isso antes, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Bruxas usam magia extraindo o poder de um catalisador, ou fazendo contratos com seres poderosos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Pros catalisadores, os puros são mais<CR>convenientes, tipo esse aí que você<CR>acabou de fazer pra mim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "É por isso que nós sintetizamos catalisadores também, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x7e,
+            "expr_id": 0x3,
+            "msg_id": 0xa,
+            "msg_string": "Sinceramente, eu não sou boa com esse tipo de coisa chata!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0xb,
+            "msg_string": "Haha, entendi. Acho que isso meio que combina com você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x82,
+            "expr_id": 0x3,
+            "msg_id": 0xc,
+            "msg_string": "Pois é. Meus ombros ficam tensos quando eu tenho que misturar remédios meticulosamente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x83,
+            "expr_id": 0x3,
+            "msg_id": 0xd,
+            "msg_string": "E também não é o tipo de bruxa que eu quero ser."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x83,
+            "expr_id": 0x3,
+            "msg_id": 0xe,
+            "msg_string": "Eu quero derrotar os caras maus com a minha magia, ou viajar pelo mundo salvando as pessoas!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x84,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "É isso que bruxas normais fazem."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Eu acho que é mais normal ver uma<CR>mulher nariguda misturando umas<CR>poções misteriosas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x165,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Ué? Isso não é mais coisa de alquimista?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Talvez. Eu devo ter confundido em algum momento."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Mas se fosse comigo, eu conseguiria fazer todo esse trabalho meticuloso o dia inteiro sem ficar entediada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x166,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Você que é esquisita assim!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x167,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Enfim, agora eu finalmente posso deixar a minha<CR>tataravó sem palavras...<CR>Digo, conseguir a aprovação dela!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Eu vou levar isso agora!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1be,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Ah, verdade. Valeu por hoje!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1c0,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Eu vou te recompensar um dia, fisicamente!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Haha, vou ficar esperando."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1a,
+            "msg_string": "(Que bom que a Bell ficou feliz. Mas, será que não teve problema mesmo...)"
+        }
+    ]
+}

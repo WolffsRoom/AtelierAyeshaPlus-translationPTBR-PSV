@@ -1,0 +1,238 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM05_ST4_010.ebm",
+    "nb_messages": 0x1a,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ei, Ayesha. Então você voltou pra cá?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Eu queria fazer umas sínteses que<CR>eu só consigo fazer no meu ateliê."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Ah, é verdade! Ernie, eu fiz um progresso com a Nio."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "Sério? A julgar pelo tom de voz..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x126,
+            "expr_id": 0x2,
+            "msg_id": 0x4,
+            "msg_string": "Deve ser uma história boa, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Ainda não posso contar, mas espero que tenha um final feliz."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x128,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Entendi. Eu não posso ajudar muito,<CR>e tudo que me resta é me preocupar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Mas eu vou tá sempre torcendo por você pra eu poder ouvir como essa sua história termina."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "Eu sabia! A Nio tá a salvo, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x123,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "Então a Nio que eu vi não era só uma ilusão, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Sim! A gente ainda não consegue alcançar ela fisicamente, mas só mais um pouco... Eu tenho certeza que a gente vai conseguir."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x126,
+            "expr_id": 0x2,
+            "msg_id": 0xb,
+            "msg_string": "Entendi. Eu não sei de todos os detalhes,<CR>mas eu tenho certeza que você consegue, Ayesha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x127,
+            "expr_id": 0x2,
+            "msg_id": 0xc,
+            "msg_string": "Posso não ajudar muito, mas me avisa se tiver alguma coisa que eu possa fazer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Ernie... muito obrigada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Ah, tem uma coisa que eu preciso te falar. Sabe aquele tremor no chão agorinha pouco?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Acho que tem vários lugares onde o tremor fez as estradas desabarem e estragou as ruínas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Slags das ruínas tão aparecendo direto em estradas onde a gente normalmente não vê eles."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0x11,
+            "msg_string": "Argh, i-isso... Desculpa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Ué? Por que você tá pedindo desculpa?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc6,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Bom, eu achei que podia ser culpa minha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x5f,
+            "expr_id": 0x2,
+            "msg_id": 0x14,
+            "msg_string": "Haha, claro que não é. Enfim, só queria te avisar que tá perigoso, então toma bastante cuidado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x61,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "É só um palpite, mas... sinto que algo ruim vai acontecer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Meus palpites costumam estar certos com frequência, então por favor, toma cuidado, Ayesha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x1a0,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Bom, tenho que ir nessa agora. Até mais!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x18,
+            "msg_string": "Slags aparecendo nas estradas...<CR>Provavelmente é por causa do<CR>Cristal de Flor..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x19,
+            "msg_string": "Eu posso ter causado algo terrível.<CR>Espero não ter causado problemas pra ninguém..."
+        }
+    ]
+}

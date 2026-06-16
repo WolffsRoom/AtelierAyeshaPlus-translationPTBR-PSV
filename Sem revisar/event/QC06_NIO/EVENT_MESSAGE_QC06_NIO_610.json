@@ -1,0 +1,313 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC06_NIO_610.ebm",
+    "nb_messages": 0x22,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x0,
+            "msg_string": "Bom, acho que por enquanto é só... Preciso guardar todo o equipamento que usei."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Hmm? Alguma coisa errada?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Mana, você tá limpando sua própria bagunça?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Isso mesmo, depois que termino de trabalhar. É estranho?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Estranho ou engraçado ou... eu só fiquei surpresa mesmo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Mana, você consegue manter as coisas limpas e organizadas agora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Antes, eu tinha que limpar tudo, senão virava um desastre."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Pois é. Eu não tinha a intenção de fazer bagunça, mas quando eu ia ver, o quarto tava sempre o maior caos..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "E a oficina parecia um lixão quando você sumiu."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Mana, você não vê o mundo ao seu redor quando começa a trabalhar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Às vezes o Ernie passava por aqui e me ajudava a limpar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x138,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "Ooo quê! Você fez o Ernie limpar as coisas pra você!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x13a,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Mesmo sendo o Ernie, você não pode obrigar ele a fazer isssooo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Hahaha... Eu não consegui falar pra ele na época, mas me senti mal. Ele disse..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "\"Você não conseguiu mais se concentrar no trabalho desde que a Nio sumiu, então deixa isso comigo.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x13c,
+            "expr_id": 0x4,
+            "msg_id": 0xf,
+            "msg_string": "Mas isso não tem nada a ver comigo ter sumido..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x13d,
+            "expr_id": 0x4,
+            "msg_id": 0x10,
+            "msg_string": "Você nunca conseguiu arrumar as próprias bagunças."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "É... por isso eu me senti super mal e..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Eu pensei comigo mesma: \"A Nio ia rir da minha cara\". Então, eu fiz o meu melhor pra arrumar tudo e me organizar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x13e,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "Entendi. Nem acredito que você consegue limpar a própria bagunça agora..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x15e,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Mas, agora que eu tô de volta, você pode fazer bagunça que nem antes."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Eu vou fazer todas as tarefas de casa!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x16,
+            "msg_string": "Hmm, mas agora eu já me acostumei a ser limpinha e organizada..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x17,
+            "msg_string": "Acho que vai ser difícil voltar atrás..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x18,
+            "msg_string": "Poxa! Eu quero te ajudar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x78,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Eu tenho uma coisa a menos pra fazer..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Tudo bem, você ainda é criança,<CR>Nio, então você pode só me ajudar<CR>de vez em quando."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Beleza, então eu vou lá colher umas ervas medicinais!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Agora mesmo? Hmm... não fica fora até muito tarde, tá? Digo, logo depois do que acabou de acontecer e tal..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Aham, tá bem. Eu vou pro lugar de sempre, então acho que vai ficar tudo bem."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Toma cuidado. Não vai tropeçar e cair correndo por aí."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Eu vou ficar beeeem. Beleza, tô indo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x20,
+            "msg_string": "(Tô um pouco preocupada,<CR>mas... acho que vai irritar<CR>a Nio se eu for superprotetora...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15d,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x21,
+            "msg_string": "(Como irmã mais velha, eu devia só ficar de olho nela... Ugh, mas ainda tô preocupada...)"
+        }
+    ]
+}

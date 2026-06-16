@@ -1,0 +1,258 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC07_MAR_640.ebm",
+    "nb_messages": 0x1c,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x0,
+            "msg_string": "O-Olá... Kyah! Ah, é só poeira e teias de aranha..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Hmm, tem alguém aí...? Eu tô entrando."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "Se tiver tipo algum osso humano aqui, vai ser muito assustador..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc5,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "Ugh, agora comecei a ficar com medo.<CR>Eu não devia ter pensado numa<CR>coisa dessas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc5,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "Hmm, eu não tô com medo, não tô com medo... Mesmo se aparecer um fantasma de esqueleto, a gente pode resolver tudo conversando..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc8,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "...Sinto que um esqueleto falante seria ainda mais assustador..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xca,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Waaah, é melhor eu parar de pensar nisso. Eu tô investigando, eu tô investigando..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x7,
+            "msg_string": "Hmm, acho que não tem nada fora do comum aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "O-Olá... Kyah!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "O-O que foi!? O que aconteceu!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Uma teia de aranha grudou no meu rosto..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x126,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "N-Não me assusta. Achei que talvez você tivesse encontrado alguém."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "...Acho que não tem ninguém aqui.<CR>Não tem sinal de nenhum humano."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x127,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "Uma vila deserta... Bom, acho que isso é natural, já que esse caso é sobre todos os moradores terem sumido..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Mas tem a possibilidade de que algo trágico possa ter acontecido aqui..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x128,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Algo trágico...? Tipo o que!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x10,
+            "msg_string": "Eu não sei, mas... o que você faria se a gente achasse uns ossos humanos aqui?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x7e,
+            "expr_id": 0x3,
+            "msg_id": 0x11,
+            "msg_string": "Não começa a falar essas coisas estranhas! Por acaso você tá tipo... com m-medo ou o quê?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x12,
+            "msg_string": "Se eu tivesse que dizer, acho que ficaria com medo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x82,
+            "expr_id": 0x3,
+            "msg_id": 0x13,
+            "msg_string": "V-Você é muito criança. Queria que você fosse mais parecida comigo e mantivesse a cabeça erguida."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x83,
+            "expr_id": 0x3,
+            "msg_id": 0x14,
+            "msg_string": "Escuta aqui, mesmo se aparecer um fantasma, eu acabo com ele!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x87,
+            "expr_id": 0x3,
+            "msg_id": 0x15,
+            "msg_string": "Você tá segura comigo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Entendi. Então tô aliviada... Ukyah!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x125,
+            "expr_id": 0x4,
+            "msg_id": 0x17,
+            "msg_string": "O-O-O-O que!? Um fantasma!?<CR>Você viu um fantasma!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x194,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Não, não, grudou outra teia de aranha no meu rosto..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x128,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "N-N-Não me assusta assim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x1a,
+            "msg_string": "Hmm, acho que não tem nada fora do comum aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Se não tem nada de errado, então vamos dar o fora daqui! Tem outros lugares que a gente precisa investigar!"
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MS03_170.ebm",
+    "nb_messages": 0x12,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Beleza, comprinhas, comprinhas.<CR>Será que vou achar alguma coisa legal hoje...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Hã? Essa melodia é familiar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Ranun! Eu sabia!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x19f,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Olá, Ayesha. Que surpresa te ver num lugar desses."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Nunca achei que ia te ouvir tocar por aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "É só um jeito de convidar as pessoas do bazar pra visitar o mundo antigo comigo por um tempinho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Então você também tava recitando?<CR>Que lindo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x17,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Bem, não é tão lindo quanto parece. Porque..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Ei, ei, nada de papinho no meio do expediente!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x9,
+            "msg_string": "Ué? Regina? O que tá rolando?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "É que hoje de manhã, eu achei esse cara desmaiado aqui na frente da loja."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Ele me implorou por comida, e prometeu atrair clientes em troca."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "V-Você desmaiou de novo, Ranun...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x188,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Eu tava viajando sem comer nem beber. Minhas forças acabaram logo aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x18a,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Sinceramente, odeio ter que tocar por obrigação, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xe1,
+            "expr_id": 0x4,
+            "msg_id": 0xf,
+            "msg_string": "Eu tava a um passo de deixar meu estômago colar nas costas pra sempre..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Isso aí, continua assim! Suas músicas são bem populares, então não para!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x11,
+            "unknown2": 0x1,
+            "msg_string": "Urgh... Me odeio por ter que tocar só porque me venderam por um prato de comida..."
+        }
+    ]
+}

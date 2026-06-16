@@ -1,0 +1,322 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC01_WIL_510.ebm",
+    "nb_messages": 0x23,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ei, Ayesha! Finalmente chegou o dia em que você pode ser útil pra mim!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "O q-que foi, Bell? Como assim \"ser útil\"...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Você só pode responder de duas formas:<CR>\"Vai ser um prazer!\" ou<CR>\"Ebaaa, que felicidade!\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "msg_string": "(O queee...?)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Bom, só escuta o que eu tenho a dizer. Ah, antes disso, tenho uma pergunta."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Há quanto tempo você começou a sintetizar?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0x5,
+            "msg_id": 0x6,
+            "msg_string": "Hmm, uns 10 anos. Eu comecei quando meu avô tava me ensinando."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x169,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Beleza, então já faz um tempinho. Que tipo de coisas você fazia pra treinar?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Tipo, decorar os nomes e os formatos de todas as ervas medicinais, sintetizar as mesmas coisas de novo e de novo... essas coisas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x16b,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Hmm, isso é muito entediante!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x2,
+            "msg_id": 0xa,
+            "msg_string": "Hehe, mas é divertido. Eu podia ficar esmagando ervas num pilão o dia inteiro, e ainda não me cansaria."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "Argh, nisso eu acho que não concordo...<CR>A minha mente ia dar um branco total."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xd2,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Hmm, mas acho que entendi a essência. Então, aqui vai o ponto principal..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Pra falar a verdade, eu ainda sou uma aprendiz."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "É, bom, imagino que sim na sua idade."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Bom, a idade não tem muito a ver com isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Eu basicamente me considero uma<CR>bruxa de verdade, mas a minha<CR>tataravó não<CR>reconhece isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0x5,
+            "msg_id": 0x11,
+            "msg_string": "Entendi... Treinar pra ser bruxa...<CR>Como deve ser isso?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15f,
+            "expr_id": 0x5,
+            "msg_id": 0x12,
+            "msg_string": "Lançar o mesmo feitiço várias e várias<CR>vezes, virada pra parede, ou voar uma<CR>longa distância com bagagem pesada?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "Q-Qual é a da sua imaginação chata? Eu não faço isso!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "A gente não é assim. Nós escolhemos nossas tarefas, então somos livres pra fazer o que quisermos!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Nossa. Então eu ficaria totalmente perdida sobre o que eu deveria fazer de verdade."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x165,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "É isso! Eu fiz várias coisas até agora, mas a Tataravó não aprova nenhuma delas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x166,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Eu meio que cheguei num beco sem saída, e pensei em pedir a sua ajuda."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Ajuda...? Hmm, será que tem alguma coisa que eu possa fazer...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x167,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Moleza, é só fazer a coisa que tá escrita aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Hum...\"Ferro Sagrado Madder\"?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0x1b,
+            "msg_string": "Esse livro é muito difícil. Não acho que consigo fazer isso logo de cara, Bell..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Bem, talvez não. Esse é um livro de magia..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc6,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Eu vou tentar, porque estudar isso pode me fazer bem, mas pode me dar um tempinho?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Claro. Se precisar esclarecer alguma coisa, vem me perguntar. Eu posso ajudar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x19a,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Bom, tô contando com você!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x20,
+            "msg_string": "Hmm, tá um pouco difícil pra mim agora..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "Mas se eu conseguir entender esse livro,<CR>eu posso conseguir sintetizar coisas<CR>mais poderosas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "Beleza, eu vou dar uma tentada."
+        }
+    ]
+}

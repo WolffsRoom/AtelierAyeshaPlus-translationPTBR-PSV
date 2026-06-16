@@ -1,0 +1,520 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM05_ST4_620.ebm",
+    "nb_messages": 0x39,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x0,
+            "msg_string": "Quando eu sintetizei o Óleo de Flor,<CR>eu acabei pegando no sono..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x1,
+            "msg_string": "E quando dei por mim, eu tava com a Nio num lugar que nunca tinha visto antes."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x2,
+            "msg_string": "Depois que acordei, achei que pudesse ter sido só um sonho, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x3,
+            "msg_string": "Eu dei o doce favorito da Nio pra ela no sonho, e quando acordei, eu não tava mais com ele."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Eu não sei como funcionou, mas consegui entregar um objeto pra Nio."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Hmm... Então você tá me dizendo... que num espaço parecido com um sonho, você conseguiu encontrar sua irmã, e dar um objeto a ela?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "É. Eu sei que pode não parecer verdade, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Não, não é impossível."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Talvez siga o mesmo princípio da ferramenta que usei pra levar a gente da vila até a biblioteca..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Mas a Nio também falou que não conseguia abrir o pacote de doce."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x91,
+            "expr_id": 0x3,
+            "msg_id": 0xa,
+            "msg_string": "Então contato físico não foi possível. Uma conclusão que dá pra tirar disso seria que..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x92,
+            "expr_id": 0x3,
+            "msg_id": 0xb,
+            "msg_string": "Sua irmã provavelmente está num estado de existência em que a mente e o corpo dela estão totalmente separados."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x93,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "O corpo dela muito provavelmente tá numa condição adormecida. O que você encontrou foi o corpo astral dela."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Agora que parei pra pensar, parecia mesmo que ela não tinha uma presença física..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Ah, e mais uma coisa. Um tempo atrás, o bezerro do meu amigo sumiu."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Aí, umas flores perto de uma ruína de repente começaram a desabrochar, e eu achei ter visto o bezerro banhado em luz..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x10,
+            "msg_string": "E o bezerro simplesmente desapareceu na luz!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x17,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Isso provavelmente é uma técnica de transporte. Elas são usadas para transmitir objetos por distâncias enormes."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0x12,
+            "msg_string": "Tem mais nessa história.<CR>Aí, o bezerro volta..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x78,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "E quando ele volta, tinham dois deles! Dois do mesmo bezerro voltaram! Não é incrível?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Isso é um erro comum com técnicas de transporte. Eu mesmo já fiz muito isso no passado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x15,
+            "msg_string": "*ofega* Então se algo tivesse dado errado quando a gente veio pra biblioteca, poderia ter duas de mim também?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Relaxa. A que eu tô usando agora é bem estável. As chances de dar algum problema com essa são de 10.000 para 1."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Isso quer dizer então... que ainda existe uma chance de algo acontecer uma vez a cada 10.000 vezes...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "*engole em seco* Agora eu tô começando a ficar nervosa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xe5,
+            "expr_id": 0x4,
+            "msg_id": 0x19,
+            "msg_string": "Enfim, conseguir mandar algo daqui desse lado é um avanço bem interessante."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xe7,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Sabendo disso, a gente pode conseguir dar um passo efetivo à frente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xe7,
+            "expr_id": 0x4,
+            "msg_id": 0x1b,
+            "msg_string": "Eu tenho uma ideia, mas primeiro, vamos ouvir a sua opinião."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "O que você faria agora?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Bom, eu acho que seria legal se desse pra encontrar o objeto mandado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x16c,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Hmm... Usando que tipo de método?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Humm, tá começando a parecer que eu tô fazendo algum tipo de prova..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x16d,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Não esquenta com isso. Continua."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x21,
+            "msg_string": "Por exemplo, se eu mandar algo que faz som, eu poderia usar o som pra procurar a Nio."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x22,
+            "msg_string": "As \"palavras\" emitidas pelo Cristal de<CR>Flor... conseguiram confundir os<CR>slags de muito longe..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "Então, se eu puder fazer algo do tipo e mandar pro outro lado..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x16d,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "Isso tá quase certo. Vamos seguir com esse plano."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x16d,
+            "expr_id": 0x0,
+            "msg_id": 0x25,
+            "msg_string": "Agora, a gente devia começar criando esse \"objeto\" pra mandar pro outro lado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x16d,
+            "expr_id": 0x0,
+            "msg_id": 0x26,
+            "msg_string": "Eu vou te dar uma dica sobre os princípios básicos. Depois disso, você tem que criar por conta própria..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x16e,
+            "expr_id": 0x0,
+            "msg_id": 0x27,
+            "msg_string": "E com ele, localizar gentilmente aquela coisa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x28,
+            "msg_string": "Ué, Sr. Keith, você não vai me ajudar?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x29,
+            "msg_string": "Você chegou até aqui. Não gostaria de terminar o resto sozinha?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x2a,
+            "msg_string": "Haha... bom... eu acho que sim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xe5,
+            "expr_id": 0x4,
+            "msg_id": 0x2b,
+            "msg_string": "Não precisa se preocupar. Quando você for enfrentar aquela coisa, eu vou te dar uma mãozinha, até certo ponto."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2c,
+            "msg_string": "Ah, vai!? I-Isso é muito tranquilizador..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xe7,
+            "expr_id": 0x0,
+            "msg_id": 0x2d,
+            "msg_string": "Então, não pense em coisas desnecessárias e foca só em alcançar seu objetivo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x2e,
+            "msg_string": "O caminho já tá traçado na sua frente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2f,
+            "msg_string": "Tem razão. Eu preciso dar o meu melhor nisso...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x30,
+            "msg_string": "Hum, Sr. Keith, muito obrigada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x31,
+            "msg_string": "O que deu em você de repente?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x32,
+            "msg_string": "É que, no fim das contas, eu percebi que tenho dependido bastante da sua ajuda."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x33,
+            "msg_string": "...Gratidão é desnecessária.<CR>Eu só tô fazendo essas coisas<CR>pra satisfazer meus próprios interesses."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x15,
+            "expr_id": 0x0,
+            "msg_id": 0x34,
+            "msg_string": "Só isso. Até mais."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x35,
+            "msg_string": "(O Sr. Keith sempre acaba me ajudando...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x36,
+            "msg_string": "(Eu acho... que ele é mesmo uma pessoa legal, né?)"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Você aprendeu a fazer o Transmissor Slag."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Keithgriff agora pode entrar na sua equipe."
+        }
+    ]
+}

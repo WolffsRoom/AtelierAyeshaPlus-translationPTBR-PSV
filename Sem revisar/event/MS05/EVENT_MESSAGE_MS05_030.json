@@ -1,0 +1,200 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MS05_030.ebm",
+    "nb_messages": 0x15,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Bom, antes da gente ir pra competição, vamos conhecer os nossos expositores!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1e3,
+            "expr_id": 0x2,
+            "msg_id": 0x1,
+            "msg_string": "Pessoal, por favor, se apresentem rapidinho!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "unknown2": 0x1,
+            "msg_string": "O primeiro é o nosso organizador que acabou de ser apresentado, o Sr. Harry Olson! Por favor, seja breve!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x56,
+            "expr_id": 0x2,
+            "msg_id": 0x3,
+            "msg_string": "Ora, olá! Espero que todos estejam se divertindo. Eu vou mostrar pra vocês a minha coleção!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x56,
+            "expr_id": 0x2,
+            "msg_id": 0x4,
+            "msg_string": "Hahaha! Eu posso ter sido derrotado antes, mas não vou cair tão fácil dessa vez! Se preparem!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Certo, parece que o Sr. Harry tá queimando de paixão! Mas como eu não tô vendo um fim pra isso, eu gostaria de continuar!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x56,
+            "expr_id": 0x2,
+            "msg_id": 0x6,
+            "msg_string": "Eu não vou mais me segurar... Pra recuperar meu título, eu vou jogar a Ayesha no chão com todas as minhas forças!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Depois de repetidas derrotas, ele finalmente fez uma declaração pessoal de guerra! Será que isso é um sinal de que vem violência por aí!?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x8,
+            "unknown2": 0x1,
+            "msg_string": "A próxima é a Regina, que já participou do concurso todas as vezes!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x199,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Isso, e aí! Bom, como sempre, vamos pegar leve."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "unknown2": 0x1,
+            "msg_string": "Em seguida, a autoproclamada<CR>\"grande bruxa\"! Srta. Wilbell!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Hehehe, eu vou garantir a vitória com um item secreto que é passado entre as bruxas!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xc,
+            "unknown2": 0x1,
+            "msg_string": "O nosso próximo expositor é o caçador bonitão cujo único amor é a caça, o Sr. Juris!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x19e,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Eu não sei muito bem como vim parar aqui, mas tô pronto pra começar. Valeu pelo convite."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xe,
+            "unknown2": 0x1,
+            "msg_string": "A nossa próxima expositora veio de terras distantes, e trabalha como guarda-costas, a Srta. Linca!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Eu não sei muito bem do que se trata, mas batalhar é o meu forte. Eu vou vencer."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x10,
+            "unknown2": 0x1,
+            "msg_string": "O nosso próximo expositor é o alquimista andarilho, Sr. Keith! Pode nos dizer umas palavrinhas, por favor!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Se vai ter algum item à altura do meu... Eu vou aproveitar isso sem muitas expectativas."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "unknown2": 0x1,
+            "msg_string": "E, aqui tá a nossa última expositora!<CR>A Srta. Ayesha!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "S-Sim! Hum, então, é... E-Eu vou dar o meu melhor!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1a6,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Beleza, muito obrigada! Eu tô super animada pra ver que tipo de itens vão ser mostrados!"
+        }
+    ]
+}

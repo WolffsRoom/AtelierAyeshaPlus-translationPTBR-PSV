@@ -1,0 +1,326 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC03_LIN_520.ebm",
+    "nb_messages": 0x24,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Certo, a Aula de Culinária da Ayesha vai começar!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Eu trouxe meus próprios ingredientes. Agradeço de verdade a oportunidade."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Vamos grelhar uma carne hoje. Primeiro, você pode cortar a carne?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Cortar é meu forte. Deixa comigo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x11,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Agora, vou cortá-la.<CR>Por favor, aguarde um momento."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "...Hã?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Hah!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Desculpa a demora. O que achou?<CR>Achei que foi um golpe satisfatório."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x8,
+            "msg_string": "Linca, não sobrou nada da carne..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Achei que seria melhor usar essa espada, já que tô mais acostumada com ela..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0xa,
+            "msg_string": "Não pode. Se você quer cozinhar, precisa aprender a usar uma faca."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Ah, tá. Entendido..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Agora, vamos tentar mais uma vez usando uma faca."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Sim. Então já volto."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Hã? Não vai cortar aqui?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Um espaço grande e aberto é mais adequado pra essa manobra."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Quando você quer balançar uma arma,<CR>se houver obstáculos por perto,<CR>as coisas não vão acabar muito bem."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x11,
+            "msg_string": "..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Hah!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13,
+            "msg_string": "(Uau... Ela jogou a carne lá no alto e tá picando bem na frente dos meus olhos...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x14,
+            "msg_string": "(Eu não consigo nem ver a lâmina!)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x15,
+            "msg_string": "(Nossa, isso é incrível! É como se eu conseguisse ver o espírito de luta da Linca transbordando...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "msg_string": "(Cozinhar... era pra ser assim?)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Desculpa a demora. Eu fui lá cortar a carne com a faca!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Foi mais fácil de usar do que eu pensava. Seria uma arma reserva bem útil!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x19,
+            "msg_string": "Hum, você cortou muito bem, mas ainda assim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x1a,
+            "msg_string": "Por favor, tenta usar a tábua de cortar daqui em diante."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x11,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Hum, então o procedimento é importante quando se trata de cozinhar... Entendido."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "O próximo exercício é grelhar a carne. O truque é usar o fogo alto e cozinhar bem rápido."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x1d,
+            "msg_string": "Agora, vamos tentar!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x78,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Talvez tenha ficado muito crocante... mas acho que tá bom."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x1f,
+            "msg_string": "Eu aprendi o segredo pra grelhar carne. Fogo alto e cozinhar rápido."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Esse jeito de cozinhar é bem fácil de eu entender. Cozinhar e lutar são coisas parecidas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "Ambos são rápidos como um relâmpago,<CR>e uma corrida contra o tempo...<CR>Sinto que até eu dou conta disso agora!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "De qualquer forma, vou manter as chamas altas em mente. Muito obrigada!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x23,
+            "msg_string": "(Hum, sinto que isso foi um pouco extremo, mas talvez não tenha problema...)"
+        }
+    ]
+}

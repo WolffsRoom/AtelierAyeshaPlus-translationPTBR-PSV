@@ -1,0 +1,229 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC07_MAR_080.ebm",
+    "nb_messages": 0x19,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Quer que eu faça uma massagem nos seus ombros?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xe9,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "Hum, você é muito ruim dando massagem..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xea,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "Você aperta com toda a força, parece que meus ombros vão quebrar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x19b,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Obrigada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xed,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Isso não foi um elogio."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Oi. Eu fiz um bolo, aí trouxe um pouco pra dividir com vocês."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x6,
+            "msg_string": "Uau, Ayesha! Na hora certa!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Hehehe, achei que vocês estariam ocupadas,<CR>tem algum problema eu interromper?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Eu acabei de travar no trabalho,<CR>então você é muito bem-vinda."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Nossa, que pilha de papéis enorme..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xe9,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "São todos relatórios. Só de olhar pra eles já me dá vontade de desmaiar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x165,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Relatórios de investigação das ruínas, clima, agricultura, tecnologia, indústrias, assuntos militares, comida..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x167,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "E vários outros formam essa montanha de relatórios."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xea,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "A gente ia começar a organizar isso em breve, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xed,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "O prazo foi adiantado,<CR>então virou um caos total."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Daria muito trabalho só de ler tudo isso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Espero que eles leiam, mas meu chefe é tão cruel..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x99,
+            "expr_id": 0x3,
+            "msg_id": 0x11,
+            "msg_string": "Obriga os capachos a fazerem todo o trabalho enquanto o chefe só fica tomando chá o tempo todo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x9a,
+            "expr_id": 0x3,
+            "msg_id": 0x12,
+            "msg_string": "Mesmo depois de escrever esses relatórios todos, capaz deles só pesarem numa balança e..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xa1,
+            "expr_id": 0x3,
+            "msg_id": 0x13,
+            "msg_string": "Ah, não é nada justo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x14,
+            "msg_string": "Aaah, Marion, vamos esquecer do seu trabalho por um segundo e comer um bolo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x9b,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "*suspiro* V-Você tem razão. Perdi a postura por um segundo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "É sempre assim antes do prazo final."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x99,
+            "expr_id": 0x3,
+            "msg_id": 0x17,
+            "msg_string": "Vou passar por cima daquele chefe idiota no futuro! Ah, minha energia tá voltando!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x18,
+            "msg_string": "(Hmhmhm, mesmo reclamando,<CR>a Marion ama o trabalho dela.)"
+        }
+    ]
+}

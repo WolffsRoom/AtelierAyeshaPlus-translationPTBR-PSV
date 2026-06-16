@@ -1,0 +1,186 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC11_FRE_060.ebm",
+    "nb_messages": 0x14,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x0,
+            "msg_string": "Olá, Senhorita Ayesha. Chegou na hora certa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x45,
+            "expr_id": 0x2,
+            "msg_id": 0x1,
+            "msg_string": "Acabei de assar o pão novo no qual eu tava trabalhando."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Uau, o formato dele é super fofo!<CR>Isso é carne em cima?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Sim. É carne de frango moída, temperada pra ficar docinha e salgada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Mmm... o cheiro tá maravilhoso! Parece que enche a barriga, mas ainda é fofinho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x5,
+            "msg_string": "Tenho certeza que a Marietta vai ficar feliz com isso!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x173,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Você acha? Então a Senhorita Marietta vai ficar feliz..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x175,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Entendi, então ela vai ficar feliz!<CR>Acho que consegui...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x35,
+            "expr_id": 0x2,
+            "msg_id": 0x8,
+            "msg_string": "O cheiro tá muito bom...<CR>Acho que vou comprar um também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Uni duni tê, salamê minguê..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Bom, Sr. Fred, eu já vou indo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Certo. Obrigado pela preferência!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x176,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Agora... o pão novo tá finalmente pronto. Agora que o sabor foi aperfeiçoado, ele tá completo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x178,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Agora só preciso dar um jeito da Senhorita Marietta notar ele..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x17a,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Se eu falar com ela... Não, se fosse tão fácil, eu já teria feito isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x174,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Seria melhor se chamasse a atenção dela naturalmente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x175,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Primeiro, eu devia botar no lugar mais visível da loja... Aqui?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x194,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Não, pera aí! Tenho que considerar a altura da visão dela."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x176,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Ou será que eu coloco do lado do pão de gatinho?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x178,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Hmm... quanto mais eu penso nisso, mais complicado fica. Essa é uma situação difícil..."
+        }
+    ]
+}

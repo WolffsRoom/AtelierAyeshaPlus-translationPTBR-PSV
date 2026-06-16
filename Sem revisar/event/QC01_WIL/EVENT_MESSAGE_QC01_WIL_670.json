@@ -1,0 +1,114 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC01_WIL_670.ebm",
+    "nb_messages": 0xc,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ai, caramba. A gente foi até lá, mas voltou pra casa cansada e de mãos abanando."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x129,
+            "expr_id": 0x3,
+            "msg_id": 0x1,
+            "msg_string": "Hum, então aquela ruína tinha esse tipo de tran-ahn, tesouros?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x12b,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "O chefe e eu não fazíamos ideia.<CR>Vocês mandaram bem."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Mas se a gente não consegue tirar eles de lá,<CR>eu sinto que não adianta de nada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15e,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Hum, tenho a sensação de que o chefe ia dar um jeito de alargar a entrada pra tirar eles de lá..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Mas sabe-se lá quanto dinheiro isso vai custar? Parece ser uma baita trabalheira..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Então, por favor, guarda segredo do Chefe."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "A gente sabe. Se for uma obra tão gigante, provavelmente nem vão precisar da gente, de qualquer forma."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "*suspiro* Essa foi a única coisa que eu consegui trazer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xf5,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "Vamos ver... Não posso botar um preço muito alto nisso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "É... bom, é melhor que nada..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xb,
+            "msg_string": "(Caçar tesouros dá muito trabalho, mas... hehehe, foi bem divertido.)"
+        }
+    ]
+}

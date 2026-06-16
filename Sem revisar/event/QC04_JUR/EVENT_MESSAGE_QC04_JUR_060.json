@@ -1,0 +1,196 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC04_JUR_060.ebm",
+    "nb_messages": 0x15,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0x0,
+            "msg_string": "Ufa, passamos por isso de algum jeito..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xb,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Hmm... suas manobras são muito boas. Você é bem habilidosa, parceira."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x11,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Ops, foi mal. Eu devia ter te chamado de \"senhorita\"."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc6,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Ah, não me importo. Pode me chamar do que for mais fácil pra você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Beleza, vou fazer isso a partir de agora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Vamos voltar pro assunto de antes. Eu ainda não tinha certeza quando te conheci, mas você luta muito bem."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Talvez eu devesse te reavaliar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x7,
+            "msg_string": "Hehehe, eu também tenho pensado em como comecei a me acostumar com essas coisas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Embora uma parte de mim não queira se acostumar com isso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Hmm, eu tive a impressão de que nunca ia conseguir saber se você tava acordada ou dormindo, que nem a Nanaca, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0xa,
+            "msg_string": "Ah, isso era pra ser algum tipo de elogio... né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Essa era a minha intenção. No mínimo, você leva mais jeito pra isso do que a Nanaca."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Com um pouco de treino, você talvez consiga sair pra caçar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x78,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Caçar... Hmm, eu sinto que isso seria forçar a barra..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Não. Dentro de um corpo resistente, vive uma mente saudável. Vejo que você tem os dois."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0xf,
+            "msg_string": "Um c-corpo resistente...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x11,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Deixando a caça de lado, você devia continuar treinando. Não é como se fosse perder alguma coisa por ficar mais forte..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x11,
+            "msg_string": "A-Afinal de contas, eu ainda sou uma garota, e não sei muito sobre ser resistente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15e,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Entendo. Se você tivesse vontade, eu ficaria feliz em te treinar, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x13,
+            "msg_string": "Hum, bom, acho que vou passar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15d,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x14,
+            "msg_string": "(Hmm, tem uma leve diferença<CR>nos nossos valores. Eu entendo<CR>o que o Juris tá dizendo, mas mesmo assim...)"
+        }
+    ]
+}

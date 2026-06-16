@@ -1,0 +1,294 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC04_JUR_100.ebm",
+    "nb_messages": 0x20,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x0,
+            "msg_string": "*bocejo* Bom dia. Juris, obrigada por ficar acordado a noite toda de vigia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "De boa. Você devia ir lavar o rosto.<CR>Eu vou tirar meu cochilo logo... ah, mas<CR>antes disso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Ayesha, sei que você provavelmente não vai gostar, mas tenho que te perguntar uma coisa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "O-O que foi? E por que você tá sendo tão formal...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15d,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "É sobre você falar dormindo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x5,
+            "msg_string": "O qu-!? Eu já te pedi antes pra não ficar ouvindo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x161,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Não fala besteira. Não tenho como tapar os ouvidos a noite toda enquanto tô de vigia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x78,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Isso é... verdade, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Como eu posso dizer isso? Você fica tagarelando a noite toda."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Você é mais falante dormindo do que acordada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "S-Sério? Eu não sabia...<CR>Isso é vergonhoso demais..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Eu lembro de algumas coisas que chamaram atenção..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x11,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "O que exatamente é \"Pão de Gatinho\"?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc6,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Hã? Acho que eu tava falando sobre o pão de gatinho da padaria..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15e,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "É mesmo? Parecia que você tava dizendo coisas como..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15f,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Que você queria comer um gato, ou assar um gato dentro do pão e comer ele..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x10,
+            "msg_string": "Ai! E-E-E-Eu não disse nada disso!<CR>...Eu acho!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x161,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Cada um tem seu gosto pra comida, mas não tenho tanta certeza sobre comer gatos..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "E-Eu tô te falando, não é sobre isso. É sobre pão de gatinho!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "É um pão que tem o formato de um gatinho! Não é como comer um gato de verdade."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Ele tem um recheio de geleia bem doooce por dentro."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Hmm, geleia doce...? Isso é... interessante."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Ué? Juris, você... gosta mesmo de coisas doces?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x194,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Não chega ao ponto de eu \"gostar\", eu só curto o sabor."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Ah é? Então, a gente devia ir comer juntos na próxima?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x19,
+            "msg_string": "Eu trago um chá delicioso também!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x129,
+            "expr_id": 0x3,
+            "msg_id": 0x1a,
+            "msg_string": "Hã? Não, eu acho que não é..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x35,
+            "expr_id": 0x2,
+            "msg_id": 0x1b,
+            "msg_string": "Ah, você não pode? Eu fico tão feliz quando tomo chá com pão doce."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x12b,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Não... Comer pão doce com você enquanto bebo chá é..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xda,
+            "expr_id": 0x4,
+            "msg_id": 0x1d,
+            "msg_string": "Você devia fazer esse tipo de coisa com a Nanaca."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Tem certeza? Hmm, que pena."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1f,
+            "msg_string": "(De qualquer jeito, que vergonha falar tanto dormindo...)"
+        }
+    ]
+}

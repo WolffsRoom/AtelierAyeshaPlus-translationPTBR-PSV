@@ -1,0 +1,277 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC13_ODI_070.ebm",
+    "nb_messages": 0x1f,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x19f,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Muito obrigada. O bolo de hoje estava muito delicioso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Enquanto eu comia esses doces que a Ayesha me trouxe... uma memória antiga foi restaurada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Nossa, é sobre o seu passado, né?<CR>Do que você se lembrou?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "É sobre o meu antigo mestre.<CR>Ele era inteligente, e muito gentil."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "O Mestre partiu dizendo: \"Eu volto logo, então espere bem aqui.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Eu acreditei nas palavras dele e fiquei esperando aqui todo esse tempo, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x117,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "Deu uma cansada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "O quê? Srta. Odelia... Eu vou vir aqui mais vezes...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x119,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Obrigada, Ayesha. Porém,<CR>esperar em si não é a parte difícil."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Sem nenhuma obrigação, não tenho motivo pra existir."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Só de seguir as ordens que me deram, fica difícil confirmar o sentido da minha existência."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "Isso... hum, que tipo de pessoa era o seu mestre?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Bom, essa é uma lembrança bem antiga, então não consigo lembrar direito, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Eu sinto que ele parecia com o Keithgriff."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc6,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Ah, com o Sr. Keith...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x14e,
+            "expr_id": 0x4,
+            "msg_id": 0xf,
+            "msg_string": "Mas, por dentro ele era completamente diferente. O Mestre era uma pessoa muito gentil."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x151,
+            "expr_id": 0x4,
+            "msg_id": 0x10,
+            "msg_string": "Eu queria que o Keithgriff seguisse o exemplo do Mestre."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Hahaha... Não consigo nem imaginar o Sr. Keith sendo legal..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x155,
+            "expr_id": 0x4,
+            "msg_id": 0x12,
+            "msg_string": "Por que ele é tão grosso e mandão?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Haha, vai saber..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x150,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Já que ele é parecido com o Mestre,<CR>é lamentável.<CR>O Keith é bem lamentável."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Me chamaram?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x16,
+            "msg_string": "Opa, Sr. Keith! Hum, não, a gente não chamou você. Não estávamos falando mal de você não!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "...?<CR>Bom, se vocês não têm nada pra falar comigo, tudo bem também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Ah, já sei, Sr. Keith! Quer comer um bolo com a gente?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Eu trouxe um muito gostoso!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x196,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Não. Só de pensar em doces já me dá nojo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Hahaha, n-nojo...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x117,
+            "expr_id": 0x4,
+            "msg_id": 0x1c,
+            "msg_string": "Que fútil. Você deveria comer pelo menos uma fatia de bolo com a gente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x118,
+            "expr_id": 0x4,
+            "msg_id": 0x1d,
+            "msg_string": "Meu Deus, você é tão decepcionante. Decepcionante e lamentável, Mestre."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x1e,
+            "msg_string": "Eita, parece que a Srta. Odelia tá perdendo o controle..."
+        }
+    ]
+}

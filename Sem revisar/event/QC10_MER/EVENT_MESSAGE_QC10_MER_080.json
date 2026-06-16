@@ -1,0 +1,178 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC10_MER_080.ebm",
+    "nb_messages": 0x13,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x1d,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Viu, eu não te falei? É bem difícil de lidar com eles."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xf5,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "Você tinha razão... Eu não achei que fosse dar tanta dor de cabeça."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x1a,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Acho melhor a gente pular fora logo, antes que a coisa piore."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "O q-que foi que rolou?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xf7,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Bom, lembra daquele cliente Homunculus da última vez?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Homunculus...? Ah, aquele que disse que queria brilhinhos...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Sim, ele mesmo. Então, eu juntei um monte de joias e mandei entregar, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Devolveram hoje.<CR>Tipo, devolveram tudinho..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xb0,
+            "expr_id": 0x3,
+            "msg_id": 0x8,
+            "msg_string": "Eu ajudei a escolher as joias, então eu garanto a qualidade e o valor delas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x9,
+            "msg_string": "Então essas joias não atenderam às expectativas do Homunculus?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xfa,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "Não sabemos. As palavras deles são muito abstratas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xfb,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "Enfim, foi isso que aconteceu depois de fazermos tudo o que podíamos. Acho que a gente devia cancelar esse pedido..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Não. Sr. Dono, por favor, deixa eu tentar só mais uma vez."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Hmm, mas meu palpite tá dizendo que não importa o que a gente faça, o resultado não vai ser bom..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0xe,
+            "msg_string": "Mas seus palpites nunca dão certo,<CR>então vai ficar tudo bem."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0xf,
+            "msg_string": "Além disso, se a gente desistir agora, vai manchar a reputação dessa loja!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Hmm, se você faz tanta questão, a gente já recebeu o pagamento adiantado mesmo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Tá bom, vamos tentar mais uma vez."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x7a,
+            "expr_id": 0x3,
+            "msg_id": 0x12,
+            "msg_string": "Sim, senhor. Beleza, tô me empolgando agora! Me aguarde, Homunculus!"
+        }
+    ]
+}

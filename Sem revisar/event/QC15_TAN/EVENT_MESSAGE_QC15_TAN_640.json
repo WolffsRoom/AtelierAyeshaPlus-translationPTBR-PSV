@@ -1,0 +1,413 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC15_TAN_640.ebm",
+    "nb_messages": 0x2c,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Beleza, estica os braços bem alto."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "A-Assim?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Isso! Bom. Ah, endireita a coluna só mais um pouquinho, assim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "T-Tá bom."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x4,
+            "msg_string": "O que será que elas tão fazendo...<CR>Acho que não é exercício..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Beleza, muito bom. Hmhm, ótimo.<CR>Vale muito a pena dar uma lapidada<CR>quando se tem um bom material."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Material...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Significa que a sua pele maravilhosa é firme e macia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "*suspiro* Que inveja...<CR>Bom, vou abotoar agora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "...Pronto, terminei!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x2d,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Ayesha, você tá aí. Chegou bem na hora!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x2e,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "A Tanya tá quase fazendo a estreia dela!<CR>Tcharã!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xc,
+            "unknown2": 0x1,
+            "msg_string": "Ah...!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "unknown2": 0x1,
+            "msg_string": "Hmhm, o que acha dessa garota linda? Até eu fiquei super surpresa."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xe,
+            "unknown2": 0x1,
+            "msg_string": "É meio... vergonhoso."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "unknown2": 0x1,
+            "msg_string": "Não precisa ficar com vergonha.<CR>Você ficou ótima assim."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x10,
+            "unknown2": 0x1,
+            "msg_string": "Pois é! Você ficou muito fofa, Tanya.<CR>Tá parecendo uma boneca...!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x11,
+            "unknown2": 0x1,
+            "msg_string": "Hahaha... É a minha primeira vez usando saia."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "unknown2": 0x1,
+            "msg_string": "Eu tô tão feliz..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13,
+            "unknown2": 0x1,
+            "msg_string": "Esse é um dos meus vestidos antigos, mas você ficou melhor nele do que eu imaginava!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x14,
+            "unknown2": 0x1,
+            "msg_string": "Caiu melhor em você do que em mim. Parece até que foi feito pra você, Tanya."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x15,
+            "unknown2": 0x1,
+            "msg_string": "Olha pra ela! O cabelo preto dela brilha com esse vestido."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "unknown2": 0x1,
+            "msg_string": "Todos os meninos da cidade vão virar o pescoço quando você passar, Tanya."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x17,
+            "unknown2": 0x1,
+            "msg_string": "I-Isso vai me dar vergonha também..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x18,
+            "unknown2": 0x1,
+            "msg_string": "Então, Marietta, você usava esse tipo de vestido cheio de babados quando era mais nova...?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x19,
+            "unknown2": 0x1,
+            "msg_string": "Heh, claro. Na época que eu ainda era fofa..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1a,
+            "unknown2": 0x1,
+            "msg_string": "P-Por que você tá agindo tão estranho?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1b,
+            "unknown2": 0x1,
+            "msg_string": "Não pergunte. Agora, Tanya, dá uma voltinha."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1c,
+            "unknown2": 0x1,
+            "msg_string": "A-Assim?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1d,
+            "unknown2": 0x1,
+            "msg_string": "Hmhmhm, muito bom! Eu amei!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1e,
+            "unknown2": 0x1,
+            "msg_string": "Nem parece que sou eu.<CR>É tão fofo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x1f,
+            "msg_string": "Fico tão feliz. Eu gosto daquele seu jeito animado e enérgico, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x35,
+            "expr_id": 0x2,
+            "msg_id": 0x20,
+            "msg_string": "Com as roupas de hoje, você tá parecendo uma verdadeira dama."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xd4,
+            "expr_id": 0x4,
+            "msg_id": 0x21,
+            "msg_string": "Hehehe... agora eu tô com vergonha.<CR>Sinto que a minha personalidade<CR>não combina com o vestido."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x69,
+            "expr_id": 0x2,
+            "msg_id": 0x22,
+            "msg_string": "Se você mudar a impressão que passa por fora, vai começar a se sentir diferente por dentro."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6a,
+            "expr_id": 0x2,
+            "msg_id": 0x23,
+            "msg_string": "Todas as garotas são assim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6a,
+            "expr_id": 0x2,
+            "msg_id": 0x24,
+            "msg_string": "Agora, sobre esse vestido...<CR>É um presente pra você, Tanya!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xd6,
+            "expr_id": 0x0,
+            "msg_id": 0x25,
+            "msg_string": "Hã!? Mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6d,
+            "expr_id": 0x2,
+            "msg_id": 0x26,
+            "msg_string": "Você aceita ficar com ele por mim? Eu deixei ele especialmente preparado, só pra esse dia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x27,
+            "msg_string": "Acho que não tem problema você aceitar. Ela não consegue mais usar mesmo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x28,
+            "msg_string": "E tenho certeza que o vestido ficaria muito feliz se você usasse."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6a,
+            "expr_id": 0x2,
+            "msg_id": 0x29,
+            "msg_string": "Isso aí! Deixa eu pelo menos fazer algo por você por todo aquele sal que você prepara pra gente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x2a,
+            "msg_string": "Entendi... Beleza, vou aceitar de bom grado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x71,
+            "expr_id": 0x0,
+            "msg_id": 0x2b,
+            "msg_string": "Muito obrigada! Hmhmhm, você é tão fofa!"
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM04_ST3_610.ebm",
+    "nb_messages": 0xd,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Hmm, talvez esse lugar tenha o que eu tô procurando..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x185,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Você falou algo assim antes...<CR>Eu não perguntei porque achei que podia<CR>ser algo pessoal..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x186,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Mas, o que você tá procurando, Ayesha?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Bom, é uma flor. Uma flor específica que só desabrocha a cada 100 anos em uma planície."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Puxa, mas se essa planície virou um lugar devastado, então talvez a flor tenha murchado e morrido também..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x187,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Espera aí! Não tenho certeza se é a cada cem anos, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Já ouvi uma história sobre uma flor que sempre foi só um botão!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "E não fica muito longe daqui.<CR>Você quer ir lá ver?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Sim, eu adoraria ir!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Beleza! Então eu vou voltar pra casa e avisar pra onde a gente tá indo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Depois disso, eu te encontro perto da flor. O botão fica lá em..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Certo, já sei mais ou menos onde é. Acho que não vou me perder."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x19f,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Beleza, então te vejo mais tarde!<CR>Tchauzinho!"
+        }
+    ]
+}

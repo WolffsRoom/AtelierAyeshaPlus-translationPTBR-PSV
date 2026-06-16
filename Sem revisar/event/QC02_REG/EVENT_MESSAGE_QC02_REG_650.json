@@ -1,0 +1,296 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC02_REG_650.ebm",
+    "nb_messages": 0x20,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x46,
+            "expr_id": 0x2,
+            "msg_id": 0x0,
+            "msg_string": "Beleza, acho que já pegamos o suficiente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x4a,
+            "expr_id": 0x2,
+            "msg_id": 0x1,
+            "msg_string": "Bom, trabalhamos duro hoje!<CR>Agora vamos lá ver o Chefe."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "unknown2": 0x1,
+            "msg_string": "Regina, você tem energia de sobra mesmo... Eu não consigo nem me mexer mais..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x4c,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Ayesha, você não pode tá morta de cansaço só com isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Vamos, fica de pé. Se você quiser, eu te ajudo a levantar, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Pode ser que eu encoste em uns lugares estranhos sem querer... Hmhmhm..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "unknown2": 0x1,
+            "msg_string": "Não, não, eu levanto sozinha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Beleza, bom trabalho!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Ayesha, por que você não vira uma<CR>escavadora também? Você pode<CR>ficar tão forte quanto eu!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x9,
+            "unknown2": 0x1,
+            "msg_string": "Hmm... Eu te admiro bastante,<CR>mas não acho que eu conseguiria..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1f8,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "msg_string": "Agora, vou anunciar os resultados.<CR>Depois de uma contagem justa e precisa..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1f9,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xb,
+            "msg_string": "Quem pegou o maior número de<CR>slags foi...a dupla da Regina e<CR>da Ayesha!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x49,
+            "expr_id": 0x2,
+            "msg_id": 0xc,
+            "msg_string": "Aeee! A bebida especiaaal!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Ufa, que bom que a gente se esforçou tanto."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1f9,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xe,
+            "msg_string": "Bom trabalho. Eu realmente posso contar com você, Regina."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1fe,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "msg_string": "Aqui tá o dinheiro e a minha bebida especial. Podem pegar, suas mocinhas!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x4c,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Valeu, Chefe! Eu te amo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1f9,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x11,
+            "msg_string": "Meu Deus, você é simpática, forte e generosa até demais... Vai acabar me deixando preocupada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1fa,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "msg_string": "Se você não der uma acalmada, nunca vai arrumar um marido."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Eu não tô nem aaaaí. Se for o caso, eu pego a Ayesha pra ser minha noiva!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x38,
+            "expr_id": 0x2,
+            "msg_id": 0x14,
+            "msg_string": "O qu-!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1f7,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x15,
+            "msg_string": "Mocinha, você também tem habilidades bem legais. Daria uma boa parceira pra Regina."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1fb,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "msg_string": "E aí, o que acha? Quer trocar de equipe?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3a,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "T-Trocar de equipe?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Eu não tô pensando muito em me casar nem nada ainda..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1f7,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x19,
+            "msg_string": "Não fica toda envergonhada, não é nada disso. Eu tô falando de escavação. Você é uma mocinha bem engraçada..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Chefe, eu não gosto muito da sua ideia de tentar recrutar sem critério qualquer pessoa jovem que aparece..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "E além disso, eu já tenho um compromisso com a Ayesha, então você não pode ficar com ela!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Aqui, Ayesha, o dinheiro é seu!<CR>E eu fico com a bebida!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Hoje eu vou tomar uma bebida deliciosa! Vamos tomar uma, Ayesha!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Eu só vou te fazer companhia.<CR>Bom, vamos nessa?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Você recebeu 1.000 Cole."
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC07_MAR_530.ebm",
+    "nb_messages": 0x11,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Esse lugar tá cheio de Tauns.<CR>Eu venho muito aqui pra pegar<CR>ingredientes pros remédios."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Entendi. Tá mesmo cheio de plantas,<CR>mas não parece que o solo<CR>é lá muito fértil..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Digo, elas tão crescendo direto<CR>da parte de pedra da ruína.<CR>É incrível."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Essas são... ervas medicinais bem usadas na alquimia..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Ouvi dizer que lá no fundo dessa ruína tem um cristal que dá poder pras plantas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "O remédio feito com as ervas medicinais daqui faz o maior sucesso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Entendi, então você não é só uma boticária qualquer?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Hehehe... hmm, mas eu sou só uma boticária normalzinha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x122,
+            "expr_id": 0x3,
+            "msg_id": 0x8,
+            "msg_string": "Ai! O-O que que é isso!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Ah, isso é um Hamster de Fruta. Tá cheio deles por aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0xa,
+            "msg_string": "Eles são bem arteiros, então sofro um pouco pra lidar com eles."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x126,
+            "expr_id": 0x3,
+            "msg_id": 0xb,
+            "msg_string": "É... tão fofo! Eu quero um!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0xc,
+            "msg_string": "Ué? Mas eles são tão bagunceiros,<CR>se você tiver um de bicho de estimação,<CR>vai dar a maior dor de cabeça."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0xd,
+            "msg_string": "Eles vão lá na minha oficina fuçar o lixo, ou entram pela janela à noite e mordem a minha orelha..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x128,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Eu ia ficar de boa se eles mordiscassem a minha orelha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "A Marion tem um ponto fraco pra coisas fofas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "A-Ah, entendi..."
+        }
+    ]
+}

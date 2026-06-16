@@ -1,0 +1,299 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC15_TAN_010.ebm",
+    "nb_messages": 0x21,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc7,
+            "expr_id": 0x4,
+            "msg_id": 0x0,
+            "msg_string": "*arf* *arf* Parece que eu ainda tenho um longo caminho pela frente..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc9,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "O cenário é o mesmo, não importa o quanto eu ande. Ufa, eu tô exausta..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xca,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Acho que vou dar uma descansada na sombra daquela ruína..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0x12,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "...Eiii..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "...Ué? Achei que tivesse escutado alguma coisa..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0x12,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "...Eiiiii...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Tem alguém lá...<CR>Não é uma ilusão, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Parece que ela tá acenando.<CR>Acho que vou lá..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x12c,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "Nossa, tô super surpresa! Nunca achei que ia encontrar alguém de fora num lugar assim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x9,
+            "msg_string": "Hahaha... eu também. Não vi ninguém até agora..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x19f,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Olá, Moça da Cidade!<CR>Deve ter sido difícil andar com<CR>esses sapatos!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x35,
+            "expr_id": 0x2,
+            "msg_id": 0xb,
+            "msg_string": "Hahaha, foi um desafio, já que eles ficavam afundando na areia..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "O chão por aqui é duro, então você devia dar uma descansadinha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Tem razão. Acho que eu vou..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Ufa, acho que me sinto muito melhor.<CR>Meus pés tão bem mais leves agora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Pra uma garota da cidade, aposto que você não tá acostumada a atolar o pé na areia a cada passo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Tem um mercador que é cliente fixo por aqui que reclama disso toda vez que ele vem, também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x11,
+            "msg_string": "Nossa, esse mercador deve ser bem dedicado pra vir até aqui..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Ele vem pra cá a trabalho.<CR>E você, veio fazer o que aqui?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x13,
+            "msg_string": "Eu tô aqui... procurando uma coisa. Tipo... ingredientes medicinais."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Ah, eu sou uma boticária.<CR>Meu nome é Ayesha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x15,
+            "msg_string": "Ah, você é uma boticária!<CR>Meu nome é Tanya!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x45,
+            "expr_id": 0x2,
+            "msg_id": 0x16,
+            "msg_string": "Eu pego sal desse lago junto com a minha família."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Ah, sal... Saquei."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Ué? Sal? Aqui? Então esse chão branco aqui em volta é tudo sal!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0x19,
+            "msg_string": "Hehe, sim, sim! Você provavelmente usa o sal que a gente escava todo santo dia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0x1a,
+            "msg_string": "Praticamente ninguém mais vende sal."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0x1b,
+            "msg_string": "Mas chega de falar de mim!<CR>Sua vez, Ayesha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Quero ouvir histórias sobre a cidade. Tipo, como é lá, e o que todo mundo faz."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Hehe, claro. Vamos ver, sobre o que eu falo...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Hrrmm, acho que me recuperei do<CR>cansaço com esse descanso gostoso.<CR>Acho melhor eu voltar pra estrada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Adorei escutar um montão de coisas sobre a cidade. Espero te ver de novo por aí!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x19a,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Sim, eu também espero!"
+        }
+    ]
+}

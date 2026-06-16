@@ -1,0 +1,724 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MS05_050.ebm",
+    "nb_messages": 0x51,
+    "messages": [
+        {
+            "type": 0x0,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2f48,
+            "msg_string": "Agora pra última expositora!<CR>Ayesha, vem pra cá!"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2f49,
+            "msg_string": "C-Certo! Obrigada por me receberem!"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2f4a,
+            "msg_string": "E então, quais vão ser os resultados!? Que comecem as avaliações!"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2f4b,
+            "msg_string": "Beleza, acabou o tempo! É isso pras avaliações!"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2f4c,
+            "msg_string": "Isso conclui todas as avaliações de todos os participantes!"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2f4d,
+            "msg_string": "Por favor, esperem enquanto a gente computa os resultados!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1a0,
+            "expr_id": 0x0,
+            "msg_id": 0x2f4e,
+            "msg_string": "Anunciando os resultados!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x2f4f,
+            "msg_string": "O ganhador é..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x2f50,
+            "msg_string": "O organizador, Sr. Harry Olson! Parabéns!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x2f51,
+            "msg_string": "A Srta. Regina! Parabéns!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x2f52,
+            "msg_string": "A Srta. Wilbell! Parabéns!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x2f53,
+            "msg_string": "O Sr. Juris! Parabéns!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x2f54,
+            "msg_string": "A Srta. Linca! Parabéns!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x2f55,
+            "msg_string": "O Sr. Keith! Parabéns!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x2f56,
+            "msg_string": "A Srta. Ayesha! Parabéns!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x59,
+            "expr_id": 0x2,
+            "msg_id": 0x2f57,
+            "msg_string": "Bwahahahaha! Bom, esse era o resultado inevitável! De agora em diante, eu não vou perder o meu posto de campeão tão fácil!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xb,
+            "expr_id": 0x0,
+            "msg_id": 0x2f58,
+            "msg_string": "Nossa, eu sou a vencedora? Valeu! Acabei de dar um gás inesperado na minha grana!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2f59,
+            "msg_string": "Hmhmhm, bem como eu esperava!<CR>Eu não vou perder pra Ayesha!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x2f5a,
+            "msg_string": "Eu? Sério? É difícil de acreditar, mas... Bom, eu aceito essa honra com gratidão."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x2f5b,
+            "msg_string": "Eu sou a vencedora? Eu tava confiante, mas... isso ainda me deixa feliz."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x2f5c,
+            "msg_string": "Hmph, talvez eu tenha me destacado até demais. Devo repensar essa minha natureza meticulosa..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x2,
+            "msg_id": 0x2f5d,
+            "msg_string": "Ah, eu? Sério!? E-Ebaaa!!!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1a6,
+            "expr_id": 0x0,
+            "msg_id": 0x2f5e,
+            "msg_string": "Uau, foram todos incríveis! Gostaria de pedir ao organizador do nosso evento, o Sr. Harry, para comentar os resultados!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x18,
+            "expr_id": 0x0,
+            "msg_id": 0x2f5f,
+            "msg_string": "Pois é! Com tantos itens de alto nível, como organizador, nada poderia me deixar mais feliz, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0x2f60,
+            "msg_string": "Acho que nenhum competidor consegue me superar! Quero que todos vocês continuem se esforçando!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x22,
+            "expr_id": 0x0,
+            "msg_id": 0x2f61,
+            "msg_string": "Vou ficar esperando por um competidor que consiga me satisfazer da próxima vez! É claro que eu..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1a6,
+            "expr_id": 0x0,
+            "msg_id": 0x2f62,
+            "msg_string": "Beleza, muito obrigada! Por enquanto é só. Estão dispensados!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2f63,
+            "msg_string": "Ahh, eu perdi. Acho que o Sr. Harry é mesmo muito incrível."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2f64,
+            "msg_string": "Mas eu me diverti, então acho que tá de boa. Vou dar o meu melhor da próxima vez...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x18,
+            "expr_id": 0x0,
+            "msg_id": 0x2f65,
+            "msg_string": "Bom, com uma batalha de tão alto nível diante de nós, eu acabei levando a sério sem querer também!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0x2f66,
+            "msg_string": "Porém! Só de olhar pros resultados, que acabaram em vitória para mim, fico um pouco decepcionado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x22,
+            "expr_id": 0x0,
+            "msg_id": 0x2f67,
+            "msg_string": "Até que apareça um oponente digno,<CR>não tenho a menor intenção de perder meu lugar<CR>como campeão! Portanto..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x2f68,
+            "msg_string": "Tá bom, tá bom, ele basicamente tá dizendo que tá feliz por ter ganhado! Muito obrigada!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2f69,
+            "msg_string": "Hmm, não foi tão bem dessa vez.<CR>Acho que não dá pra ganhar quando ele dá<CR>tudo de si assim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2f6a,
+            "msg_string": "Mais sorte da próxima, isso aí! Beleza, já terminei de me animar!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x18,
+            "expr_id": 0x0,
+            "msg_id": 0x2f6b,
+            "msg_string": "Bem, não posso fazer nada a não ser admirar todos vocês, desafiantes, que conseguiram me encurralar desse jeito hoje!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0x2f6c,
+            "msg_string": "Especialmente você, Ayesha... Você ajudou a reacender a paixão que eu já tinha meio que esquecido."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x22,
+            "expr_id": 0x0,
+            "msg_id": 0x2f6d,
+            "msg_string": "Quero te agradecer do fundo do coração! E aplaudo todos os competidores que lutaram tanto! Obrigado!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x2f6e,
+            "msg_string": "Uau... Parece que ele encerrou tudo de um jeito inesperado! Muito obrigada!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2f6f,
+            "msg_string": "Hmph! Perder depois de chegar tão longe! Dá um pouco de raiva..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2f70,
+            "msg_string": "Mas isso só significa que o Sr. Harry também se esforçou muito pra isso. Parabéns, Sr. Harry!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x2f71,
+            "msg_string": "Humm, parece que eu baixei muito a guarda e acabei perdendo a vitória sem querer!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x2f72,
+            "msg_string": "Mesmo assim, dar tudo de si contra uma garota não pega bem pra um homem feito, então, sabe como é, espero que todos entendam!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x21,
+            "expr_id": 0x0,
+            "msg_id": 0x2f73,
+            "msg_string": "Então, em outras palavras... o que quero dizer é que não vai ser tão fácil da próxima vez! Eu vou ser o próximo vencedor."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x2f74,
+            "msg_string": "Seja sincero logo e dê os parabéns pra ela! Agora, algumas palavras da nossa vencedora!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2f75,
+            "msg_string": "Hã? Ah, s-sim! E-Eu tô muito feliz!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1a6,
+            "expr_id": 0x0,
+            "msg_id": 0x2f76,
+            "msg_string": "Beleza, muito obrigada!<CR>E mais uma vez, parabéns!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2f77,
+            "msg_string": "(Nunca achei que eu ia mesmo ganhar!<CR>Ainda bem que me esforcei tanto...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2f78,
+            "msg_string": "(Eba! Ganhei de novo! É melhor eu continuar assim pra próxima...!)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15e,
+            "expr_id": 0x0,
+            "msg_id": 0x2f79,
+            "msg_string": "Hmhmhm... Nunca achei que ia perder depois de dar o meu melhor. Esse evento superou minhas expectativas, indo pra um lado totalmente inesperado!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x2f7a,
+            "msg_string": "Mas eu gostaria de fazer uma pergunta: \"O que é uma competição?\" Se o coração não se dobra, você não pode chamar de derrota!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x21,
+            "expr_id": 0x0,
+            "msg_id": 0x2f7b,
+            "msg_string": "E meu coração continua inabalável!<CR>Dizer que a Ayesha me venceu<CR>completamente é..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x2f7c,
+            "msg_string": "Por favor, admita sua derrota sem reclamar! Agora, algumas palavras da nossa vencedora!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2f7d,
+            "msg_string": "Hã? Ah, s-sim! A-Acho que me sinto um pouco mal, na verdade..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1a6,
+            "expr_id": 0x0,
+            "msg_id": 0x2f7e,
+            "msg_string": "Não precisa ficar com pena!<CR>E mais uma vez, parabéns!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x18,
+            "expr_id": 0x0,
+            "msg_id": 0x2f7f,
+            "msg_string": "Humm, acabei perdendo dessa vez, mas isso é só pela diversão!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0x2f80,
+            "msg_string": "Achei que o público ia ficar entediado sem uma surpresinha de vez em quando! Haha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x22,
+            "expr_id": 0x0,
+            "msg_id": 0x2f81,
+            "msg_string": "Da próxima vez, vou recuperar meu trono de campeão! Essa promessa nunca vai..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1a6,
+            "expr_id": 0x0,
+            "msg_id": 0x2f82,
+            "msg_string": "Beleza, vamos ter que parar por aí, porque não temos muito tempo sobrando. Muito obrigada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2f83,
+            "msg_string": "Hmm, não acabou do jeito que eu queria, mas consegui ver umas coisas interessantes."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2f84,
+            "msg_string": "Espero conseguir um resultado melhor no futuro. Vou dar mais duro na próxima vez!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1e8,
+            "expr_id": 0x2,
+            "msg_id": 0x2f85,
+            "msg_string": "Bem, pessoal, muito obrigada por ficarem até o final! Por favor, aguardem ansiosos pela próxima competição!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x194,
+            "expr_id": 0x0,
+            "msg_id": 0x21e5,
+            "msg_string": "Então, a hora finalmente chegou...<CR>Bate um pouco de solidão,<CR>mas mais do que isso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x56,
+            "expr_id": 0x2,
+            "msg_id": 0x21e6,
+            "msg_string": "Eu tô feliz!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x21e7,
+            "msg_string": "Sim... Humm, do que estamos falando mesmo?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x57,
+            "expr_id": 0x2,
+            "msg_id": 0x21e8,
+            "msg_string": "Opa, não seja tão modesta.<CR>Nós chegamos ao momento decisivo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x57,
+            "expr_id": 0x2,
+            "msg_id": 0x21e9,
+            "msg_string": "Eu declaro aqui, o nascimento do... do Concurso de Tesouros Empolgantes..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x5e,
+            "expr_id": 0x2,
+            "msg_id": 0x21ea,
+            "msg_string": "Segundo Grande Campeão!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x21eb,
+            "msg_string": "Ah. Humm... parabéns...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x58,
+            "expr_id": 0x0,
+            "msg_id": 0x21ec,
+            "msg_string": "Você é quem vai receber esse título. Parabéns, Ayesha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x18,
+            "expr_id": 0x0,
+            "msg_id": 0x21ed,
+            "msg_string": "Você conquistou o direito de ser a Grande Campeã."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x22,
+            "expr_id": 0x0,
+            "msg_id": 0x21ee,
+            "msg_string": "O primeiro campeão, eu mesmo, vou passar esses louros para você!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x21ef,
+            "msg_string": "P-Pra mim? *suspiro*<CR>Não precisa disso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x25,
+            "expr_id": 0x0,
+            "msg_id": 0x21f0,
+            "msg_string": "Que nada, você vai conseguir me substituir perfeitamente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0x21f1,
+            "msg_string": "Se tornar autora de livros de tesouros, dar palestras sobre antiguidades, organizar o Concurso de Tesouros Empolgantes..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x1a,
+            "expr_id": 0x0,
+            "msg_id": 0x21f2,
+            "msg_string": "Tem muito trabalho a se fazer, Ayesha!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x123,
+            "expr_id": 0x4,
+            "msg_id": 0x21f3,
+            "msg_string": "Não, não é possível. Eu jamais conseguiria tomar o seu lugar, Sr. Harry."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x194,
+            "expr_id": 0x0,
+            "msg_id": 0x21f4,
+            "msg_string": "Não é tomar o meu lugar. A partir de agora, vamos trilhar o mesmo caminho juntos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x5,
+            "msg_id": 0x21f5,
+            "msg_string": "Hã?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x21f6,
+            "msg_string": "Claro que um dia vou pegar de volta o título de Grande Campeão. Hmhmhm..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x21f7,
+            "msg_string": "(On-Onde foi que eu me meti?<CR>Acho que me esforcei demais...)"
+        }
+    ]
+}

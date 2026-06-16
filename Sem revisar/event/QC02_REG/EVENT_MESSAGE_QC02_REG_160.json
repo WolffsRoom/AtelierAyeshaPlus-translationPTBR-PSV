@@ -1,0 +1,347 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC02_REG_160.ebm",
+    "nb_messages": 0x26,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Mestre dos Drinks, me vê uma pizza de lagostim, um parfait de cereja e uma água?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x141,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "Á-Água!? Você é tão simples, Ayesha.<CR>É raro alguém pedir água<CR>numa taverna."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x143,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Como Mestre dos Drinks, os pedidos de bebida são onde eu realmente posso mostrar minhas habilidades."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Hmm... mas água combina melhor com o parfait de cereja."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Bom, se você faz tanta questão, acho que não tenho escolha. Beleza, uma água saindo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "E você, vai querer o quê?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Eu vou... hmm... Acho que vou começar com bebida forte! Me dá uma com bastante teor alcoólico!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Eita. Tem certeza que você devia pedir bebida forte durante o dia?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Fica tranquilo, já fiz isso um monte de vezes! Quero uma bem gostosa, por favor!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x110,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "Uma bem gostosa... Sendo bem sincero, eu não posso beber, então não tenho muita certeza do que te dar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x112,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Mas todas as minhas bebidas foram<CR>recomendadas pelo fornecedor,<CR>então posso garantir o sabor."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x196,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Que desperdício... Sinto muito por você,<CR>não poder beber algo<CR>tão gostoso assim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa7,
+            "expr_id": 0x3,
+            "msg_id": 0xc,
+            "msg_string": "Pois é. Eu até tentei criar resistência,<CR>mas acho que a minha genética não<CR>permite."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa9,
+            "expr_id": 0x3,
+            "msg_id": 0xd,
+            "msg_string": "Minha mãe, meu pai, meus avós... minha família inteira não bebe álcool."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xaa,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Por causa disso, até em festas grandes, tipo casamentos, minha família fica sempre sóbria."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "msg_string": "(Álcool... Eu também fico bêbada só de sentir o cheiro...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Entendi. Parando pra pensar, minha mãe e meu pai parecem um buraco sem fundo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Acho que é por isso que eu tenho tanta resistência. É, preciso agradecer meus pais na próxima vez."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Parecer um buraco sem fundo dá um pouco de medo, também. O álcool é melhor quando aproveitado com moderação."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Mas se a gente tivesse filhos,<CR>talvez eles fossem moderados."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Então... o que cê acha de mim?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x165,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Ééé..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Q-Qual é a dessa expressão?<CR>Tô meio magoado agora..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x167,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Mas sério, você? Eu não ligo se um cara é mais velho ou mais novo que eu, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Um cara mais baixo que eu não rola. Se for pra namorar, eu quero que o meu cara seja alto."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Ué? Mas eu sou mais alto que você, não sou?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Ué, sério? Eu acho que a gente tem quase a mesma altura, ou talvez você seja um pouco mais baixo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Isso é por causa da altura do seu salto. Meus sapatos são retos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x196,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Não suporto cara chato assim com detalhes. O cara tem que ter o coração grande."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Aff... Ei, Ayesha, fala alguma coisa pra ela."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Tipo como o valor de um cara não se baseia na altura dele, ou como eu sou, na real, mais alto que ela..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Hã? Hmm... bom, cada um tem seus próprios valores."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x20,
+            "msg_string": "Ah, mas eu também já ouvi falar que a altura da pessoa pode mudar dependendo da hora do dia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "Ouvi dizer que a gente fica mais alto de manhã! Então se vocês compararem a altura de manhã... Ué?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x110,
+            "expr_id": 0x4,
+            "msg_id": 0x22,
+            "msg_string": "Tá na cara que você tá medindo as palavras..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x111,
+            "expr_id": 0x4,
+            "msg_id": 0x23,
+            "msg_string": "Ayesha, essa sua tentativa de ser gentil tá é perfurando meu coração."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "Hahaha, Ayesha, você é terrível também. Mas enfim... Mestre dos Drinks, desce mais uma!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x112,
+            "expr_id": 0x0,
+            "msg_id": 0x25,
+            "msg_string": "Tá, tá... Saindo."
+        }
+    ]
+}

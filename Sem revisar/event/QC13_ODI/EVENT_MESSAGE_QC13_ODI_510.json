@@ -1,0 +1,271 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC13_ODI_510.ebm",
+    "nb_messages": 0x1e,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Você achou o livro que tava procurando?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x1,
+            "msg_string": "Na verdade eu não sei quais seções têm quais tipos de livros, e..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Eu tô procurando por livros de alquimia...<CR>Vocês têm eles aqui?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x185,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Então, livros sobre alquimia. Vou iniciar a busca. Por favor, espere."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x186,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Tem 58.400 resultados.<CR>Devo ler a lista pra você?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "T-Tudo isso...? Vai ser difícil ler todos eles..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x187,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Salvo raras exceções, essas instalações têm uma grande variedade de livros."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Você pode filtrar a sua busca. Quer que eu faça isso?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Hmm, eu tô procurando por livros de alquimia<CR>sobre flores. Você teria<CR>algum...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x185,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Alquimia e flores. Eu incluí os termos-chave. Vou iniciar a busca de novo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x186,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Enviando sinal...<CR>Por favor, espere um momento."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Tá bem, vou esperar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x187,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Enviando sinal...<CR>Por favor, espere um momento."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Tá bom..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x187,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Ocorreu um erro inesperado. O banco de dados dos resultados da busca por alquimia sumiu."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "...Hã?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x117,
+            "expr_id": 0x4,
+            "msg_id": 0x10,
+            "msg_string": "Ocorreu um erro adicional. O banco de dados dos resultados da busca por flores sumiu."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x11,
+            "msg_string": "O quê...? Eu sinto que fiz algo terrível..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x119,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Por favor, não se preocupe. A única coisa que sumiu foram os bancos de dados dos resultados da busca."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Entendi, então com os livros é diferente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x197,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Sim. Só os resultados da busca sumiram. Isso não teve nenhum efeito nos próprios livros guardados."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x31,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Peço desculpas, mas por favor procure direto no livro. Vá até a entrada logo ali."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x33,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Porém, como eu disse mais cedo, a passagem tá bloqueada pelas estantes que caíram."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "No momento, estamos fazendo reparos na passagem. Por favor, espere um momento."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x18,
+            "msg_string": "(Eu com certeza tive que esperar muito hoje...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Obrigada por esperar. A remoção dos obstáculos foi concluída."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Muito obrigada, Dona Bibliotecária. Você me ajudou pra caramba."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Que nada. Esse é o meu trabalho. A estante exata que você tá procurando é a 4-D 3."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x19f,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Agora, espero que você volte em segurança."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Tá bem.<CR>...Ué, voltar em segurança?"
+        }
+    ]
+}

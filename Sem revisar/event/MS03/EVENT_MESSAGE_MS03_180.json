@@ -1,0 +1,52 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MS03_180.ebm",
+    "nb_messages": 0x5,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Em qualquer ponto brilhante, aperte <IM00> várias vezes ou segure para fazer a Ayesha se abaixar e começar a coletar."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "O tempo passa enquanto você coleta. Solte <IM00> ou se afaste pra parar. E mais, quando parar de brilhar, você não pode mais coletar."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Só que a água do poço é ilimitada, e pegar ela não faz o tempo passar."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Você pode ver o que pegou no registro de coleta, no canto inferior direito."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Voltar pra oficina envia seus itens coletados pro Baú. O Baú consegue guardar muitos itens."
+        }
+    ]
+}

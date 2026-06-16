@@ -1,0 +1,294 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC14_NAN_430.ebm",
+    "nb_messages": 0x20,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ah, Juris! Finalmente te achei."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Eu fiquei fora por um tempo.<CR>Você tá bem, Nanaca?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0xb0,
+            "expr_id": 0x3,
+            "msg_id": 0x2,
+            "msg_string": "Eu quero te perguntar a mesma coisa.<CR>Como você tem passado, Juris?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0xb6,
+            "expr_id": 0x3,
+            "msg_id": 0x3,
+            "msg_string": "A gente tava preocupada, já que você não voltou mais pra vila."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "É, rolou muita coisa.<CR>Eu tava caçando um grandão."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Fala pra todo mundo não se preocupar comigo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0xb2,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Isso não basta. Dá uma passadinha lá pelo menos uma vez. Todo mundo tá super preocupado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x11a,
+            "expr_id": 0x4,
+            "msg_id": 0x7,
+            "msg_string": "E eu também... Tenho me sentido sozinha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "O quê? Achei que você tivesse dito que ficava bem sozinha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x11e,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "Uma coisa não tem nada a ver com a outra.<CR>Não te vejo há um tempão."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x11,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Hmm, é mesmo...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x120,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "É sim. Nossa, é por isso que todo mundo diz que caçadores não prestam."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Ayesha, desculpa. Você viu um momento vergonhoso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0xd,
+            "msg_string": "Fica tranquila. A Nio e eu somos assim também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x35,
+            "expr_id": 0x2,
+            "msg_id": 0xe,
+            "msg_string": "Ter sua irmã mais nova dependendo de você é um privilégio especial de ser irmão mais velho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Eu nunca pensei nisso como um privilégio especial..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0xb0,
+            "expr_id": 0x3,
+            "msg_id": 0x10,
+            "msg_string": "Ayesha, você não devia tá rindo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0xb6,
+            "expr_id": 0x3,
+            "msg_id": 0x11,
+            "msg_string": "Meu irmão é assim, então você vai ter um monte de problemas se ficar com ele..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Hã?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Ei, Nanaca. A gente não tem esse tipo de relação."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "A Ayesha vai ter mais problemas lidando com esse tipo de piada, então para com isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0xb2,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Ué? Sério? Tá bom..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Eu achei que a Ayesha era a única pessoa que conseguiria ficar com o meu irmão..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Era só o que eu achava. Foi mal, Ayesha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x46,
+            "expr_id": 0x2,
+            "msg_id": 0x18,
+            "msg_string": "Mas eu não tava brincando."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x47,
+            "expr_id": 0x2,
+            "msg_id": 0x19,
+            "msg_string": "Eu sei que é óbvio que você vai ter problemas se ficar com o Juris, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x47,
+            "expr_id": 0x2,
+            "msg_id": 0x1a,
+            "msg_string": "Mesmo assim, eu não acho que ele seja um cara<CR>ruim... O que você acha?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x38,
+            "expr_id": 0x2,
+            "msg_id": 0x1b,
+            "msg_string": "Hã!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x4a,
+            "expr_id": 0x2,
+            "msg_id": 0x1c,
+            "msg_string": "Hehehe! Embora, como irmã dele, eu possa estar vendo só o lado bom."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Nanaca!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x4c,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Sim! Desculpa!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3a,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1f,
+            "msg_string": "(Irmãos são legais no fim das contas...)"
+        }
+    ]
+}

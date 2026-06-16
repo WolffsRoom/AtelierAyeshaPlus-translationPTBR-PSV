@@ -1,0 +1,516 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC09_ERN_110.ebm",
+    "nb_messages": 0x36,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ai, tô morrendo de sede.<CR>O que que eu bebo...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Ué? Isso é..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Toma aí. Por minha conta. Pode virar de uma vez."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x3,
+            "msg_string": "Mas isso não é bebida alcoólica?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Você já fez aniversário, então já tem idade pra beber, não tem?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x5,
+            "msg_string": "Falando nisso, cê tem razão. Mas como você sabia do meu aniversário?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Fiquei sabendo por esse cara aqui,<CR>que tá sempre com um sorriso no rosto."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Hahaha. O Kyle ficou insistindo pra eu falar, então né..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Álcool... Hum...<CR>Será que eu aguento...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Mas você nunca tomou antes, né? Pra tudo tem uma primeira vez."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x10c,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "Fica tranquila. É a bebida mais fraca que eu tenho aqui. Eu sou provavelmente a única pessoa que não aguenta ela..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x10f,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "Haha, não é de dar pena...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x112,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Poxa, fiquei até deprimido por um segundo. Qual é, não precisa se segurar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Entendi... Então, vou tomar um gole bem grande..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0xe,
+            "msg_string": "E aí, que achou? É uma bebida suave que faz muito sucesso com a mulherada..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x38,
+            "expr_id": 0x2,
+            "msg_id": 0xf,
+            "msg_string": "Nossa, deu ruim...<CR>O mundo tá girando..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "...Hã?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x39,
+            "expr_id": 0x2,
+            "msg_id": 0x11,
+            "msg_string": "Ai, acho que já era pra mim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x141,
+            "expr_id": 0x4,
+            "msg_id": 0x12,
+            "msg_string": "Caramba, essa foi rápida. Ayesha, você apaga mais rápido que eu!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x143,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Hum, que bom que tem alguém mais fraco pra bebida do que eu..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x14,
+            "msg_string": "Não é hora pra comemorar. Você deu mesmo uma bebida fraca pra ela?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Sim, sem a menor dúvida. É basicamente um suquinho batizado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Na real, tem tão pouco álcool que até uma criança não ficaria bêbada com isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Desculpa, Ernie. Você pode levar ela pro quarto dela?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x126,
+            "expr_id": 0x2,
+            "msg_id": 0x18,
+            "msg_string": "Claro, sem problemas. Só espero que a Ayesha fique bem."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x39,
+            "expr_id": 0x2,
+            "msg_id": 0x19,
+            "msg_string": "Ah, hahaha, eu tô bem... "
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x127,
+            "expr_id": 0x2,
+            "msg_id": 0x1a,
+            "msg_string": "É, com certeza ela não tá bem. Bom, espero que ela não se importe de eu pegar ela no colo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x39,
+            "expr_id": 0x2,
+            "msg_id": 0x1b,
+            "msg_string": "Hahaha, isso faz cócegas!<CR>Não, para! Me coloca no chão."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x128,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Tá bom... Ué? Ela é mais leve do que eu imaginava."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x39,
+            "expr_id": 0x2,
+            "msg_id": 0x1d,
+            "msg_string": "Hehehe, isso é tão quentinho e confortável..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1e,
+            "unknown2": 0x1,
+            "msg_string": "...Hã? Onde eu tô...?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1f,
+            "unknown2": 0x1,
+            "msg_string": "Ei, acordou?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x20,
+            "unknown2": 0x1,
+            "msg_string": "Ué? Como é que eu vim parar na minha cama de pijama?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x21,
+            "unknown2": 0x1,
+            "msg_string": "Então você não lembra...<CR>Deu o maior trabalho."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x22,
+            "unknown2": 0x1,
+            "msg_string": "Não, não lembro... O que que eu...?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x23,
+            "unknown2": 0x1,
+            "msg_string": "Eu lembro de ter pensado em dar um oi pro Sr. Kyle depois de chegar em Hornheim, e..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x24,
+            "unknown2": 0x1,
+            "msg_string": "V-Você vai puxar pela memória até aí!?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x25,
+            "unknown2": 0x1,
+            "msg_string": "Ayesha, você veio pra taverna, me viu, e o Kyle te ofereceu álcool. Aí..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x26,
+            "unknown2": 0x1,
+            "msg_string": "Assim que você deu um gole, começou a dar risada e caiu."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x27,
+            "unknown2": 0x1,
+            "msg_string": "O que-hã? Não lembro de nada disso..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x28,
+            "unknown2": 0x1,
+            "msg_string": "Pelo menos não parece que você tá com febre nem nada. Mas pra garantir, fica na cama hoje."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x29,
+            "unknown2": 0x1,
+            "msg_string": "Tá bom. Ernie, você parece uma-"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2a,
+            "unknown2": 0x1,
+            "msg_string": "Uma mãe, né? Aham, também tô começando a me sentir assim."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2b,
+            "unknown2": 0x1,
+            "msg_string": "Aqui. A mamãe te trouxe um pouco de água."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2c,
+            "unknown2": 0x1,
+            "msg_string": "*glup* *glup* *glup*<CR>Ufa! Tá tão gelada e gostosa."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2d,
+            "unknown2": 0x1,
+            "msg_string": "Então, parece que você é muito mais fraca pra bebida que o Kyle."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2e,
+            "unknown2": 0x1,
+            "msg_string": "Isso pode ser perigoso, então não bebe mais álcool, tá bom?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2f,
+            "unknown2": 0x1,
+            "msg_string": "Tá. Mas minha cabeça tá meio leve... É tão booom!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x30,
+            "unknown2": 0x1,
+            "msg_string": "Acho que posso gostar de álcool no fim das contas."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x31,
+            "unknown2": 0x1,
+            "msg_string": "Você não tem mais permissão pra beber."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x32,
+            "unknown2": 0x1,
+            "msg_string": "Maaas, eu sou adulta, então se for só um pouquinho..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x33,
+            "unknown2": 0x1,
+            "msg_string": "Se você quiser muito, muito mesmo beber, você tem que me avisar antes."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x34,
+            "unknown2": 0x1,
+            "msg_string": "Você nunca deve beber com alguém que não conhece, beleza?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x35,
+            "unknown2": 0x1,
+            "msg_string": "Taaaá!"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM03_ST2_030.ebm",
+    "nb_messages": 0x3,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1ec,
+            "expr_id": 0x6,
+            "msg_id": 0x0,
+            "msg_string": "Nio... Eu consegui ver ela, mas ela sumiu de novo. E parece que ela também nem me notou."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1ed,
+            "expr_id": 0x6,
+            "msg_id": 0x1,
+            "msg_string": "Da primeira vez, ela com certeza olhou pra mim. O que será que rolou de diferente dessa vez...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1ef,
+            "expr_id": 0x6,
+            "msg_id": 0x2,
+            "msg_string": "Preciso me acalmar e pensar. Tenho certeza que tem algum tipo de pista..."
+        }
+    ]
+}

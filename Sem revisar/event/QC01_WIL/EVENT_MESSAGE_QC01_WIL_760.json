@@ -1,0 +1,579 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC01_WIL_760.ebm",
+    "nb_messages": 0x3a,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Hmhm! Meus poderes mágicos são bem incríveis, né não!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x2,
+            "msg_id": 0x1,
+            "msg_string": "Desiste logo e seja minha!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x3d,
+            "name_id": 0x33,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "unknown2": 0x1,
+            "msg_string": "Hgh...! Se empolgando tanto, sem saber que eu só estava brincando com você...!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x3d,
+            "name_id": 0x33,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "unknown2": 0x1,
+            "msg_string": "Pelo visto você precisa ser punida."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Ué, punida...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Bell, a gente não tá... ferrada agora?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Fica fria. Isso só significa que ela tá sentindo a pressão!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "...É o que eu gostaria de dizer, mas isso parece um tiquinho problemático."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "Hã!? O-O-O quê!?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x3d,
+            "name_id": 0x33,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x9,
+            "unknown2": 0x1,
+            "msg_string": "Minhas lâminas de vento...<CR>Aguentem se puderem!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x3d,
+            "name_id": 0x33,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "unknown2": 0x1,
+            "msg_string": "Crianças do vento, ouçam a minha voz!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x3d,
+            "name_id": 0x33,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xb,
+            "unknown2": 0x1,
+            "msg_string": "Retalhem e cortem aqueles que tentam me fazer mal!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x126,
+            "expr_id": 0x4,
+            "msg_id": 0xc,
+            "msg_string": "Ooh...! O espírito parece bravo..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "unknown2": 0x1,
+            "msg_string": "Ayesha! Cuidado!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xe,
+            "unknown2": 0x1,
+            "msg_string": "Bell!?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "unknown2": 0x1,
+            "msg_string": "Kyaaah!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x10,
+            "unknown2": 0x1,
+            "msg_string": "Ugh..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x11,
+            "unknown2": 0x1,
+            "msg_string": "Bell! Bell!!!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "unknown2": 0x1,
+            "msg_string": "Urgh... Ayesha, você tá... machucada...?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13,
+            "unknown2": 0x1,
+            "msg_string": "Eu tô bem. Mas você..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x14,
+            "unknown2": 0x1,
+            "msg_string": "Por que você me protegeu...!?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x15,
+            "unknown2": 0x1,
+            "msg_string": "Fui eu que te trouxe até aqui."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "unknown2": 0x1,
+            "msg_string": "Além disso... eu não queria que você se machucasse, porque eu gosto muito de você..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x17,
+            "unknown2": 0x1,
+            "msg_string": "Isso... isso...! Eu sinto a mesma coisa por você..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x18,
+            "unknown2": 0x1,
+            "msg_string": "Eu tava aqui com você, mas... o que<CR>eu vou falar pra sua<CR>tataravó?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x19,
+            "unknown2": 0x1,
+            "msg_string": "Hmhm... acho que... chegou a hora.<CR>Desculpa as coisas terem acabado assim."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1a,
+            "unknown2": 0x1,
+            "msg_string": "Eu achei... que ia dar tudo certo..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1b,
+            "unknown2": 0x1,
+            "msg_string": "Não! Não pede desculpas!<CR>Isso não é a sua cara!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1c,
+            "unknown2": 0x1,
+            "msg_string": "Haha... Eu também peço desculpas, às vezes. Pelo menos no fim, eu quero ser sincera..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1d,
+            "unknown2": 0x1,
+            "msg_string": "Bell, Bell... Bell!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x3d,
+            "name_id": 0x33,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1e,
+            "unknown2": 0x1,
+            "msg_string": "Humana, suas ações altruístas..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x3d,
+            "name_id": 0x33,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1f,
+            "unknown2": 0x1,
+            "msg_string": "Fiquei profundamente impressionada."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x3d,
+            "name_id": 0x33,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x20,
+            "unknown2": 0x1,
+            "msg_string": "Não se preocupe. O fluxo da vida não cessou."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x21,
+            "unknown2": 0x1,
+            "msg_string": "...Hã?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x3d,
+            "name_id": 0x33,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x22,
+            "unknown2": 0x1,
+            "msg_string": "Minhas lâminas não atingiram vocês duas."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x23,
+            "unknown2": 0x1,
+            "msg_string": "...Hã?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x24,
+            "unknown2": 0x1,
+            "msg_string": "Ué? Agora que você falou, não tô machucada em lugar nenhum!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x25,
+            "unknown2": 0x1,
+            "msg_string": "...Hããã!?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x26,
+            "unknown2": 0x1,
+            "msg_string": "Hahaha... Eu achei que era o meu fim quando fui atacada..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x27,
+            "unknown2": 0x1,
+            "msg_string": "Mas acho que foi só imaginação minha. Eu tô super bem."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x28,
+            "unknown2": 0x1,
+            "msg_string": "Waaah!<CR>Bell, eu tô tão feliz!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x29,
+            "unknown2": 0x1,
+            "msg_string": "Oof. Ei Ayesha, não chora!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2a,
+            "unknown2": 0x1,
+            "msg_string": "Waaah, mas, mas..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x3d,
+            "name_id": 0x33,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2b,
+            "unknown2": 0x1,
+            "msg_string": "Suas ações não esconderam nenhuma falsidade."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x3d,
+            "name_id": 0x33,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2c,
+            "unknown2": 0x1,
+            "msg_string": "Agora tudo depende de você. No entanto..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x3d,
+            "name_id": 0x33,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2d,
+            "unknown2": 0x1,
+            "msg_string": "Vou permitir que pegue meus poderes emprestados."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2e,
+            "unknown2": 0x1,
+            "msg_string": "Hã? É sério!? Você vai me dar os poderes do vento?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x3d,
+            "name_id": 0x33,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2f,
+            "unknown2": 0x1,
+            "msg_string": "Eu não disse que os daria a você. Apenas que os emprestaria."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x30,
+            "unknown2": 0x1,
+            "msg_string": "O quê!? Não seja tão pão-dura."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x31,
+            "unknown2": 0x1,
+            "msg_string": "Você podia muito bem só passar eles pra cá!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x3d,
+            "name_id": 0x33,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x32,
+            "unknown2": 0x1,
+            "msg_string": "Hmm... Você precisa de mais punição?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x33,
+            "unknown2": 0x1,
+            "msg_string": "Ah, e-eu não preciso disso!<CR>Eu só quero os poderes do vento!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x3d,
+            "name_id": 0x33,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x34,
+            "unknown2": 0x1,
+            "msg_string": "...Bem, é verdade que você conseguiu me incomodar..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x3d,
+            "name_id": 0x33,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x35,
+            "unknown2": 0x1,
+            "msg_string": "Então você ganhou o direito de usar uma porção dos meus poderes."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x36,
+            "unknown2": 0x1,
+            "msg_string": "Sério!? Ihuuuul! Eu consegui os poderes do vento!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x37,
+            "unknown2": 0x1,
+            "msg_string": "Hehehe! A Tataravó vai ter que me reconhecer agora!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x38,
+            "unknown2": 0x1,
+            "msg_string": "(Nossa, Bell... Você me assustou.)"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x39,
+            "unknown2": 0x1,
+            "msg_string": "(Mas tô tão feliz que você tá a salvo...)"
+        }
+    ]
+}

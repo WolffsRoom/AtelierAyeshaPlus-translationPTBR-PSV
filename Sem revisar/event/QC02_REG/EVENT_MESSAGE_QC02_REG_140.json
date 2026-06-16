@@ -1,0 +1,302 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC02_REG_140.ebm",
+    "nb_messages": 0x21,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Bom dia, Regina.<CR>Vamos tomar café da manhã juntas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "...Hã?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "unknown2": 0x1,
+            "msg_string": "Hrmm, hrmm...<CR>Zzz... zzz..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0x5,
+            "msg_id": 0x3,
+            "msg_string": "Ela ainda tá dormindo. Será que ela ficou acordada até tarde ontem..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Talvez eu deva ir preparando as coisas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "*bocejo* Tem alguma coisa com um cheiro delicioso... Hrmm, que bom..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Ah, bom dia. Acordou?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Ayesha, agora eu sei como um recém-casado deve se sentir."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Uma esposa fofa que nem você, fazendo café da manhã pra mim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x11,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Esse tipo de vida não é nada mau..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "O quêêê? Mas nós duas somos garotas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Pois é, esse é o problema.<CR>Infelizmente, não podemos ficar juntas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0xc,
+            "msg_string": "Eu fico bem chateada com isso, pra falar a verdade..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "B-Bom, eu só comecei a preparar.<CR>Tem alguma coisa que você gostaria de comer?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd2,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Vamos ver... Quero comer alguma coisa com carne..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0xf,
+            "msg_string": "Pro café da manhã? Hmhm, Regina, você tá sempre cheia de energia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x194,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Que nada, na verdade é o oposto.<CR>Não tô muito bem hoje, então preciso<CR>comer bastante."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Ué?<CR>...Você não tá se sentindo bem hoje?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x12,
+            "msg_string": "Agora que parei pra pensar, é bem raro você dormir até mais tarde..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd4,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "Não é que eu esteja doente nem nada,<CR>mas acho que ainda tô sentindo o peso<CR>da saideira de ontem à noite."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd5,
+            "expr_id": 0x4,
+            "msg_id": 0x14,
+            "msg_string": "Algumas coisas têm se arrastado pro dia seguinte ultimamente..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd6,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Digo, se for arredondar, eu basicamente já tenho 30 anos..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "V-Você não precisa se sentir tão velha assim ainda..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Eu não quero, mas eu simplesmente não sou mais a mesma."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Sinto que a energia que eu tinha uns anos atrás... simplesmente sumiu."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Envelhecer é mesmo de cortar o coração..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "É-É mesmo? Eu não entendo muito bem..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "É porque você ainda é nova, Ayesha. Você mal começou a entrar no auge da sua vida."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x11,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Se não tomar cuidado, depois que fizer 20 anos... vai passar super rápido."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "O qu- o que vai passar super rápido?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x49,
+            "expr_id": 0x2,
+            "msg_id": 0x1e,
+            "msg_string": "Hahaha, isso só significa que se tem algo que você quer fazer, é melhor fazer agora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x4b,
+            "expr_id": 0x2,
+            "msg_id": 0x1f,
+            "msg_string": "Esse é um aviso da sua conselheira de vida. Lembra disso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x20,
+            "msg_string": "(Ainda não tô sentindo isso, mas talvez seja assim...?)"
+        }
+    ]
+}

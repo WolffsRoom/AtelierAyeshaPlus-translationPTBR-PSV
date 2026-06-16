@@ -1,0 +1,193 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC07_MAR_120.ebm",
+    "nb_messages": 0x15,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Qual é, Linca! Seu cabelo ainda tá cheio de nós!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x122,
+            "expr_id": 0x3,
+            "msg_id": 0x1,
+            "msg_string": "Isso não é um problema. Cabelo não tem nenhum efeito nas minhas habilidades de combate."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Agora, vou lá entregar o pacote."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xe9,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "*suspiro* Ela não tá nem aí pro próprio cabelo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "O cabelo da Linca é super lindo,<CR>mas ela é tão indiferente com ele..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xed,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Exatamente. E não é só o cabelo,<CR>ela não liga pra nada<CR>sobre ela mesma."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Se eu não comprar as roupas dela e trançar o cabelo, ela vira uma bagunça total rapidinho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Ela não liga se o cabelo tá embaraçado, ou de usar roupas todas rasgadas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x8,
+            "msg_string": "Hahaha, já ouvi a Linca falar isso antes."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Ela não liga pro cabelo ou pras roupas dela..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "*suspiro* Ela ainda não tem noção de como ser uma garota de verdade."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "*suspiro* É tão triste, sério. Ela tem tudo que eu não tenho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Um cabelo lindo e uma altura boa.<CR>São duas coisas que pessoas normais<CR>querem, mas nunca conseguem ter."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Ah, mas eu aposto que a Linca ia ficar linda de cabelo curto também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Acho que você devia deixar ela cortar curtinho..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x99,
+            "expr_id": 0x3,
+            "msg_id": 0xf,
+            "msg_string": "Não! Ela tem um cabelo tão lindo,<CR>ela tem que deixar crescer!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Mas não é difícil ficar cuidando do cabelo dela com você tão ocupada?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x9b,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Nada a ver. Não importa o quanto eu esteja cansada, eu sempre vou cuidar dele."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Então o cabelo dela não pode ser curto! Nunca!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Ahh... hahahaha. Tô vendo que você tem sua preferência..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Bom, acho que vale a pena pensar em outros cortes... Já tá igual faz um tempão..."
+        }
+    ]
+}

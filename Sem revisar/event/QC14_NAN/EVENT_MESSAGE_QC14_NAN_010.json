@@ -1,0 +1,271 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC14_NAN_010.ebm",
+    "nb_messages": 0x1e,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x12e,
+            "msg_string": "Uau, tem tantas vacas!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x205,
+            "name_id": 0x1f,
+            "extra_id": 0x216,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12f,
+            "msg_string": "Oink muu!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0x5,
+            "msg_id": 0x130,
+            "msg_string": "Não acho que são vacas selvagens...<CR>Será que alguém trouxe elas<CR>pra pastar...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x131,
+            "msg_string": "Hehehe, mas elas são tão fofas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0x12,
+            "expr_id": 0x0,
+            "msg_id": 0x132,
+            "msg_string": "A grama daqui é de ótima qualidade, e as vacas adoram esse lugar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x46,
+            "expr_id": 0x2,
+            "msg_id": 0x133,
+            "msg_string": "Hehehe, obrigada por dizer que minhas vacas são fofas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x47,
+            "expr_id": 0x2,
+            "msg_id": 0x134,
+            "msg_string": "Você... também gosta de vacas?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x135,
+            "msg_string": "Vacas...? Hmm, nunca parei pra pensar nisso, mas acho que sim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x136,
+            "msg_string": "A Pana também sempre me ajuda.<CR>Ela é da família pra mim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x4a,
+            "expr_id": 0x2,
+            "msg_id": 0x137,
+            "msg_string": "Ah, então o nome dela é Pana? Hmhm, é o nome perfeito pra ela."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x4b,
+            "expr_id": 0x2,
+            "msg_id": 0x138,
+            "msg_string": "Ela é tão forte, carregando toda essa bagagem. Bem impressionante..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x139,
+            "msg_string": "Haha... Ela é forte e dócil, mas também é muito gulosa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x4c,
+            "expr_id": 0x0,
+            "msg_id": 0x13a,
+            "msg_string": "Uma vaca que come muito é uma vaca boa. Por favor, continue cuidando bem dela."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20d,
+            "name_id": 0x23,
+            "extra_id": 0x216,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13b,
+            "msg_string": "Oink muu!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0x13c,
+            "msg_string": "Opa, preciso ir nessa. Se eu não me apressar, vai escurecer..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x3548,
+            "msg_string": "Ah, nós também temos que ir.<CR>Bora, Pana, tamo de saída."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x205,
+            "name_id": 0x1f,
+            "extra_id": 0x216,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13e,
+            "msg_string": "Oink. *nham* *nham*"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x13f,
+            "msg_string": "Minha nossa..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x46,
+            "expr_id": 0x2,
+            "msg_id": 0x140,
+            "msg_string": "Hmhmhm, parece que a Pana quer ficar aqui mais um pouquinho..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x142,
+            "msg_string": "Hmm, pra onde você tá indo?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x48,
+            "expr_id": 0x0,
+            "msg_id": 0x143,
+            "msg_string": "Pra onde os ventos soprarem, pra onde as vacas forem. Pra onde eu vou depende do rebanho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0x144,
+            "msg_string": "Mas primeiro, a gente vai passar pelos túneis. Depois disso, eu deixo com elas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0x145,
+            "msg_string": "Simbora, pessoal! A gente tem que ir logo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x146,
+            "msg_string": "Com licença...<CR>Espero que a gente se encontre de novo... Hmm..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x147,
+            "msg_string": "Foi mal, ainda não perguntei seu nome..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x148,
+            "msg_string": "Ahhh, desculpa. Eu sou a Ayesha, uma boticária."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x149,
+            "msg_string": "Mas eu tô dando um tempo nisso agora..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x14a,
+            "msg_string": "Eu sou a Nanaca. Como pode ver, eu sou uma vaqueira."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x1a1,
+            "expr_id": 0x0,
+            "msg_id": 0x14b,
+            "msg_string": "A gente se esbarra por aí, Ayesha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x14c,
+            "msg_string": "Combinado, Nanaca! A gente se esbarra!"
+        }
+    ]
+}

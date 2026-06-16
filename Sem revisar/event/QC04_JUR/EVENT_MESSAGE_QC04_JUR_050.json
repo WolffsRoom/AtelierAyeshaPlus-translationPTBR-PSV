@@ -1,0 +1,313 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC04_JUR_050.ebm",
+    "nb_messages": 0x22,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Obrigada pela comida! Juris, eu não sabia que você era tão bom cozinhando."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Eu nunca fui muito fã de carne,<CR>mas não me canso da sua."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Você ia fazer um baita sucesso se abrisse um restaurante!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Não existem caçadores que não saibam cozinhar suas próprias presas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Acho que não sou bom o suficiente a ponto de abrir meu próprio restaurante, mas sei cozinhar até que bem."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Bom, a noite tá passando.<CR>Ayesha, é melhor você ir dormir primeiro."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Eu vou cuidar da fogueira por um tempo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Hã? Tem certeza?<CR>Você não tá cansado também...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Você parece estar mais cansada do que eu.<CR>Você tava pescando antes enquanto<CR>tava comendo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Isso não é verdade. Eu ainda tô cheia de...<CR>*bocejo* ...Awn."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x12,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Viu? Você parece estar chegando no seu limite. Não precisa se forçar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Eu vou tirar um cochilo de manhã. Você só precisa acordar um pouco mais cedo por mim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "É o que eu normalmente faço quando caço sozinho, então não precisa se conter."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "T-Tá bom, se você insiste..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0xe,
+            "msg_string": "*bocejo* É de manhã. Que revigorante..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Ah, Juris, bom dia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x19d,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Bom dia. Parece que você dormiu bem."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Bom Juris, você devia tirar o seu cochilo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "É, eu vou fazer isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Falando nisso, Ayesha, você fala mesmo<CR>bastante dormindo. Graças a isso,<CR>eu não fiquei entediado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "O quê!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15d,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Tipo, \"Essa síntese falhou\", ou \"Eu vou ser devorada por um monstro!\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15e,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Parecia que você tava passando por muitos problemas no seu sonho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "H-Hum, Juris... você tava me observando...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x161,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Não é que eu tava observando, mas acabei te vendo de canto de olho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x19,
+            "msg_string": "O quê!? Você não pode ficar observando uma garota enquanto ela dorme!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Mas eu não tava observando..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15d,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Fora isso, eu ouvi você falar as palavras \"mais, por favor\" e \"delicioso\" com bastante frequência. E-"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7a,
+            "expr_id": 0x3,
+            "msg_id": 0x1c,
+            "msg_string": "Ahhh, já entendi! Por favor, não fala mais nada!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Não acho que você precise ficar com tanta vergonha assim. Eu não ligo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7c,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Arrrgggh, mas eu ligo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1f,
+            "msg_string": "(Ahh, que vergonha.<CR>Eu não sabia que falava dormindo.)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc6,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x20,
+            "msg_string": "(E-Eu não tenho escolha a não ser observar o Juris enquanto ele tira o cochilo dele e...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x38,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x21,
+            "msg_string": "(Mas isso parece meio sem sentido.<CR>Urgh, meu rosto tá pegando fogo!)"
+        }
+    ]
+}

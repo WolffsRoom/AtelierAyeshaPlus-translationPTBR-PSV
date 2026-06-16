@@ -1,0 +1,240 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC08_HAR_070.ebm",
+    "nb_messages": 0x1a,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x1a0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Com licença. Ayesha... ah, parece que você tá aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "Ah, Sr. Harry, parecia que você não tava muito animado hoje..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xf5,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "Não é surpresa. Quer dizer, eu tô questionando o sentido da minha vida agora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "D-De novo?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xf6,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "Não deu pra evitar. Fui derrotado repetidas vezes pela garota que eu declarei que ia derrotar com toda a minha força."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xf9,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "Que decepção... O Rei dos Colecionadores perdendo soa bem idiota. Hmph, pode rir de mim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Isso não é verdade! Eu não vou rir!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xfc,
+            "expr_id": 0x4,
+            "msg_id": 0x7,
+            "msg_string": "Por outro lado, você continua avançando. Você é bem mais adequada pro título de Rei dos Colecionadores."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Isso é um pouco..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xf7,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "A hora de passar a tocha pra nova geração pode estar chegando rápido. Não sinto que consigo ganhar de você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Isso não é verdade. Eu só dei sorte esse tempo todo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Entendo, sorte. Hmm, você é tão modesta.<CR>Eu não sou páreo pra você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Mesmo assim aqui estou eu, sendo jogado de um lado pro outro pelas ondas da inveja enquanto meu barco navega pela tempestade..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Não tenho certeza do que você tá tentando dizer, mas você é melhor em coletar itens."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Eu só consegui ganhar por acaso. Tenho certeza que você ganha na próxima!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "...Você acha mesmo?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Sim!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Entendo... Você tem razão. É verdade, não posso deixar terminar por aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Recuar logo depois de me declarar seu rival seria uma vergonha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Na próxima, na próxima... em nome do ex-campeão, vou conseguir minha vitória e acabar com você!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x56,
+            "expr_id": 0x2,
+            "msg_id": 0x14,
+            "msg_string": "Pode esperar.<CR>Hmhmhmhm-hahahahaha...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x5c,
+            "expr_id": 0x2,
+            "msg_id": 0x15,
+            "msg_string": "Bwahahahahaha! *cof* *cof*"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Você não deveria se forçar a rir tanto assim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x58,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Não preciso da sua preocupação! Afinal de contas, somos rivais!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x1a0,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Agora, se me dá licença, vou ficar ansioso pelo nosso próximo encontro!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x19,
+            "msg_string": "(Hahaha... será que o Sr. Harry veio aqui só pra eu animar ele...?)"
+        }
+    ]
+}

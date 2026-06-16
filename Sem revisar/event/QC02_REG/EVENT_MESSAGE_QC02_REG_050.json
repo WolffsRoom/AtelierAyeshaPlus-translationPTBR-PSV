@@ -1,0 +1,276 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC02_REG_050.ebm",
+    "nb_messages": 0x1e,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ah, cuidado onde pisa.<CR>O chão cede de vez em quando."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "Hã!? É tipo uma armadilha ou o quê!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x196,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Não, não, é só um túnel antigo,<CR>então a idade pesa em alguns lugares."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Mas um grupo da gente andou restaurando as coisas por aqui, então acho que deve estar de boa..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Contanto que você não tenha trazido nada pesado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Pesado... Isso descreve a Pana direitinho..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x205,
+            "name_id": 0x1f,
+            "extra_id": 0x216,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "msg_string": "Muuu?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd4,
+            "expr_id": 0x4,
+            "msg_id": 0x7,
+            "msg_string": "Hmm, será...? Acho que com esse peso vai dar tudo certo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd5,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "A Pana também é uma garota, então tenho certeza de que ela não quer ser chamada de pesada, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd6,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Né, Pana? A Ayesha é tão malvada, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x205,
+            "name_id": 0x1f,
+            "extra_id": 0x216,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "msg_string": "Oink muu..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "Ah, nossa, Pana, me desculpa.<CR>Não foi isso que eu quis dizer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x205,
+            "name_id": 0x1f,
+            "extra_id": 0x216,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xc,
+            "msg_string": "Oink muu!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Essa passagem é tão grande... Como será que as pessoas do passado fizeram isso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd4,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "Vai saber. Com certeza era um túnel pra transportar coisas, mas devem ter tido muito trabalho pra fazer ele."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "É verdade. É incrível como eles simplesmente esculpiram o interior de uma montanha de pedra maciça."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd6,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Na real, os materiais usados nessa passagem por si só me dariam uma boa grana."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Só com esse pilar aqui, eu poderia viver sem trabalhar por pelo menos uns cinco anos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "M-Mas você não pode! Se você levar o pilar, a passagem não vai desabar?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Aham. Sem dúvida, ia desabar sim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0x14,
+            "msg_string": "M-Mas, aí a gente não conseguiria sair daqui a salvo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Para com isso. Eu não tô planejando levar esse pilar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x11,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Só tô dizendo que se tivesse alguma parte que eu pudesse levar, seria essa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc6,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Melhor não fazer isso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x49,
+            "expr_id": 0x2,
+            "msg_id": 0x18,
+            "msg_string": "Hehehahaha, hmm. Acho que eu não deveria ficar pensando em ficar rica fácil..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Isso mesmo. Com firmeza, de pouquinho em pouquinho é o melhor jeito."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x4b,
+            "expr_id": 0x2,
+            "msg_id": 0x1a,
+            "msg_string": "Tem razão. Eu também acho que é o melhor. Quando você fala, soa bem persuasivo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x4c,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "...É que tentar a sorte grande é a melhor parte de ser uma prospectora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Pensando bem, só um pilar<CR>não vai... *engole seco*"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x1d,
+            "msg_string": "Eita! Regina, para! Eu não quero cair!"
+        }
+    ]
+}

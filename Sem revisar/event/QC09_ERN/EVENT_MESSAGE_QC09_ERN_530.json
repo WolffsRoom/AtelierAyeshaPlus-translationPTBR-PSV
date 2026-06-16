@@ -1,0 +1,330 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC09_ERN_530.ebm",
+    "nb_messages": 0x24,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x0,
+            "msg_string": "Pensando bem, faz um tempo que não vejo o Ernie. O que será que aconteceu..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x1,
+            "msg_string": "Lembro dele falando alguma coisa sobre uma grande oportunidade de negócio..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x2,
+            "msg_string": "Será que ele virou um grande mercador que cuida de uma região inteira..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x3,
+            "msg_string": "Ou talvez a reunião tenha sido cancelada porque ele não gostou do meu remédio..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Hmm, agora eu realmente quero saber..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x1a0,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Olá?<CR>Ayesha, você tá por aí?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Ernie!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Quanto tempo! Foi mal não ter vindo te ver antes. Eu ando bem ocupado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Esquenta não. E aí, o que deu daquele negócio que você tava falando...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Bom, graças a você, a gente chegou num ótimo acordo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "O quê!? Ernie, isso é incrível! Meus parabéns!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Foi tudo graças a você, Ayesha. Muito obrigado mesmo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Que nada, eu não fiz nada. Foi tudo porque você se esforçou muito pra isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x194,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Sério, eu percebi mesmo que não ia conseguir fechar esse contrato sozinho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x106,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "Graças à sua ajuda e a de todo mundo, eu consegui chegar até aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Ernie, você é tão modesto, mas eu gosto disso em você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Tenho certeza que todo mundo quis te ajudar porque gostam do seu jeito de ser."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x109,
+            "expr_id": 0x4,
+            "msg_id": 0x11,
+            "msg_string": "Ayesha... É, eu tô muito feliz de ter conseguido esse trabalho..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x10a,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Hmhm, talvez o meu sonho se torne realidade afinal."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Seu sonho? É tipo virar um mercador famoso que viaja pelo mundo todo?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x5f,
+            "expr_id": 0x2,
+            "msg_id": 0x14,
+            "msg_string": "Não é bem isso. Hehe, é meio clichê, mas eu quero abrir a minha própria loja um dia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x61,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Não me importo se for pequena, contanto que tenha um telhado vermelho e um clima agradável."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Pra atender na loja... vejamos... Eu queria uma garota, ou um homem centrado e de bigode."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "P-Por que ele precisa ter um bigode?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x102,
+            "expr_id": 0x4,
+            "msg_id": 0x18,
+            "msg_string": "Eu admiro homens másculos de bigode. Eu sempre fui tão fraco..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x108,
+            "expr_id": 0x4,
+            "msg_id": 0x19,
+            "msg_string": "Então eu prometi pra mim mesmo que, quando ficasse mais velho, ia deixar o bigode crescer, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x109,
+            "expr_id": 0x4,
+            "msg_id": 0x1a,
+            "msg_string": "Por mais que eu espere, nada. Será que me falta masculinidade mesmo...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x1b,
+            "msg_string": "S-Será...? Mesmo sem bigode, eu acho que você é uma pessoa incrível."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x1c,
+            "msg_string": "Mas um bigode... Ia ser tipo o do Sr. Harry?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x10a,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Hã? S-Será? O do Sr. Harry é... um pouquinho diferente do que eu gosto... acho?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Por que você tem a autoestima tão baixa?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x62,
+            "expr_id": 0x2,
+            "msg_id": 0x1f,
+            "msg_string": "Bom, haha... Mas acho que não tem nada que eu possa fazer sobre isso agora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x65,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Só preciso fazer o que eu consigo, um passo de cada vez!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "Ainda não assinamos o contrato formal, então não posso abaixar a guarda, mas eu vou dar o meu melhor!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "Que sorte a sua.<CR>Seu sonho tá cada vez maior...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x23,
+            "msg_string": "(O Ernie tá sempre se esforçando tanto. Tomara que eles fechem um bom acordo...)"
+        }
+    ]
+}

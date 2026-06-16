@@ -1,0 +1,42 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM01_OP1_520.ebm",
+    "nb_messages": 0x4,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Hmm, será que isso é o bastante..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x106,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "Foi mal. Eu queria te ajudar, mas não entendo muito de ervas medicinais ou síntese..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x2,
+            "msg_string": "Hehe, não se preocupa! Eu já tô acostumada com isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Agora que eu tenho todos os ingredientes que preciso, vou voltar lá e começar a sintetizar!"
+        }
+    ]
+}

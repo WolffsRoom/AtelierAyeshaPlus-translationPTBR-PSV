@@ -1,0 +1,152 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC13_ODI_410.ebm",
+    "nb_messages": 0x11,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Eu tava te procurando, Ayesha.<CR>Então você tava aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "Srta. Odelia!? O que você tá fazendo aqui?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Hoje, eu vim recolher o livro que você pegou emprestado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Como falei antes, o prazo de empréstimo é de um ano. Você passou desse prazo, então vim buscar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Verdade! Me desculpa mesmo,<CR>eu esqueci completamente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Recolher os livros é parte do meu trabalho. Não precisa se desculpar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Na verdade, recolher esse livro é só uma desculpa pro trabalho pra eu sair da biblioteca."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Mas, os livros que passaram do prazo têm que ser recolhidos na hora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Bom, sobre isso... e se eu dissesse que não terminei de ler...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Gostaria de uma prorrogação?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Ah, dá pra fazer isso?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Dá sim se você fizer um pedido. Você tem que enviar a solicitação antes do prazo, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Como eu não te dei essa explicação antes, vou abrir uma exceção dessa vez."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "E-Então, por favor, eu gostaria de pedir uma prorrogação. É um livro muito bom, então quero ler ele de novo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x19f,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Claro... Na verdade, ninguém mais usa a biblioteca..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Então, pessoalmente, sinta-se à vontade. Tenho certeza que o livro também tá feliz em ser útil."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Fico feliz. Muito obrigada."
+        }
+    ]
+}

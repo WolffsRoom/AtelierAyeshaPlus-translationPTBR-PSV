@@ -1,0 +1,230 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC09_ERN_020.ebm",
+    "nb_messages": 0x19,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ah, Ernie!<CR>Olá!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "Uau. Ainda não tô acostumado a te ver fora da sua oficina."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x126,
+            "expr_id": 0x2,
+            "msg_id": 0x2,
+            "msg_string": "Mas, eu ainda tô preocupado... Você tá bem?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x3,
+            "msg_string": "Eu tô bem. Já me acostumei a viajar!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x128,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "É aí que viajar é mais perigoso. Tem muita coisa que não dá pra prever nas colinas e nos campos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x78,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Sério? Tipo o quê?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Primeiro, sempre tem a possibilidade de esbarrar em um animal feroz, ou você pode até se perder."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Digo, tem vezes que você vai ter que abrir o seu próprio caminho, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "E tenho certeza que terão outros problemas também. Até eu já fiquei com pouca água potável e caí de um penhasco..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Ernie, parece que você já passou por muita coisa..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Eu já faço esse trabalho há um tempo. Já passei por quase qualquer tipo de perigo que você possa imaginar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Mesmo que você esteja viajando por uma estrada principal, ainda pode ser perigoso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Então você deveria andar com viajantes ou mercadores, ou contratar um guarda-costas, tá bom?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Tá bom. Vou ter isso em mente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15d,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Também, não tenha pressa. É importante andar em um ritmo constante todos os dias."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15f,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Se você se esforçar demais e se machucar, vai estar em grandes apuros."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15f,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Além disso, quando for dormir, não se esqueça de manter a fogueira acesa. É importante manter o calor e..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x11,
+            "msg_string": "Hehehe, Ernie, você tá sempre preocupado comigo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x35,
+            "expr_id": 0x2,
+            "msg_id": 0x12,
+            "msg_string": "Você parece uma mãe...<CR>Isso me deixa feliz."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x161,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Digo, eu te conheço desde que você era pequena... De qualquer forma, eu preferiria que você dissesse pai..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Hmm... mas você parece mais uma mãe."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Tenho certeza de que uma mãe seria tão gentil quanto você, Ernie."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Hmm, não posso concordar muito, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Tá bom, eu não me importo de ser uma mãe, mas em troca, não se esqueça de fazer o que a sua mãe mandar!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Pode deixar. Obrigada por se importar comigo, Ernie!"
+        }
+    ]
+}

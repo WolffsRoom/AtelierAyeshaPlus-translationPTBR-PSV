@@ -1,0 +1,254 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC03_LIN_050.ebm",
+    "nb_messages": 0x1c,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Tô pensando nisso faz um tempo, mas Linca, suas roupas são super lindas!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Eu adoro o seu senso de moda!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Ah, isto? Estas roupas foram compradas e dadas a mim pela Marion."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Eu só segui ela até o alfaiate e fiquei parada no provador."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "E-Entendi. Então suas roupas são baseadas no senso de moda da Marion..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "Eu não gosto destas roupas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Hã? Por que não...?<CR>Você fica tão bem com elas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd2,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Elas são cheias de babados, não servem pra batalha. E rasgam à toa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Ah, parece mesmo que vai ser difícil de remendar os rasgos. O tecido é tão fino, daria pra perceber que foi remendado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Quando rasgam, eu as jogo fora. Todo mês, pelo menos mais 10 conjuntos das mesmas roupas são enviados da nossa terra natal."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "Tudo isso?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x165,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "A Marion é quem as compra. Ela me manda \"me produzir, ficar parecendo uma boneca\"."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x168,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Eu já até tive um sonho em que a Marion tava segurando um monte de roupas, correndo atrás de mim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Hmm, então Linca, quer dizer que você não gosta de se arrumar...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x16b,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Não gosto. Preferia ficar nua a ter que me arrumar nessas roupas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xb,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Se pelo menos esta parte fosse feita de cota de malha, tenho certeza de que acharia mais divertido usar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Mas, ainda assim, tenho certeza de que a Marion quer que você fique fofa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x12,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Eu sou uma guarda-costas, então acho que devia usar roupas adequadas para uma guarda-costas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x12,
+            "msg_string": "Hmm, acho que consigo entender o seu lado também, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13,
+            "msg_string": "(Também entendo o lado da Marion. A Linca fica tão bem com roupas lindas como essas...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "De qualquer forma, este é o último conjunto desse mês. Se rasgar, não vou ter mais roupas pra vestir."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Preciso tomar muito cuidado pra não rasgar... Acho que isso também é um jeito eficiente de treinar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x165,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Será que essa era a verdadeira intenção da Marion?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x166,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "É verdade que se você se envolver numa armadura resistente, sua percepção defensiva vai estagnar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "N-Não tenho tanta certeza disso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x167,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "De qualquer modo, por favor, não se preocupe. Não vou levar meu dever como sua guarda-costas na brincadeira."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Vou dar o meu melhor pra cumprir meu dever até o fim, nem que eu tenha que ficar nua pra isso!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x1b,
+            "msg_string": "O quêêê? Você não precisa ir tão longe. Eu agradeço muito, mas por favor, cuida melhor das suas roupas!"
+        }
+    ]
+}

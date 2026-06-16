@@ -1,0 +1,558 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC07_MAR_650.ebm",
+    "nb_messages": 0x3e,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x0,
+            "msg_string": "O que será isso... É bonito<CR>e misterioso e... nunca vi<CR>nada parecido antes..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x1,
+            "msg_string": "A Marion falou pra trazer de volta qualquer coisa fora do normal..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Isso parece bem fora do normal. Se eu levar pra ela..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Espera."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Ah, o homem de óculos..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Achei que tinha mandado me chamar de Keith. Enfim, você entende o que é isso?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Eu só ia levar ele de volta por enquanto. É algo especial?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Hmm... Eu tinha ficado impressionado por você se interessar por esse lugar, mas acho que você ainda só tá nesse nível..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Parece que você não precisa disso agora. É melhor eu ficar com ele."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Mas, mas, hmm, me deram a ordem de trazer qualquer coisa fora do normal, e..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Pode ser uma pista pra encontrar a Nio..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x15,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Mesmo assim, não vai te servir de nada ainda. Esse item é muito avançado pra você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Vou dar um bom uso a ele no seu lugar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0xd,
+            "msg_string": "Mas, eu achei primeiro..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Porém, eu peguei primeiro. Mas, vejamos... vou te dar um conselho em troca."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Este lugar tá conectado com o lugar<CR>em que a gente se conheceu. Embora essa conexão seja<CR>só um fenômeno temporário."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Eles... tão conectados?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x17,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "A ilusão de antes é a prova... Você pode descobrir o resto por conta própria."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x12,
+            "msg_string": "Hmm, por favor, me conta mais sobre o que você sabe."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0x13,
+            "msg_string": "O que aconteceu com essa vila e com a Nio... Eles têm algo em comum?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x91,
+            "expr_id": 0x3,
+            "msg_id": 0x14,
+            "msg_string": "Achei que tinha te falado pra usar suas próprias mãos, pés e cabeça pra descobrir a verdade sozinha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x93,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "O que eu mais desprezo são as pessoas que não se esforçam nem se dedicam por conta própria, e só querem os resultados."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x78,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "*suspiro* Ele tá sendo malvado de novo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x15,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Isso é tudo que eu tenho a dizer.<CR>Bom, vou levar isso aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x18,
+            "msg_string": "Ahh, o Sr. Keith tá indo embora.<CR>O-O que eu devo fazer...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x19,
+            "msg_string": "Ei, você, espere. Você disse que seu nome é Keith. Sendo assim, não posso deixar você ir."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x123,
+            "expr_id": 0x4,
+            "msg_id": 0x1a,
+            "msg_string": "O-O que foi, Linca? Por que você tá sacando a sua espada do nada...!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Senhorita, não me lembro de você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0x1c,
+            "msg_string": "Danos... à propriedade, e invasão de... edifícios, e... e..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0x1d,
+            "msg_string": "Enfim, a Marion disse pra te capturar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x7a,
+            "expr_id": 0x3,
+            "msg_id": 0x1e,
+            "msg_string": "Prepare-se, Keithgriff Hazeldine."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x123,
+            "expr_id": 0x4,
+            "msg_id": 0x1f,
+            "msg_string": "L-Linca, não fala essas coisas assustadoras..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Eu não dou a mínima pra como a sociedade me julga."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x1cc,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x21,
+            "msg_string": "Mas não posso ficar parado sem fazer nada quando tô em perigo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x123,
+            "expr_id": 0x4,
+            "msg_id": 0x22,
+            "msg_string": "H-Hã...? Por que o clima ficou tão tenso de repente?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x7b,
+            "expr_id": 0x3,
+            "msg_id": 0x23,
+            "msg_string": "Vou te pegar com toda a minha força. Ayesha, não abaixa a guarda."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x123,
+            "expr_id": 0x4,
+            "msg_id": 0x24,
+            "msg_string": "Hã? E-Eu vou ter que participar disso também!?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Parar<CR>Não Parar"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x123,
+            "expr_id": 0x4,
+            "msg_id": 0x26,
+            "msg_string": "A-Ah, p-pera aí. Eu realmente preciso disso!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x27,
+            "msg_string": "Hmm, então cê tá dizendo que quer me impedir de levar isso?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x28,
+            "msg_string": "Hum, se eu tivesse que falar em voz alta, seria algo do tipo, sim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x29,
+            "msg_string": "Entendi. Eu saco o seu lado, mas não tenho motivo nenhum pra te entregar isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x2a,
+            "msg_string": "Mas, pra conseguir o que querem, os humanos sempre usaram a força ao longo da história."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x1cc,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2b,
+            "msg_string": "Se você quer mesmo... então vai ter que tomar de mim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x2c,
+            "msg_string": "H-Hã!? Não foi isso que eu quis dizer... O queee-!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc7,
+            "expr_id": 0x4,
+            "msg_id": 0x2d,
+            "msg_string": "Kyaaah. E-Eu perdi..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x2e,
+            "msg_string": "Nossa. É bem difícil pegar leve com alguém."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x2f,
+            "msg_string": "Foi mal, mas não tenho mais tempo pra ficar de papo com você. Então, adeus."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xca,
+            "expr_id": 0x0,
+            "msg_id": 0x30,
+            "msg_string": "Aiii. O Sr. Keith acabou levando o que eu achei..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x31,
+            "msg_string": "Acho melhor eu ir dar o relatório pra Marion..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x32,
+            "msg_string": "Que força ele tem... Ele nem pareceu me notar... tsc."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x33,
+            "msg_string": "Ué? A gente ganhou...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x34,
+            "msg_string": "Então... então, vou levar aquela coisa misteriosa de volta...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x35,
+            "msg_string": "Nossa. É bem difícil pegar leve com alguém..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x36,
+            "msg_string": "H-Hã? Ele tá de boa!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x37,
+            "msg_string": "Nem tanto. Você é mais forte do que eu esperava. É mais durona do que parece."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x38,
+            "msg_string": "Mas, não posso mais ficar de papo com você. Vou levar isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x19f,
+            "expr_id": 0x0,
+            "msg_id": 0x39,
+            "msg_string": "Agora, adeus."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x3a,
+            "msg_string": "Hã? Hum... o vencedor não deveria ficar com... Ué?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x3b,
+            "msg_string": "...Ele levou com ele. Mas eu ganhei... Isso é trapaça."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x3c,
+            "msg_string": "Ah, ele sumiu. No fim das contas, não achei nenhuma pista."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x3d,
+            "msg_string": "Mas acho que eu deveria ir lá dar o relatório pra Marion..."
+        }
+    ]
+}

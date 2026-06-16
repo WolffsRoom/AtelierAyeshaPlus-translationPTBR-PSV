@@ -1,0 +1,124 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MS03_040.ebm",
+    "nb_messages": 0xd,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Nossa, tem tanta flor desabrochando..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Não sei se o solo é fértil, mas esse lugar fica assim o ano todo. Lugares assim são bem raros hoje em dia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Você acha que a gente consegue achar algumas ervas medicinais? Eu não saberia muito bem o que procurar, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Parece que tem algumas por aqui.<CR>Tem problema se eu pegar algumas?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Claro. A gente não tá com muita pressa mesmo, e tem tanta coisa crescendo por aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x5,
+            "msg_string": "Obrigada. Nossa, por onde eu começo!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Você tá bem animada, Ayesha. Beleza então, a Senhorita Regina vai te dar uma mãozinha!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Quando seus amigos estão com você, eles podem te ajudar a coletar nos pontos de coleta."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Os itens que eles pegam aparecem no registro, igual aos da Ayesha, e vão direto pra sua Cesta."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Além disso, seus amigos têm mais afinidade com diferentes pontos de coleta, e as taxas de coleta deles também vão variar."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Às vezes, eles podem conseguir materiais raros que a Ayesha não consegue pegar."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Você devia explorar pontos de coleta diferentes com os seus amigos. Pode ser que tenham materiais que possam ser achados mais pra frente."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Dê uma olhada nos itens coletáveis pelas informações do Mapa-Múndi. Se tiver faltando algum, vai lá dar uma olhada."
+        }
+    ]
+}

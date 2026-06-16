@@ -1,0 +1,187 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC16_RAN_040.ebm",
+    "nb_messages": 0x14,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Olha só, não é a Ayesha andando por ali?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Hmm, poder te encontrar por aqui...<CR>às vezes o destino realmente me<CR>recompensa generosamente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x199,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Oi, Ranun."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Eu também tenho um ateliê aqui,<CR>então acabo vindo de vez em quando."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x4e,
+            "expr_id": 0x2,
+            "msg_id": 0x4,
+            "msg_string": "Puxa, que coincidência. Meu local de trabalho também é por aqui, na verdade."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Ah, entendi. Eu não sabia dessa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "E o que você costuma fazer de trabalho?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x50,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Eu não te falei isso antes? Eu viajo por aí tocando músicas sobre as estrelas e o céu."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "É v-verdade... mas você pode me contar um pouquinho mais sobre isso?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Bom, viajar pra vários lugares e tocar melodias nisso aqui é o meu trabalho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Como poeta, eu sou tipo uma folha ao vento.<CR>Então, de certa forma, essa terra inteira é meu<CR>local de trabalho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x17,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Mas isso é só uma parte do meu trabalho. Eu admiro as flores e a grama, aprecio a terra e as pedras..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Então o seu trabalho é ficar admirando e apreciando as coisas?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Pode-se dizer que sim. Nessa terra árida e maravilhosa, eu toco minha música e recito minhas poesias com todo o meu amor."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Eu considero que é o meu dever passar isso adiante para que as futuras gerações possam aproveitar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0xf,
+            "msg_string": "Música tradicional? É uma ideia muito linda."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x4e,
+            "expr_id": 0x2,
+            "msg_id": 0x10,
+            "msg_string": "Hmhmhm, muito obrigado. Bom, acho que agora vou voltar ao trabalho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x50,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Você quer ficar pra ouvir?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x35,
+            "expr_id": 0x2,
+            "msg_id": 0x12,
+            "msg_string": "Nossa, eu quero sim. Suas músicas são lindas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x17,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Hmhmhm, isso é tudo que eu tenho. Então vamos lá..."
+        }
+    ]
+}

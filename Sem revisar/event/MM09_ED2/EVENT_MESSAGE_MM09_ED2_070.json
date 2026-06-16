@@ -1,0 +1,327 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM09_ED2_070.ebm",
+    "nb_messages": 0x20,
+    "messages": [
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "unknown2": 0x1,
+            "msg_string": "Nos momentos de folga na sua jornada<CR>pra salvar a Nio, ela de alguma forma participou<CR>do Empolgante Concurso de Tesouros."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "unknown2": 0x1,
+            "msg_string": "No fim das contas, o nome Ayesha Altugle<CR>ficou famoso, mas não do<CR>jeito que ela planejava."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "unknown2": 0x1,
+            "msg_string": "A Ayesha ainda não tinha percebido como suas<CR>ações fizeram seu autoproclamado<CR>rival, Harry, ferver de paixão."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "unknown2": 0x1,
+            "msg_string": "Pois é. No coração dele, ele escondia um objetivo maior.<CR>Conforme a Ayesha superava o Harry, as emoções dele<CR>ficavam mais intensas..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "unknown2": 0x1,
+            "msg_string": "Senhor Harry, a gente tá rodando por essas ruínas na selva faz meio mês."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "unknown2": 0x1,
+            "msg_string": "Não tem nem o menor sinal de uma saída..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "unknown2": 0x1,
+            "msg_string": "Hum, bom, não tem o que fazer.<CR>Digo, isso aqui é uma selva..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "unknown2": 0x1,
+            "msg_string": "Mas não esquenta. Pelos meus cálculos, a gente tá quase na metade do caminho."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x8,
+            "unknown2": 0x1,
+            "msg_string": "Dá uma olhada nesse mapa... Nossa posição atual provavelmente é aqui e‐"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x9,
+            "unknown2": 0x1,
+            "msg_string": "O quê!? Senhor Harry!<CR>Seu mapa tá de cabeça pra baixo! "
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "unknown2": 0x1,
+            "msg_string": "Hã? Whahahaha, é mais fácil pra eu ler assim."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xb,
+            "unknown2": 0x1,
+            "msg_string": "Hmm... então... onde a gente tá?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xc,
+            "unknown2": 0x1,
+            "msg_string": "Senhor Harry, você acabou de perguntar \"Onde a gente tá?\"?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "unknown2": 0x1,
+            "msg_string": "Hmph. Hahahaha, do que você tá falando? Claro que não."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xe,
+            "unknown2": 0x1,
+            "msg_string": "Buáá, eu quero ir pra casa..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "unknown2": 0x1,
+            "msg_string": "Hum, talvez seja melhor voltar<CR>praquela vila de Homúnculos que a gente achou<CR>ontem..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x10,
+            "unknown2": 0x1,
+            "msg_string": "Lá tinha uma fonte termal, então a gente pode tomar um banho, renovar as energias e continuar de lá!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x11,
+            "unknown2": 0x1,
+            "msg_string": "Sem falar que a comida daquela vila era deliciosa!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "unknown2": 0x1,
+            "msg_string": "Pode até ser verdade, mas... não gosto de como eles tratam a gente como deuses."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13,
+            "unknown2": 0x1,
+            "msg_string": "É verdade. Porém, isso também aponta direto pro deus antigo que dorme em algum lugar dessa ruína..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x14,
+            "unknown2": 0x1,
+            "msg_string": "Isso prova que a pedra secreta de Wilggenwig tá em algum lugar por aqui."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x15,
+            "unknown2": 0x1,
+            "msg_string": "Por mim tá bom. Eu não preciso de pedra secreta nenhuma, só quero ir pra casa..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "unknown2": 0x1,
+            "msg_string": "Hã? Senhor Harry? Que barulho foi esse...?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x17,
+            "unknown2": 0x1,
+            "msg_string": "Ahh... hum, parece que eu pisei em outra armadilha..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x18,
+            "unknown2": 0x1,
+            "msg_string": "Quantas já foram agora?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x19,
+            "unknown2": 0x1,
+            "msg_string": "Hum, com certeza foram mais de 20 vezes. Eu já até perdi as contas."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1a,
+            "unknown2": 0x1,
+            "msg_string": "Parece que fui abençoado com o dom de cair em armadilhas."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1b,
+            "unknown2": 0x1,
+            "msg_string": "E aí, tá preparada?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1c,
+            "unknown2": 0x1,
+            "msg_string": "Não é que eu tô preparada, eu só já me acostumei. Pedras, cobras venenosas, manda ver!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1d,
+            "unknown2": 0x1,
+            "msg_string": "Bela forma de se preparar. Então... hã?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x14,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1e,
+            "unknown2": 0x1,
+            "msg_string": "*suspiro* I-Isso é...!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1f,
+            "unknown2": 0x1,
+            "msg_string": "*suspiro* I-Isso é...!"
+        }
+    ]
+}

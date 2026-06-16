@@ -1,0 +1,286 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC08_HAR_630.ebm",
+    "nb_messages": 0x1f,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Oi, Marietta. Eu tinha uma pergunta pra você..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Ah, sobre aquela história... Já escutei tantas vezes, sei até mais do que eu queria."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Hahaha, eu sabia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Na verdade, tem mais sobre essa história.<CR>Eu não ligo muito pra isso,<CR>mas... quer ouvir?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Pode ter algo a ver com o lanche, então, por favor, me conta."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Então, vou resumiir bem rapidinho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15d,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "O Jovem Harry recebeu todo aquele amor da mãe, ganhou conhecimento e experiência, e herdou o negócio."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15f,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "O Jovem Harry mostrou um talento raro pros negócios, e virou o homem mais rico da cidade."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15f,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Ele se apaixonou por uma moça linda, e tudo parecia estar indo bem."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Parece um conto de fadas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x161,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Mas, isso não durou por muito tempo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x38,
+            "expr_id": 0x2,
+            "msg_id": 0xb,
+            "msg_string": "Nossa, tô começando a ficar nervosa!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Alguns anos depois, eles tiveram a sua última e maior perda de safra, e a cidade ficou num problemão."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Foi tipo uns 20 anos atrás, então eu era muito nova pra realmente lembrar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15d,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Mas a minha mãe parecia estar passando por um momento bem difícil."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3a,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Entendo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x161,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "E aí o Jovem Harry, que tinha recebido todo aquele amor da mãe, não hesitou em abrir o cofre dele."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Ele sacrificou todas as suas economias pra juntar comida suficiente pra dividir com quem tava passando fome..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "E graças a ele, essa cidade conseguiu sobreviver à crise."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Mas ele pagou um preço alto por isso,<CR>e a Casa de Comércio do Harry ficou<CR>à beira de fechar as portas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Mas com todos os grandes esforços do Jovem Harry, ele de alguma forma conseguiu se recuperar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x2d,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "E isso levou ao que você vê hoje."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Então algo assim aconteceu...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x2e,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Acho que sim. Acho que é uma boa história,<CR>mas vendo o Sr. Dono agora, parece<CR>meio mentira."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x2f,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Se essa história for verdade, então ele é meu salvador pessoal, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Acho que essa história não ajudou<CR>em nada... Enfim, sobre o<CR>lanche que a mãe do Sr. Dono fazia..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15d,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Ouvi dizer que era feito de feijão moído. Era um assado bem simples."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15f,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Acho que era popular entre as mães daquela época fazer isso pros filhos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Mas, tenho certeza que faziam com os ingredientes que tivessem na hora, então com certeza vai ser difícil recriar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Mas só de saber que tipo de lanche era já ajuda muito. Muito obrigada!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1e,
+            "msg_string": "(Beleza, eu devia voltar lá no Sr. Fred mais uma vez!)"
+        }
+    ]
+}

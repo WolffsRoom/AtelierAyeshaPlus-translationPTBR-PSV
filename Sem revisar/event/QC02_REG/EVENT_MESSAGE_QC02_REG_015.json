@@ -1,0 +1,481 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC02_REG_015.ebm",
+    "nb_messages": 0x35,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Mudando de assunto, já faz bastante tempo.<CR>Tipo, quase um ano...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Provavelmente. Faz mais ou menos isso desde que você veio me visitar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "E, então, por que você tá indo nessa jornada? Vender remédio?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Como eu posso explicar...?<CR>Eu tô procurando umas flores raras."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Flores raras? Você vai usar elas pra sintetizar remédio?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "Não. Não sei se você vai acreditar nisso ou não, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc5,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "Eu ouvi dizer que elas podem ser pistas pra achar a Nio."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x122,
+            "expr_id": 0x3,
+            "msg_id": 0x7,
+            "msg_string": "Nio!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x123,
+            "expr_id": 0x3,
+            "msg_id": 0x8,
+            "msg_string": "Mas... a Nio foi, sabe... levada misteriosamente, e..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xcd,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "Uma pessoa me disse que a Nio ainda tá viva em algum lugar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xce,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "Se ela tá viva, eu acho que posso fazer alguma coisa pra ver ela de novo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xcf,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Pode parecer impossível, mas é uma coisa que eu tenho que acreditar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Hmm... então você decidiu acreditar nessa pessoa?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Então, não sou eu que vou te julgar por isso... Tá bom, eu vou te ajudar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0xe,
+            "msg_string": "Hehe, muito obrigada. Sei que é difícil de acreditar numa história dessas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x37,
+            "expr_id": 0x2,
+            "msg_id": 0xf,
+            "msg_string": "Mas, só de você dizer isso já me deixa feliz."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3a,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Então, as pistas que vão me ajudar a achar a Nio são essas flores brilhantes..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Flores brilhantes? Esse desaparecimento misterioso e flores não parecem ter nada a ver uma coisa com a outra..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Eu não sei dos detalhes, mas ele disse que se eu investigar as flores, eu posso salvar a Nio."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd4,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "Mas mesmo assim, flores... não são nem um pouco o meu forte."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd6,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Ah, mas... acho que conheço alguém que talvez saiba sobre elas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Ué... sério?!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Aham. Tem um cara que mora em Vierzeberg, uma cidade mais pro norte."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Ele gosta de coisas raras, e coleciona vários itens como hobby."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Como um apreciador de coisas raras, ele pode saber alguma coisa sobre flores raras."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Hmm, você poderia me apresentar pra ele, por favor...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Sim, claro. Eu ia mesmo pra Vierzeberg resolver umas coisas depois disso de qualquer forma."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x10,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Beleza, se esse é o plano, vou me apressar pra ficar pronta pra jornada!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Tem razão. Você provavelmente vai precisar arrumar umas coisas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Ah, isso me lembra! Ayesha..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Você não trouxe coisa demais? Parece mais que tá de mudança do que saindo numa jornada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x1f,
+            "msg_string": "Hahaha, e olha que eu tentei<CR>dar uma diminuída na bagagem.<CR>Eu nunca saí numa jornada antes..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Por que você não deixa as coisas que não vai precisar aqui?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "Hã? Na sua casa...?<CR>Mas... tem certeza?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "Aham. Eu tenho muito espaço mesmo, então fica à vontade pra usar como se fosse a sua casa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "Muito obrigada. Então, vou aceitar a sua oferta gentil."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "Só vou botar o meu caldeirão aqui rapidinho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x122,
+            "expr_id": 0x3,
+            "msg_id": 0x25,
+            "msg_string": "O quê?! Ayesha, você tava carregando essa coisa por aí?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x26,
+            "msg_string": "Eu não acho que você precise disso na sua jornada..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x27,
+            "msg_string": "Ué...? Sério? Mas eu começo a ficar inquieta sem o meu caldeirão."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0x28,
+            "msg_string": "Não, não, não! Não é como se fosse um travesseiro nem nada do tipo. Pessoas normais não carregam isso por aí."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd2,
+            "expr_id": 0x0,
+            "msg_id": 0x29,
+            "msg_string": "Só deixa isso aqui...<CR>A Pana deve ter sofrido pra carregar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x2a,
+            "msg_string": "Tá bom, vou fazer isso! Tô feliz que vou poder sintetizar na sua casa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x49,
+            "expr_id": 0x2,
+            "msg_id": 0x2b,
+            "msg_string": "Haha, você realmente gosta de sintetizar!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x4b,
+            "expr_id": 0x2,
+            "msg_id": 0x2c,
+            "msg_string": "Enfim, tô ansiosa pra passar um tempo com você, Ayesha!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Agora a Regina pode entrar pro seu grupo."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Agora você pode usar a Casa da Regina."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Agora você pode acessar a Síntese, o Baú, o Menu do Sistema e o Diário a partir da Casa da Regina."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "De agora em diante, mais lugares onde você pode acessar a Síntese, o Baú, o Menu do Sistema e o Diário podem ser adicionados."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Use-os bem de acordo com o seu objetivo."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Um personagem que pode entrar pro seu grupo foi adicionado. Membros recrutados podem acompanhar a Ayesha na sua jornada."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Esses amigos podem se juntar a você nas batalhas, e te ajudar na coleta. Você pode levar no máximo dois amigos."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Fale com os personagens na cidade e selecione \"Recrutar\" para que eles entrem no seu grupo. Selecione \"Se Separar\" para que eles saiam do grupo."
+        }
+    ]
+}

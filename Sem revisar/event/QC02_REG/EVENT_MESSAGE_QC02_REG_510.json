@@ -1,0 +1,106 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC02_REG_510.ebm",
+    "nb_messages": 0xb,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x199,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Bom, sei que tudo isso foi meio de repente, mas eu tô contando com você, Ayesha!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Hã? Regina... você queria que eu fizesse alguma coisa?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Lembra do que eu te falei? Que eu tinha que ir pra Vierzberg? Aquela parada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Bom, na verdade, esse favor é mais da Pana do que seu..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Eu dei sorte na ruína uns dias atrás, e quero levar o que eu achei pra Vierzberg."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Sei que é pedir demais, mas teria como a Pana carregar isso aqui?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "E aí, Pana? Pode ser?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x205,
+            "name_id": 0x1f,
+            "extra_id": 0x216,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "msg_string": "Oink muu!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x8,
+            "msg_string": "Hehe, valeu! Eu te pago uma refeição caprichada mais tarde!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Agora que tá resolvido, Regina, pode botar as suas coisas em cima dela!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x11,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Obrigada! Mas... tô impressionada que você consegue bater papo com uma vaca..."
+        }
+    ]
+}

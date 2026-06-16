@@ -1,0 +1,596 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC05_KEI_510.ebm",
+    "nb_messages": 0x42,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Eu sabia que ia te encontrar se esperasse aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Sr. Keith!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Muito obrigada pelo outro dia. Tenho estudado bastante usando aquele livro como referência."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xe5,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "Não precisa me agradecer. Fazer um bom uso dele só depende de você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xe7,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Além do mais, não tô aqui pra falar disso. Eu tava pensando que já tava na hora..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Vamos pra algum lugar onde a gente possa conversar.<CR>Isso vai demorar um pouco."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Você tem um ateliê nessa cidade também, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Tenho sim, mas tá meio bagunçado..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Não me importo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Hmm... um caldeirão de alquimia. O seu método é bem antiquado, mas até que tem o seu charme."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "É o mesmo caldeirão de remédios que eu sempre usei. Mexer o caldeirão me ajuda a relaxar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Hmm, eu não concordo nem simpatizo com isso, mas se é da sua preferência, vou ter que assumir que seja verdade."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "No entanto, uma estante de livros tão simples... Parece que você tem livros únicos sobre medicina, mas a sua coleção ainda é bem escassa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "O seu conhecimento vem de uma tradição oral?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Sim. Metade veio dos livros, e a outra metade quem me ensinou foi o meu próprio avô."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x17,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Então as habilidades foram totalmente passadas de uma geração pra outra..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Não. O meu avô faleceu antes de conseguir me ensinar tudo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "A quantidade de ingredientes ou as proporções das misturas são meio que no achismo. Hehehe..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Mas eu tenho bastante confiança de que eu meio que sei o que faz dar certo ou falhar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x4e,
+            "expr_id": 0x2,
+            "msg_id": 0x13,
+            "msg_string": "Entendo, achismos e \"meio que\"...<CR>Hmhmhmhm..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0x14,
+            "msg_string": "*suspiro* Você tá rindo de mim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x50,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Não, me perdoe. Desculpa se te fiz sentir mal, mas não foi minha intenção te menosprezar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Só que esse ateliê deixa muito a desejar. Deixa eu te dar isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc6,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Uau, eu posso mesmo ficar com isso? Peraí... Eu acho que já vi isso antes..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x15,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Não me surpreende que você reconheça. É daquela vila onde todas aquelas pessoas sumiram."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Isso mesmo! Você tomou isso de mim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Ainda não vou te contar o que é esse recipiente. Mas, não tire ele daqui, senão não vai servir de nada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x17,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Bom, desculpa a demora, mas vamos passar pro assunto principal."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Certo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Tenho um trabalho pra você. Quero que você use sua alquimia pra fazer um item pra mim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Usar... a minha alquimia?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Isso mesmo. Pode ser qualquer coisa.<CR>O remédio que você é especialista em fazer,<CR>ou um metal raro..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Mas você tá restrita a criar algo pensando que sou eu quem vai usar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x21,
+            "msg_string": "Ué, você vai...? I-Isso é um pouco..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "Você ficaria mesmo satisfeito com um item que eu fizer...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "O objetivo desse pedido é justamente ver se isso é possível ou não."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x24,
+            "msg_string": "Hã...? C-Como assim...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x1cc,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x25,
+            "msg_string": "Antes de eu te responder isso... deixa eu te contar uma velha história."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x1cd,
+            "expr_id": 0x0,
+            "msg_id": 0x26,
+            "msg_string": "Ninguém por aqui sabe disso, mas de onde eu venho, umas décadas atrás..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x1cd,
+            "expr_id": 0x0,
+            "msg_id": 0x27,
+            "msg_string": "A alquimia foi \"redescoberta\", por causa de um certo incidente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x1ce,
+            "expr_id": 0x0,
+            "msg_id": 0x28,
+            "msg_string": "Muita gente deu o sangue e a alma pra dominar suas habilidades... e eu fui uma delas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x29,
+            "msg_string": "Pra nós, a alquimia era a própria \"possibilidade\"."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x2a,
+            "msg_string": "Meus colegas e eu ficamos maravilhados com a excelência da alquimia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x2b,
+            "msg_string": "Mas, um dia, eu acabei percebendo que ninguém ali entendia a alquimia de verdade..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x1cf,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2c,
+            "msg_string": "Que todos não passavam de alquimistas fajutos,<CR>que só arranharam a superfície<CR>dessa arte."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x2d,
+            "msg_string": "Alquimistas... fajutos..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x2e,
+            "msg_string": "Satisfeitos em ficar se exibindo com conhecimentos superficiais, alguns nunca se deram ao trabalho de buscar a verdade..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x2f,
+            "msg_string": "Outros nem sequer tentaram entender."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x30,
+            "msg_string": "Mesmo que você só imite a forma, dá pra usar a habilidade até certo ponto."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x1d0,
+            "expr_id": 0x0,
+            "msg_id": 0x31,
+            "msg_string": "Mas as coisas que eles criavam não passavam de farsas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x32,
+            "msg_string": "Pra mim, isso era imperdoável. Livros de alquimia, equipamentos, instalações... Eu destruí tudo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x15,
+            "expr_id": 0x0,
+            "msg_id": 0x33,
+            "msg_string": "Por causa disso, eu me tornei um fugitivo. Só que eu não me arrependo de nada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x34,
+            "msg_string": "Eu entendo a sua história, e o que você tá querendo dizer..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x35,
+            "msg_string": "Pois é. Dependendo do que e como você criar algo, eu posso... tirar a alquimia de você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x36,
+            "msg_string": "A alquimia só devia ficar na mão de quem é digno. É um sacrilégio alguém sem habilidade ir atrás dela."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x37,
+            "msg_string": "Eu entendo que sintetizar sabendo só um pouco do que tá fazendo é perigoso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x38,
+            "msg_string": "Mas pra salvar a minha irmã, pra salvar a Nio... eu preciso da alquimia... Você mesmo me ensinou isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x39,
+            "msg_string": "Então, por quê?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x3a,
+            "msg_string": "Isso são problemas diferentes."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x91,
+            "expr_id": 0x3,
+            "msg_id": 0x3b,
+            "msg_string": "Opa, peraí! Por que você já tá achando que vai fracassar desde o começo? Você só precisa me convencer de que é digna."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x93,
+            "expr_id": 0x0,
+            "msg_id": 0x3c,
+            "msg_string": "Não vou te dar um prazo específico. Quando você terminar algo que ache que serve pra isso, me traga."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x15,
+            "expr_id": 0x0,
+            "msg_id": 0x3d,
+            "msg_string": "Também vou preparar uma boa recompensa. Era só isso que eu vim dizer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3e,
+            "msg_string": "(O-O que eu faço agora?<CR>Isso é muito sério...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc5,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3f,
+            "msg_string": "(Pode ser que me forcem a parar de mexer<CR>com alquimia...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc5,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x40,
+            "msg_string": "(Eu só preciso fazer algo incrível,<CR>e garantir que o Sr. Keith me<CR>aprove...!)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc8,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x41,
+            "msg_string": "(*suspiro* Será que eu consigo fazer isso...?)"
+        }
+    ]
+}

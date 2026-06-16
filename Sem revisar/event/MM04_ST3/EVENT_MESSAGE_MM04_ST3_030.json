@@ -1,0 +1,625 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM04_ST3_030.ebm",
+    "nb_messages": 0x45,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ué? Parece que tá rolando alguma coisa por aqui hoje..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "msg_string": "Bem-vinda, Ayesha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Ah, Homúnculo! Hum, tá rolando alguma coisa hoje?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "msg_string": "Hoje, dia especial. Você veio em boa hora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Ah, parece que sim. Vocês tão fazendo algum festival?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "msg_string": "Hoje é dia de despedida e boas-vindas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "msg_string": "É ritual importante pra amigos próximos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "msg_string": "Ayesha é amiga. Participa, por favor."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Sou amiga? Fico muito feliz! Sendo assim, eu adoraria ficar!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x9,
+            "msg_string": "Segue a gente, segue a gente. Vai começar logo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "msg_string": "(Nossa, isso é...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x227,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xb,
+            "msg_string": "Ele viveu cinco anos, e ontem, chegou no seu último dia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x229,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xc,
+            "msg_string": "Ele viveu bastante."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7d,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "msg_string": "(Eu tava certa... É um funeral.)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x216,
+            "name_id": 0x2d,
+            "extra_id": 0x226,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xe,
+            "msg_string": "Ele tem sorte. Tem amigos aqui pra ver partida."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x217,
+            "name_id": 0x2e,
+            "extra_id": 0x226,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "msg_string": "Sim. Teve vida boa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x227,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x10,
+            "msg_string": "Ele gostava muito dos brilhos doces..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x229,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x11,
+            "msg_string": "Sim, os brilhos doces que Ayesha e Marietta trouxeram pra gente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "msg_string": "Falou que ia ser memória preciosa antes da partida iminente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xcd,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "Como é...? Eu não imaginava que ia ser a última vez dele..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xce,
+            "expr_id": 0x4,
+            "msg_id": 0x14,
+            "msg_string": "*snif* Se eu soubesse que ia ser assim, eu teria trazido mais doce..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x15,
+            "msg_string": "Não precisa ficar triste. Ele tava feliz. Falou que ganhou presente bom."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x217,
+            "name_id": 0x2e,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "msg_string": "Juntamos muitas flores pra mandar ele. Ele ficar muito satisfeito."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xcf,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Pensando bem, essas flores... o que são elas?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x216,
+            "name_id": 0x2d,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x18,
+            "msg_string": "Flores especiais pra ritual."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x217,
+            "name_id": 0x2e,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x19,
+            "msg_string": "Flores importantes. Conectam partidas e chegadas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1a,
+            "msg_string": "(Essas flores não são normais.<CR>É só um palpite, mas com certeza<CR>têm alguma coisa a ver com a Nio...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1b,
+            "msg_string": "Ayesha, aqui. Pra última despedida dele."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Ah, tá. Vocês têm certeza de que eu posso participar agora?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1d,
+            "msg_string": "Claro. Ayesha é amiga. Ele também tá feliz."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1e,
+            "msg_string": "Agora, despedida final. Olha bem pro rosto dele."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Tá bom. Vou me despedir."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x22b,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x20,
+            "msg_string": "Quando a vida volta pro céu, é aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x22c,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x21,
+            "msg_string": "A vida circula. Dia de nos encontrarmos de novo vai chegar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x22d,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x22,
+            "msg_string": "Um breve tchau até lá. Adeus."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x23,
+            "msg_string": "(Nossa... Isso é tão triste...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xcd,
+            "expr_id": 0x4,
+            "msg_id": 0x24,
+            "msg_string": "*snif* *snif* Adeus. Por favor, descanse em paz..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x227,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x25,
+            "msg_string": "Ayesha, não chora. Não precisa de lágrimas pra partida."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x228,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x26,
+            "msg_string": "Caminho da vida continua de ontem pro amanhã."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x229,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x27,
+            "msg_string": "Se ficar olhando pra trás, ele não vai em paz quando partir."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xce,
+            "expr_id": 0x4,
+            "msg_id": 0x28,
+            "msg_string": "Tá, tá... Eu entendi...<CR>Não vou chorar mais..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x29,
+            "msg_string": "Agora, nós nos despedimos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x22b,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2a,
+            "msg_string": "A vida dele agora voltou pro lado da Mãe."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x22c,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2b,
+            "msg_string": "Muita alegria e tristeza ele trouxe pra gente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x22c,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2c,
+            "msg_string": "Nós nunca vamos esquecer dele."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xce,
+            "expr_id": 0x4,
+            "msg_id": 0x2d,
+            "msg_string": "Egh... ngh... ugh....<CR>Muidho obrigada..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x22d,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2e,
+            "msg_string": "Agora, a gente dá as boas-vindas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2f,
+            "msg_string": "Ayesha, olha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x30,
+            "msg_string": "Viu? Ele tá voltando."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xcf,
+            "expr_id": 0x0,
+            "msg_id": 0x31,
+            "msg_string": "Hã...? Voltando...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x32,
+            "msg_string": "Ah, mini-Ayesha chegou também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x33,
+            "msg_string": "U-ugh. Essa é... a Nio?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x221,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x34,
+            "msg_string": "Duas Ayeshas. Pra boas-vindas, quanto mais, melhor."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x224,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x35,
+            "msg_string": "Sim. Muito agradável."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x214,
+            "name_id": 0x2b,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x36,
+            "msg_string": "Ei, voltei."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x221,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x37,
+            "msg_string": "Bem-vindo de volta. Foi bem rápido."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x38,
+            "msg_string": "Hã... hãããã!? Um morto ressuscitou!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x39,
+            "msg_string": "A gente vive vários anos, aí morre alguns dias."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3a,
+            "msg_string": "Depois nascemos de novo. O ciclo se repete."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x3b,
+            "msg_string": "Ah, entendi... Eu só... tomei um susto enorme..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x3c,
+            "msg_string": "Mas, que bom que o Homúnculo voltou."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x214,
+            "name_id": 0x2b,
+            "extra_id": 0x221,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3d,
+            "msg_string": "Foi um belo funeral, graças a Ayesha aqui, me acompanhando."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x221,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3e,
+            "msg_string": "Sim. Graças às duas Ayeshas aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x3f,
+            "msg_string": "Peraí, cadê a Nio...!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x40,
+            "msg_string": "Ela se foi... Sumiu de novo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x41,
+            "msg_string": "Homúnculo, tem problema se eu pegar uma dessas flores?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x42,
+            "msg_string": "O ritual acabou. Pode levar a flor."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x43,
+            "msg_string": "Obrigada. Eu vou levar uma."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Você pegou Pétalas Acalma-Alma."
+        }
+    ]
+}

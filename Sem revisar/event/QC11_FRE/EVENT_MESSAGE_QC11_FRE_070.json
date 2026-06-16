@@ -1,0 +1,260 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC11_FRE_070.ebm",
+    "nb_messages": 0x1b,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x165,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Nossa, tô com tanta fome... mas não posso fazer mais nenhuma compra por impulso esse mês..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x166,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "*sniff* Se eu não tivesse comprado o Olho do Descontentamento, eu teria mais..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x167,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "*sniff* *sniff* Uau, o cheiro de pão fresquinho tá cobrindo meu corpo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Coitadinha de você... Tá com fome?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "O-O-O que?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x126,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "Eu só tava olhando os pães! Eu não ia fazer nada de errado, viu!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x45,
+            "expr_id": 0x2,
+            "msg_id": 0x6,
+            "msg_string": "Não precisa ficar com medo...<CR>Aqui, pega esse pão e come."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x128,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "...Sério? Mas eu não tenho dinheiro nenhum."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0x8,
+            "msg_string": "Hahaha, você pode comprar um de mim na próxima vez. Você tá com fome, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Se não se importar que fui eu que assei esse pão, vai em frente e come."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Viu? Esse pão de gatinho é bem docinho, e faz muito sucesso com crianças da sua idade."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x81,
+            "expr_id": 0x3,
+            "msg_id": 0xb,
+            "msg_string": "Hmph, eu não sou criança!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x220,
+            "name_id": 0x1c,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xc,
+            "unknown2": 0x1,
+            "msg_string": "Poxa, que sorte! Eu também quero pão!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x221,
+            "name_id": 0x1d,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "unknown2": 0x1,
+            "msg_string": "Que injustiça! Eu também tô com fome!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Tudo bem, vão chamar seus amigos.<CR>Eu vou fechar a loja por hoje."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Ué? Tem uma multidão na frente da padaria..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x220,
+            "name_id": 0x1c,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x10,
+            "unknown2": 0x1,
+            "msg_string": "Uau, esse pão de gatinho tem geleia dentro!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x221,
+            "name_id": 0x1d,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x11,
+            "unknown2": 0x1,
+            "msg_string": "Esse tem creme! Tá tão gostoso!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "unknown2": 0x1,
+            "msg_string": "Não precisam se conter.<CR>Comam como se fossem comer<CR>todos os pães da loja!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13,
+            "unknown2": 0x1,
+            "msg_string": "Pode deixar! Ei moço, eu quero mais!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x14,
+            "unknown2": 0x1,
+            "msg_string": "É isso aí, esse é o espírito. Tem muito mais, então continuem comendo."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x15,
+            "unknown2": 0x1,
+            "msg_string": "Vem cá, mocinha aí.<CR>Você pode comer um também."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "unknown2": 0x1,
+            "msg_string": "Hã? Eu?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x17,
+            "unknown2": 0x1,
+            "msg_string": "É. Coma muito pão gostoso e continue crescendo!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x18,
+            "unknown2": 0x1,
+            "msg_string": "Acho que eu não cresço mais.<CR>Eu já sou adulta..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x19,
+            "unknown2": 0x1,
+            "msg_string": "(Quanta generosidade...<CR>O Sr. Fred é tão legal.)"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1a,
+            "unknown2": 0x1,
+            "msg_string": "(Mas dar tanto pão de graça assim... Espero que a loja dele fique bem...)"
+        }
+    ]
+}

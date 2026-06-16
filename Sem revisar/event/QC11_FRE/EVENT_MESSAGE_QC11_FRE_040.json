@@ -1,0 +1,320 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC11_FRE_040.ebm",
+    "nb_messages": 0x23,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0x5,
+            "msg_id": 0x0,
+            "msg_string": "Hum, qual pão eu levo hoje?<CR>O de gatinho é legal, mas os de<CR>ursinho parecem tão bons também..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15f,
+            "expr_id": 0x5,
+            "msg_id": 0x1,
+            "msg_string": "Uni duni tê...<CR>Salamê minguê...<CR>Vai ser esse!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Beleza! Hoje vai ser o pão de gatinho!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Srta. Ayesha, o pão de gatinho é o seu favorito?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x4,
+            "msg_string": "Bom, ele é fofo, e a geleia do recheio é bem docinha, então eu amo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Eu consegui frutas ótimas hoje, então o sabor deve estar um pouquinho diferente do normal."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Uau, então eu quero provar agora mesmo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Hum, essa é mesmo uma bela padaria."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x8,
+            "msg_string": "Ai!!!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1a0,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Ah, e aí, Ayesha. Veio comprar um pãozinho também?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Sim. Eu tô completamente viciada nos pães daqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x69,
+            "expr_id": 0x2,
+            "msg_id": 0xb,
+            "msg_string": "O cheirinho me atraiu pra cá, mas esse lugar tem um monte de pães fofinhos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6b,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Aposto que quem assou esses pães é uma pessoa super gentil."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0xd,
+            "msg_string": "Não, bom...<CR>M-M-M..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15e,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "O que foi?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x7a,
+            "expr_id": 0x3,
+            "msg_id": 0xf,
+            "msg_string": "Muito obrigado!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x38,
+            "expr_id": 0x2,
+            "msg_id": 0x10,
+            "msg_string": "O pão não é só fofo, é uma delícia também!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3a,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Você vai ter que segurar as bochechas quando comer, de tão bom que é."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Hmm... agora eu fiquei animada de verdade! Bom, Sr. Padeiro, vou levar esse aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x7b,
+            "expr_id": 0x3,
+            "msg_id": 0x13,
+            "msg_string": "S-Sim! Cla-Cla-Claro..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Eu tava tão ocupada hoje de manhã que nem consegui comer. Que bom que eu pude comprar um pão tão fresquinho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x7b,
+            "expr_id": 0x3,
+            "msg_id": 0x15,
+            "msg_string": "Não, bom...<CR>M-M-Muito obrigado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1a0,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Bom, te vejo mais tarde, Ayesha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Beleza. Bom trabalho, Marietta."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Beleza então, eu também já vou indo. Quero comer logo esse pão de gatinho!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x7d,
+            "expr_id": 0x3,
+            "msg_id": 0x19,
+            "msg_string": "Senhorita Ayesha, espera! E-Eu tenho uma pergunta importante!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0x1a,
+            "msg_string": "Q-Quem era aquela moça agorinha mesmo!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Você diz a Marietta? Ela trabalha na casa de comércio aqui na rua."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Ela não é muito mais velha que eu, mas já cuida do estoque da loja inteira. Ela é incrível."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Eu tenho um quarto atrás da loja da Marietta que eu uso quando tô na cidade, e..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x78,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Um sorriso tão alegre... que nem um pão recém-assado... Que esplêndido..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x1f,
+            "msg_string": "Ué...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x194,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Ah, não é nada. Obrigado por me falar dela."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "B-Bom, vou voltar ao trabalho. Os pães tão me esperando!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x22,
+            "msg_string": "(É impressão minha ou ele começou a agir meio estranho do nada...? O Sr. Fred é muito engraçado.)"
+        }
+    ]
+}

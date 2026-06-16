@@ -1,0 +1,394 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM04_ST3_730.ebm",
+    "nb_messages": 0x2b,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x0,
+            "msg_string": "*suspiro*<CR>O eclipse solar acabou...<CR>Isso foi um fracasso épico..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x1,
+            "msg_string": "É impossível achar uma flor específica em só uns minutinhos num lugar tão grande..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Falando nisso, como será que o Ranun e o Ernie se saíram..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x19f,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Saudações, Ayesha. Vim te encontrar, já que calculei que você começaria a sentir minha falta bem agora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Hm? Então esse é o ateliê da fofa boticária... Simples, robusto e grosseiro... Muito bom."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x5,
+            "msg_string": "N-Não chama de grosseiro!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x157,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "Ah, peço perdão. De qualquer forma,<CR>eu não deveria ter usado essa palavra pra descrever a casa de uma garota."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x158,
+            "expr_id": 0x4,
+            "msg_id": 0x7,
+            "msg_string": "Pra me desculpar, vou te fazer uma serenata com essa doce melodia de sal e areia que criei ontem à noite, e‐"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x78,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Ah, mas eu ficaria ainda mais feliz se você pudesse me contar a história do eclipse solar e da flor."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x159,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Opa, quase esqueci o motivo da minha visita."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Claro. Na verdade, eu vim aqui hoje pra te recontar essa história em forma de música."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Ah! Então, você achou a flor...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x196,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Pare. A resposta vai ser revelada na minha história."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x188,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Guiado pelos deuses do sol e da lua, em busca de um encontro milagroso, eu cheguei na antiga beira do mar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x189,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Porém, o deus que sorriu pra mim não foi o do sol e nem da lua..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x18b,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Mas sim o deus travesso, Loki.<CR>Oh deus, isso é além de absurdo. "
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x18d,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Atrás da flor, eu escorreguei enquanto vagava pelo penhasco, e despenquei de cabeça pro fundo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x18d,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Tendo me esborrachado no chão, eu desmaiei, mas quando a consciência voltou, o que eu vi foi..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "*gulp* O-O que você viu...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x18e,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "O sol, do mesmo jeito de sempre, já que o eclipse solar tinha acabado. Fim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc7,
+            "expr_id": 0x4,
+            "msg_id": 0x14,
+            "msg_string": "Aff. Então quer dizer que você caiu do penhasco e o eclipse solar veio e foi enquanto você tava apagado...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xe1,
+            "expr_id": 0x4,
+            "msg_id": 0x15,
+            "msg_string": "Eeei, não fica tão desanimada.<CR>Você vai me deixar triste também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xe3,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Se quiser, eu adoraria compartilhar a história depois disso do calombo bonitinho na parte de trás da minha cabeça‐"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x17,
+            "msg_string": "Ayesha, Ayesha, Ayesha!<CR>Eu tenho uma grande novidade pra você!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xca,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Kyah! Eu nunca te vi tão agitado... O que aconteceu?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x7a,
+            "expr_id": 0x3,
+            "msg_id": 0x19,
+            "msg_string": "Claro que eu ia tá agitado,<CR>porque eu... eu vi a Nio!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x1a,
+            "msg_string": "Hã?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x7b,
+            "expr_id": 0x3,
+            "msg_id": 0x1b,
+            "msg_string": "Eu sei o que eu vi, era a Nio. No dia do eclipse solar, num campo de flores brilhantes, eu com certeza vi ela."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x7b,
+            "expr_id": 0x3,
+            "msg_id": 0x1c,
+            "msg_string": "Ela sumiu rápido, mas a Nio, ela me viu e sorriu."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x7b,
+            "expr_id": 0x3,
+            "msg_id": 0x1d,
+            "msg_string": "Não era um fantasma... Foi bem como você disse, Ayesha!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x17,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Que peculiar...<CR>Tem certeza disso, Ernie?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x7c,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Com certeza. E eu tenho provas. Olha, essa é a flor que tava desabrochando do lado dela."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Eu gosto de flores, então conheço bem elas, mas nunca vi uma flor assim antes."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "Ela parecia ser especial, então eu peguei uma."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "Essa é... a flor que não desabrocha no sol...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xe1,
+            "expr_id": 0x4,
+            "msg_id": 0x23,
+            "msg_string": "Parece que a sua história era real. Oh, como o deus da canção e da poesia pode ser cruel."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xe4,
+            "expr_id": 0x4,
+            "msg_id": 0x24,
+            "msg_string": "De que adiantaria mostrar uma cena tão fantástica pra um mercador e não pra um poeta!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xe6,
+            "expr_id": 0x4,
+            "msg_id": 0x25,
+            "msg_string": "Se eu tivesse visto tal espetáculo, poderia ter escrito uma música esplêndida que duraria pra toda a eternidade."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x5f,
+            "expr_id": 0x2,
+            "msg_id": 0x26,
+            "msg_string": "Hmhm. Vai ver que é por causa do seu comportamento do dia a dia?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xe8,
+            "expr_id": 0x4,
+            "msg_id": 0x27,
+            "msg_string": "Você quer dizer que minha conduta diária é ruim? Heh, que estranho. Não faço a menor ideia do porquê."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x28,
+            "msg_string": "M-Mas, como nós três fomos procurar, eu consegui achar uma pista sobre a Nio."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x29,
+            "msg_string": "Isso é tudo graças a vocês dois. Muito obrigada mesmo."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Você obteve Pétalas do Eclipse."
+        }
+    ]
+}

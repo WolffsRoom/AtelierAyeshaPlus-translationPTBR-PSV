@@ -1,0 +1,167 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM06_ST4_060.ebm",
+    "nb_messages": 0x12,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Isso é...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Mana! Você veio mesmo me buscar!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Sim. Nio, você foi muito bem aguentando firme até agora. Vamos voltar juntas pro ateliê...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "Não dá... A pessoa depois daqui tá muito irritada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xd1,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "Ele não vai me deixar sair... nunca."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xd1,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "E ele vai acabar com qualquer um que tentar impedir ele."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0x6,
+            "msg_string": "Se for só por um tempinho, acho que consigo segurar ele. Então, mana..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x7,
+            "msg_string": "Foge daqui. Eu vou ficar bem."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0x8,
+            "msg_string": "Já é o bastante você ter vindo até aqui por mim!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x9,
+            "msg_string": "Não se preocupa. Eu com certeza vou te tirar daqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "É, a gente recebeu esse aviso mesmo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Eu vou em frente e resolver isso do meu jeito, mas... o que você vai fazer?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7a,
+            "expr_id": 0x3,
+            "msg_id": 0xc,
+            "msg_string": "Eu vou... salvar a Nio."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Nesse caso, nosso caminho é o mesmo. Vai ser um ataque de frente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7c,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Isso, vamos lá!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0xf,
+            "msg_string": "Não importa o que aconteça, eu vou levar a Nio de volta comigo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0x10,
+            "msg_string": "Nio, chego aí já já."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0x11,
+            "msg_string": "Então, espera por mim...!"
+        }
+    ]
+}

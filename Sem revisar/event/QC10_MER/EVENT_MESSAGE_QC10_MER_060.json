@@ -1,0 +1,160 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC10_MER_060.ebm",
+    "nb_messages": 0x11,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1a0,
+            "expr_id": 0x2,
+            "msg_id": 0x0,
+            "msg_string": "Obrigada por fazer negócios com a gente, Ayesha.<CR>E aaaaallllééém disso...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x69,
+            "expr_id": 0x2,
+            "msg_id": 0x1,
+            "msg_string": "Eu vi. Quem era aquele homem que veio te visitar? De onde você conhece ele?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x2,
+            "msg_string": "Hmm, que homem?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6b,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Aquele de bigode. Ele era um cavalheiro muito elegante."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x4,
+            "msg_string": "Um bigode... Ah, você quer dizer o Sr. Harry?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xfd,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "Hmm, espero que você esteja brincando. Sabe, aquele cavalheiro rústico e bonitão?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Rústico e bonitão...? Aaaah!<CR>Você tá falando do Sr. Keith?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Hmm, é difícil de explicar, mas eu acho que a gente trabalha na mesma área."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15e,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Ah, então ele também é boticário? Entendi..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Não é à toa que ele parecia tão calmo e intelectual. Aham, aham, ele é incrível."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Marietta, será que você...<CR>Você gosta de caras como ele?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1a7,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Para com isso! Não foi isso que eu quis dizer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x69,
+            "expr_id": 0x2,
+            "msg_id": 0xc,
+            "msg_string": "...Mas, se aquele cavalheiro chegasse em mim, acho que eu não conseguiria dizer não."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Hmm, mas ele é bem mais velho que você..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6a,
+            "expr_id": 0x2,
+            "msg_id": 0xe,
+            "msg_string": "Isso é maravilhoso também. Ele tem uma calma e uma estabilidade financeira que você não acha nos caras da minha idade."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6b,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Caramba, os dois têm bigode, como é que podem ser tão diferentes..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xf5,
+            "expr_id": 0x4,
+            "msg_id": 0x10,
+            "msg_string": "Queria que o dono fosse mais calmo e composto, igual àquele cavalheiro."
+        }
+    ]
+}

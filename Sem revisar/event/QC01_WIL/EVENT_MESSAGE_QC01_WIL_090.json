@@ -1,0 +1,204 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC01_WIL_090.ebm",
+    "nb_messages": 0x16,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ué? O que será que é essa caixa..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1aa,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Tem uma carta. Hmm, vejamos..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x28,
+            "extra_id": 0x1ab,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "msg_string": "\"De: Uma Velha Bruxa.<CR>Para: A Jovem Alquimista.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x28,
+            "extra_id": 0x1ab,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "msg_string": "\"Agradeço por tomar conta da Wilbell.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x28,
+            "extra_id": 0x1ab,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "msg_string": "\"Ela é uma garota teimosa e mimada, então tenho certeza de que ela te causa problemas...\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x28,
+            "extra_id": 0x1ab,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "msg_string": "Mas eu espero que você continue apoiando ela..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1ab,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Essa é... uma carta da<CR>tataravó da Bell...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1ab,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Mas não tem destinatário nem nada. Como será que foi entregue...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1ab,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Será que ela mandou por magia, tipo, pew!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1ab,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Ah, a carta continua. Vamos ver..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x28,
+            "extra_id": 0x1ab,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "msg_string": "\"Sendo assim, como um pequeno sinal de gratidão, por favor aceite os itens nesta caixa.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x28,
+            "extra_id": 0x1ab,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xb,
+            "msg_string": "\"Eles foram colhidos na montanha aqui perto. Legumes ou frutas, o que você prefere?\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1ac,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Ué, ela tá fazendo uma pergunta...? O que será que ela quer dizer com... \"O que você prefere?\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "De qualquer forma, eu gosto de..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Se eu tivesse que escolher... legumes,<CR>eu acho?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Ué? Tem alguma coisa na caixa.<CR>Isso são... legumes!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Se eu tivesse que escolher... frutas,<CR>eu acho?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Ué? Tem alguma coisa na caixa.<CR>Isso são... frutas!?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x28,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "unknown2": 0x1,
+            "msg_string": "\"Desejo a você muito sucesso como uma jovem alquimista...\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Caramba... Magia é incrível mesmo..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Você conseguiu Hard Taro, Green Seed, White Salat e Red Devil."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Você conseguiu Blue Spike Fruit, Ripe Cure Fruit, Honey Melon e Fully Ripe Fruit."
+        }
+    ]
+}

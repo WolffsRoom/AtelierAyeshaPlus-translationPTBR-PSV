@@ -1,0 +1,88 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM03_ST2_510.ebm",
+    "nb_messages": 0x9,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0x5,
+            "msg_id": 0x0,
+            "msg_string": "Hmm... Espero que eu esteja melhorando nisso, agora que ando sintetizando outros itens além de só remédios..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Mas se alguém me perguntasse se eu tô fazendo alquimia ou não, eu ainda não saberia dizer..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "É como se eu fosse autodidata... ou até mesmo criando o meu próprio estilo. Eu também não tenho sido muito exata com as medidas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc5,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "Dá um certo medo de pensar que o meu estilo pode estar completamente errado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc6,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Se tivesse alguém que eu conheço que soubesse bastante de síntese, eu poderia aprender com essa pessoa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Ah, já sei, o Sr. Keith! ...Provavelmente não vai me ensinar nada, então sem chance."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Mas ainda assim, eu tô curiosa pra ouvir histórias de pessoas que sabem fazer alquimia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Hmm... ah! Eu devia ir perguntar pra Bell! Ela me deu aquele livro...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Hmm... ah! Eu devia ir perguntar pra Marion! Ela me deu aquele livro...!"
+        }
+    ]
+}

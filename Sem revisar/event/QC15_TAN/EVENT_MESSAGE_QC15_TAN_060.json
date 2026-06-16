@@ -1,0 +1,231 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC15_TAN_060.ebm",
+    "nb_messages": 0x19,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Obrigada pela preferência. Hehehe, minhas economias tão começando a crescer!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Com isso, eu talvez consiga alcançar meu objetivo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Tanya, você tá juntando dinheiro?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Tô sim. Meu pai disse pra eu cuidar do meu próprio dinheiro que eu mesma ganhei."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Nossa, que incrível. Quando eu tinha a sua idade, eu nunca guardava meu dinheiro..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Hehehe, eu acabei de começar, mas tô muito feliz que meu dinheirinho tá rendendo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Você é uma menina muito boa. Tem horas que eu gasto meu dinheiro num piscar de olhos..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x7,
+            "msg_string": "Então eu devia seguir o seu exemplo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Hmhmhm, se você quiser começar a guardar dinheiro, devia criar um objetivo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Entendi... Então isso quer dizer que você tem um objetivo, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xd4,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "Bom... Eu quero conseguir ir pra Vierzeberg um dia desses..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xd5,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "Eu sempre achei a cidade o máximo, mas desde que você me contou mais um monte de histórias sobre ela..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xd5,
+            "expr_id": 0x4,
+            "msg_id": 0xc,
+            "msg_string": "Comecei a querer muito ir pra lá eu mesma."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xd5,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "Não sei quanto dinheiro eu preciso juntar, nem quanto tempo vai levar pra juntar tudo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xd6,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Eu ainda não tenho muita certeza, mas vou dar o meu melhor!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Isso é incrível.<CR>Eu vou torcer por você!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Hã, nesse caso, eu vou comprar mais um pouquinho de sal, e..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x11,
+            "msg_string": "Hahaha, por favor compra só o que você precisa. Não é como se eu tivesse com pressa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x45,
+            "expr_id": 0x2,
+            "msg_id": 0x12,
+            "msg_string": "Mas se um dia eu conseguir chegar em Vierzeberg, por favor, vem brincar comigo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Claro, você não precisava nem pedir! Eu mesma vou te dar um tour pela cidade!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "E tenho quase certeza que vou fazer a gente se perder nesse tour... Eu acho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0x15,
+            "msg_string": "Hmhmhm, mal posso esperar! Fico imaginando quantas pessoas tem numa \"multidão de pessoas\"..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0x16,
+            "msg_string": "Ou que tipos de itens eles vendem no bazar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x45,
+            "expr_id": 0x2,
+            "msg_id": 0x17,
+            "msg_string": "Quando eu penso nessas coisas,<CR>me dá muita motivação."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x18,
+            "msg_string": "(A Tanya tá indo pra Vierzeberg...<CR>Também tô super animada por ela.)"
+        }
+    ]
+}

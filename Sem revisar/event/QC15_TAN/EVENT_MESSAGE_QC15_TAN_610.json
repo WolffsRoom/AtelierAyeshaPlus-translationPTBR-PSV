@@ -1,0 +1,203 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC15_TAN_610.ebm",
+    "nb_messages": 0x16,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x69,
+            "expr_id": 0x2,
+            "msg_id": 0x0,
+            "msg_string": "Ayesha, tem uma carta pra você.<CR>Hmhm, adivinha de quem é."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Hmm, de quem será... Ah, é da Tanya!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1aa,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Vamos ver... Ah, ela escreveu sobre você também, então vou ler em voz alta."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6a,
+            "expr_id": 0x2,
+            "msg_id": 0x3,
+            "msg_string": "Sobre mim? Ooh, o que será que ela disse..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "msg_string": "\"Oi Ayesha, é a Tanya. Finalmente juntei dinheiro suficiente pra viagem.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "msg_string": "\"A próxima vez que eu não estiver muito ocupada com os negócios da família, tô planejando ir pra Vierzeberg.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "\"Se der, por favor me mostre a cidade! Eu adoraria ver o bazar também!\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "msg_string": "\"Também quero ver a Marietta pra agradecer pelo presente.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x8,
+            "msg_string": "\"Tô ansiosa pra te ver<CR>na cidade. Por enquanto é só.<CR>De, Tanya.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1ac,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Ela juntou dinheiro suficiente? Mandou bem, Tanya!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6b,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Ooh, então a Tanya vem pra cá?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Tenho certeza que ela tá super animada. Ela queria muito vir pra cidade."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0xc,
+            "msg_string": "Hmm, mas quando será que ela vem... E onde a gente vai se encontrar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0xd,
+            "msg_string": "É, ela não escreveu nada disso. Talvez ela nem tenha pensado nisso direito..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Nessa cidade, mesmo que vocês duas estejam aqui, vai ser difícil de só se esbarrarem por aí."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "E tenho certeza que ela também não sabe onde fica minha loja..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x10,
+            "msg_string": "Acho que o melhor que a gente pode fazer é ficar de olho pra ver se acha ela..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15d,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Enfim, então, a Tanya tá vindo pra cidade..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15f,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Nesse caso, eu preciso preparar tudo pra ela..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Hã? Do que vocês tão falando?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Hmhmhm, vai ser uma surpresa pra quando a Tanya chegar aqui!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x79,
+            "expr_id": 0x3,
+            "msg_id": 0x15,
+            "msg_string": "Beleza, eu não posso ficar só aqui parada. Preciso ir me preparar!"
+        }
+    ]
+}

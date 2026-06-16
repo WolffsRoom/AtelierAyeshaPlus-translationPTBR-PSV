@@ -1,0 +1,275 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC13_ODI_710.ebm",
+    "nb_messages": 0x1f,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ué? Sinto que tem algo diferente na biblioteca..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "Hã...!? Kyah!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Tá muito barulhento. Eu quero silêncio."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x19f,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Peço desculpas. Deu um problema grave na unidade que controla os slags."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x91,
+            "expr_id": 0x3,
+            "msg_id": 0x4,
+            "msg_string": "Você não consegue consertar? Se isso continuar acontecendo, não vou conseguir relaxar e ler meu livro."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "O sistema de controle principal, sua cópia, o reserva, o reserva do reserva, o reserva do reserva do reserva, e mais um reserva..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Parece que estão todos com defeito.<CR>A deterioração com o tempo parece<CR>ser a causa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Virou uma situação grave que tá causando um baita transtorno pro pessoal que visita essas instalações."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x93,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Tenho certeza que planejaram pra várias situações, mas pelo visto nem isso foi o bastante."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x19f,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Peço desculpas. No momento, tô tentando restaurar o sistema."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Que bom. Então vai ser consertado logo, né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Vou dar o meu melhor... pra tomar as medidas adequadas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "S-Srta. Odelia, por que você tá olhando pro nada desse jeito?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xe1,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "Deixa ela quieta. Com todos esses defeitos, a carga das responsabilidades dela provavelmente tá pesada demais agora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x117,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "...Pra falar a verdade, não tenho perspectivas de uma solução adequada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xe3,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Foi o que eu pensei. Conta a situação pra gente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x119,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Se fosse só pra restaurar o sistema de controle, teria sido possível."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Porém, por medida de segurança, o sistema de controle tem uma trava dupla."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Acessando duas chaves em locais diferentes ao mesmo tempo, dá pra acessar o sistema de controle."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Em outras palavras, não consigo fazer isso sozinha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x17,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Entendi. Então, a gente só precisa te dar uma mãozinha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Posso pedir a ajuda de vocês?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Se é isso que precisa pra garantir um ambiente tranquilo de leitura, eu já faria mesmo se não tivesse pedido."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Já que tá decidido, explica isso pra gente com mais detalhes."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Em algum lugar no andar mais baixo tá a chave pro painel de controle terciário."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Apertando aquele painel de controle e cortando a energia ao mesmo tempo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Dá pra acessar o sistema de controle com segurança."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Queria pedir pra vocês dois cuidarem do painel de controle no andar mais baixo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Beleza. Vamos fazer isso agora mesmo. Você tá pronta?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x1d,
+            "msg_string": "S-Sim. Vou dar o meu melhor."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x19f,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Ayesha, Keith, tô contando com vocês."
+        }
+    ]
+}

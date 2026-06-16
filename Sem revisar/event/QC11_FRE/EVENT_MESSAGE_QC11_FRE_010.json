@@ -1,0 +1,196 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC11_FRE_010.ebm",
+    "nb_messages": 0x15,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0x12,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x0,
+            "msg_string": "Finalmente consegui... meu próprio castelo. Pra mim, e por mim!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "msg_string": "(Nossa, como ele é alto...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0x12,
+            "extra_id": 0x44,
+            "expr_id": 0x2,
+            "msg_id": 0x2,
+            "msg_string": "De agora em diante, vou poder assar o que eu quiser à vontade aqui no meu castelo...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Castelo? Assar...? Err, com licença.<CR>O que você vai fazer aqui?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0x12,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Aqui? Isso aqui vai ser uma padaria."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x5,
+            "msg_string": "Ah, uma padaria? Que legal!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x35,
+            "expr_id": 0x2,
+            "msg_id": 0x6,
+            "msg_string": "Pão fresquinho é tããão gostoso!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0x59,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Isso aí. Pão é uma delícia!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0x59,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Ele traz harmonia pra vários pratos,<CR>e nos dá vitalidade pra viver!<CR>Esse... é o poder do pão!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0x59,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Farinha e centeio. Manteiga e ovo.<CR>A harmonia tecida por esses ingredientes<CR>fascinantes é uma melodia dos anjos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "T-Tô vendo. Dá pra notar que você deve amar muito pães..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0x59,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0xb,
+            "msg_string": "Opa, foi mal. Eu me empolguei demais.<CR>Não consigo me segurar quando o assunto<CR>é pão."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0x59,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0xc,
+            "msg_string": "Depois de todo o meu treinamento, finalmente tô pronto pra abrir a minha própria loja. Esse é um momento muito emocionante pra mim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0x59,
+            "extra_id": 0x44,
+            "expr_id": 0x2,
+            "msg_id": 0xd,
+            "msg_string": "Agora vou poder assar o pão ideal,<CR>que tem sido o meu sonho há muito tempo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0x5,
+            "msg_id": 0xe,
+            "msg_string": "O seu pão ideal? Quer dizer que o seu objetivo é fazer um pão delicioso?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0x59,
+            "extra_id": 0x176,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "É um pouco diferente. O meu ideal é que muita gente coma o meu pão."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0x59,
+            "extra_id": 0x179,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "E através do meu pão, eu quero fazer as pessoas sorrirem. Espero conseguir realizar isso com essa padaria."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Uau, que objetivo legal! Dê o seu melhor."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0x59,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Obrigado. Ainda vai demorar um tempinho até a inauguração, mas eu ficaria muito grato em ter você como cliente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Pode deixar! Vou ficar esperando ansiosamente!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x14,
+            "msg_string": "(Uma padaria! Mal posso esperar pra comer um pão fresquinho!)"
+        }
+    ]
+}

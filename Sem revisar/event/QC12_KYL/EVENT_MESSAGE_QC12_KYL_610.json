@@ -1,0 +1,168 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC12_KYL_610.ebm",
+    "nb_messages": 0x12,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0x5,
+            "msg_id": 0x0,
+            "msg_string": "Hmm, o que eu deveria pedir...?<CR>Massa parece uma boa, mas pizza<CR>também parece uma boa..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15f,
+            "expr_id": 0x5,
+            "msg_id": 0x1,
+            "msg_string": "Hmm, hum...<CR>...Certo, decidi!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Mestre das Misturas, me vê o prato do dia?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x141,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "Uou, que susto! Quando você chegou aqui, Ayesha!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Há uns minutinhos... Ah, você tava planejando fazer alguma outra travessura?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x143,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Hã? Do que você tá falando? Eu já passei dessa fase de fazer criancice."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Não se faz de inocente. Mestre das Misturas, você tá com a mesma cara de quando rolou o incidente do álcool e da comida apimentada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa2,
+            "expr_id": 0x3,
+            "msg_id": 0x7,
+            "msg_string": "Urgh! Você é boa em ler minhas expressões. Impressionante..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Então, o que você vai fazer com o Juris dessa vez...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xa8,
+            "expr_id": 0x3,
+            "msg_id": 0x9,
+            "msg_string": "Você também sacou que é pro Juris!? Mais impressionante ainda..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xaa,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Bom, não se preocupe. Não é bem uma pegadinha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0xb,
+            "msg_string": "Embora eu tenha certeza que ele vai ficar bem surpreso!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0xc,
+            "msg_string": "Eu só tava pensando em como deveria demonstrar minha gratidão a todo mundo com quem eu ando."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Esse sorriso tá suspeito..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "I-Isso não é verdade. Confia em mim, Ayesha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Eu quero fazer isso especialmente pro Juris.<CR>Parece que ele tá planejando fazer<CR>algo grande..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x17d,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Se ele conseguir, eu preciso ser o primeiro a dar os parabéns."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x182,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Então não conta pra ninguém que eu tô planejando alguma coisa, beleza?"
+        }
+    ]
+}

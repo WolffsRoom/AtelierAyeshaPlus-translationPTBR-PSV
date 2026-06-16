@@ -1,0 +1,345 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC08_HAR_660.ebm",
+    "nb_messages": 0x26,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x0,
+            "msg_string": "Sr. Harry! Eu trouxe o lanche que prometi!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0x1,
+            "msg_string": "Não tenho certeza se é esse, mas por favor, dá uma provada...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Oh, então finalmente ficou pronto?<CR>Como eu esperava de você, Ayesha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x1b9,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "msg_string": "Então, se não se importa, vou provar agora mesmo. *nham* *nham* *nham*"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0x4,
+            "msg_string": "E a-aí, como tá...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x1ba,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "msg_string": "*nham* *nham*"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0x6,
+            "msg_string": "Ééé..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x1ba,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "msg_string": "*nham* *nham*<CR>Hrgh... *snif*"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x78,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "O-O que foi? Tá com um gosto ruim?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x1ba,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x9,
+            "msg_string": "Não é isso... O cheiro, o formato, a textura e esse sabor..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x1bb,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Não tem erro, esse é o sabor da mamãe... Nunca pensei que seria capaz de provar isso de novo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xf5,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "Tô profundamente emocionado..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Que bom... Eu tava preocupada de não conseguir recriar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xf6,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "Não, você foi incrível, Ayesha.<CR>O sabor que eu tinha esquecido..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xf6,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "Você me relembrou esplendidamente dele.<CR>Obrigado! Muito obrigado...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xf9,
+            "expr_id": 0x4,
+            "msg_id": 0xf,
+            "msg_string": "Eu não tenho uma recompensa à altura desse sabor..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Eu não preciso de uma. Enquanto eu reunia a receita, ouvi um monte de histórias incríveis sobre você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "De que você usou tanto dinheiro pra ajudar todo mundo na cidade que arriscou o seu próprio negócio..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xfb,
+            "expr_id": 0x4,
+            "msg_id": 0x12,
+            "msg_string": "Eu sabia muito bem como era passar fome."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Eu não conseguia só ficar de braços cruzados vendo crianças passarem fome."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Foi só isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Tenho certeza que as pessoas que você ajudou cresceram, e tornaram essa cidade bem próspera."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Entendo... Hmhm, naquela época, eu não pensei tão lá na frente, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Acho que consegui fazer algo por essa cidade que eu amo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Sr. Harry... Que história linda."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "O único arrependimento que tenho é não ter podido mostrar pra mamãe o quão esplêndido me tornei."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "A mamãe faleceu antes de eu herdar os negócios. Provavelmente por conta dos seus longos anos de trabalho duro."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Eu sempre quis mostrar minha esplêndida<CR>aparência pra mamãe... mas isso<CR>nunca pôde acontecer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Mas eu tenho me esforçado para garantir que nunca terei vergonha de encará-la."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc7,
+            "expr_id": 0x4,
+            "msg_id": 0x1d,
+            "msg_string": "E-Eu nãum conshigo... Eu shou muito fraga pra hishtóriash ashim... sniff"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc9,
+            "expr_id": 0x4,
+            "msg_id": 0x1e,
+            "msg_string": "Eu tenho certeza de que a mãe do Sr. Barry está olhandho pra voshê lá do céu..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x18,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Você está chorando pela Mamãe e por mim?<CR>Você é muito gentil."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Ver suas lágrimas me lembra dos meus sentimentos de antes..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "Então não tenho vergonha de encarar a Mamãe."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "Hoje, depois de comer o lanche da Mamãe,<CR>sinto que esse sentimento se<CR>solidificou ainda mais."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "Obrigado, Ayesha...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xcb,
+            "expr_id": 0x4,
+            "msg_id": 0x24,
+            "msg_string": "Não, eu que agradeço. sniff Por favor, continue trabalhando duro daqui pra frente também. sniff"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x25,
+            "msg_string": "Você tem razão. Eu ainda sou jovem.<CR>E eu ainda tenho... muito o que fazer!"
+        }
+    ]
+}

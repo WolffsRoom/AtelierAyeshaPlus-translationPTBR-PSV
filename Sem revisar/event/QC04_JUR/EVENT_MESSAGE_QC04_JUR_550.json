@@ -1,0 +1,96 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC04_JUR_550.ebm",
+    "nb_messages": 0xa,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x16b,
+            "msg_string": "Ah, que tal aqui? Tô sentindo um vento forte vindo de lá."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x3568,
+            "msg_string": "Mas tem uma pedra no caminho.<CR>Não consigo passar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0x16d,
+            "msg_string": "Se tá no caminho, então é só tirar. Dá um passo pra trás..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x356a,
+            "msg_string": "Hã?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16f,
+            "unknown2": 0x1,
+            "msg_string": "Hrmmmh...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x170,
+            "msg_string": "I-I-Incríveeeel...!<CR>Ele moveu aquela pedra gigante sozinho!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0x171,
+            "msg_string": "Meu irmão tem orgulho da força dele... Porém, ele compensa não parecendo ser tão amigável assim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x172,
+            "msg_string": "Foi mal por isso. Meu trabalho não exige que eu seja amigável."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0xb0,
+            "expr_id": 0x3,
+            "msg_id": 0x173,
+            "msg_string": "Caramba, você não vai conseguir fazer nenhum amigo se continuar falando coisas assim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x175,
+            "msg_string": "Eu passo.<CR>De qualquer forma, vamos indo."
+        }
+    ]
+}

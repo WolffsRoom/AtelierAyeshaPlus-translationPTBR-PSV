@@ -1,0 +1,372 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC04_JUR_150.ebm",
+    "nb_messages": 0x29,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Lalala, lalala... hmhm.<CR>Hehe, tá quase pronto...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Ah, sim? Pode entrar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Desculpa. Eu não sabia que você tava trabalhando. Quer que eu volte mais tarde?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Já tô quase terminando, pode me esperar um pouco?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Entendi. Claro, eu espero.<CR>Não precisa ter pressa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Desculpa te fazer esperar, mas tô numa parte crucial pra terminar isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x194,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Não se preocupa, eu tô acostumado a esperar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Já fiquei escondido no mato um dia inteiro pra caçar minha presa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Ah, já tive vezes de passar o dia todinho misturando pra fazer um remédio."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "A gente tem trabalhos totalmente diferentes, mas acho que os dois exigem paciência..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Obrigada por esperar. Hehehe, isso me deu mais trabalho do que eu pensava..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Você nem me fez esperar tanto assim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Então, Juris, por que você veio aqui hoje?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Ah, tenho uma coisa que quero te dar. Espero que você possa aceitar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1a5,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "*arfa* Isso é..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "É um amuleto que eu fiz. Eu esculpi do chifre do dragão."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Quero que você aceite isso como prova..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Prova...? Ah, você quer dizer tipo como prova de ter derrotado o dragão?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x196,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Não... Não sei bem explicar do que é prova..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "É só que, eu lutei pra proteger minha família, e acabei ganhando algo a mais dessa batalha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Alguma coisa dentro de mim com certeza<CR>mudou. Não tem uma forma.<CR>É tipo algo como fé..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Acho que meio que entendo o que você tá querendo dizer..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x11,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "A vitória não tem nenhum significado por si só. Eu já sei disso, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Ainda tô tentando encontrar um sentido nisso. Ainda tenho um longo caminho pela frente..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Eu coloquei todos esses sentimentos confusos na forma daquele amuleto..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15d,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Foi mal, não consigo explicar muito bem em palavras, mas por favor, aceita."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Hehehe, eu aceito com muita gratidão."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15f,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1b,
+            "msg_string": "..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "O que foi, Juris?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Eu esculpi esse amuleto com os meus sentimentos por você. Eu também preciso te dizer isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x38,
+            "expr_id": 0x2,
+            "msg_id": 0x1e,
+            "msg_string": "Hã? Sentimentos por m-m-mim!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x39,
+            "expr_id": 0x2,
+            "msg_id": 0x1f,
+            "msg_string": "I-Isso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x46,
+            "expr_id": 0x2,
+            "msg_id": 0x20,
+            "msg_string": "Eu posso confiar em você de todo o meu coração...<CR>De que você vai cobrir minha retaguarda...<CR>De que você é... minha companheira."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3a,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "C-Companheira?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x4a,
+            "expr_id": 0x2,
+            "msg_id": 0x22,
+            "msg_string": "Se, no futuro, você precisar lutar contra alguma coisa..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x4b,
+            "expr_id": 0x2,
+            "msg_id": 0x23,
+            "msg_string": "Quero que você me chame sem pensar duas vezes. Como um companheiro, eu vou correr mais rápido que qualquer um."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "Haha, eu realmente acho que nunca vou estar nesse tipo de situação..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x4d,
+            "expr_id": 0x2,
+            "msg_id": 0x25,
+            "msg_string": "Haha, cê provavelmente tá certa. Mas fora isso, se algum dia tiver problemas, pode contar comigo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x47,
+            "expr_id": 0x2,
+            "msg_id": 0x26,
+            "msg_string": "Esse amuleto é a prova da nossa amizade."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x27,
+            "msg_string": "Beleza! Vou guardar com muito carinho..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Você obteve o Amuleto de Chifre de Dragão."
+        }
+    ]
+}

@@ -1,0 +1,301 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC03_LIN_070.ebm",
+    "nb_messages": 0x21,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ah, então o que rolou com aquela<CR>tarefa de fazer amigos que você<CR>tinha falado?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "Bem... meu progresso parou quando faltavam 98."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "E-Entendi... Fazer amigos é difícil."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd1,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "Eu não sabia que, escondida por trás do tom fofo de \"fazer amigos\", eu descobriria um desafio tão difícil."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Bom, tenho certeza de que ter um monte de amigos seria divertido, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Mesmo que você não tenha muitos, acho que tá tudo bem desde que você tenha uma ligação forte com os que já tem."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd2,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Obrigada por me animar.<CR>Meu coração tá mais leve agora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Então, quem é essa outra pessoa que virou sua amiga?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "É a Marion."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Ué...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Como eu tava progredindo tão pouco, eu implorei pra ela e ganhei a aprovação dela."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0xb,
+            "msg_string": "Entendi. Hmhmhm, fico feliz por você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Apesar de a Marion ter feito meio que uma careta..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "msg_string": "(Acho que a Marion queria que a Linca fizesse amizade com outras pessoas...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0xe,
+            "msg_string": "Mas eu tô feliz que a Marion tenha virado minha amiga por algum motivo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Bom, acho que a relação de amizade de vocês começou bem antes disso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Antes...? Agora que você mencionou, talvez..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x165,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Eu não tinha reparado até agora, mas... nós já éramos amigas, eu e a Marion."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x167,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Nesse ritmo, talvez eu consiga fazer mais uma amizade antes do fim do ano."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Ah, tá procurando um amigo?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Bom, se é assim,<CR>você devia ter falado comigo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Ah, Sr. Harry. Tem problema você ficar longe do seu trabalho?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x18,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Meu dever é dar uma mãozinha para as pessoas em apuros desta cidade."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x22,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Linca, alegre-se. A partir de hoje, somos amigos!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x18,
+            "msg_string": "Estranho..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x25,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Não, não, tenho certeza que meu rosto é familiar pra você. Eu me orgulho bastante de ser um tanto quanto uma celebridade."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x1a,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Agora, não precisa se conter..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0x1b,
+            "msg_string": "A Marion me disse para não seguir estranhos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x78,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Se você chegar mais perto, eu te corto!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x141,
+            "expr_id": 0x4,
+            "msg_id": 0x1d,
+            "msg_string": "Ei, calma aí! Ayesha, você pode falar com ela também?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x142,
+            "expr_id": 0x4,
+            "msg_id": 0x1e,
+            "msg_string": "Eu não sou nenhum estranho! E eu seria um ótimo amigo pra ela!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Linca, vamos guardar essa ferramenta afiada por enquanto."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x20,
+            "msg_string": "(Hahaha... hmm, talvez esses dois sendo amigos... não seja... tão... bom...)"
+        }
+    ]
+}

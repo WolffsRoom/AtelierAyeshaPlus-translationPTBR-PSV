@@ -1,0 +1,178 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC08_HAR_410.ebm",
+    "nb_messages": 0x13,
+    "messages": [
+        {
+            "type": 0x0,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Então, a hora finalmente chegou...<CR>Bate um pouco de solidão,<CR>mas mais do que isso..."
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Eu tô feliz!"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Sim... Humm, do que estamos falando mesmo?"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Opa, não seja tão modesta.<CR>Nós chegamos ao momento decisivo."
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Eu declaro aqui, o nascimento do... do Concurso de Tesouros Empolgantes..."
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Segundo Grande Campeão!"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Ah. Humm... parabéns...?"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Você é quem vai receber esse título. Parabéns, Ayesha."
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Você conquistou o direito de ser a Grande Campeã."
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "O primeiro campeão, eu mesmo, vou passar esses louros para você!"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "P-Pra mim? *suspiro*<CR>Não precisa disso..."
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Que nada, você vai conseguir me substituir perfeitamente."
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Se tornar autora de livros de tesouros, dar palestras sobre antiguidades, organizar o Concurso de Tesouros Empolgantes..."
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Tem muito trabalho a se fazer, Ayesha!"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Não, não é possível. Eu jamais conseguiria tomar o seu lugar, Sr. Harry."
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Não é tomar o meu lugar. A partir de agora, vamos trilhar o mesmo caminho juntos."
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Hã?"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Claro que um dia vou pegar de volta o título de Grande Campeão. Hmhmhm..."
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "(On-Onde foi que eu me meti?<CR>Acho que me esforcei demais...)"
+        }
+    ]
+}

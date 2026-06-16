@@ -1,0 +1,499 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC08_HAR_030.ebm",
+    "nb_messages": 0x37,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Senhor Patrão, você vai fazer \"aquilo\" de novo...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xb0,
+            "expr_id": 0x3,
+            "msg_id": 0x1,
+            "msg_string": "Lógico! É pra isso que eu vivo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xb3,
+            "expr_id": 0x3,
+            "msg_id": 0x2,
+            "msg_string": "Não, é basicamente todo o meu ser.<CR>Eu não estaria exagerando se<CR>dissesse que isso define minha própria existência!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Bom, eu não ligo pra isso, mas a gente mal tem participantes até agora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Diferente do bazar, isso não dá lucro, e os executivos da associação não parecem curtir muito a ideia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Hum, talvez seja difícil demais pros figurões entenderem, com essa mentalidade velha deles."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Mas tenho certeza que chegará o dia em que meu espírito inovador vai se provar certo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "De qualquer jeito, você vai precisar<CR>de participantes. Se continuar assim,<CR>o plano inteiro vai por água abaixo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Hum, isso é um problema. Uma solução genial pra isso seria..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Oi, Senhor Harry e Marietta!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x141,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "Olha ela aí!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x125,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "Ai! O q-q-que foi?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x143,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Hmhmhm, não podia ter aparecido em hora melhor.<CR>Ah sim, nós temos ela!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x128,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Do que vocês tão falando?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x18,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Opa, antes disso... Ayesha, o que você achou do último bazar?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Foi muito divertido. Nunca estive num lugar tão animado antes."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "É mesmo? Uhum, fico feliz de saber que você gostou."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Bom, sem querer me achar muito por causa do meu sucesso, já tô trabalhando no meu próximo plano."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x22,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Quer participar, Ayesha?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Ué? Mas eu nunca tive uma loja, e..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x25,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Não, não, o próximo evento é extremamente científico. É o evento perfeito pra alguém como você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x15,
+            "msg_string": "Científico...? Tipo juntar todo mundo e fazer um concurso de síntese... algo assim!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x1a,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Ninguém além de você ia conseguir participar se fosse esse o caso..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x56,
+            "expr_id": 0x2,
+            "msg_id": 0x17,
+            "msg_string": "O próximo evento é o muito bem batizado Concurso do Tesouro Eletrizante!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x18,
+            "msg_string": "Eletrizante...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x58,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "E aí, o que acha? Só de ouvir o nome já dá um frio na barriga, não acha?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Sr. Dono, você não tinha chamado de Concurso do Baú do Tesouro?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x18,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "*cof* *cof* Não precisa se preocupar com esses detalhes, Marietta."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "E-E que tipo de concurso vai ser esse?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "A gente coleta tesouros ou itens raros de grande valor das ruínas, e..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Determina quem tem o item com o maior valor."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Eu acho que só a curiosidade intelectual desses itens já seria uma fortuna sem preço."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Vou realizar ele, mesmo que não traga nenhum lucro visível, porque no fundo é o meu hobby."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "Na verdade, não é nada além do<CR>hobby do Sr. Dono."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x22,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "Agora, Ayesha, fiquei sabendo que você lida com itens raros também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x24,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "Eu ia ficar muito feliz se você pudesse participar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "Beleza. Eu tô meio interessada,<CR>mas ao mesmo tempo meio que não tô..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x1a0,
+            "expr_id": 0x0,
+            "msg_id": 0x25,
+            "msg_string": "É simples de participar. É só apresentar um item que te faça pensar: \"É esse!\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x26,
+            "msg_string": "Os juízes vão avaliar bem cada item, e quem trouxer o item mais incrível vence!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x27,
+            "msg_string": "E, claro, o vencedor vai receber prêmios fabulosos, então não tem motivo pra não competir!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x56,
+            "expr_id": 0x2,
+            "msg_id": 0x28,
+            "msg_string": "E aí? Não dá vontade de se inscrever?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x29,
+            "msg_string": "S-Sei não... Até dá vontade,<CR>mas ao mesmo tempo não."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x2a,
+            "msg_string": "Ayesha, se não quiser, é só dizer que não quer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x58,
+            "expr_id": 0x0,
+            "msg_id": 0x2b,
+            "msg_string": "Por que você sempre tem que me sabotar!?<CR>A Ayesha já tava quase<CR>se decidindo sobre isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x2c,
+            "msg_string": "É mesmo...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x18,
+            "expr_id": 0x0,
+            "msg_id": 0x2d,
+            "msg_string": "No dia do concurso, vou pedir pra Marietta chamar os participantes."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0x2e,
+            "msg_string": "É só deixar tudo pronto pra você poder exibir a qualquer momento."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2f,
+            "msg_string": "(Concurso do Tesouro Eletrizante...?<CR>Acho que vou guardar isso na<CR>minha cabeça...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x30,
+            "msg_string": "(Pera aí... Ou era Concurso do Baú do Tesouro?)"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "A exibição vai acontecer duas vezes por ano, nos Meses 6-7 e 12-1 em Vierzeberg. Pra participar, vá até a loja da Marietta."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Você vai precisar de um item pra exibir se quiser participar. Sem um item pra exibir, não vai dar pra se inscrever."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Quando você estiver pronta pra participar, o concurso vai começar. As avaliações começam depois que você escolher seu item."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "O item que você escolher pra exibir não vai ser devolvido, então lembre disso quando for escolher um."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Você vai receber um prêmio e dinheiro dependendo da sua colocação."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Pra regras mais detalhadas, por favor dê uma olhada na seção de Ajuda na Biblioteca."
+        }
+    ]
+}

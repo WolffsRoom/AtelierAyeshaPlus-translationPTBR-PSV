@@ -1,0 +1,142 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC01_WIL_110.ebm",
+    "nb_messages": 0xf,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x0,
+            "msg_string": "Ué...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Aquela caixa de novo. Será que é da tataravó da Bell...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1aa,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Eu sabia, tem uma carta.<CR>Vamos ver..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x28,
+            "extra_id": 0x1ab,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "msg_string": "\"Não tenho como agradecer o bastante por sempre cuidar da Wilbell.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x28,
+            "extra_id": 0x1ab,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "msg_string": "\"Como um pequeno sinal da minha gratidão, desta vez, eu gostaria de conceder um de três desejos.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1ab,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Uhum, uhum. Ué!? Três desejos!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1ab,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "E-ela consegue fazer algo assim também...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x28,
+            "extra_id": 0x1ab,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "msg_string": "\"Dentre essas três opções, por favor imagine a que você mais deseja receber.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1ab,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Imaginar meu desejo... Meu desejo seria..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1ab,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Beleza, vou escolher este."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x28,
+            "extra_id": 0x1ab,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "msg_string": "\"Espero de verdade que você continue cuidando da Wilbell.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1ae,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Termina aqui.<CR>É uma carta tão misteriosa..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Você conseguiu Hard Taro, Green Seed, White Salat e Red Devil."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Você conseguiu Blue Spike Fruit, Ripe Cure Fruit, Honey Melon e Fully Ripe Fruit."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Você conseguiu 1.500 Cole."
+        }
+    ]
+}

@@ -1,0 +1,194 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM02_ST1_610.ebm",
+    "nb_messages": 0x16,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x3595,
+            "msg_string": "Então esse é um livro de alquimia. Será que eu vou conseguir entender...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x2e9,
+            "msg_string": "Acho melhor ler o prefácio primeiro. Hmm, vejamos..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x2ea,
+            "msg_string": "\"Dedico este livro àqueles que buscam a verdade por conta própria...\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x2eb,
+            "msg_string": "Aff, já parece super difícil... É a primeira página e já tá falando sobre \"a verdade\"..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x2ec,
+            "msg_string": "Será que é disso que aquele cara de óculos tava falando lá nas ruínas...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x2ed,
+            "msg_string": "Se a alquimia tá ligada à verdade, então estudar alquimia vai..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x2ee,
+            "msg_string": "Me ajudar a salvar a Nio... Beleza, eu preciso me esforçar de verdade pra isso!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x2ef,
+            "msg_string": "Me espera, Nio. Sua irmã mais velha vai dar o melhor dela pra entender esse livro...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0x5,
+            "msg_id": 0x2f0,
+            "msg_string": "Ah... aquela pessoa procurada de quem a Marion tava falando..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15f,
+            "expr_id": 0x5,
+            "msg_id": 0x2f1,
+            "msg_string": "A descrição parece bater certinho com o cara de óculos lá das ruínas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x2f2,
+            "msg_string": "Vai ver é aquele cara...<CR>Não, não, não pode ser..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2f3,
+            "msg_string": "..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x2f4,
+            "msg_string": "B-Bom, de qualquer jeito, eu preciso focar em entender esse livro agora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x2f5,
+            "msg_string": "\"A alquimia é a única prática de processar materiais para criar algo completamente diferente.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x2f6,
+            "msg_string": "\"E um alquimista é alguém que entende toda a criação e é bem versado em várias substâncias.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x2f7,
+            "msg_string": "\"No entanto, para usar essa habilidade adequadamente, a pessoa também precisará ter um talento natural.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x2f8,
+            "msg_string": "Hmm, acho que não é qualquer um que consegue fazer isso. Será que eu vou conseguir...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2f9,
+            "msg_string": "Isso não parece muito diferente de fazer remédios.  Acho que tô conseguindo entender esse livro."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2fa,
+            "msg_string": "Se eu conseguir entender a alquimia, pode me ajudar a sintetizar meus remédios."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2fb,
+            "msg_string": "E quem sabe isso me dê algumas pistas pra descobrir onde a Nio foi parar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x2fc,
+            "msg_string": "Beleza, agora vamos tentar fazer esse tal de Craft!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x2fd,
+            "msg_string": "O primeiro ingrediente é... hmm, Fruta Espinhosa...?"
+        }
+    ]
+}

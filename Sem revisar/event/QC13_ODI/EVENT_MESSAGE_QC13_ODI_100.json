@@ -1,0 +1,318 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC13_ODI_100.ebm",
+    "nb_messages": 0x23,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "O que será que aconteceu com a Srta. Odelia desde a última vez... Será que ela tá consertada...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x19f,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Bem-vinda a Zweiteturm.<CR>Gostaria de fazer um tour?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x2,
+            "msg_string": "Srta. Odelia! Que bom que você tá consertada!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x197,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Sim. Peço desculpas por todo o problema que causei. Já voltei totalmente ao normal."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Ayesha, é graças a você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Eu não fiz nada. Foi o Sr. Keith quem te consertou."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Bom, foi uma tarefa fácil pra alguém como eu. Achei que pudesse ser complicado restaurar a memória dela, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Mesmo quando a temperatura dela tava alta, ela conseguiu manter o circuito."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Graças a isso, o resto foi fácil. Foi sorte ela não ter perdido a memória."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Que bom. O que teria acontecido se ela perdesse a memória...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xe1,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "Ela teria esquecido de tudo, claro. Até de mim e de você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xe6,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "E se uma autômata perde a memória, nunca mais volta."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Entendi... Sr. Keith, muito obrigada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xe8,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "Tá me agradecendo por quê?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Porque você protegeu as memórias importantes da Srta. Odelia..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0x5,
+            "msg_id": 0xf,
+            "msg_string": "De qualquer forma, é incrível que você conseguiu consertar a Srta. Odelia..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x161,
+            "expr_id": 0x5,
+            "msg_id": 0x10,
+            "msg_string": "Eu não fazia a menor ideia do que fazer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xe3,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Aquilo também foi uma aplicação da alquimia. Com o tempo você também vai conseguir fazer isso sozinha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "S-será que é verdade...?<CR>É tipo ser uma médica..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Porém, ela foi feita durante o auge da prosperidade alquímica, então ela tem uma estrutura bem sofisticada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x17,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Foi uma ótima oportunidade,<CR>então fiz questão de dar uma<CR>investigada bem a fundo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x116,
+            "expr_id": 0x4,
+            "msg_id": 0x15,
+            "msg_string": "...Você viu tudo de mim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x38,
+            "expr_id": 0x2,
+            "msg_id": 0x16,
+            "msg_string": "Viu, tudo...?<CR>O-o-o que isso quer dizer...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Acho que é necessário definir claramente de quem é a responsabilidade."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Que responsabilidade...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Bom. Que tal se tornar meu novo mestre?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x196,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Eu recuso. Não tenho vontade de ficar preso a nada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x117,
+            "expr_id": 0x4,
+            "msg_id": 0x1b,
+            "msg_string": "Eu não acho que seja uma condição ruim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x119,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Todas as minhas habilidades e funções vão ser suas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x17,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Tô de boa. Já tô satisfeito só de poder ler os livros daqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3a,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Sr. Keith, você não deveria<CR>assumir a responsabilidade,<CR>como a Srta. Odelia falou...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Tá vendo? Até a Ayesha tá falando isso, então você devia virar meu novo mestre..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x15,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Tô nem aí! Não tenho paciência pra isso!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0xad,
+            "expr_id": 0x3,
+            "msg_id": 0x21,
+            "msg_string": "Ah, por favor, espere, Mestre!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x22,
+            "msg_string": "(O Sr. Keith fugiu... Acho que isso é maravilhoso...)"
+        }
+    ]
+}

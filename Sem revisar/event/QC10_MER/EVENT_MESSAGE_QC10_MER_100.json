@@ -1,0 +1,194 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC10_MER_100.ebm",
+    "nb_messages": 0x15,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x214,
+            "name_id": 0x2b,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "msg_string": "Brilhinhos entregues. Muitos entregues."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x214,
+            "name_id": 0x2b,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "msg_string": "Brilhinhos brilham bonitos,<CR>comer docinho, valeu."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x214,
+            "name_id": 0x2b,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "msg_string": "Muito gostoso. Obrigado."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Não, não, foi um prazer.<CR>Por favor, volte quando quiser."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1a0,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Ah, oi, Ayesha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Ah, Marietta. Você tá de férias? Veio bem de longe."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1a7,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Nada. Uma mercadora deve sempre escutar a opinião dos clientes pessoalmente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Então eu pensei em fazer isso enquanto estava aqui fazendo uma entrega."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x27,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Não é nada mal sair de Vierzeberg de vez em quando. Bom, ainda bem que eu vim!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Aham. Essa cidade é maravilhosa. E outra... os Homunculi são tão fofinhos!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1a8,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Uhum. Eu quero voltar aqui de novo,<CR>mas não a trabalho!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x214,
+            "name_id": 0x2b,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xb,
+            "msg_string": "Volta logo. Ayesha é amiga."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x214,
+            "name_id": 0x2b,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xc,
+            "msg_string": "Marietta é amiga também.<CR>A gente gosta muito de você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x2f,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Kyaaah! Vocês são muito fofos! Eu também amo vocês!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Esse lugar é tão maravilhoso, mas o chefe ainda diz que não quer vir."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0xf,
+            "msg_string": "Haha, o Sr. Harry é uma pessoa muito ocupada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15d,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Não é isso não. Ele levou uma mordida na bunda de um cachorro quando era mais novo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x161,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "E desde então, ele morre de medo de cachorros, ou qualquer bicho que pareça com um."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x35,
+            "expr_id": 0x2,
+            "msg_id": 0x12,
+            "msg_string": "Hahaha, é por causa disso? Mas você acha mesmo que eles são tão parecidos assim?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Acho que não. Cachorros não andam em duas pernas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xf5,
+            "expr_id": 0x4,
+            "msg_id": 0x14,
+            "msg_string": "De qualquer jeito, ele é muito medroso."
+        }
+    ]
+}

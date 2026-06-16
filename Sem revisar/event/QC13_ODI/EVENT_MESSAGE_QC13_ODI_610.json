@@ -1,0 +1,309 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC13_ODI_610.ebm",
+    "nb_messages": 0x22,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x117,
+            "expr_id": 0x4,
+            "msg_id": 0x0,
+            "msg_string": "Ayesha, eu sei que é do nada,<CR>mas eu tô muito entediada."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x119,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Ayesha, você devia vir visitar esse lugar com mais frequência."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0x5,
+            "msg_id": 0x2,
+            "msg_string": "Então você tá entediada? Agora que eu parei pra pensar, o que você faz normalmente, Senhorita Odelia?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Eu não faço nada. Se quer saber,<CR>eu fico em modo de espera."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Ah, em espera?<CR>Isso parece difícil... eu acho?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Sim. Durante o que parece ser uma passagem infinita de tempo, eu continuo a esperar pela minha próxima ordem..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "É muito difícil e chato.<CR>Mas, essas são minhas ordens."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "O empréstimo de livros e o trabalho em conjunto com isso eram originalmente 50% das minhas funções."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Guardar e manter essas instalações eram 40%, e 10% eram para a minha própria manutenção..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x117,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "Mas ninguém visita essas instalações faz um tempão, e tirando os 10% pra minha própria manutenção..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x118,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "Os 90% restantes são gastos em modo de espera."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x119,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "A explicação mais direta<CR>é que eu simplesmente não faço nada de<CR>manhã até a noite."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Entendi. Não fazer nada...<CR>Deve ser difícil..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "XXX"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "E-Então, quem sabe você devesse ler um livro... Já que você tá numa biblioteca..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x198,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Meu cérebro é diretamente conectado à biblioteca. Não tem necessidade de eu ler os livros."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "E-Então, tira um cochilo ou faz uma boquinha..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Ayesha, eu não preciso de comida."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Eu não preciso dormir, também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "Ué!? Mas isso não é bom! Senhorita Odelia,<CR>comer e dormir é o básico<CR>pra ter uma vida saudável."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Já sei! Eu vou trazer algo gostoso na próxima vez! Tem alguma coisa que você gosta de comer?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x14e,
+            "expr_id": 0x4,
+            "msg_id": 0x15,
+            "msg_string": "Eu te disse que não preciso de comida. Ayesha, parece que você não ouve o que as outras pessoas dizem."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x150,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Porém, por falar em comida... sinto que tenho uma memória bem antiga..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x17,
+            "unknown2": 0x1,
+            "msg_string": "Mestre, o que é isso?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x3a,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x18,
+            "unknown2": 0x1,
+            "msg_string": "Isso? Isso é algo que preparei pra você."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x3a,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x19,
+            "unknown2": 0x1,
+            "msg_string": "Faz exatamente um ano que você nasceu, então é um presente pra você."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x3a,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1a,
+            "unknown2": 0x1,
+            "msg_string": "Viu só? Tem um cheiro doce, não tem?<CR>Agora, vai em frente e abre."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xffffffff,
+            "name_id": 0x3a,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1b,
+            "unknown2": 0x1,
+            "msg_string": "Hoje pode ser o último dia que eu vou conseguir passar com você..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1c,
+            "unknown2": 0x1,
+            "msg_string": "Mestre, obrigada. Hehehe, o que será que é..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Bom... talvez eu gostaria de comer algo doce."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Eu não consigo me lembrar de uma memória<CR>tão velha, mas sinto que<CR>foi bem fascinante..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Eu já ouvi que um amor doce é algo que existe. Gostaria de provar isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x20,
+            "msg_string": "E-Eu não sei sobre a parte do amor,<CR>mas eu posso te trazer uns doces."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "Enfim, vamos tentar comer juntas! Eu vou fazer algo doce e trago na próxima vez!"
+        }
+    ]
+}

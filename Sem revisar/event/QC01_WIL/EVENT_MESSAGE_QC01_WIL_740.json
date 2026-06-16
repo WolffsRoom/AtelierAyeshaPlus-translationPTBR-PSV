@@ -1,0 +1,63 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC01_WIL_740.ebm",
+    "nb_messages": 0x6,
+    "messages": [
+        {
+            "type": 0x4,
+            "voice_id": 0x3d,
+            "name_id": 0x33,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "unknown2": 0x1,
+            "msg_string": "...Que tédio. Isso é tudo que vocês têm?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Hã?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x3d,
+            "name_id": 0x33,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "unknown2": 0x1,
+            "msg_string": "Humanas, perdi o interesse em brincar com vocês."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x7e,
+            "expr_id": 0x3,
+            "msg_id": 0x3,
+            "msg_string": "E-Ei, espera!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "...Ela fugiu."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x82,
+            "expr_id": 0x3,
+            "msg_id": 0x5,
+            "msg_string": "Hrgggh...!<CR>Na próxima não vai ser assim...!"
+        }
+    ]
+}

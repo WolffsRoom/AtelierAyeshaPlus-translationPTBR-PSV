@@ -1,0 +1,319 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC13_ODI_060.ebm",
+    "nb_messages": 0x23,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x199,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ah, oi, Srta. Odelia. Eu vim fazer uma visita."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Vamos pular as saudações. Qual é o seu propósito em vir aqui hoje?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Ah, dar uma pesquisada na biblioteca, e conversar com a Srta. Odelia..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x14e,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "Mais alguma coisa?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0x5,
+            "msg_id": 0x4,
+            "msg_string": "Eh? Hum, se o Sr. Keith estiver por aqui, eu também gostaria de falar com ele..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x150,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Você deveria ter um motivo muito mais importante para ter vindo aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Importante...? Ah, é verdade!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0xac,
+            "expr_id": 0x3,
+            "msg_id": 0x7,
+            "msg_string": "Sim, é isso mesmo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Eu vim perguntar se posso continuar com o livro que eu peguei emprestado!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x117,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "...Por conta de uma imensa decepção e desespero, achei que eu ia dar pane."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x118,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "Ayesha, eu estava com a total expectativa de que você teria trazido doces com você..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Ah, é mesmo! Pensando bem, esse era o motivo mais importante da minha visita!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x119,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Sério!? ...Como eu já te disse antes, não há nenhuma necessidade de eu comer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0xad,
+            "expr_id": 0x3,
+            "msg_id": 0xd,
+            "msg_string": "Então, ficar aguardando a chegada da Ayesha com a vontade de saborear seus doces, ou..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0xae,
+            "expr_id": 0x3,
+            "msg_id": 0xe,
+            "msg_string": "Ir até a entrada, pensando que já devia estar na hora da Ayesha aparecer..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0xaf,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Posso declarar com toda a certeza que essas ações nunca aconteceram."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Hmhmhm, entendi. Então vou preparar alguns pra você agora mesmo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Ah, já sei! Srta. Odelia, você acha que consegue preparar um pouco de chá?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x14e,
+            "expr_id": 0x4,
+            "msg_id": 0x12,
+            "msg_string": "Chá? A sua associação com doces não é reconhecida."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Não é verdade. Chá e doces combinam super bem."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "É como se eles melhorassem um ao outro.<CR>O chá deixa os doces ainda melhores!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x150,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "I-Isso é verdade? Então devo tomar as devidas providências imediatamente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Eu vou preparar o chá. Ayesha, por favor, comece a revelação dos doces!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Obrigada pelo chá.<CR>Tava tããão bom!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x73,
+            "expr_id": 0x2,
+            "msg_id": 0x18,
+            "msg_string": "A associação entre chá e doces... é muito misteriosa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x74,
+            "expr_id": 0x2,
+            "msg_id": 0x19,
+            "msg_string": "A relação de causalidade entre os dois não é reconhecida. Porém, o que a Ayesha disse era verdade."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x74,
+            "expr_id": 0x2,
+            "msg_id": 0x1a,
+            "msg_string": "Quando os objetos α e β se misturam para criar a situação γ, que é completamente diferente... É muito misterioso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x75,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Os doces trouxeram uma cor brilhante pra mim quando meus dias eram cinzas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Entendi. Srta. Odelia, você tá aqui há centenas de anos..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Beleza, decidi! Vou continuar te trazendo doces de agora em diante também!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Tem mais alguma coisa que você quer comer?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Bom... eu adoraria provar de tudo,<CR>contanto que seja um doce..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Porém, eu também gostaria de experienciar o objeto conhecido como creme."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "Doces com creme, então. Entendido!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x22,
+            "msg_string": "(Beleza, tô ficando toda empolgada!)"
+        }
+    ]
+}

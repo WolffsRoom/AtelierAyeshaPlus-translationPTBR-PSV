@@ -1,0 +1,78 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC04_JUR_410.ebm",
+    "nb_messages": 0x8,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ah, Juris, você abriu uma loja também?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "O bazar é o jeito mais rápido de conseguir grana com as coisas que eu caço."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xda,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "Mas, minhas vendas não tão indo muito bem. Se você puder parar e dar uma olhadinha, eu ficaria grato."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Hã? Suas vendas não tão indo bem?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xdb,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "Parece que eu não levo jeito pra vendedor. Os clientes não tão parando pra olhar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xdb,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "Tentei usar um sorriso pra atrair o pessoal, mas por algum motivo, uma criança só começou a chorar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xe0,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "Se uma pessoa parar pra dar uma olhada assim, as outras podem começar a se juntar por perto."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Se for o caso, então eu vou dar uma olhadinha. Vejamos..."
+        }
+    ]
+}

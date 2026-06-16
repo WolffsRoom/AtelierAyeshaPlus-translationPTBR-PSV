@@ -1,0 +1,300 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC03_LIN_760.ebm",
+    "nb_messages": 0x21,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Meu Deus. Até essa papelada<CR>chata é bem-vinda depois do que<CR>a gente acabou de passar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "O quão estranho é ficar feliz fazendo papelada?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x2,
+            "msg_string": "A outra Linca... disse que vai voltar de novo, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x3,
+            "msg_string": "Você acha que ela vai voltar mesmo?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Pra Linca, eu sou como outra versão dela mesma."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Tenho certeza... que ela vai voltar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Mas considerando que ela é alguém tão calculista, depois de sofrer um resultado inesperado desses..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Pode levar um tempo até ela recalcular tudo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Então não precisamos nos preocupar por enquanto? Que alívio..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Ah, essa pode ser uma pergunta boba,<CR>mas... você e ela são gêmeas, Linca?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "...Tem pelo menos oito de nós, contando comigo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "O quê!? Tudo isso!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Provavelmente tem mais a essa altura.<CR>É um baita saco lidar com isso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Bom, se a Linca voltar, me protege de novo, beleza Linca?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x11,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xe,
+            "msg_string": "..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Ei, cadê a sua resposta?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0x10,
+            "msg_string": "Marion, você não se arrepende de ter me salvado naquela época?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x125,
+            "expr_id": 0x3,
+            "msg_id": 0x11,
+            "msg_string": "O q-que você tá dizendo assim de repente!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd1,
+            "expr_id": 0x4,
+            "msg_id": 0x12,
+            "msg_string": "Não tenho causado nada além de problemas pra você desde então."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd3,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "Simplesmente me manter perto de você é como carregar uma bomba."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd5,
+            "expr_id": 0x4,
+            "msg_id": 0x14,
+            "msg_string": "Minha própria existência vai te trazer problemas no futuro."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd7,
+            "expr_id": 0x4,
+            "msg_id": 0x15,
+            "msg_string": "Então, talvez eu devesse apenas desaparecer da..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x128,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Eu vou ficar brava com você se falar mais alguma coisa!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd1,
+            "expr_id": 0x4,
+            "msg_id": 0x17,
+            "msg_string": "Mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Salvar você e manter você ao meu lado foram decisões minhas. Não tem nada com o que você precise se preocupar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Tenho certeza de que a Ayesha se sente do mesmo jeito. Né?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Sim. Eu não quero nem um pouco que a Linca vá embora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Além disso, eu acho maravilhoso que vocês duas fiquem juntas!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xd1,
+            "expr_id": 0x4,
+            "msg_id": 0x1c,
+            "msg_string": "Mas, enquanto eu estiver aqui, eu posso trazer ainda mais perigo pras duas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15e,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Então, você só vai ter que proteger a gente de novo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15f,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Linca, você é forte. E se eu tô dizendo, deve ser verdade."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1f,
+            "msg_string": "(A Linca e a outra Linca...<CR>É um pouco confuso, mas...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x20,
+            "msg_string": "(Aham. Ficar com a Marion é o que mais combina com a Linca!)"
+        }
+    ]
+}

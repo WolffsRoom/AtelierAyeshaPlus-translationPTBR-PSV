@@ -1,0 +1,419 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC07_MAR_610.ebm",
+    "nb_messages": 0x2e,
+    "messages": [
+        {
+            "type": 0x4,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "unknown2": 0x1,
+            "msg_string": "Agora tão mandando a gente expandir nossa<CR>investigação!? Sem chance de<CR>a gente conseguir fazer isso!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "Ué!? Essa voz era da Marion?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Ela já já se acalma. Fica tranquila, isso é super comum de acontecer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x99,
+            "expr_id": 0x3,
+            "msg_id": 0x3,
+            "msg_string": "Caramba... sempre mandando mais trabalho sem saberem nada da nossa situação aqui..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x9d,
+            "expr_id": 0x3,
+            "msg_id": 0x4,
+            "msg_string": "Se eles querem que a gente cumpra o prazo, é bom mandarem dinheiro ou pessoal!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x5,
+            "msg_string": "Prazo...? Do que ela tá falando?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x196,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Eu não sei. Parece que um faz-tudo tem que lidar com muitos problemas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x9b,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Não fala isso tão séria, Linca. Você vai me deixar triste..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xe9,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "Desculpa. Mostrei mais um momento vergonhoso pra você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xed,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Fiquei recebendo ordens absurdas, uma atrás da outra, e eu simplesmente não consegui me segurar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Você parece bem ocupada. Se quiser, eu posso voltar mais tarde..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0xb,
+            "msg_string": "Ah, não precisa disso. Acontece que eu também preciso falar com você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0xc,
+            "msg_string": "Ué? Marion... por que você tá sorrindo desse jeito?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0xd,
+            "msg_string": "Recebi instruções de investigação adicionais do meu país, mas já tô atolada de trabalho..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x44,
+            "expr_id": 0x2,
+            "msg_id": 0xe,
+            "msg_string": "Então, eu tava pensando em te pedir pra cuidar dessa investigação em particular pra mim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Uma investigação em particular?<CR>Hmm, o que eu devo fazer...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x10,
+            "msg_string": "(Também tenho as coisas da Nio, então será que vou ter tempo pra pegar um trabalho assim...?)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x1e2,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Hehe, provavelmente vai te ajudar também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Quero pedir uma investigação na Vila de Hallos. Todos os moradores desapareceram da noite pro dia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Só de olhar pras circunstâncias, não parece similar ao sumiço da sua irmã?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Isso é interessante. Por favor, me deixa fazer esse trabalho."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Obrigada. Nesse caso, vou te passar os detalhes do pedido."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Quero que você examine a vila a fundo e procure algo que possa ter causado os sumiços."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "A causa... O que será que poderia fazer todos os moradores desaparecerem...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Existem várias possibilidades, tipo serem atacados por feras ou ladrões, ou até gás venenoso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Claro, também pode ser obra de um assassino sedento por sangue."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x125,
+            "expr_id": 0x4,
+            "msg_id": 0x1a,
+            "msg_string": "S-Sedento por sangue... O queeee!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "É só uma possibilidade. Mas se for esse o caso... você pode acabar vendo os fantasmas vingativos dos moradores."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x127,
+            "expr_id": 0x4,
+            "msg_id": 0x1c,
+            "msg_string": "H-Hmm, acho que eu vou recusar, na verdade..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Ah, desculpa. Não achei que você fosse ficar com tanto medo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Não se preocupe. Não acho que seja um assassino, porque..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Os moradores desapareceram sem deixar rastros. É muito estranho..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x128,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "E-Então... talvez eu fique...<CR>Hmm, será que eu vou ficar bem?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "De qualquer forma, se conseguirmos encontrar alguma evidência física que aponte pra causa, já seria mais do que esperamos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "Evidência física...?<CR>O que seria isso?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "Amostras de água ou terra, se há ou não sinais de luta, ou armas no chão."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "Se você encontrar qualquer coisa fora do normal, traga de volta."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x25,
+            "msg_string": "Água, terra e qualquer coisa fora do normal... Pode deixar!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x26,
+            "msg_string": "E... como a gente não sabe o que pode acontecer, vou te emprestar ela."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x27,
+            "msg_string": "Linca, eu te ordeno a ser a guarda-costas da Ayesha. Conto com você."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x28,
+            "msg_string": "Como ordenar!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x29,
+            "msg_string": "A Linca vai...? Uau, isso é muito tranquilizador!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2a,
+            "msg_string": "Ayesha, tenho certeza que você vai ficar bem, mas nunca baixe a guarda."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2b,
+            "msg_string": "Se achar que tá perigoso, não vá muito longe."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x2c,
+            "msg_string": "Beleza. Vou dar o meu melhor!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "A Linca agora pode se juntar ao seu grupo."
+        }
+    ]
+}

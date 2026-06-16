@@ -1,0 +1,318 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC02_REG_810.ebm",
+    "nb_messages": 0x23,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0x0,
+            "msg_string": "*suspiro*"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Ué, o que foi? É bem raro te ver suspirar assim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd2,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "É que eu tava aqui pensando...<CR>Ah, me diz uma coisa, posso te fazer uma pergunta?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Até quando você planeja ser boticária?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0x5,
+            "msg_id": 0x4,
+            "msg_string": "Você diz, fazer remédios? Hmmm, nunca parei pra pensar nisso antes..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Mas acho que vou continuar fazendo isso mesmo depois de virar vovó."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Entendi. Talvez eu devesse ter escolhido um trabalho assim também..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Mas que papo é esse do nada? Você tá meio estranha hoje, Regina."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Hmmm... Eu recebi uma carta dos meus pais. Eles me falaram pra voltar logo pra casa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "E isso significa que eu vou ter que largar meu emprego."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Hã...? Você vai deixar de ser prospectora...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd4,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "É que, bom, meus pais com certeza estão preocupados. Uma garota vivendo de cavar buracos e tals..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd5,
+            "expr_id": 0x4,
+            "msg_id": 0xc,
+            "msg_string": "Aí começam a jogar umas coisas egoístas na minha cara, tipo pra eu sossegar logo, ou o quanto eles querem ter netinhos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd6,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Se eu tivesse um namorado, eu levaria ele pra conhecer os dois mesmo sem eles pedirem."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "E-Então Regina, você vai voltar pra casa...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Hmmm... Essa que é a parte difícil.<CR>Pior que meus pais têm razão."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "E eu não tô ficando mais nova, sabe. Esse não é um trabalho que uma garota consegue fazer pra sempre."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "*suspiro* Talvez eu devesse ter arrumado um trabalho que desse pra continuar até ficar velhinha, igual ao seu, Ayesha..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc5,
+            "expr_id": 0x4,
+            "msg_id": 0x12,
+            "msg_string": "Regina..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Quando eu comecei como prospectora,<CR>senti que tinha tomado uma<CR>decisão super importante na vida, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Pensando bem agora, nem foi uma escolha tão difícil de se fazer. Além disso, meus pais apoiaram a minha decisão."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x165,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Mas quando chega a hora de largar tudo,<CR>eu simplesmente não consigo me decidir."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x166,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Tipo, o que eu faria depois de pedir as contas, e será que tudo que fiz até agora vai ser perda de tempo...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x166,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Começo a pensar a fundo nisso, o que não é muito a minha cara."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x166,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "E não só com empregos, mas talvez seja mais difícil parar qualquer coisa do que começar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc5,
+            "expr_id": 0x4,
+            "msg_id": 0x19,
+            "msg_string": "Dá pra entender por que seus pais estão preocupados, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc6,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Só espero que tudo dê certo de um jeito que você não fique com nenhum arrependimento..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "No fim, a vida é sua, Regina."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x167,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "A vida é minha...<CR>É, você tá certíssima."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Quer eu continue no trabalho ou saia,<CR>eu queria sair dessa<CR>sem me arrepender."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Ah, foi mal. Fiquei meio pra baixo por um segundo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Mas eu ainda não decidi se vou pedir as contas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Se eu tomar minha decisão,<CR>eu te aviso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x21,
+            "msg_string": "(Se a Regina voltar pra casa,<CR>vai ficar meio solitário...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x22,
+            "msg_string": "(Mas é a vida da Regina. Se isso<CR>acontecer... tenho que me despedir dela<CR>com um sorriso...)"
+        }
+    ]
+}

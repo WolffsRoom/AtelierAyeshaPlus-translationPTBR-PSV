@@ -1,0 +1,308 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM03_ST2_070.ebm",
+    "nb_messages": 0x21,
+    "messages": [
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "unknown2": 0x1,
+            "msg_string": "Vou ler o livro que o Sr. Keith me recomendou."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "unknown2": 0x1,
+            "msg_string": "\"Devido a pesquisas recentes, muitas plantas e animais que eram considerados meras lendas foram redescobertos.\""
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "unknown2": 0x1,
+            "msg_string": "\"Este livro vai te introduzir ao estudo de flores que contêm propriedades desconhecidas.\""
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "unknown2": 0x1,
+            "msg_string": "Flores lendárias...? Talvez tenha as flores das ruínas..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "unknown2": 0x1,
+            "msg_string": "Beleza então, vou ler esse livro todinho do começo ao fim."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "unknown2": 0x1,
+            "msg_string": "Vamos ver, isso é..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "unknown2": 0x1,
+            "msg_string": "Uhum, uhum, entendi..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "unknown2": 0x1,
+            "msg_string": "Ufa... Ainda tenho um longo caminho pela frente."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "unknown2": 0x1,
+            "msg_string": "Ah, essa é a flor de vidro que desabrochou na Fábrica de Vidro! Vamos ver..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "unknown2": 0x1,
+            "msg_string": "\"...uma planta que absorve silício do solo e desabrocha uma flor parecida com vidro...\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "unknown2": 0x1,
+            "msg_string": "\"Talvez seja possível utilizar e aplicar essa propriedade para criar um material de construção vivo...\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "unknown2": 0x1,
+            "msg_string": "\"Um experimento pra construir um prédio de três andares a partir da substância biogênica dessa flor foi um sucesso.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "unknown2": 0x1,
+            "msg_string": "\"Ainda há mais tarefas a serem feitas, mas a síntese de um material de construção vivo foi bem-sucedida.\""
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "unknown2": 0x1,
+            "msg_string": "Uau... A alquimia é incrível..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "unknown2": 0x1,
+            "msg_string": "Eu consigo fazer um pouco de síntese, mas nada como esse pessoal..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "unknown2": 0x1,
+            "msg_string": "Parece que eu sou um pouco diferente de uma alquimista, no fim das contas..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "unknown2": 0x1,
+            "msg_string": "Água de nascente de Riesengang... Ei, esse livro tá falando da área perto da minha oficina!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "unknown2": 0x1,
+            "msg_string": "Talvez tenha alguma coisa sobre as flores na ruína... Vamos ver..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0x12,
+            "msg_string": "*bocejo* Fiquei acordada a noite toda...<CR>Não consigo manter meus olhos abertos..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc6,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Eu devia dar uma pausa e fazer um chá."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Esse livro não tinha nenhuma pista pra me levar até a Nio."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Sr. Keith, o que eu devo fazer agora...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Mesmo se eu perguntasse pra ele, ele provavelmente não me diria."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x17,
+            "msg_string": "..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Pode ser uma boa começar investigando as flores misteriosas que crescem por aqui..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x19,
+            "msg_string": "O livro tem uma flor que espera pela chuva, uma que desabrocha a cada 100 anos, e uma que não desabrocha no sol."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x1a,
+            "msg_string": "Dessas três... a flor que espera pela chuva deve estar perto da minha oficina..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x1b,
+            "msg_string": "Até diz que é perto de Riesengang."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15d,
+            "expr_id": 0x5,
+            "msg_id": 0x1c,
+            "msg_string": "Onde será que as outras duas estão..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15f,
+            "expr_id": 0x5,
+            "msg_id": 0x1d,
+            "msg_string": "A flor que desabrocha a cada 100 anos fica no fim de uma campina sem fim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15f,
+            "expr_id": 0x5,
+            "msg_id": 0x1e,
+            "msg_string": "E a flor que não desabrocha no sol fica na costa de um grande mar. Hmm... elas não parecem ser muito locais..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Acho que vou ter que ir pra lugares diferentes e ir juntando mais informações aos poucos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x20,
+            "msg_string": "É! Não adianta ficar só quebrando a cabeça. Eu consigo! Isso!"
+        }
+    ]
+}

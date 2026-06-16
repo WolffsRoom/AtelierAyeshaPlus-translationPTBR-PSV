@@ -1,0 +1,209 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC13_ODI_110.ebm",
+    "nb_messages": 0x17,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ah, é a Srta. Odelia! E ela tá na loja da Marietta..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "O que será que ela veio comprar...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Eu vim aqui porque fiquei sabendo que lançaram um livro novo à venda."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15e,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Ué, livro novo...? A gente tem algo do tipo?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Ouvi dizer que é um livro bem raro sobre alquimia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x161,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Você não tá falando de... \"Tesouros do Mundo\" do Harry Olson... tá?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x197,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "É esse mesmo. Eu gostaria de levar um, por favor."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Vai se tornar um livro muito raro<CR>que foi escrito nos dias de hoje,<CR>depois do declínio da alquimia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xf5,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "Hum, não vou te impedir se você realmente quiser, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xf7,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Acho melhor você não comprar.<CR>Só vai jogar dinheiro fora."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x198,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Não tem a ver com dinheiro.<CR>Ele tem informações valiosas,<CR>então não dá pra botar preço."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x27,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Acha é...? Bom, eu não posso garantir o conteúdo desse livro."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Colecionar vários livros foi a ordem que o Mestre me deu."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x2e,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Não tenho muita certeza disso, mas você tá decidida, né? Não vai se arrepender?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x2f,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "É um livro, então não dá pra você vir<CR>aqui e devolver depois, beleza?<CR>Eu tentei te avisar antes, tá?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x197,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Eu tenho total noção disso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6e,
+            "expr_id": 0x2,
+            "msg_id": 0x10,
+            "msg_string": "Tá bom. Se você diz, eu te vendo. Obrigada pela preferência."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Ah, Ayesha, você tá aqui pra comprar também?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Hehehe, só vim dar uma passada. Sou praticamente freguesa dessa loja."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x73,
+            "expr_id": 0x2,
+            "msg_id": 0x13,
+            "msg_string": "Entendo. É uma loja legal. É muito raro venderem um livro sobre alquimia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x74,
+            "expr_id": 0x2,
+            "msg_id": 0x14,
+            "msg_string": "Conseguir comprar um livro tão raro assim, acho que essa geração não é tão ruim no fim das contas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x75,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Vamos lá comprar um pão doce pra comemorar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "msg_string": "(Será que o Sr. Harry ficaria feliz de descobrir que o livro dele foi parar no acervo de uma biblioteca antiga...)"
+        }
+    ]
+}

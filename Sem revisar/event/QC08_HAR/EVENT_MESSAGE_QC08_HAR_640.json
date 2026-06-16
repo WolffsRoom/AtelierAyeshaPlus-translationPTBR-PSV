@@ -1,0 +1,177 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC08_HAR_640.ebm",
+    "nb_messages": 0x13,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x173,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Entendi, um assado feito de feijão moído. Então..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Os ingredientes eram diferentes do normal, mas como receita, parece bem comum."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x177,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Sim. Talvez a gente consiga dar um jeito no lanche memorável do Sr. Harry."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x178,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Além disso, até eu lembro do ano daquela crise nas colheitas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x17a,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Acho que eu tinha 12 anos na época. Naquele ano, ninguém teve colheita nenhuma."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x174,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Essa terra já não tinha muita colheita pra começo de conversa, então não tínhamos reservas. Muita gente tava passando fome."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x174,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "E aí o Sr. Harry confiou a um padeiro,<CR>o meu professor, os ingredientes.<CR>Ele saiu pela cidade..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x175,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Entregando pão assado pra todo mundo.<CR>Eu também fui uma das pessoas que<CR>recebeu o pão na época."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Entendo..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "Ainda me lembro do gosto daquele<CR>pão. Foi o momento em que decidi<CR>me tornar um padeiro."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xd1,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "Nunca esqueci o quanto aquilo me emocionou,<CR>por isso escolhi essa profissão."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xd2,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Sempre quis retribuir a bondade do Sr. Harry... e essa pode ser a minha única chance."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Pode me esperar um momento? Vou anotar a receita agora mesmo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x173,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Pronto. Essa é a receita."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x177,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Porém, a gente não sabe os ingredientes, então não tá completa."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x178,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Você vai ter que tentar vários ingredientes e buscar recriar o sabor..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Isso é mais do que suficiente.<CR>Deixa comigo a partir daqui!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x179,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Sim, boa sorte. Vou estar torcendo por você!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Agora você pode fazer o Muffin de Flor."
+        }
+    ]
+}

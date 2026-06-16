@@ -1,0 +1,157 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM05_ST4_660.ebm",
+    "nb_messages": 0x11,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x69,
+            "expr_id": 0x2,
+            "msg_id": 0x0,
+            "msg_string": "Aqui tá. Valeu por vir...<CR>E é aqui que eu deixo de ser um balconista."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6b,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Ayesha, você tá tão sem energia ultimamente... Algo errado?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Hã? Eu pareço tão deprê assim?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Você tá sempre tipo, nas nuvens, mas parece ter menos energia que isso ultimamente."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "I-Isso não é verdade! Eu tô cheia de energia, olha só!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Hm, parece que você tá se esforçando. Por que você tá-"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Hmm, eu tava me perguntando a mesma coisa. Ayesha, ultimamente tá te faltando o seu vigor de sempre."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x18,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Mas fique tranquila, eu tenho um remédio especial."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Hmhmhm, receitar remédio pra uma farmacêutica... Eu sou muito bom mesmo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Chega de se gabar. Então, que tipo de remédio você tá falando?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Eu tô falando, claro, da coleção que eu acabei de conseguir!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Livros e litografias que foram escavados de ruínas, bolas de cristal lindonas e outros enfeites!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x1a,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Não tem como a Ayesha, com a sua curiosidade e ambição ardentes, não se interessar por isso!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Heh... A coleção do Sr. Harry... Eu com certeza vou dar uma olhada da próxima vez."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xb0,
+            "expr_id": 0x3,
+            "msg_id": 0xe,
+            "msg_string": "Hmm, sem nenhuma reação nem pra minha coleção preciosa... O caso parece ser bem grave..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xf5,
+            "expr_id": 0x4,
+            "msg_id": 0xf,
+            "msg_string": "Sério? Eu acho que é uma reação bem normal. Enfim, de volta ao trabalho, Chefe!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xb1,
+            "expr_id": 0x3,
+            "msg_id": 0x10,
+            "msg_string": "*suspiro* Isso acabou virando um bumerangue..."
+        }
+    ]
+}

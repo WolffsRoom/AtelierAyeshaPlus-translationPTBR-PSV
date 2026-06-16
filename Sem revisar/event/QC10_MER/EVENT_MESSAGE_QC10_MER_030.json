@@ -1,0 +1,123 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC10_MER_030.ebm",
+    "nb_messages": 0xd,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ué? Isso é..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x69,
+            "expr_id": 0x2,
+            "msg_id": 0x1,
+            "msg_string": "Ah, você percebeu? Os itens daqui são do concurso."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6a,
+            "expr_id": 0x2,
+            "msg_id": 0x2,
+            "msg_string": "O dono geralmente compra a maior parte dos itens expostos, mas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6a,
+            "expr_id": 0x2,
+            "msg_id": 0x3,
+            "msg_string": "As coisas que não são do gosto dele são vendidas aqui."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6b,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Às vezes rola de achar uns tesouros perdidos no meio, também."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x5,
+            "msg_string": "Nossa, que legal...! Tem um monte de coisas que eu queria!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x129,
+            "expr_id": 0x3,
+            "msg_id": 0x6,
+            "msg_string": "Ah? Você quer esses? Todos os dessa área?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Eles são ótimos. Você não acha que o padrão das linhas é diferente e fofo?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15e,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Hmm, eu não te entendo nem um pouco.<CR>Não sei mais quem você é..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x161,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Será que você... tem o mesmo gosto<CR>do dono...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0xa,
+            "msg_string": "I-Isso não é verdade. Tenho certeza que não temos o mesmo gosto. Com certeza não."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Sinceramente, não consigo ver diferença entre o seu gosto e o do dono..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x69,
+            "expr_id": 0x2,
+            "msg_id": 0xc,
+            "msg_string": "Mas, pelo seu bem, vou fingir que são diferentes!"
+        }
+    ]
+}
