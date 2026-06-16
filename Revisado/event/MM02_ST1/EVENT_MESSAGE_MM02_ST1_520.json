@@ -1,0 +1,25 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM02_ST1_520.ebm",
+    "nb_messages": 0x2,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc7,
+            "expr_id": 0x4,
+            "msg_id": 0xc6,
+            "msg_string": "*arf*, *arf* S-Só mais um pouquinho..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xca,
+            "expr_id": 0x0,
+            "msg_id": 0x34c2,
+            "msg_string": "Finalmente cheguei... Já faz um tempo que não venho aqui, mas a viagem foi tão cansativa quanto eu lembrava."
+        }
+    ]
+}
