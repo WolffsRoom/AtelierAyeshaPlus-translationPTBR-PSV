@@ -1,0 +1,391 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_ZZ01_130.ebm",
+    "nb_messages": 0x30,
+    "messages": [
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "msg_string": "Fala 00 Básico"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "msg_string": "Fala 01 Normal"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "msg_string": "Fala 02 Normal="
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "msg_string": "Fala 03 Normal Acenando"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "msg_string": "Fala 04 Normal Acenando+"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "msg_string": "Fala 05 Normal Voltando"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "msg_string": "Fala 06 Feliz 1"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "msg_string": "Fala 07 Feliz 1="
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x8,
+            "msg_string": "Fala 08 Feliz 2"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x9,
+            "msg_string": "Fala 09 Feliz 2+"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "msg_string": "Fala 10 Feliz 2="
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xb,
+            "msg_string": "Fala 11 Feliz Voltando★"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xc,
+            "msg_string": "Fala 00 Básico"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "msg_string": "Fala 13 Bravo 1="
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xe,
+            "msg_string": "Fala 14 Bravo 2"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "msg_string": "Fala 15 Bravo 2="
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x10,
+            "msg_string": "Fala 16 Bravo 2 Acenando"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x11,
+            "msg_string": "Fala 17 Bravo 2 Acenando+"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "msg_string": "Fala 18 Bravo 1 Voltando★"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13,
+            "msg_string": "Fala 19 Bravo 2 Voltando★"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x14,
+            "msg_string": "Fala 20 Triste"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x15,
+            "msg_string": "Fala 21 Triste="
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "msg_string": "Fala 22 Triste Voltando★"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x17,
+            "msg_string": "Fala 23 Tímido"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x18,
+            "msg_string": "Fala 24 Tímido="
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x19,
+            "msg_string": "Fala 25 Tímido Voltando★"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1a,
+            "msg_string": "Fala 26 Surpresa 1"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1b,
+            "msg_string": "Fala 27 Surpresa 1="
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1c,
+            "msg_string": "Fala 28 Surpresa 2"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1d,
+            "msg_string": "Fala 29 Surpresa 2+"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1e,
+            "msg_string": "Fala 30 Surpresa 2="
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1f,
+            "msg_string": "Fala 31 Surpresa 1 Voltando★"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x20,
+            "msg_string": "Fala 32 Surpresa 2 Voltando★"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x21,
+            "msg_string": "Fala 33 Chocado"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x22,
+            "msg_string": "Fala 34 Chocado="
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x23,
+            "msg_string": "Fala 35 Chocado Voltando★"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x24,
+            "msg_string": "Fala 36 Pensando"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x25,
+            "msg_string": "Fala 37 Pensando="
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x26,
+            "msg_string": "Fala 38 Pensando Voltando★"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x27,
+            "msg_string": "Fala 39 Básico ys"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x28,
+            "msg_string": "Fala 40 Básico no"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x29,
+            "msg_string": "Fala 41 Normal ys"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2a,
+            "msg_string": "Fala 42 Normal no"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2b,
+            "msg_string": "Fala 43 Básico Mão 2+"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2c,
+            "msg_string": "Fala 44 Normal Mão 2+"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2d,
+            "msg_string": "Fala 45 Básico Brilho"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2e,
+            "msg_string": "Fala 46 Básico hi"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2f,
+            "msg_string": "Fala 47 Básico by"
+        }
+    ]
+}
