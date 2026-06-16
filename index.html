@@ -273,6 +273,7 @@
     <span class="pill" id="rootPill"></span>
     <span class="spacer"></span>
     <span class="pill" id="ghStatusPill" style="display:none"><i class="fa-solid fa-cloud-arrow-up"></i> GitHub</span>
+    <button class="ghost" id="ghReconfigBtn" style="display:none"><i class="fa-solid fa-key"></i> Reconfigurar token</button>
     <span class="pill ok" id="progPill"></span>
     <button class="ghost" id="exportBtn" style="display:none"><i class="fa-solid fa-file-zipper"></i> Exportar .zip <span id="exportCount"></span></button>
     <button class="ghost" id="listBtn"><i class="fa-solid fa-list-ul"></i> Arquivos</button>
@@ -285,6 +286,7 @@
       <div class="filebar">
         <span class="path"><i class="fa-solid fa-file-lines"></i><span id="filePath"></span></span>
         <span class="counter"><i class="fa-solid fa-comment-dots"></i><span id="msgCounter"></span></span>
+        <span class="counter" id="readCounterWrap" style="margin-left:0"><i class="fa-solid fa-eye"></i><span id="readCounter"></span></span>
       </div>
 
       <div id="engSection" style="display:none">
@@ -351,7 +353,6 @@
         <b>Contents: Read &amp; Write</b> neste repositório.</p>
       <button id="ghSetupSaveBtn" class="bigbtn">Salvar configuração</button>
     </div>
-    <button class="ghost" id="ghReconfigBtn" style="display:none;margin-top:4px;font-size:0.78rem;opacity:0.7">Reconfigurar token</button>
     <button class="ghost" id="ghCancelBtn" style="margin-top:6px">Cancelar</button>
   </div>
 </div>
@@ -577,6 +578,28 @@ function setEdits(file, arr){
 let curEdits=null;
 
 /* ----------------------------------------------------------------
+   Strings "lidas" — marca cada string ao ser exibida, para acompanhar
+   quantas strings de um arquivo já foram vistas/revisadas. (local, por dispositivo)
+----------------------------------------------------------------- */
+const lsKeyRead = rel => 'ayesha::'+S.rootName+'::read::'+rel;
+function getRead(file){
+  if(file._read) return file._read;
+  let arr;
+  try{ arr=JSON.parse(localStorage.getItem(lsKeyRead(file.rel))||'null'); }catch(e){ arr=null; }
+  if(!Array.isArray(arr) || arr.length!==file._msgs.length) arr=file._msgs.map(()=>false);
+  file._read=arr;
+  return arr;
+}
+function markRead(file, i){
+  const r=getRead(file);
+  if(i>=0 && i<r.length && !r[i]){
+    r[i]=true;
+    try{ localStorage.setItem(lsKeyRead(file.rel), JSON.stringify(r)); }catch(e){}
+  }
+}
+function readCount(file){ return getRead(file).filter(Boolean).length; }
+
+/* ----------------------------------------------------------------
    Carregar conteúdo de um arquivo (lazy)
 ----------------------------------------------------------------- */
 async function ensureEngLoaded(file){
@@ -612,6 +635,24 @@ async function ensureLoaded(file){
   file._orig = file._msgs.map(m => decode(m.raw));
   // arquivo 100% dummy (JPN nao traduzido) -> nao deve ser revisado
   file._dummy = file._orig.length>0 && file._orig.every(s => s==='ダミー');
+}
+
+/* No modo GitHub, carrega o texto já revisado de "Revisado/" no repositório
+   para que as revisões feitas em um dispositivo apareçam nos demais.
+   O repositório é a fonte da verdade aqui (tem prioridade sobre rascunhos locais). */
+async function ensureEditsLoaded(file){
+  if(file._edits) return;                          // já em memória nesta sessão
+  if(S.mode!=='github' || !file.revised) return;   // só busca se há versão revisada no repo
+  try{
+    const data=await ghGet('Revisado/'+file.rel);
+    if(!data) return;
+    const text=decodeURIComponent(escape(atob(data.content.replace(/\n/g,''))));
+    const msgs=scanMsgStrings(text);
+    if(msgs.length===file._msgs.length){
+      file._edits = msgs.map(m=>decode(m.raw));
+      setEdits(file, file._edits);                 // espelha no localStorage deste dispositivo
+    }
+  }catch(e){ /* sem rede / arquivo ausente -> cai no comportamento padrão (em branco) */ }
 }
 
 /* ----------------------------------------------------------------
@@ -708,6 +749,7 @@ async function startApp(){
   if(S.mode==='github'){
     $('rootPill').innerHTML='<i class="fa-brands fa-github"></i> <b>'+esc(S.rootName)+'</b>'; renderIcons($('rootPill'));
     $('ghStatusPill').style.display=''; $('ghStatusPill').className='pill gh-pill-active';
+    $('ghReconfigBtn').style.display='';
   } else {
     $('rootPill').innerHTML='<i class="fa-solid fa-folder"></i> <b>'+esc(S.rootName)+'</b>'; renderIcons($('rootPill'));
   }
@@ -738,6 +780,7 @@ async function render(){
   if(!file){ return; }
   await ensureLoaded(file);
   await ensureEngLoaded(file);
+  await ensureEditsLoaded(file);
   curEdits = getEdits(file);
 
   const n=file._msgs.length;
@@ -748,8 +791,10 @@ async function render(){
   }
   if(S.mi>=n) S.mi=n-1; if(S.mi<0) S.mi=0;
 
+  markRead(file, S.mi);                       // a string exibida conta como "lida"
   $('filePath').textContent = file.rel;
   $('msgCounter').textContent = (S.mi+1)+' / '+n;
+  $('readCounter').textContent = readCount(file)+' / '+n+' lidas';
   $('srcText').value = file._orig[S.mi] ?? '';
   $('dstText').value = curEdits[S.mi] ?? '';
   const engVal = file._engOrig?.[S.mi] ?? '';
@@ -795,6 +840,11 @@ async function goNext(){
   if(S.mi < file._msgs.length-1){ S.mi++; }
   else { const nx=nextUnrevisedFrom(S.fi,1); if(nx<0) return; S.fi=nx; S.mi=0; }
   await render();
+}
+async function goNextFile(){
+  commitField();
+  if(S.fi < S.files.length-1){ S.fi++; S.mi=0; await render(); }
+  else toast('Este é o último arquivo.','info');
 }
 async function goPrev(){
   commitField();
@@ -967,7 +1017,7 @@ $('changeBtn').onclick=()=>location.reload();
 $('fileSearch').addEventListener('input', buildFileList);
 $('ghConnectBtn').onclick=startGitHubMode;
 $('ghCancelBtn').onclick=hideGhOverlay;
-$('ghReconfigBtn').onclick=()=>{ _GHP.mode='setup-1'; _GHP.digits=[]; _GHP.pin=null; $('ghPinError').textContent=''; _ghSetStep(); };
+$('ghReconfigBtn').onclick=ghReconfigure;
 $('ghSetupSaveBtn').addEventListener('click', ghSetupSave);
 $('prefill').onchange=()=>{ /* afeta apenas arquivos ainda não abertos */ };
 
@@ -983,6 +1033,10 @@ document.addEventListener('keydown',(e)=>{
   }
   if($('app').style.display==='none') return;
   if((e.ctrlKey||e.metaKey) && (e.key==='s'||e.key==='S')){ e.preventDefault(); saveFile(); return; }
+  // Atalhos que funcionam mesmo com o cursor dentro do textarea:
+  if(e.shiftKey && e.key==='Enter'){ e.preventDefault(); goNextFile(); return; }      // Shift+Enter -> próximo arquivo
+  if(e.shiftKey && e.key==='ArrowRight'){ e.preventDefault(); goNext(); return; }      // Shift+→ -> próxima string
+  if(e.shiftKey && e.key==='ArrowLeft'){ e.preventDefault(); goPrev(); return; }       // Shift+← -> string anterior
   if(e.target.tagName==='TEXTAREA' && e.key!=='Escape') return;
   if(e.key==='ArrowRight') goNext();
   else if(e.key==='ArrowLeft') goPrev();
@@ -1003,7 +1057,16 @@ const GH_API = `https://api.github.com/repos/${GH.owner}/${GH.repo}`;
 function b64enc(buf){ return btoa(String.fromCharCode(...new Uint8Array(buf))); }
 function b64dec(s){ return Uint8Array.from(atob(s), c=>c.charCodeAt(0)); }
 
+// Web Crypto (crypto.subtle) só existe em contexto seguro: HTTPS ou http://localhost.
+// Não funciona abrindo o arquivo direto (file://) nem por http:// em IP da rede.
+function assertCrypto(){
+  if(typeof crypto==='undefined' || !crypto.subtle){
+    throw new Error('Web Crypto indisponível neste contexto. Abra a ferramenta por HTTPS (ex.: GitHub Pages: https://wolffsroom.github.io/AtelierAyeshaPlus-translationPTBR-PSV/) ou por http://localhost. Abrir o arquivo direto (file://) não funciona.');
+  }
+}
+
 async function deriveKey(pin, salt){
+  assertCrypto();
   const km=await crypto.subtle.importKey('raw',new TextEncoder().encode(pin),'PBKDF2',false,['deriveKey']);
   return crypto.subtle.deriveKey(
     {name:'PBKDF2',salt,iterations:200000,hash:'SHA-256'},
@@ -1027,7 +1090,8 @@ async function ghFetch(path, opts={}){
   const h={'Accept':'application/vnd.github+json','X-GitHub-Api-Version':'2022-11-28'};
   if(GH.pat) h['Authorization']=`Bearer ${GH.pat}`;
   if(opts.body) h['Content-Type']='application/json';
-  return fetch(GH_API+path,{...opts,headers:{...h,...(opts.headers||{})}});
+  // no-store: evita que respostas em cache do navegador mascarem revisões feitas em outro dispositivo
+  return fetch(GH_API+path,{cache:'no-store',...opts,headers:{...h,...(opts.headers||{})}});
 }
 async function ghGet(path){
   const r=await ghFetch('/contents/'+path);
@@ -1096,7 +1160,6 @@ function _ghSetStep(){
   const [t,s]=info[_GHP.mode]||['PIN',''];
   $('ghTitle').textContent=t; $('ghSub').textContent=s;
   $('ghPatSection').style.display=_GHP.mode==='setup-pat'?'':'none';
-  $('ghReconfigBtn').style.display=_GHP.mode==='unlock'?'':'none';
   if(_GHP.mode==='setup-pat') setTimeout(()=>$('ghSetupPatInput').focus(),60);
   _ghUpdateDots();
 }
@@ -1126,7 +1189,8 @@ async function _ghSubmit(){
       GH.pat=await decryptPAT(pin,enc);
       _ghDone(GH.pat);
     }catch(e){
-      $('ghPinError').textContent='PIN incorreto ou erro: '+e.message;
+      // OperationError = falha ao decifrar (PIN errado). Outros erros são reais (rede, contexto inseguro etc.)
+      $('ghPinError').textContent = (e.name==='OperationError') ? 'PIN incorreto.' : ('Erro: '+e.message);
       _GHP.digits=[]; _ghUpdateDots();
     }
     return;
@@ -1164,6 +1228,16 @@ function hideGhOverlay(){
   $('ghOverlay').style.display='none';
   const rej=_GHP.reject; _GHP.resolve=_GHP.reject=null;
   if(rej) rej(new Error('cancelled'));
+}
+/* Reconfigurar token — só acessível depois de já ter desbloqueado com o PIN
+   atual (GH.pat válido). Impede sobrescrever o config.json sem conhecer o token
+   pré-configurado/criptografado. */
+function ghReconfigure(){
+  if(!GH.pat){ toast('Desbloqueie com o PIN atual antes de reconfigurar.','warn'); return; }
+  _GHP.mode='setup-1'; _GHP.digits=[]; _GHP.pin=null;
+  $('ghPinError').textContent='';
+  _ghSetStep();
+  $('ghOverlay').style.display='flex';
 }
 
 /* ---- Build PIN pad ---- */
