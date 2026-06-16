@@ -1,0 +1,355 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM03_ST2_540.ebm",
+    "nb_messages": 0x27,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "...Essa é a minha história, e eu pensei que talvez você soubesse de mais livros raros..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xf5,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "*sniff*"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "Hã? P-P-Por que você começou a chorar de repente!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xf7,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Ah, não, não, me perdoe. Estou tão feliz que me emocionei até chorar..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x18,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Que magnífico é você ter vindo depender de mim. Nunca me aconteceu nada parecido antes!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Ninguém em Vierzeberg jamais demonstrou o menor interesse nas ruínas das civilizações antigas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x22,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Mas você é diferente. Eu sempre soube que você era uma garota promissora!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x24,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Para honrar sua ambição e curiosidade intelectual, farei o que puder para ajudar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Uau! Muito obrigada!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x56,
+            "expr_id": 0x2,
+            "msg_id": 0x9,
+            "msg_string": "Pois bem, primeiramente, sobre o livro que você tem, é sobre um tipo de alquimia que ficou popular muito tempo atrás..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x5e,
+            "expr_id": 0x2,
+            "msg_id": 0xa,
+            "msg_string": "Um livro que relata a arte secreta da Antiquimia!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0xb,
+            "msg_string": "Anti...quimia?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x58,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "A técnica de transformar metais preciosos em metais básicos!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Através de meios místicos, ela permite a criação de várias coisas através de um processo chamado síntese..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Essa é a arte! A Antiquimia não é maravilhosa!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "De fato, está escrito numa língua antiga, então nem mesmo o meu cérebro superior consegue compreender direito."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xb0,
+            "expr_id": 0x3,
+            "msg_id": 0x10,
+            "msg_string": "É bem decepcionante. Se eu conseguisse decifrar aquele livro, seria um grande avanço para a minha pesquisa!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Hum, Sr. Harry, você tem outros livros como esse?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xb1,
+            "expr_id": 0x3,
+            "msg_id": 0x12,
+            "msg_string": "É claro! Eu tinha vários deles. Embora seja uma pena ter que apontar que a palavra-chave aí é \"tinha\"..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xb6,
+            "expr_id": 0x3,
+            "msg_id": 0x13,
+            "msg_string": "Mas todos eram tão complexos que eu perdi a paciência e joguei... digo, doei todos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "O quêêê? Todos!? Q-Que desperdício..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xb2,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Mas não se preocupe. Podem ser documentos historicamente raros, mas existem maneiras de obtê-los."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Se você realmente quer isso, então vou ser super generoso com a minha ajuda."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "...Mas, com essa montanha de livros, conseguir todos com certeza vai ser bem difícil."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Difícil...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Tem uma vila abandonada pro sul. Dizem que todo mundo de lá sumiu."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Mais pro sul, passando a vila, tem uma floresta fechada, onde é escuro o tempo todo, até de dia."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Seguindo a estrada ainda mais, você vai passar por um pântano gigante e acabar chegando em Hornheim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Mas é perigoso sair da estrada, por causa das feras selvagens que infestam as redondezas..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Hum... do que é que você tá falando? Isso não parece ter nada a ver com livros..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15d,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Só escuta, se você for por esse caminho sem estrada, talvez encontre uma mansão esquisita."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15f,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "A dona daquela mansão mora sozinha, cercada por um monte de livros."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Um monte de livros...? Então, o livro que eu tô procurando..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "Tem uma grande chance. Claro, eu mesmo nunca fui lá, então não sei de nenhum detalhe específico."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "Mas com certeza é uma viagem perigosa. Não é lugar pra uma garota como você ir..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "Você tem razão... Vou tentar achar um jeito melhor..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x18,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "Que bom. Em último caso, eu organizo uma caravana."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x22,
+            "expr_id": 0x0,
+            "msg_id": 0x25,
+            "msg_string": "Você nunca vai se decepcionar se vier me pedir ajuda."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x26,
+            "msg_string": "(É, foi uma boa ideia ter vindo falar com o Sr. Harry!)"
+        }
+    ]
+}
