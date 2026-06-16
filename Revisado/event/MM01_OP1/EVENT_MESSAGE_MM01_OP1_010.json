@@ -19,7 +19,7 @@
             "extra_id": 0x14,
             "expr_id": 0x0,
             "msg_id": 0x1,
-            "msg_string": "Pensei que poderia ser aqui... mas a decadência é a mesma."
+            "msg_string": "Pensei que talvez este lugar... mas a decadência é a mesma."
         },
         {
             "type": 0x1,
@@ -28,7 +28,7 @@
             "extra_id": 0x15,
             "expr_id": 0x0,
             "msg_id": 0x2,
-            "msg_string": "Hum, talvez ainda seja possível..."
+            "msg_string": "Hum, ainda pode ser possível..."
         },
         {
             "type": 0x1,
@@ -36,7 +36,7 @@
             "name_id": 0x12,
             "expr_id": 0x0,
             "msg_id": 0x3,
-            "msg_string": "Você viajou muito para chegar até aqui?"
+            "msg_string": "Você viajou de longe até aqui?"
         },
         {
             "type": 0x1,
@@ -45,7 +45,7 @@
             "extra_id": 0x13,
             "expr_id": 0x0,
             "msg_id": 0x4,
-            "msg_string": "Sim. Então deu pra perceber?"
+            "msg_string": "Sim. Então... deu pra perceber?"
         },
         {
             "type": 0x1,
@@ -63,7 +63,7 @@
             "extra_id": 0x17,
             "expr_id": 0x0,
             "msg_id": 0x6,
-            "msg_string": "Entendo. Então você já está familiarizado com isso, é?"
+            "msg_string": "Entendi. Então você já é familiarizado com isso?"
         },
         {
             "type": 0x1,
@@ -72,7 +72,7 @@
             "extra_id": 0x61,
             "expr_id": 0x0,
             "msg_id": 0x7,
-            "msg_string": "Um pouco... Eu também costumo ir lá pra fazer negócios. Aliás, seja bem-vindo a esse fim de mundo."
+            "msg_string": "Um pouco... Eu também costumo ir lá pra fazer negócios. Alías, bem-vindo ao fim do mundo."
         },
         {
             "type": 0x1,
@@ -81,7 +81,7 @@
             "extra_id": 0x14,
             "expr_id": 0x0,
             "msg_id": 0x8,
-            "msg_string": "Fim de mundo? Que nada. Esse lugar é bem farto."
+            "msg_string": "Ao fim de mundo? Que nada. Esse lugar é bem farto."
         },
         {
             "type": 0x1,
@@ -90,7 +90,7 @@
             "extra_id": 0x5,
             "expr_id": 0x0,
             "msg_id": 0x9,
-            "msg_string": "Verdade... Nos últimos anos, o clima tem sido calmo e agradável."
+            "msg_string": "Tem razão... Nos últimos anos, o clima tem sido calmo e agradável."
         },
         {
             "type": 0x1,
@@ -99,7 +99,7 @@
             "extra_id": 0x2,
             "expr_id": 0x0,
             "msg_id": 0xa,
-            "msg_string": "Porém, algumas fontes de água das cidades secaram, tornando muito difícil cumprir todas as minhas encomendas de grãos."
+            "msg_string": "Mas alguns canais de água das cidades secaram, o que torna muito difícil atender a todos os meus pedidos de grãos."
         },
         {
             "type": 0x1,
@@ -108,7 +108,7 @@
             "extra_id": 0x2,
             "expr_id": 0x0,
             "msg_id": 0xb,
-            "msg_string": "O solo tem ficado cada dia menos fértil. Por isso tenho corrido tanto para dar conta das entregas."
+            "msg_string": "O solo está se tornando cada vez menos fértil. É por isso que eu vivo correndo pra lá e pra cá com essas entregas."
         },
         {
             "type": 0x1,
@@ -117,7 +117,7 @@
             "extra_id": 0x14,
             "expr_id": 0x0,
             "msg_id": 0xc,
-            "msg_string": "Hum, desculpe incomodá-lo enquanto você está tão ocupado com seus negócios."
+            "msg_string": "Hum, desculpe incomodá-lo quando você já está tão ocupado com seus próprios negócios."
         },
         {
             "type": 0x1,
@@ -126,7 +126,7 @@
             "extra_id": 0x67,
             "expr_id": 0x2,
             "msg_id": 0xd,
-            "msg_string": "Ah, imagina. É cansativo viajar só,<CR>então sua companhia até me deixa feliz."
+            "msg_string": "Ah, imagina. É chato viajar sozinho,<CR>então a sua companhia até me deixa mais alegre."
         },
         {
             "type": 0x1,
@@ -144,7 +144,7 @@
             "extra_id": 0x5,
             "expr_id": 0x0,
             "msg_id": 0xf,
-            "msg_string": "Consegue ver ali? Aquela ruína depois do ateliê é a que você está procurando."
+            "msg_string": "Tá vendo ali? Aquela ruína depois do ateliê é a que você está procurando."
         },
         {
             "type": 0x1,
@@ -153,7 +153,7 @@
             "extra_id": 0x2,
             "expr_id": 0x0,
             "msg_id": 0x10,
-            "msg_string": "Meu destino é, na verdade, aquele ateliê. É uma loja de produtos medicinais administrada por uma jovem..."
+            "msg_string": "Meu destino, na verdade, é naquele ateliê. É uma loja de produtos medicinais administrada por uma jovem..."
         },
         {
             "type": 0x1,
@@ -162,7 +162,7 @@
             "extra_id": 0x13,
             "expr_id": 0x0,
             "msg_id": 0x11,
-            "msg_string": "Hmm? Um ateliê num lugar como esse?<CR>Então isso ainda existe por aqui."
+            "msg_string": "Hum? Um ateliê?<CR>Então essas coisas ainda existem por aqui."
         },
         {
             "type": 0x1,
@@ -214,7 +214,7 @@
             "extra_id": 0x125,
             "expr_id": 0x0,
             "msg_id": 0x17,
-            "msg_string": "Ah, desculpa se errei. Já que você está investigando as ruínas eu..."
+            "msg_string": "Ah! Desculpa, acho que me enganei. Já que você está investigando as ruínas eu..."
         },
         {
             "type": 0x1,
