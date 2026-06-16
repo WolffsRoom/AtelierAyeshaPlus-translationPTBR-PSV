@@ -339,6 +339,7 @@
         <b>Contents: Read &amp; Write</b> neste repositório.</p>
       <button id="ghSetupSaveBtn" class="bigbtn">Salvar configuração</button>
     </div>
+    <button class="ghost" id="ghReconfigBtn" style="display:none;margin-top:4px;font-size:0.78rem;opacity:0.7">Reconfigurar token</button>
     <button class="ghost" id="ghCancelBtn" style="margin-top:6px">Cancelar</button>
   </div>
 </div>
@@ -777,6 +778,8 @@ function updateProgress(){
 async function goNext(){
   commitField();
   const file=S.files[S.fi];
+  if(!file._msgs){ try{ await ensureLoaded(file); }catch(e){ toast('Erro ao carregar arquivo: '+e.message,'err'); return; } }
+  if(!file._msgs) return;
   if(S.mi < file._msgs.length-1){ S.mi++; }
   else { const nx=nextUnrevisedFrom(S.fi,1); if(nx<0) return; S.fi=nx; S.mi=0; }
   await render();
@@ -784,7 +787,13 @@ async function goNext(){
 async function goPrev(){
   commitField();
   if(S.mi>0){ S.mi--; }
-  else { const pv=nextUnrevisedFrom(S.fi,-1); if(pv<0) return; S.fi=pv; await ensureLoaded(S.files[pv]); S.mi=S.files[pv]._msgs.length-1; }
+  else {
+    const pv=nextUnrevisedFrom(S.fi,-1); if(pv<0) return;
+    S.fi=pv;
+    try{ await ensureLoaded(S.files[pv]); }catch(e){ toast('Erro ao carregar arquivo: '+e.message,'err'); return; }
+    if(!S.files[pv]._msgs) return;
+    S.mi=S.files[pv]._msgs.length-1;
+  }
   await render();
 }
 
@@ -946,10 +955,20 @@ $('changeBtn').onclick=()=>location.reload();
 $('fileSearch').addEventListener('input', buildFileList);
 $('ghConnectBtn').onclick=startGitHubMode;
 $('ghCancelBtn').onclick=hideGhOverlay;
+$('ghReconfigBtn').onclick=()=>{ _GHP.mode='setup-1'; _GHP.digits=[]; _GHP.pin=null; $('ghPinError').textContent=''; _ghSetStep(); };
 $('ghSetupSaveBtn').addEventListener('click', ghSetupSave);
 $('prefill').onchange=()=>{ /* afeta apenas arquivos ainda não abertos */ };
 
 document.addEventListener('keydown',(e)=>{
+  // PIN overlay ativo — captura teclado para o PIN
+  if($('ghOverlay').style.display==='flex'){
+    if(_GHP.mode!=='setup-pat'){
+      if(e.key>='0'&&e.key<='9'){ e.preventDefault(); _ghDigit(e.key); return; }
+      if(e.key==='Backspace'){ e.preventDefault(); _ghBack(); return; }
+      if(e.key==='Enter'&&_GHP.digits.length===6){ e.preventDefault(); _ghSubmit(); return; }
+    }
+    return; // bloqueia resto das teclas enquanto overlay estiver aberto
+  }
   if($('app').style.display==='none') return;
   if((e.ctrlKey||e.metaKey) && (e.key==='s'||e.key==='S')){ e.preventDefault(); saveFile(); return; }
   if(e.target.tagName==='TEXTAREA' && e.key!=='Escape') return;
@@ -1065,6 +1084,7 @@ function _ghSetStep(){
   const [t,s]=info[_GHP.mode]||['PIN',''];
   $('ghTitle').textContent=t; $('ghSub').textContent=s;
   $('ghPatSection').style.display=_GHP.mode==='setup-pat'?'':'none';
+  $('ghReconfigBtn').style.display=_GHP.mode==='unlock'?'':'none';
   if(_GHP.mode==='setup-pat') setTimeout(()=>$('ghSetupPatInput').focus(),60);
   _ghUpdateDots();
 }
