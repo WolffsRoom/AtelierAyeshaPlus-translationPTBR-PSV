@@ -1,0 +1,82 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC07_MAR_720.ebm",
+    "nb_messages": 0x8,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1f8,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "msg_string": "Hey, umm...you know, did that missy not come today?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x218,
+            "name_id": 0x2f,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "unknown2": 0x1,
+            "msg_string": "Missy? Who?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1fe,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "msg_string": "You know, what's her name?<CR>That black-haired missy who's<CR>so high-spirited."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x218,
+            "name_id": 0x2f,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "unknown2": 0x1,
+            "msg_string": "Oh yeah, I haven't seen her around lately."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x218,
+            "name_id": 0x2f,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "unknown2": 0x1,
+            "msg_string": "Maybe she gave up, since you kept driving her away?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1f9,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "msg_string": "What? She gave up already? After only getting declined a few times...? What a wimp."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1f9,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "msg_string": "That's why the young'uns these days are so unreliable. *mumble* *mumble*"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "msg_string": "(I wonder how Marion is doing...<CR>Maybe I should stop by later.)"
+        }
+    ]
+}

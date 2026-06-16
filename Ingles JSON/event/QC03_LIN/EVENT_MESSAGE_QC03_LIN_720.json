@@ -1,0 +1,363 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC03_LIN_720.ebm",
+    "nb_messages": 0x28,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Hello Marion and Linca. I came, just as you told me to."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x19f,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Thank you. Then I'll go ahead and start explaining our situation."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "But before that...I can't believe she talked to you before she talked to us."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "It seems she has collected a lot of intelligence on us. I am sure she has completed all of the background checks."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "I know this is a weird way to say it, but...are you two familiar with that Linca?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Well, to put it simply...she's Linca's sister, although that's a little misleading."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "I-I guess that's exactly what it looks like, but..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Stuff happened in the past, and now we have a hostile relationship with her."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Ever since we came here, we have yet to fight her directly, but..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "I never thought she would follow us this far."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Be careful. They may look exactly alike, but their personalities are complete opposites."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "That Linca is pretty wicked."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0xc,
+            "msg_string": "I guess she acted completely different than Linca..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "But, she didn't seem like a bad person... She even smiled when she was talking to me..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "That's part of her strategy. Either way, don't let your guard down."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "I-I understand. But wearing the same clothes as Linca, I really can't tell them apart."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "The same clothes...? Linca, go take a look in your closet right now!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Yes!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Marion, several sets of my clothes have disappeared!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "I see, so that's how it is... It'll be real trouble if they switch places."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x1af,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Marion, in exchange for the clothes that disappeared, she left a letter behind. Should I read it?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Yes, please."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x29,
+            "extra_id": 0x1b0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "msg_string": "\"Dear Linca, it's been a while. After you disappeared, I searched everywhere for you.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x29,
+            "extra_id": 0x1b0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x17,
+            "msg_string": "\"We have never forgiven you for your betrayal.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x18,
+            "msg_string": "(B-Betrayal...?)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x29,
+            "extra_id": 0x1b0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x19,
+            "msg_string": "\"You seem to be living comfortably out on the frontier. That's unforgivable.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x29,
+            "extra_id": 0x1b0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1a,
+            "msg_string": "\"Therefore, as minimal compensation, I'll be taking one precious thing from you guys.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x29,
+            "extra_id": 0x1b3,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1b,
+            "msg_string": "\"Please look forward to it.<CR>Love, Linca.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xe9,
+            "expr_id": 0x4,
+            "msg_id": 0x1c,
+            "msg_string": "She's one troublesome girl... But I wonder what precious thing she's talking about...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Maybe it is about the investigation report that you have been compiling since we got here..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xed,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Maybe. Sadly, we don't have anything that's more important than that."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Yes. Marion's salary is not even worth stealing..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "But she probably won't have any use for my report, even with all that data in her hands..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x21,
+            "msg_string": "I-It seems like this is turning into a big deal..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "Yeah. I don't want to cause any trouble for you, but..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "This might get complicated in the future. If you see Linca, please tell us."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "But don't even think about capturing her, okay?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x25,
+            "msg_string": "O-Okay. I'll let you two know right away."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x26,
+            "msg_string": "(I'm not really sure about the circumstances, but if I see Linca, I need to let Linca know...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x27,
+            "msg_string": "(This is all just getting too confusing now...)"
+        }
+    ]
+}

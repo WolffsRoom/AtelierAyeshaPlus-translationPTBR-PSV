@@ -1,0 +1,320 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC11_FRE_040.ebm",
+    "nb_messages": 0x23,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0x5,
+            "msg_id": 0x0,
+            "msg_string": "Hmm, which bread should I buy today?<CR>The kitty one is nice, but the<CR>teddy bears look good, too..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15f,
+            "expr_id": 0x5,
+            "msg_id": 0x1,
+            "msg_string": "Eeny meeny miny moe...<CR>Catch a bread by the toe...<CR>This one!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "All right! Today will be kitty bread!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Ms. Ayesha, is kitty bread your favorite?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x4,
+            "msg_string": "Well, it's cute, and the jam inside is really sweet, so I love it!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "I was able to get good fruit today, so it should taste a little different than usual."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Wow, then I wanna try it right away!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Hmm, well this is a nice bakery."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x8,
+            "msg_string": "Hrgh!!!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1a0,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Oh, hey, Ayesha. Are you here to buy some bread, too?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Yes. I'm totally addicted to the bread here."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x69,
+            "expr_id": 0x2,
+            "msg_id": 0xb,
+            "msg_string": "I was lured in here by the aroma, but this place has lot of cute bread."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6b,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "I bet whoever baked these breads is a really kind person."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0xd,
+            "msg_string": "No, well...<CR>Th-Th-Th..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15e,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "What is it?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x7a,
+            "expr_id": 0x3,
+            "msg_id": 0xf,
+            "msg_string": "Thank you very much!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x38,
+            "expr_id": 0x2,
+            "msg_id": 0x10,
+            "msg_string": "The bread's not only cute, it's also really delicious!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3a,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "You'll have to grab your cheeks when you eat it, it's so good."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Hmm...now I'm really getting excited! Well Mr. Baker, I'll take this one."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x7b,
+            "expr_id": 0x3,
+            "msg_id": 0x13,
+            "msg_string": "Y-Yes! Cer-Cer-Certainly..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "I was so busy this morning, I didn't get to eat. I'm glad I can buy such freshly baked bread."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x7b,
+            "expr_id": 0x3,
+            "msg_id": 0x15,
+            "msg_string": "No, well...<CR>Th-Th-Thank you very much."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1a0,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Well, I'll see you later, Ayesha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Okay. Good luck with your work, Marietta."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Okay then, I should get going now, too. I wanna eat this kitty bread!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x7d,
+            "expr_id": 0x3,
+            "msg_id": 0x19,
+            "msg_string": "Ms. Ayesha, wait! I-I have an important question!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0x1a,
+            "msg_string": "Wh-Who was that lady just now!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "You mean Marietta? She works at the trading house down the street."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "She's not much older than I am, but she's in charge of stocking the whole store. She's amazing."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "I have a room behind Marietta's store that I use when I'm in town, and..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x78,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Such a cheerful smile...like that of freshly baked bread... How splendid..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x1f,
+            "msg_string": "Huh...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x194,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Oh, nothing. Thank you for telling me about her."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "W-Well, I'll get back to work. The bread's waiting for me!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x22,
+            "msg_string": "(Is it just me, or did he suddenly start acting weird...? Mr. Fred is so funny.)"
+        }
+    ]
+}

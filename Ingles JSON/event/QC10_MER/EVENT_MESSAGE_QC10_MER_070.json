@@ -1,0 +1,337 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC10_MER_070.ebm",
+    "nb_messages": 0x25,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "That's..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Hmm, I wonder what it is...<CR>I don't know, but...it's so cute!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Oh, it's Homunculus. He's as cute as ever...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Oh, it went inside Marietta's store..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x214,
+            "name_id": 0x2b,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "msg_string": "I looking for pretty sparkles.<CR>You have here?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15e,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Pretty sparkles...?<CR>I wonder what those are..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x214,
+            "name_id": 0x2b,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "msg_string": "Sparkles. They look pretty like stars and melt. Sparkles."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Pretty like stars...? Are they like jewels? They're gonna be pretty pricy then."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x214,
+            "name_id": 0x2b,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x8,
+            "msg_string": "I have money. Lots of it.<CR>I buy them all. Don't worry."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x12d,
+            "expr_id": 0x3,
+            "msg_id": 0x9,
+            "msg_string": "Whoa, this much...? I can see you're looking for considerably high-priced items."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x214,
+            "name_id": 0x2b,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "msg_string": "Can I buy sparkles with this?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x12b,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "It might be hard for me to procure them right away, but with this much money..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1a6,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "I'm sure I'll be able to provide you with items that'll measure up to your wishes."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x214,
+            "name_id": 0x2b,
+            "extra_id": 0x227,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "msg_string": "Not measure. Sparkles!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Oh, right, right.<CR>Umm, about the deadline..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x214,
+            "name_id": 0x2b,
+            "extra_id": 0x22a,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "msg_string": "Deadline? What's that?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15e,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Umm, a deadline is, well, basically..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Wait 30 days. Lovely sparkles, delivered to you!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x214,
+            "name_id": 0x2b,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "msg_string": "Okay. Wait 30 days. I count on you."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "That was a reeeally cute customer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "He was cute, but dealing with him made me nervous. Non-human customers are very rare..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "And it's also rare for a Homunculus<CR>to come to town. Well, whoever the<CR>customer is doesn't matter."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x16,
+            "msg_string": "He paid a lot in advance, so I need to get items that meet his demand!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "But just having \"sparkles\" as a hint is hard..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x7a,
+            "expr_id": 0x3,
+            "msg_id": 0x18,
+            "msg_string": "This is where I show off what a merchant can do. Hmhm, I've been itching to put my skills to good use."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Hmm, I feel a slight tinge of uneasiness for some reason..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "It seemed like he wanted jewels,<CR>but I wonder if Homunculi know<CR>the value of them."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x7c,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "That's not the problem here...<CR>Wait, I mean...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Mr. Owner, if you were watching,<CR>you should've helped me!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x141,
+            "expr_id": 0x4,
+            "msg_id": 0x1d,
+            "msg_string": "N-No. I feel like I'm not very good at dealing with them."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x143,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "It's hard to grasp what someone wants when I can't understand how their minds work."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Anyway, it might not be necessary to take everything they say seriously..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Whoever the customer is, they're still a customer. It's my duty as a merchant to respond to them sincerely."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "Y-Yup, that's correct. It's just as you say."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x1a0,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "With that being said, I leave this case entirely to you. Good luck."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x79,
+            "expr_id": 0x3,
+            "msg_id": 0x23,
+            "msg_string": "Of course... Leave it to me!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x7b,
+            "expr_id": 0x3,
+            "msg_id": 0x24,
+            "msg_string": "Hmhm, it's the biggest job we've had in a while. All right, I need to do this!"
+        }
+    ]
+}

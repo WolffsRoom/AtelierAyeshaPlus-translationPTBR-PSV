@@ -1,0 +1,238 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM01_OP1_010.ebm",
+    "nb_messages": 0x1a,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x12,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "...So, no success."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x12,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "I thought that perhaps this place...but the decay is the same."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x12,
+            "extra_id": 0x15,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Hmph, it could still be possible..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x12,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Have you traveled here from afar?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x12,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Yes. So, you can tell?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x12,
+            "extra_id": 0x5f,
+            "expr_id": 0x2,
+            "msg_id": 0x5,
+            "msg_string": "I knew it! There are some Western peculiarities about the way you talk."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x12,
+            "extra_id": 0x17,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "I see. So you're familiar with it, then?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x12,
+            "extra_id": 0x61,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "A little... I go there to trade, too. Welcome to this barren frontier land."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x12,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Barren frontier land? That's not true. This place is plentiful."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x12,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "True... For the last few years, the weather's been calm and gentle."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x12,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "But, some of the towns' water veins have dried up, making it really tough to fill all my orders of grain."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x12,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "The soil's becoming less and less fertile every day. That's why I've been running around so much on deliveries."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x12,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Hmm, sorry to bother you when you're so busy with your own business."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x12,
+            "extra_id": 0x67,
+            "expr_id": 0x2,
+            "msg_id": 0xd,
+            "msg_string": "Oh, no. It's boring to travel alone,<CR>so I'm actually glad to have you."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x12,
+            "extra_id": 0x65,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "It's quite a ways to the next ruin,<CR>so please enjoy the ride."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x12,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "See over there? That ruin past the workshop is the one you're looking for."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x12,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "My destination is actually that workshop. It's a medicine shop that's run by a young girl..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x12,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Hm? A workshop in a place like this?<CR>So it still does exist in this land."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x12,
+            "extra_id": 0x15,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "...Oh, you can drop me off right here."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x12,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Huh? But we're still pretty far from the ruin."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x12,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "That's fine. I'd prefer to walk there on my own two feet."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x12,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "To walk on your own two feet... As expected of a scholar, I guess."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x12,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Scholar? Is that what I look like?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x12,
+            "extra_id": 0x125,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Oh, I'm sorry if I was wrong. Since you're investigating the ruins..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x12,
+            "extra_id": 0x15,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "You're not far off.<CR>But I am...an alchemist."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x12,
+            "extra_id": 0x128,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "An alchemist...?"
+        }
+    ]
+}

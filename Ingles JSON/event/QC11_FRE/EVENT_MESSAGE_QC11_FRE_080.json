@@ -1,0 +1,237 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC11_FRE_080.ebm",
+    "nb_messages": 0x1a,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "All right, it's done! Ms. Ayesha, can I ask you to taste this?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Wow! If you baked it, I'd love to sample it any day!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x2,
+            "msg_string": "Haha, I'm honored. My new bread this time is this..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x45,
+            "expr_id": 0x2,
+            "msg_id": 0x3,
+            "msg_string": "I've improved on the kitty bread by making it bite-sized."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1b7,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "msg_string": "*munch* *munch* But it still has jam inside, and... *munch* *munch* Huh? This one has cream, too...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0x5,
+            "msg_string": "Hmhmhm, each one has a different filling. That's the selling point for this new bread."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x6,
+            "msg_string": "Amazing...! But, Mr. Fred, your hands are so big..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "How can you make something so small and cute?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "I've had skillful fingers ever since I was young. I had to help out with the housework when I was a kid."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "I may look like this, but I'm good at sewing and doing the laundry."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Hmm, then whoever becomes your wife should be very happy."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0xb,
+            "msg_string": "M-Ms. M-M-Marietta!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Oh, Marietta, did you come here to buy something?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x26,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "I wanted something to snack on. I wonder if there's any good bread..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Of course! Mr. Fred also just finished making his newest bread!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "It's a bite-sized bread, perfect for a snack! Right, Mr. Fred?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x7a,
+            "expr_id": 0x3,
+            "msg_id": 0x10,
+            "msg_string": "W-Welcome!!!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x12d,
+            "expr_id": 0x3,
+            "msg_id": 0x11,
+            "msg_string": "Whoa, you scared me!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Calm down, Mr. Fred. Marietta's been here for a while now!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x7c,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "I-I see. The first rule of customer service is to greet them when they enter..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Th-Then the second rule of customer service is asking what they're looking for..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x12b,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "I'm sorry, I'm in a bit of a hurry since I'm still watching over my store. Can I get a few of those kitty breads?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Ce-Certainly. I'll begin packaging them right away...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1a0,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Thanks. Well, I'll be going now. See you, Ayesha and Mr. Baker."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x79,
+            "expr_id": 0x3,
+            "msg_id": 0x18,
+            "msg_string": "Th-Th-Th-Thank you very much!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x19,
+            "msg_string": "(Mr. Fred gets so stiff in front of Marietta. I wonder why...)"
+        }
+    ]
+}

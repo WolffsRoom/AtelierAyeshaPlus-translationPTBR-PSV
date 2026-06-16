@@ -1,0 +1,158 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MS05_020.ebm",
+    "nb_messages": 0x11,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1e4,
+            "expr_id": 0x2,
+            "msg_id": 0x0,
+            "msg_string": "Okay, we shall now begin our customary event, the Thrilling Treasure Contest!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1e6,
+            "expr_id": 0x2,
+            "msg_id": 0x1,
+            "msg_string": "First, we'd like to ask the organizer to say a few words!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x18,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "*ahem* To all the ladies and gentlemen who are kindred spirits...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "I am the organizer of this contest, Harry Olson!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x22,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "As the organizer, I promise to<CR>go all-out to win this contest,<CR>just like I did last time!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x23,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "And this time, I'm looking forward to finding a challenger who can compete with me! In other words..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x22,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Last time, the glory went to a lucky rookie, but a fluke win doesn't happen twice!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x23,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "The lion always exerts all of its power! I'll show you this time! Namely..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Ergh, Mr. Harry is totally staring at me... But..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x22,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Promising challengers participated last time, and I'm happy this contest's level of competition has increased!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x23,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "HOWEVER! As the organizer, I do not intend to let the glory slip through my fingers! That means..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Mr. Harry sure looks upset...but I am, too..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "If I'm gonna participate, I wanna get good results...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Uhh, I'm getting nervous. Can I really do this!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x23,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "...is what that means. And, I want this contest to eventually become the world's‐"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1a6,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Okay, since this can go on forever, let's cut it right there! Thank you so much!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1e8,
+            "expr_id": 0x2,
+            "msg_id": 0x10,
+            "msg_string": "Now, let's start the Thrilling Treasure Contest!"
+        }
+    ]
+}

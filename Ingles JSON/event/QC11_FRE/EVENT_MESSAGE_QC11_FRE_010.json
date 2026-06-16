@@ -1,0 +1,196 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC11_FRE_010.ebm",
+    "nb_messages": 0x15,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0x12,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x0,
+            "msg_string": "I finally obtained it...my very own castle. For me, by me!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "msg_string": "(Whoa, he's such a tall man...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0x12,
+            "extra_id": 0x44,
+            "expr_id": 0x2,
+            "msg_id": 0x2,
+            "msg_string": "From now on, I can bake whatever I want to my heart's content inside this castle...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Castle? Bake...? Umm, excuse me.<CR>What are you gonna be doing here?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0x12,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Here? This is going to be a bakery."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x5,
+            "msg_string": "Oh, a bakery? How exciting!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x35,
+            "expr_id": 0x2,
+            "msg_id": 0x6,
+            "msg_string": "Freshly baked bread is sooo tasty!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0x59,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "That's right. Bread is delicious!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0x59,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "It brings harmony to various dishes,<CR>and gives us the vitality for life!<CR>That...is the power of bread!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0x59,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Flour and rye. Butter and egg.<CR>This weaving harmony of fascinating<CR>ingredients is a melody of the angels."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "I-I see. I can tell that you probably really love bread..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0x59,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0xb,
+            "msg_string": "Oops, sorry. I got too passionate.<CR>I can't help myself when it comes<CR>to bread."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0x59,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0xc,
+            "msg_string": "After all my training, I'm finally ready to open my own shop. This is a deeply emotional moment for me..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0x59,
+            "extra_id": 0x44,
+            "expr_id": 0x2,
+            "msg_id": 0xd,
+            "msg_string": "Now I can bake my ideal bread,<CR>which has long been my dream..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0x5,
+            "msg_id": 0xe,
+            "msg_string": "Your ideal bread? Does that mean you're aiming to make delicious bread?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0x59,
+            "extra_id": 0x176,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "It's a little different. My ideal is to get many people to eat my bread."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0x59,
+            "extra_id": 0x179,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "And through my bread, I want to make people smile. I hope I can accomplish that with this bakery."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Wow, that's a great goal! Please do your best."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0x59,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Thank you. It'll still be some time until the grand opening, but I would greatly appreciate your patronage."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Yes! I'll be looking forward to it!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x14,
+            "msg_string": "(A bakery! I can't wait to eat freshly baked bread!)"
+        }
+    ]
+}

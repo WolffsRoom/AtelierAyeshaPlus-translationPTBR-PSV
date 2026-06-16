@@ -1,0 +1,52 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC14_NAN_630.ebm",
+    "nb_messages": 0x5,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x0,
+            "msg_string": "Huh? There's a calf...<CR>Could that be Poro!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x78,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Heeey, Poro! Come here!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x206,
+            "name_id": 0x20,
+            "extra_id": 0x22f,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "msg_string": "Moo?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "Ah! She runs away when you call<CR>her name... Shoot!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Wait, Poro!"
+        }
+    ]
+}

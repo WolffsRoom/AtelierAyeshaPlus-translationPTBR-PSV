@@ -1,0 +1,391 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_ZZ01_130.ebm",
+    "nb_messages": 0x30,
+    "messages": [
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "msg_string": "セリフ００　基本"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "msg_string": "セリフ０１　通常"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "msg_string": "セリフ０２　通常＝"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "msg_string": "セリフ０３　通常手振"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "msg_string": "セリフ０４　通常手振＋"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "msg_string": "セリフ０５　通常戻り"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "msg_string": "セリフ０６　喜１"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "msg_string": "セリフ０７　喜１＝"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x8,
+            "msg_string": "セリフ０８　喜２"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x9,
+            "msg_string": "セリフ０９　喜２＋"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "msg_string": "セリフ１０　喜２＝"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xb,
+            "msg_string": "セリフ１１　喜び戻り★"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xc,
+            "msg_string": "セリフ１２　怒１"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "msg_string": "セリフ１３　怒１＝"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xe,
+            "msg_string": "セリフ１４　怒２"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "msg_string": "セリフ１５　怒２＝"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x10,
+            "msg_string": "セリフ１６　怒２手振"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x11,
+            "msg_string": "セリフ１７　怒２手振＋"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "msg_string": "セリフ１８　怒１戻り★"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13,
+            "msg_string": "セリフ１９　怒２戻り★"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x14,
+            "msg_string": "セリフ２０　悲し"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x15,
+            "msg_string": "セリフ２１　悲し＝"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "msg_string": "セリフ２２　悲し戻り★"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x17,
+            "msg_string": "セリフ２３　照れ"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x18,
+            "msg_string": "セリフ２４　照れ＝"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x19,
+            "msg_string": "セリフ２５　照れ戻り★"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1a,
+            "msg_string": "セリフ２６　驚１"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1b,
+            "msg_string": "セリフ２７　驚１＝"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1c,
+            "msg_string": "セリフ２８　驚２"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1d,
+            "msg_string": "セリフ２９　驚２＋"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1e,
+            "msg_string": "セリフ３０　驚２＝"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1f,
+            "msg_string": "セリフ３１　驚１戻り★"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x20,
+            "msg_string": "セリフ３２　驚２戻り★"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x21,
+            "msg_string": "セリフ３３　呆れ"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x22,
+            "msg_string": "セリフ３４　呆れ＝"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x23,
+            "msg_string": "セリフ３５　呆れ戻り★"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x24,
+            "msg_string": "セリフ３６　考え"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x25,
+            "msg_string": "セリフ３７　考え＝"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x26,
+            "msg_string": "セリフ３８　考え戻り★"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x27,
+            "msg_string": "セリフ３９　基本ｙｓ"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x28,
+            "msg_string": "セリフ４０　基本ｎｏ"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x29,
+            "msg_string": "セリフ４１　通常ｙｓ"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2a,
+            "msg_string": "セリフ４２　通常ｎｏ"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2b,
+            "msg_string": "セリフ４３　基本手２＋"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2c,
+            "msg_string": "セリフ４４　通常手２＋"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2d,
+            "msg_string": "セリフ４５　基本閃き"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2e,
+            "msg_string": "セリフ４６　基本ｈｉ"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2f,
+            "msg_string": "セリフ４７　基本ｂｙ"
+        }
+    ]
+}

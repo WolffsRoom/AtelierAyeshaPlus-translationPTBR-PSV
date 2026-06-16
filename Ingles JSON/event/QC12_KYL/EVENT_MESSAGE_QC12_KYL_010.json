@@ -1,0 +1,477 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC12_KYL_010.ebm",
+    "nb_messages": 0x35,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Wow...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x205,
+            "name_id": 0x1f,
+            "extra_id": 0x216,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "msg_string": "Oink moo?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Those are hot air balloons. You can fly across the sky if you ride one."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x205,
+            "name_id": 0x1f,
+            "extra_id": 0x216,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "msg_string": "Moo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Now that we're seeing balloons, that has to be the town of Hornheim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "It's smaller than Vierzeberg, but it's still magnificent."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x205,
+            "name_id": 0x1f,
+            "extra_id": 0x216,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "msg_string": "Oink moo."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "I have some business to attend to in this town. Would it be okay if I just go and get it over with?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Sure. I'll just wait for you here."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "I know, I should go look at the balloons while I'm waiting."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "I know, I should check out the balloons before I head to the inn."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "I think they're moored at the pier. I did some research beforehand."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Alrighty! Let's go, Pana!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0xd,
+            "msg_string": "...Huh? That's weird. I'm back to the place I was just at..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Maybe it's this way...<CR>Balloons, here I come!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Huh? This is where I started from... Why do I keep ending up at the same place?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0x12,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "What are you doing, circling around the same place over and over again?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Hyah!<CR>Wh-Who are you?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0x12,
+            "extra_id": 0x10c,
+            "expr_id": 0x4,
+            "msg_id": 0x12,
+            "msg_string": "Whoops. It's impolite to call out to a girl from behind. I'm so sorry."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0x12,
+            "extra_id": 0x10e,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "I'm not some creep. You seemed like you could use some help, so I was just trying to help you."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Well, I think I'm lost. I wanted to go to the pier to see the balloons..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0x12,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Oh, the pier. I see, I see. Well then, I'll take ya there. Nooo problem."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "U-Umm, it'll be more than enough if you could just tell me how to get there... *mumble* *mumble*"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0x12,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "It's on my way, so don't worry about it. Come on, follow me."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x18,
+            "msg_string": "(He doesn't seem like a bad person... But, I know I shouldn't follow strangers...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0x12,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "C'mooon! I'm gonna leave you behind if you don't hurry."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Oh, okay, I'm coming."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0x12,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "And, here we are. This is the pier for the town's west entrance."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0x12,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Don't look down or you'll wet yourself!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Then I'll look up! Whoa! So from here on out, the sky is the road."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0x12,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Yup, we have trade with towns waaay across the sky, too."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0x12,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "We're not as big of a town as Hornheim, but we're strategically located for business and transportation."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "So that's why it's so lively..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0x12,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "Correctamundo. Haha, isn't this a nice town?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "And I own a tavern in this nice town. I'm Kyle. And you are?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "Oh, Ayesha. I'm Ayesha Altugle, an apothecary."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x24,
+            "msg_string": "Hmm...I bet I could fully recover from the brink of death if I took medicine made by a beautiful girl like you."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x25,
+            "msg_string": "Beautiful...!? I'm not that...<CR>*mumble* *mumble*"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x26,
+            "msg_string": "How long are you gonna be here for? The next time I catch a cold, I'll buy some medicine from you."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x10c,
+            "expr_id": 0x4,
+            "msg_id": 0x27,
+            "msg_string": "Although, I never catch colds...<CR>Hahaha, I guess handsome guys don't<CR>catch them."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x28,
+            "msg_string": "I make household medicines, as well. Please use them next time."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x10e,
+            "expr_id": 0x0,
+            "msg_id": 0x29,
+            "msg_string": "Yeah, I definitely will. Whoops, I need to head back to my tavern."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x2a,
+            "msg_string": "My tavern's called \"White Crow.\" It's a little ways down from here. Stop by whenever you please."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x1a1,
+            "expr_id": 0x0,
+            "msg_id": 0x2b,
+            "msg_string": "See ya!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2c,
+            "msg_string": "U-Umm, thank you for showing me the way!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x2d,
+            "msg_string": "There he goes... He seemed like a fun person."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x2e,
+            "msg_string": "Which reminds me, Juris hasn't come back yet..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0x2f,
+            "msg_string": "Sorry. My business took longer than I thought. You must've been bored while you were waiting..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x30,
+            "msg_string": "Welcome back!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x31,
+            "msg_string": "Hehehe, it was fine, since the owner of a tavern showed me around town."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xb,
+            "expr_id": 0x0,
+            "msg_id": 0x32,
+            "msg_string": "Hmm, the owner of a tavern...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x33,
+            "msg_string": "Yes. Umm, is something wrong?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x12,
+            "expr_id": 0x0,
+            "msg_id": 0x34,
+            "msg_string": "No, it's nothing. Let's go."
+        }
+    ]
+}

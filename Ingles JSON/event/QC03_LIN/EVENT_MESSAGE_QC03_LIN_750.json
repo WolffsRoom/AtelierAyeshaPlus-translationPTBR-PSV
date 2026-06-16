@@ -1,0 +1,504 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC03_LIN_750.ebm",
+    "nb_messages": 0x36,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x212,
+            "name_id": 0x29,
+            "extra_id": 0x1c3,
+            "expr_id": 0x2,
+            "msg_id": 0x0,
+            "msg_string": "I've been waiting... I see you relayed the message for me..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x212,
+            "name_id": 0x29,
+            "extra_id": 0x1c4,
+            "expr_id": 0x2,
+            "msg_id": 0x1,
+            "msg_string": "Thanks, Ayesha cupcake."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "No, well...I wonder if I'm supposed to say you're welcome..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "We aren't obligated to put up with you, but we can't let you cause trouble for the people around us."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x4,
+            "msg_string": "Stop stalking Ayesha!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x212,
+            "name_id": 0x29,
+            "extra_id": 0x1c4,
+            "expr_id": 0x2,
+            "msg_id": 0x5,
+            "msg_string": "I will, if I get what I want. Now, give me what's most important to you."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "...This is it."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x212,
+            "name_id": 0x29,
+            "extra_id": 0x1c4,
+            "expr_id": 0x2,
+            "msg_id": 0x7,
+            "msg_string": "...This is what's most important to you?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "It's what we've been investigating for the past few years. Nothing we possess is more important to us than this."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x212,
+            "name_id": 0x29,
+            "extra_id": 0x1c4,
+            "expr_id": 0x2,
+            "msg_id": 0x9,
+            "msg_string": "I see. Then let me test...whether or not this really is what's most important."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x7a,
+            "expr_id": 0x3,
+            "msg_id": 0xa,
+            "msg_string": "What...!?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x212,
+            "name_id": 0x29,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xb,
+            "unknown2": 0x1,
+            "msg_string": "See? It wasn't."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xc,
+            "unknown2": 0x1,
+            "msg_string": "Tsk..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x212,
+            "name_id": 0x29,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "unknown2": 0x1,
+            "msg_string": "I don't care about papers. Linca, I'm gonna take what's most important from you..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x212,
+            "name_id": 0x29,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xe,
+            "unknown2": 0x1,
+            "msg_string": "And, I will also be taking you back. That's my purpose for coming here!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "unknown2": 0x1,
+            "msg_string": "I will not allow you to do that...!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x10,
+            "unknown2": 0x1,
+            "msg_string": "She was the only one who escaped our tight besiegement during that battle. Her skills aren't ordinary."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x11,
+            "unknown2": 0x1,
+            "msg_string": "Be careful, Linca!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "unknown2": 0x1,
+            "msg_string": "There is no need for worry!<CR>I am no longer my former self!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x212,
+            "name_id": 0x29,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13,
+            "unknown2": 0x1,
+            "msg_string": "You think that you, the lowest of our ranks, can defeat me?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x14,
+            "unknown2": 0x1,
+            "msg_string": "I have grown strong after coming to this land. Do not believe that I am still merely what I was in the past."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x212,
+            "name_id": 0x29,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x15,
+            "unknown2": 0x1,
+            "msg_string": "I'm surprised you can say that while you have two weights dragging you down..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "unknown2": 0x1,
+            "msg_string": "Marion and Ayesha are not dragging me down...!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x17,
+            "unknown2": 0x1,
+            "msg_string": "In the past, all I did was follow orders."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x18,
+            "unknown2": 0x1,
+            "msg_string": "I want to protect these two of my own free will. I will become the sword that protects them!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x19,
+            "unknown2": 0x1,
+            "msg_string": "I am much stronger than I was before!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1a,
+            "unknown2": 0x1,
+            "msg_string": "(Ohhh, what should I do...?)"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1b,
+            "unknown2": 0x1,
+            "msg_string": "(I'll just get sliced up if I jump in, and I can't throw bombs at people...)"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1c,
+            "unknown2": 0x1,
+            "msg_string": "Do not worry, Ayesha. Please stay there and watch!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1d,
+            "unknown2": 0x1,
+            "msg_string": "Huh...?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1e,
+            "unknown2": 0x1,
+            "msg_string": "I...will not lose!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x212,
+            "name_id": 0x29,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1f,
+            "unknown2": 0x1,
+            "msg_string": "Wha...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x212,
+            "name_id": 0x29,
+            "expr_id": 0x2,
+            "msg_id": 0x20,
+            "msg_string": "How could I...? To that girl...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "I told you, I am different than before."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "I am not merely acting on orders.<CR>I am fighting of my own free will."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x212,
+            "name_id": 0x29,
+            "expr_id": 0x2,
+            "msg_id": 0x23,
+            "msg_string": "Hmph...! You've got quite the mouth on you now..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x212,
+            "name_id": 0x29,
+            "expr_id": 0x2,
+            "msg_id": 0x24,
+            "msg_string": "But...you still can't defeat me.<CR>Wanna try?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x212,
+            "name_id": 0x29,
+            "expr_id": 0x2,
+            "msg_id": 0x25,
+            "msg_string": "See, what'd I tell you?<CR>You can't defeat me after all."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x26,
+            "msg_string": "No, this is my victory..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x212,
+            "name_id": 0x29,
+            "expr_id": 0x2,
+            "msg_id": 0x27,
+            "msg_string": "Huh? Kyah!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x28,
+            "msg_string": "Marion, Ayesha, are you all right?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x29,
+            "msg_string": "I'm not hurt, and it's all thanks to you."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2a,
+            "msg_string": "I'm fine, too. Umm, what about the other Linca...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x212,
+            "name_id": 0x29,
+            "extra_id": 0x1c3,
+            "expr_id": 0x2,
+            "msg_id": 0x2b,
+            "msg_string": "This isn't what I planned.<CR>This is so not like me..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x212,
+            "name_id": 0x29,
+            "extra_id": 0x1c4,
+            "expr_id": 0x2,
+            "msg_id": 0x2c,
+            "msg_string": "But, I won't give up on you.<CR>You belong to me."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x212,
+            "name_id": 0x29,
+            "extra_id": 0x1c5,
+            "expr_id": 0x2,
+            "msg_id": 0x2d,
+            "msg_string": "I will return to take you back soon enough. Just you wait."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xe9,
+            "expr_id": 0x4,
+            "msg_id": 0x2e,
+            "msg_string": "Soon enough, huh?<CR>Goodness, that child..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x2f,
+            "msg_string": "If she does come back, I will chase her away again. I am already where I belong."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x30,
+            "msg_string": "And, I am not Linca's property.<CR>I am Marion and Ayesha's friend."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x31,
+            "msg_string": "I'm sorry for dragging you down.<CR>I'm glad you two weren't hurt..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xed,
+            "expr_id": 0x0,
+            "msg_id": 0x32,
+            "msg_string": "Us, too. We're sorry we got you mixed up in this. And..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x33,
+            "msg_string": "Thank you for helping Linca. She was only able to win thanks to you."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x34,
+            "msg_string": "And you too, Marion. Now, let us go home."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x35,
+            "msg_string": "(I didn't know what was gonna happen, but I'm glad everyone's okay...)"
+        }
+    ]
+}

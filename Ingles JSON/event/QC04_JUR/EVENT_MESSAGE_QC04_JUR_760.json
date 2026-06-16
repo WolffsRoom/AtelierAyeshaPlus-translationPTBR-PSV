@@ -1,0 +1,42 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC04_JUR_760.ebm",
+    "nb_messages": 0x4,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ayesha, be careful... He's here again."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "Whaaat? Again?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x89,
+            "expr_id": 0x3,
+            "msg_id": 0x2,
+            "msg_string": "We were defeated last time, but this time will be different."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x126,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "I-I don't wanna..."
+        }
+    ]
+}

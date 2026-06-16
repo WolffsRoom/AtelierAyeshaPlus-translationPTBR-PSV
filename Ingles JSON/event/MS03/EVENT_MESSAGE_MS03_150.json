@@ -1,0 +1,198 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MS03_150.ebm",
+    "nb_messages": 0x16,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Huh? Ms. Odelia?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Oh, it's you, Ayesha. How unexpected to see you at a place like this."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Yeah, it feels kinda weird to talk to you outside the Zweiteturm."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x31,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "If I have sufficient reason, I can leave the Zweiteturm under pre-defined conditions."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x33,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "This time, I have the legitimate purpose of collecting ancient books."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "I see, then you're working right now? I'd feel bad about interrupting you, so I'll be going‐"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Ayesha, it must be fate that we have met in town like this."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "I propose we act together for a while."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Haha, okay. Then let's go shopping together."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x198,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "No, you need not worry about that. Shopping was completed without delay."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0xa,
+            "msg_string": "Huh? Then should we go somewhere for tea and sweets‐"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0x198,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "That has already been completed.<CR>I am very full."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0xc,
+            "msg_string": "I see... It seems like all you have left is to go home..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "That is true. However, that is the problem."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "This is not the first time I have visited this town."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Only, that was over 900 years ago, and the townscape has completely changed."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Ms. Odelia, could you be...lost?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0xad,
+            "expr_id": 0x3,
+            "msg_id": 0x11,
+            "msg_string": "O-Of course not. High-performance automatons have a superior sense of direction."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0xae,
+            "expr_id": 0x3,
+            "msg_id": 0x12,
+            "msg_string": "Getting lost...rarely happens."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0xaf,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "If you are going home, I would like to accompany you."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Let us travel to the town's exit together. Just the exit is sufficient."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x15,
+            "msg_string": "Hahaha, okay. I'll guide you to the town's exit!"
+        }
+    ]
+}

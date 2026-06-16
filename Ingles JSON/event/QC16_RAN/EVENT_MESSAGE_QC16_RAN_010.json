@@ -1,0 +1,430 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC16_RAN_010.ebm",
+    "nb_messages": 0x2f,
+    "messages": [
+        {
+            "type": 0x4,
+            "voice_id": 0x10,
+            "name_id": 0x12,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "unknown2": 0x1,
+            "msg_string": "Boohook!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "Hyah! Where did that sound come from!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "Okay, so when I stepped here, there was something soft and..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x10,
+            "name_id": 0x12,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "unknown2": 0x1,
+            "msg_string": "Byeeh!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "Hyah! Did I step on something!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x125,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "Kyaaah! A-A dead person...!?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x10,
+            "name_id": 0x12,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "unknown2": 0x1,
+            "msg_string": "Hm...hmmm...."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x127,
+            "expr_id": 0x4,
+            "msg_id": 0x7,
+            "msg_string": "Hyah, kyaaah! H-H-H-He revived!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x12,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Hello, you have a beautiful voice. Thanks to you, I was able to have a refreshing awakening."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x128,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "...Huh?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x12,
+            "extra_id": 0x17,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "However, I feel like I'm about to slip back into a deep sleep. A deep, deep sleep...never to awaken again."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Umm, I'm sorry I stepped on you."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "And I'm glad you were able to revive..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x12,
+            "extra_id": 0x196,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Well, well, you're presumption is not altogether wrong..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x12,
+            "extra_id": 0xe1,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "Right now, I'm being exposed to the crises of life."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x12,
+            "extra_id": 0xe2,
+            "expr_id": 0x4,
+            "msg_id": 0xf,
+            "msg_string": "To get a better understanding of each other, could you please ask what happened to me?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Oh, okay. Umm, so what happened to you?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x12,
+            "extra_id": 0xe3,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Well, I wonder if you can hear this melody..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x12,
+            "extra_id": 0x15,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "So that is it..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "You're hungry? Then, you can have my lunch."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x12,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Whew, it seems like I was able to calm down. You're a lifesaver! Thank you."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x38,
+            "expr_id": 0x2,
+            "msg_id": 0x15,
+            "msg_string": "I'm glad I was able to help. But calling me a lifesaver is a bit much..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x188,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "No, no, I haven't had anything to eat in three days. I was beginning to see the landscape of the angels..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3a,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Landscape of the angels...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x18a,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "It was an ethereal scene. If you hadn't stepped on me, it would've been very dangerous for me."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Hahahaha! Goodness gracious."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0x1a,
+            "msg_string": "I don't think that's something to laugh about... Didn't you bring any food with you?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xe5,
+            "expr_id": 0x4,
+            "msg_id": 0x1b,
+            "msg_string": "No. To be honest, I accidentally forgot to buy food before I left on my journey."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc5,
+            "expr_id": 0x4,
+            "msg_id": 0x1c,
+            "msg_string": "I don't think that's something you can \"accidentally\" forget..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xe7,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "No, no, that happens a lot, actually. But I've always been able to manage."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "This place has a rather higher amount of traffic, so I assumed that someone would come save me. But..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Sadly, no one came by for three days. And so..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x17,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Beautiful miss, if you have any food to spare, it would be great if I could have some of it."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc6,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "Oh, yes. I brought some extra, just in case. So, here!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "Thank you. I can probably make it back to town with this."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "This is all I have...to give to my savior."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x4e,
+            "expr_id": 0x2,
+            "msg_id": 0x24,
+            "msg_string": "So, here goes..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x25,
+            "msg_string": "No, it's okay. You still don't look that well!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x50,
+            "expr_id": 0x0,
+            "msg_id": 0x26,
+            "msg_string": "Oh, you're very observant. To be honest, my vision is still out of focus..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x27,
+            "msg_string": "Then, let me at least tell you my name."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x19f,
+            "expr_id": 0x0,
+            "msg_id": 0x28,
+            "msg_string": "I am Ranun. I wander about, playing music and reciting folklore about the stars and sky, and the seas and ruins."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x29,
+            "msg_string": "I'm a seeker of sounds, collecting music that has been scattered throughout the world!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x2a,
+            "msg_string": "My name is Ayesha. Nice to meet you."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x2b,
+            "msg_string": "Ayesha, yes. You're just like a fairy. What a splendid name..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x2c,
+            "msg_string": "I feel some sort of connection with you. Like we might meet again somewhere."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x19f,
+            "expr_id": 0x0,
+            "msg_id": 0x2d,
+            "msg_string": "I'll repay you for today, some other day. Well, see ya."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2e,
+            "msg_string": "(Ranun... He's a very...very interesting person...)"
+        }
+    ]
+}

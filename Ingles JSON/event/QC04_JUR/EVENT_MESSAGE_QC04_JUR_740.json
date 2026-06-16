@@ -1,0 +1,233 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC04_JUR_740.ebm",
+    "nb_messages": 0x19,
+    "messages": [
+        {
+            "type": 0x4,
+            "voice_id": 0x41,
+            "name_id": 0x12,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "unknown2": 0x1,
+            "msg_string": "Urrr..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Huh? Juris, did you just growl?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x194,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "...No, that wasn't me. That was...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "Kyah!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x41,
+            "name_id": 0x52,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "unknown2": 0x1,
+            "msg_string": "Urrrrrr...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x129,
+            "expr_id": 0x3,
+            "msg_id": 0x5,
+            "msg_string": "So it was you..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x123,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "Wh-What should we do, Juris?<CR>Mr. Wolf seems kinda mad..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x41,
+            "name_id": 0x52,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "unknown2": 0x1,
+            "msg_string": "Grrr!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "He left... He surprised me, but do you think he forgave us?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x12b,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "No... That was most likely a declaration of war."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "He's smart. I'm sure he understands the situation he's in."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "I heard his pack was completely wiped out shortly after he was captured."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "He probably has a grudge against me.<CR>His malice was far beyond that of a<CR>normal beast's."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "I-I see... I didn't really notice anything."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x12,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "It's no longer someone else's problem for you, Ayesha. He might target you in the future."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "He might've acknowledged us to be comrades in the same pack."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x10,
+            "msg_string": "Eeeh! Wh-Wh-Whaaat...!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "From now on, try to stay close to me whenever we leave town."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "We never know when we might be attacked, so keep your guard up."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x126,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "Hyaaah... I feel like I got dragged into doing something terrible..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "He's the same as me...one who hunts.<CR>The stronger one will win.<CR>I'm sure he'd agree to that."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x89,
+            "expr_id": 0x3,
+            "msg_id": 0x15,
+            "msg_string": "He's lurking somewhere near this area. We should dare to accept his invitation and..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x8a,
+            "expr_id": 0x3,
+            "msg_id": 0x16,
+            "msg_string": "...Just as I thought.<CR>Now, let the hunt begin."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x127,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x17,
+            "msg_string": "(Urgh, something's different about<CR>Juris...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x127,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x18,
+            "msg_string": "(A competition to see who will be hunted down first is too scary...)"
+        }
+    ]
+}

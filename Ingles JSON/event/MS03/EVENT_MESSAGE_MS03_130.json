@@ -1,0 +1,223 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MS03_130.ebm",
+    "nb_messages": 0x18,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Oh, Fred, are you shopping?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xd4,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "Yeah, umm, well, I was thinking of buying a present for a certain person..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Ooh, for Marietta?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xd2,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "H-H-H-How did you know!? I haven't said anything..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x4,
+            "msg_string": "Haha, it was written all over your face."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x176,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "My face!? I-I see. I need to be more careful..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x17a,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Well, Marietta has always helped me,<CR>so I wanted to thank her in some way."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x174,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "However, if it's not bread, I don't know much about it. I don't even have the slightest idea of what to give her."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Picking out presents is hard, since you want the person to like it."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x174,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Oh, I know! If you were me, what would you give Marietta?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0xa,
+            "msg_string": "Hmm... I can think of a few things,<CR>but I won't tell you..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0xb,
+            "msg_string": "Because it'll only mean something if you pick it out."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x177,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "I-I see... I think you're right..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Well, I'll give you one suggestion.<CR>Why not pick something that the person<CR>would be delighted to get?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x178,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "I-It's still hard, but okay. Hmm, something Marietta would be delighted with..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x179,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Oh, I know, how about a rare-looking, snake necklace that I found in foreign merchant's shop?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "A sn-snake!? I don't think she'll be too delighted with that..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "So that's no good? Then how about an essential for traveling through the desert, a stunning turban?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "I think its exotic foreignness would be perfect for Marietta."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "I-I wonder... I don't think Marietta travels through the desert a lot..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Then, how about a porcelain kiln that makes it easy for anyone to be able to bake bread...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "I think that's good, but if you gave her that, I feel like she'd go to your bakery less often..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x147,
+            "expr_id": 0x4,
+            "msg_id": 0x16,
+            "msg_string": "Th-That won't do!<CR>Hmmm, then how about...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x17,
+            "msg_string": "(Hmm, maybe I should tell him<CR>specifically...)"
+        }
+    ]
+}

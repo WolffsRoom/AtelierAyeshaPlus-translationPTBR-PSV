@@ -1,0 +1,365 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC08_HAR_010.ebm",
+    "nb_messages": 0x28,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x58,
+            "extra_id": 0x1a0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Well, well, I hope I didn't keep you waiting too long. You see, I am a busy guy..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "msg_string": "(Whoa, he's very...flamboyant.)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x58,
+            "extra_id": 0x18,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "I am the Commercial and Industrial Association Assistant Vice-Director, Riesengang Government Chairperson..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x58,
+            "extra_id": 0x19,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "President of the Occasional Rare Item Enthusiasts Society, and the organizer of the Thrilling Treasure Contest..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x22,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Yes. I am the famous Harry Olson!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Now then, when you're as famous as I am, it seems your fans will even raid your house..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x56,
+            "expr_id": 0x2,
+            "msg_id": 0x6,
+            "msg_string": "How troublesome. Even so, I promise not to mistreat you."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x5e,
+            "expr_id": 0x2,
+            "msg_id": 0x7,
+            "msg_string": "I'll willingly give you an autograph. It is, after all, part of my mission."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Yes, umm...thank you very much."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Hey now, that's not it. We came here to ask you a question."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Ayesha, if you don't want it, you definitely have to tell him that you don't want it."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Anyway, we have a question for you. Harry, you're familiar with weird stuff, right?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "This girl is looking for rare flowers. Do you know anything about that?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x57,
+            "expr_id": 0x2,
+            "msg_id": 0xd,
+            "msg_string": "Hmm, flowers you say!? Flowers are my field of expertise. Well, every field is my expertise."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x58,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Come now, ask me anything."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1a5,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Okay. Umm, it's about this flower. Would you happen to know anything about it?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15e,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Ohh, this is...hmm...<CR>Hrmh...I-I-I see, I see..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15f,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "...Got it!<CR>This is...that!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "You know something about it!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x161,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Hmhmhm, I told you earlier, my knowledge in the field of science is wide and deep."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "There is absolutely nothing that I don't know about. However..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xb0,
+            "expr_id": 0x3,
+            "msg_id": 0x15,
+            "msg_string": "It's right on the tip of my tongue,<CR>but its name escapes me. I seem to be suffering a...so-called memory lapse."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "That seems kiiinda suspicious... Harry, you seem to be sweating quite a lot."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xb6,
+            "expr_id": 0x3,
+            "msg_id": 0x17,
+            "msg_string": "Wh-What? Are you accusing me of lying? Stop looking at me like you don't believe me."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xb2,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "I'm sorry, but would you please give me some time? I'll try to remember it."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "So you're trying to buy some time, and plan to do some desperation research?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x141,
+            "expr_id": 0x4,
+            "msg_id": 0x1a,
+            "msg_string": "O-O-Of course not! I told you, there's nothing that I don't know."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Well, whatever the case may be, I don't mind. We'll come back later."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x143,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Sorry. Not necessarily to make up for it..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "But you're welcome to freely use a spare room while you wait."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd0,
+            "expr_id": 0x4,
+            "msg_id": 0x1e,
+            "msg_string": "We're grateful, but...how many days do you plan on taking to remember?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Huh? Oh, one or two days...<CR>Otherwise, one or two weeks...<CR>Either that, or..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd3,
+            "expr_id": 0x4,
+            "msg_id": 0x20,
+            "msg_string": "Okay, okay, do your best to somehow remember or research it."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd5,
+            "expr_id": 0x4,
+            "msg_id": 0x21,
+            "msg_string": "We're counting on you."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "Leave it to me. I'm a man who never betrays your expectations. Now..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x21,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "Why don't I go ahead and take you to the room you'll be using during your stay?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "Oh, are you sure? But..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd6,
+            "expr_id": 0x0,
+            "msg_id": 0x25,
+            "msg_string": "You should take him up on this kind offer. Staying at an inn would get expensive."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x26,
+            "msg_string": "Being helpful and looking after people is Harry's strong point."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x27,
+            "msg_string": "Okay. Then, I'd like to accept that offer."
+        }
+    ]
+}

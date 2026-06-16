@@ -1,0 +1,146 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC13_ODI_730.ebm",
+    "nb_messages": 0xf,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ms. Odelia! What's wrong!?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "unknown2": 0x1,
+            "msg_string": "..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "unknown2": 0x1,
+            "msg_string": "Ma...s...ter...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "It seems like her memory is temporarily malfunctioning."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "unknown2": 0x1,
+            "msg_string": "But there's no need to worry. It's probably only because of the temporary load of restoring the control system."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "unknown2": 0x1,
+            "msg_string": "It doesn't look like her basic<CR>configuration has broken down.<CR>I'll make some modifications."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x6,
+            "msg_string": "Will Ms. Odelia...be okay?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "unknown2": 0x1,
+            "msg_string": "There probably won't be any problem. Although, it may take some time..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x8,
+            "unknown2": 0x1,
+            "msg_string": "Master...I..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x78,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Ms. Odelia... She's calling you Master."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "She's probably just dreaming. I'm sure even automatons have dreams when they're running a temperature."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Just leave her to me. I'll take care of everything."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x17,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Without her, the library's operations will be affected, as well. I wouldn't want that to happen."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Okay. Please take care of her...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xe,
+            "msg_string": "(Ms. Odelia, please get well soon...)"
+        }
+    ]
+}

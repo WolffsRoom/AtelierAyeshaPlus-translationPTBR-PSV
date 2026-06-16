@@ -1,0 +1,91 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC13_ODI_720.ebm",
+    "nb_messages": 0x9,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Hmph... So this is the control panel? This facility sure was created with a troublesome structure."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "unknown2": 0x1,
+            "msg_string": "It is necessary to ensure that the situation cannot get worse when the worst thing that can happen, happens."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "unknown2": 0x1,
+            "msg_string": "Now, I am fully prepared. Please go ahead and operate the control panel."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "O-Okay. I'll move it."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "unknown2": 0x1,
+            "msg_string": "I have succeeded in stopping the control system. Advancing on to reconstructing the control system."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "unknown2": 0x1,
+            "msg_string": "The rest of the work is mine. Would both of you please return to me while securing your own personal well-being?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x17,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Goodness. It seems like we can finally find some relief, but..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "You can do it, Ms. Odelia...!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x8,
+            "name_id": 0xd,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x8,
+            "unknown2": 0x1,
+            "msg_string": "Yes. I have to protect this place that Master has left for me...!"
+        }
+    ]
+}

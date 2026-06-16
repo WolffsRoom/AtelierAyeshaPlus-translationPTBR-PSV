@@ -1,0 +1,91 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM06_ST4_050.ebm",
+    "nb_messages": 0x9,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "The flowers are in bloom here, too... They're so pretty..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "If this is the place Ms. Odelia told me about..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x3e,
+            "name_id": 0x12,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "unknown2": 0x1,
+            "msg_string": "Welcome...is what I would like to say, but I cannot allow you to intrude any further."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x3e,
+            "name_id": 0x12,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "unknown2": 0x1,
+            "msg_string": "Heed this warning, unbidden guest. Continue no further and leave the premises of my jurisdiction."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x4,
+            "msg_string": "I knew it! So this is the cradle...<CR>In that case, I can't go back...!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x3e,
+            "name_id": 0x12,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "unknown2": 0x1,
+            "msg_string": "I am the one who protects the seed.<CR>I only exist to carry out my duty."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x3e,
+            "name_id": 0x12,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "unknown2": 0x1,
+            "msg_string": "As the one who protects the seed, I possess no desire to murder aimlessly. However..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x3e,
+            "name_id": 0x12,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "unknown2": 0x1,
+            "msg_string": "If you proceed any further, I will presume you to be one who threatens the preservation of the seed."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7a,
+            "expr_id": 0x3,
+            "msg_id": 0x8,
+            "msg_string": "I came here to take Nio back. No matter what you say, I won't be going back without her!"
+        }
+    ]
+}

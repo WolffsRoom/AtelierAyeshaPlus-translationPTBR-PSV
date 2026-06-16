@@ -1,0 +1,178 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC08_HAR_410.ebm",
+    "nb_messages": 0x13,
+    "messages": [
+        {
+            "type": 0x0,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "So, the time has finally come...<CR>There's a slight tinge of loneliness,<CR>but more than that..."
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "I'm happy!"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Yes... Umm, what are we talking about?"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Hey now, don't be so modest.<CR>We have come to a showdown."
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "I hereby declare, the birth of the Thrilling Treasure Contest's..."
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Second Grand Champion!"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Oh. Umm...congratulations...?"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "You're the one who's receiving that title. Congrats, Ayesha."
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "You have gained the right to be the Grand Champion."
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "The first champ, myself, shall hand down these laurels to you!"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "T-To me? *gasp*<CR>That's not necessary..."
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "No, you'll be able to fill my shoes perfectly."
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Becoming an author of treasure books, giving lectures on antiques, organizing the Thrilling Treasure Contest..."
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "There's lots of work to be done, Ayesha!"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "No, that's not possible. I couldn't possibly take your place, Mr. Harry."
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Not taking my place. From now on, we'll be walking the same path together."
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Huh?"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Of course, someday I will take back the title of Grand Champion. Hmhmhm..."
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "(Wh-What did I get myself into?<CR>I think I worked too hard...)"
+        }
+    ]
+}

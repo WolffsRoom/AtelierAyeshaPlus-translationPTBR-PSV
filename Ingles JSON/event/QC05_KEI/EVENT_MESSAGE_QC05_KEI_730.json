@@ -1,0 +1,35 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC05_KEI_730.ebm",
+    "nb_messages": 0x3,
+    "messages": [
+        {
+            "type": 0x4,
+            "voice_id": 0x38,
+            "name_id": 0x12,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "unknown2": 0x1,
+            "msg_string": "Vroon!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x1,
+            "msg_string": "There he is... It seems like he's gotten bigger. Maybe it's just me..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0x2,
+            "msg_string": "He doesn't seem to have spotted me yet. I hope I'm ready for this..."
+        }
+    ]
+}

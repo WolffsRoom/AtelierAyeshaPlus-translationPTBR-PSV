@@ -1,0 +1,248 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC07_MAR_010.ebm",
+    "nb_messages": 0x1b,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x12,
+            "extra_id": 0x99,
+            "expr_id": 0x3,
+            "msg_id": 0x0,
+            "msg_string": "Mr. Glide, I've been telling you that I won't get in the way of your work!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x12,
+            "extra_id": 0x9a,
+            "expr_id": 0x3,
+            "msg_id": 0x1,
+            "msg_string": "All I'm saying is that I wanna get a little peek at the ruin!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1f8,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "msg_string": "You just don't understand, do you? It's dangerous in there, so I can't let you in."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1ff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "msg_string": "Women and children need to stay out!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x12,
+            "extra_id": 0x9d,
+            "expr_id": 0x3,
+            "msg_id": 0x4,
+            "msg_string": "Being a woman has nothing to do with this! ...Excuse me for raising my voice."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x12,
+            "extra_id": 0x9b,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Besides, I saw a girl go in there a few moments ago..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x201,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "msg_string": "Oh, Regina? She's like a guy. She may not look like it, but she's a seasoned prospector."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1f9,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "msg_string": "It'd be a different story if you were gonna train your body and become a prospector."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1fc,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x8,
+            "msg_string": "What would a missy like you want with this ruin in the first place?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x12,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Are you serious? I just told you that a moment ago."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1f9,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "msg_string": "Ahh, sorry! I'm just not good with detailed stories. Either way, you're not allowed in the ruin!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x12,
+            "extra_id": 0x194,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Goodness, there's no use in talking to you...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Sh-She seems pretty forceful,<CR>despite how she looks..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x205,
+            "name_id": 0x1f,
+            "extra_id": 0x217,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "msg_string": "*sniff* *sniff* *sniff*"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Oh, Pana, what's the matter all of a sudden?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x205,
+            "name_id": 0x1f,
+            "extra_id": 0x216,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "msg_string": "Oink moo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x1f9,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x10,
+            "msg_string": "Whoa!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x12,
+            "extra_id": 0x122,
+            "expr_id": 0x3,
+            "msg_id": 0x11,
+            "msg_string": "Kyah! Wh-What's up with this cow!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x205,
+            "name_id": 0x1f,
+            "extra_id": 0x21c,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "msg_string": "*munch* *munch* *munch*<CR>...Moooo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x13,
+            "msg_string": "Ohhh, I'm so sorry!<CR>I'll move her right away!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7a,
+            "expr_id": 0x3,
+            "msg_id": 0x14,
+            "msg_string": "Hey, Pana! You need to get out of the way!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x12,
+            "extra_id": 0x126,
+            "expr_id": 0x3,
+            "msg_id": 0x15,
+            "msg_string": "I guess I'll never enter the ruin like this..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x78,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "I'm sorry. Pana is extremely fond of delicious grass..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x12,
+            "extra_id": 0x128,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Hmph, I guess it can't be helped...<CR>I'll come back later."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x7,
+            "name_id": 0x12,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "I'm gonna take a nice long look around the inside of this ruin next time."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20e,
+            "name_id": 0x24,
+            "extra_id": 0x203,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x19,
+            "msg_string": "I won't let you in, no matter how many times you come back. You better believe it!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "To argue with the boss of a prospecting site... She's a powerful lady..."
+        }
+    ]
+}

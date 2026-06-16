@@ -1,0 +1,79 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MS02_030.ebm",
+    "nb_messages": 0x8,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x20f,
+            "name_id": 0x25,
+            "extra_id": 0x206,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "msg_string": "Heya, missy. Have you made up your mind about buying the balloon?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20f,
+            "name_id": 0x25,
+            "extra_id": 0x207,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "msg_string": "I can't give you a discount,<CR>but whattaya say?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "msg_string": "(If I had a balloon, it'd be super convenient, but...what should I do?)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20f,
+            "name_id": 0x25,
+            "extra_id": 0x207,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "msg_string": "All right, sold! Please follow me."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20f,
+            "name_id": 0x25,
+            "extra_id": 0x207,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "msg_string": "I see... Well, it is a lot of money."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20f,
+            "name_id": 0x25,
+            "extra_id": 0x207,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "msg_string": "I figured I could entrust you with Balloon No.1... That one's like my own child."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20f,
+            "name_id": 0x25,
+            "extra_id": 0x20c,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "msg_string": "Come talk to me when you've made up your mind."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Balloon price: 20,000 Cole."
+        }
+    ]
+}

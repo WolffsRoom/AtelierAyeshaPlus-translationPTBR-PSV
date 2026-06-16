@@ -1,0 +1,212 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC11_FRE_090.ebm",
+    "nb_messages": 0x17,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x26,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Hmm...this is pretty good quality. I think it's the best I've seen so far."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Hmhm, you have very keen eyes, Marietta. I actually found a new client."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "I heard that they had a good harvest of spices in the northern mountains this year..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Hello. Oh, Ernie, are you making a delivery to Marietta today?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Yup, I just got here a few minutes ago. I came through the mountain path, so I'm pretty tired..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x5f,
+            "expr_id": 0x2,
+            "msg_id": 0x5,
+            "msg_string": "I had to make my own path, so my butt is pretty sore..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x68,
+            "expr_id": 0x2,
+            "msg_id": 0x6,
+            "msg_string": "I slipped off a cliff about three times, so my back also hurts. Hahaha..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "How can you be so calm about that...? Are you okay?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x60,
+            "expr_id": 0x2,
+            "msg_id": 0x8,
+            "msg_string": "I feel like my whole body got hit! But I'll put some ointment on later, so..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Oh, then let me put it on for you.<CR>I'm sure it's hard for you to reach<CR>your back and butt yourself."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x68,
+            "expr_id": 0x2,
+            "msg_id": 0xa,
+            "msg_string": "That's...hahaha. I'll pass on that.<CR>I'm at a sensitive age..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x69,
+            "expr_id": 0x2,
+            "msg_id": 0xb,
+            "msg_string": "You don't have to be so shy.<CR>Come on, take off your clothes.<CR>I'll take care of you."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x61,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "I can't take off my clothes.<CR>Ayesha, stop Marietta for me."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6a,
+            "expr_id": 0x2,
+            "msg_id": 0xd,
+            "msg_string": "Ayesha, you have to side with me on this! Let's take his clothes off, the two of us!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Hmhmhm, you two really are close to each other."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x194,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "I'd very much appreciate it if you could help me out here."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6b,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Just give it up. You should just accept people's good will and... Huh?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1a0,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Oh, Mr. Baker. Welcome."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Give me a minute. After I finish taking Ernie's clothes off and putting on the ointment..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "Goodness, I can't take my clothes off when there are people watching me..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x14,
+            "msg_string": "You don't know when to give up, do you? Mr. Baker is waiting for you, so just give up already."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Well, I came here for spices, but...I remembered something urgent that I have to do, so if you'll excuse me!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "msg_string": "(...He left? Mr. Fred looked a little pale, though...)"
+        }
+    ]
+}

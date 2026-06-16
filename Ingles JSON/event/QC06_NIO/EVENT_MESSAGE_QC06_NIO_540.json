@@ -1,0 +1,509 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC06_NIO_540.ebm",
+    "nb_messages": 0x38,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x0,
+            "msg_string": "I wonder how big this library is..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x1,
+            "msg_string": "I've been on the upper floor, and I came to the middle floor today..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x2,
+            "msg_string": "And there's still the lower floor...<CR>Hmm, that's gotta be a lot of books."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Just thinking about reading them all is starting to make me feel faint..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Oh, Mr. Keeeith!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "...Oh, it's you. I'd prefer if you would bring everything up when I visit you."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "I-I'm sorry. But, there's something<CR>I really wanted to ask you."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "And, there were some advancements regarding Nio..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "I see... That's a story of interest,<CR>to some extent."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x17,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Fine, I shall listen to you if you're able to entertain me more than this book."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Well..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "...is what happened. And this is the essential oil that I told you about."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xe5,
+            "expr_id": 0x4,
+            "msg_id": 0xc,
+            "msg_string": "Hmm...this is Flower Oil. To have arrived at this already earns you a \"well done\" for the day."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0xe7,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "So, you were able to extract this using that lacking workshop of yours? That's pretty impressive. I couldn't do it."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Huh? You couldn't do that, Mr. Keith?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Normally, one would use instruments<CR>designed specifically for extraction.<CR>It's not something one does by hand."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x16c,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "It's not that I couldn't do it,<CR>but rather it's something I<CR>wouldn't want to do."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "I see. I guess I counted my chickens before they hatched. I thought I did something amazing..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x16d,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "In a way, you could say you did<CR>something amazing, but...<CR>Well, it was skillful of you."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x16d,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Anyway, your sister said that she could \"see\" the fragrance?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x170,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "That means we don't have much time left..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x15,
+            "msg_string": "Huh? Wh-Wh-What do you mean...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x172,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Let me explain it step-by-step. If you don't understand, don't worry about it."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Hrgh, don't be too hard on me, please."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x16d,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "We are able to communicate our feelings to each other because we utilize the tool known as \"words.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x16d,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Beasts, insects, dragons, spirits...they all have their own set of words..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x16d,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Outside the human audible range, or<CR>even through scent or light...the world<CR>is filled with their \"words.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x16d,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Though, it's nearly impossible for a human to consciously recognize them."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x170,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "You could say that that this essential oil contains \"words,\" itself."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x1d,
+            "msg_string": "This can contain \"words\"?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x16d,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "That's right. The \"fragrance\" gives off the \"words.\" A keepsake of erstwhile alchemists..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x16d,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "The ruins around here had something<CR>that wasn't human as their keeper."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x16d,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Like the automaton here or the slags...or the being that swallowed your sister."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x172,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "Essential oil was the tool they used to give them \"orders.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x22,
+            "msg_string": "Uh-huh... I'm sorry...but I don't quite understand."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x16d,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "Something completely unknown sleeps somewhere in this land."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x16d,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "Your sister is probably with that something. However..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x170,
+            "expr_id": 0x0,
+            "msg_id": 0x25,
+            "msg_string": "If she showed a response to Flower Oil, then we should take that as a sign that her assimilation has begun."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x26,
+            "msg_string": "A...ssimilation? What's gonna happen to Nio?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x16e,
+            "expr_id": 0x0,
+            "msg_id": 0x27,
+            "msg_string": "It's as the word implies.<CR>After her assimilation is complete,<CR>your sister can never return."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0x28,
+            "msg_string": "What...!? Where is Nio right now!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x29,
+            "msg_string": "I know it's exasperating, but not even I have a firm grasp on everything..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x1cc,
+            "expr_id": 0x0,
+            "msg_id": 0x2a,
+            "msg_string": "I don't know her location... Hence,<CR>I bury myself in books every day."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc6,
+            "expr_id": 0x0,
+            "msg_id": 0x2b,
+            "msg_string": "...I need to ask Nio!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x1cd,
+            "expr_id": 0x0,
+            "msg_id": 0x2c,
+            "msg_string": "That is one way. Though, it's very<CR>unlikely that your sister would know<CR>the answer."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x1ce,
+            "expr_id": 0x0,
+            "msg_id": 0x2d,
+            "msg_string": "Now, is that all you came here for?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x193,
+            "expr_id": 0x0,
+            "msg_id": 0x2e,
+            "msg_string": "Oh, that's right! I came to look for a<CR>way to make the Flower Oil stronger."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x2f,
+            "msg_string": "Nio said it'll be easier to find me if the flower scent is stronger."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x30,
+            "msg_string": "Hrmm. I guess it's better than...not having a plan and doing nothing."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x31,
+            "msg_string": "Okay, then I'll tell you how to purify it. It is a technique to crystallize liquids."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x32,
+            "msg_string": "However, we cannot foresee what might happen by enhancing the \"words.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x1cf,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x33,
+            "msg_string": "To open a closed door, drastic measures are sometimes necessary, but...are you prepared?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x34,
+            "msg_string": "I don't know. But I'll do it! For Nio!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x35,
+            "msg_string": "Okay. You should use that old workshop to work on the purification process."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x36,
+            "msg_string": "That place mysteriously harnesses the power of spirits. It was most likely made with that in mind."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x1d0,
+            "expr_id": 0x0,
+            "msg_id": 0x37,
+            "msg_string": "It is best suited for synthesis where<CR>precision is especially required.<CR>So, go there and..."
+        }
+    ]
+}

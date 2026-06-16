@@ -1,0 +1,142 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC01_WIL_110.ebm",
+    "nb_messages": 0xf,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x0,
+            "msg_string": "Huh...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "That box again. I wonder if it's from Bell's great-great-grandmother..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1aa,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "I knew it, there's a letter.<CR>Let's see..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x28,
+            "extra_id": 0x1ab,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "msg_string": "\"I cannot thank you enough for always taking care of Wilbell.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x28,
+            "extra_id": 0x1ab,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "msg_string": "\"As a small token of my gratitude, this time, I'd like to grant one of three wishes.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1ab,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Mm-hmm, mm-hmm. Huh!? Three wishes!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1ab,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "S-She can do something like this, too...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x28,
+            "extra_id": 0x1ab,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "msg_string": "\"Of these three choices, please imagine the one that you most wish to receive.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1ab,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Imagine my wish... My wish would be..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1ab,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Okay, let's choose this one."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x28,
+            "extra_id": 0x1ab,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "msg_string": "\"I really hope that you continue to look after Wilbell.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1ae,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "That's where it ends.<CR>It's such a mysterious letter..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "You got Hard Taro, Green Seed, White Salat, and Red Devil."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "You got Blue Spike Fruit, Ripe Cure Fruit, Honey Melon, and Fully Ripe Fruit."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "You got 1,500 Cole."
+        }
+    ]
+}

@@ -1,0 +1,213 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC09_ERN_040.ebm",
+    "nb_messages": 0x17,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Hello. Oh, Ernie, the tip of your nose is red!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x5f,
+            "expr_id": 0x2,
+            "msg_id": 0x1,
+            "msg_string": "Haha, oh you mean this?<CR>It's so embarrassing..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x60,
+            "expr_id": 0x2,
+            "msg_id": 0x2,
+            "msg_string": "It happened while I was way up north for business."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x61,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "I was caught in a blizzard up in the mountains."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Ohhh, in the snow? That's rare."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x101,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "We don't get it much around here, but it snows up in the mountains from time to time."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x103,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "But still, I've never encountered that kind of blizzard before. Wherever I looked, all I saw was white."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "That must've been tough. I'm glad you didn't get lost."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x108,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "Actually, I did get lost. It happened even before I knew it."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x109,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "I managed to find a cave to take shelter in, but it was so cold..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "Hyaaah... Then what happened...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x109,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "For a while, I was able to use the firewood I had to heat myself up, but that only lasted for so long."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x10b,
+            "expr_id": 0x4,
+            "msg_id": 0xc,
+            "msg_string": "After that, I started getting sleepy."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Y-You can't fall asleep..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "It was really dangerous. I saw my dead grandmother, as well as a field of flowers."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x5f,
+            "expr_id": 0x2,
+            "msg_id": 0xf,
+            "msg_string": "Hahaha, I escaped within a hairbreadth."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Ernie, I don't think that's something you should laugh about..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x61,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "I guess you're right. I think the only reason I'm still able to see you like this..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Is thanks to this girl."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20c,
+            "name_id": 0x22,
+            "extra_id": 0x218,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13,
+            "msg_string": "Oink moo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x2,
+            "msg_id": 0x14,
+            "msg_string": "I see... Her long coat looks really warm!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Yup, she's a very dependable partner. I'm counting on you from now!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20c,
+            "name_id": 0x22,
+            "extra_id": 0x216,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "msg_string": "Oink, oink moo!"
+        }
+    ]
+}

@@ -1,0 +1,176 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC10_MER_640.ebm",
+    "nb_messages": 0x13,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x12c,
+            "expr_id": 0x3,
+            "msg_id": 0x0,
+            "msg_string": "Whaaat!? The sparkles are candy!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "It seems like it. I guess they got some from a human recently and had it for the first time."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15d,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "I see. I guess we really shouldn't look at it from a human perspective."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Yup. I guess each race has its own different set of values..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Right. Now that I think about it, I feel like only humans put value in jewels."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xb4,
+            "expr_id": 0x3,
+            "msg_id": 0x5,
+            "msg_string": "Candy is more valuable than jewels... That's beyond my comprehension."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x69,
+            "expr_id": 0x2,
+            "msg_id": 0x6,
+            "msg_string": "Hahaha, I guess they have a completely<CR>opposite sense of values than you,<CR>Mr. Owner."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6b,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "But this is a problem in and of itself. The amount of candy they could buy for this much money..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "How many hundreds of barrels would that be!? It's gonna be hard to arrange to get it all."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0xb2,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "I'm sure they wouldn't know the difference no matter how much or little you gave them."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0xa,
+            "msg_string": "No! Mr. Owner, sincerity comes first in this business!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x77,
+            "expr_id": 0x3,
+            "msg_id": 0xb,
+            "msg_string": "Harry's Trading House has grown this big because you've been trading with sincerity for all these years!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x7a,
+            "expr_id": 0x3,
+            "msg_id": 0xc,
+            "msg_string": "You're the one who said that, Mr. Owner."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Hahaha, I guess you're right. Of course, I was just joking... I'm sorry."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x18,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "I've already left this case in your hands, Marietta, so take care of it till the very end."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xd,
+            "name_id": 0x8,
+            "extra_id": 0x1c,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "I'm trusting you to make the delivery."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x7c,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Yes, of course. All right, let's do this!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x69,
+            "expr_id": 0x2,
+            "msg_id": 0x11,
+            "msg_string": "Looks like our business with the Homunculus is gonna be okay."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x71,
+            "expr_id": 0x2,
+            "msg_id": 0x12,
+            "msg_string": "Thanks, Ayesha!"
+        }
+    ]
+}

@@ -1,0 +1,519 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM04_ST3_710.ebm",
+    "nb_messages": 0x39,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0x5,
+            "msg_id": 0x0,
+            "msg_string": "\"Furthermore, the flower that doesn't bloom in the sun is along the shore of a big sea...\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15f,
+            "expr_id": 0x5,
+            "msg_id": 0x1,
+            "msg_string": "Hmm, I wonder where this could be...<CR>I just don't know..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "I wonder if, like with the flower that blooms every 100 years, the environment has changed since then..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Oh my, could that be Ayesha sitting on that bench with such a languid face?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Oh, Ranun, I was just doing some thinking."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Oh? Was it about something actual or something philosophical?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x188,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "If it's the latter, I may be able to help you with it."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x18b,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "For example, why is the sky blue?<CR>I know the answer to that."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x18c,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "It's because the sky knows which color makes the moon, sun, and stars glow the greatest."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Huh? That may be true of the moon and sun, but I don't think you can really see the stars except at night..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x18e,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "...Hmm, it seems that you possess a great deal of deductive acuity."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xe5,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "How should I respond to this?<CR>I am at a total loss for words..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xc,
+            "msg_string": "(I wonder if I said something I shouldn't have...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xe6,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "I guess we just need to switch topics now. Why don't we talk about that book you have there?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xe7,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Oh, it's quite an old manuscript.<CR>Let's see..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x188,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "\"When the moon covers the sun, and the negative and positive become one...\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x189,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "\"With the blue light of the sun and moon, a legendary flower blooms in obscurity with a powerful brilliance.\""
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x18a,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Hmm...how poetic. If this flower does exist, I would very much like to see it, if only just once."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Ranun, you can read ancient writing?<CR>And so easily..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x4e,
+            "expr_id": 0x2,
+            "msg_id": 0x13,
+            "msg_string": "Of course! Poetry and folklore both have a great history that cannot possibly be matched by my efforts alone."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x4f,
+            "expr_id": 0x2,
+            "msg_id": 0x14,
+            "msg_string": "If such a miniscule being as myself wants to sing folklore, one must have thorough knowledge of ancient writing."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "I can only read it slowly... I guess you can't judge a book by its cover!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x50,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "What do you mean by that? Depending on your answer...I may get very depressed."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x17,
+            "msg_string": "Oh, sorry. That was just...unexpected. But in a good way."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xe1,
+            "expr_id": 0x4,
+            "msg_id": 0x18,
+            "msg_string": "In a good way... Such nice words, with ambiguous meanings."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xe4,
+            "expr_id": 0x4,
+            "msg_id": 0x19,
+            "msg_string": "I think I'll get depressed after all...<CR>*sniff*"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x123,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1a,
+            "msg_string": "(Oh...what should I do?)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xe7,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "That aside, \"the shore of a big sea\"... The sea doesn't exist anymore."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x17,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Between the past and present, the state of the world has completely changed."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Do you know where this big sea used to be?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Most likely, it was near Hornheim,<CR>which long ago was a trading port<CR>along the sea."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Well, it still has a lot of trade,<CR>but it's been a long time since the<CR>sea disappeared."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "According to folklore, Hornheim was the site where a large river flowed into the sea."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x17,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "It was a big city that held hundreds of sailing ships."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x22,
+            "msg_string": "(Then maybe I can find the flower if I look around Hornheim...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x51,
+            "expr_id": 0x2,
+            "msg_id": 0x23,
+            "msg_string": "Still, a flower that only blooms during a solar eclipse? Sounds like I am very lucky, indeed."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x54,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "For the chance to see it is rapidly approaching."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x25,
+            "msg_string": "Huh? You can tell when a solar eclipse is coming?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x26,
+            "msg_string": "Of course! I specialize in the cosmos."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x18c,
+            "expr_id": 0x0,
+            "msg_id": 0x27,
+            "msg_string": "If I ever fall to despair about my poetry, I could probably survive by reading the stars."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x18e,
+            "expr_id": 0x0,
+            "msg_id": 0x28,
+            "msg_string": "Allow me to let you in on the secret.<CR>It will happen on the 11th day of the<CR>11th month of this year."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x29,
+            "msg_string": "What? You know it down to the day?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x4e,
+            "expr_id": 0x2,
+            "msg_id": 0x2a,
+            "msg_string": "Hmhmhm, you can tell by tracking the movement of the sun and moon, though precise calculations are required..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x4f,
+            "expr_id": 0x2,
+            "msg_id": 0x2b,
+            "msg_string": "I've checked my calculations many times, so I'm very confident of my accuracy."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x52,
+            "expr_id": 0x2,
+            "msg_id": 0x2c,
+            "msg_string": "In addition to a solar eclipse, I'll also get to see a legendary flower... Yes, I am very lucky."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x54,
+            "expr_id": 0x0,
+            "msg_id": 0x2d,
+            "msg_string": "Although, the area around Hornheim is extremely vast. Ayesha, do you think we should split up and search?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x2e,
+            "msg_string": "If we're lucky, one of us may be able to see the flower."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x2f,
+            "msg_string": "If it only blooms during a solar eclipse, the lifespan of the flower is but a few minutes. How exquisite!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x30,
+            "msg_string": "Okay. On the 11th day of the 11th month, I'll go search around Hornheim."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x31,
+            "msg_string": "Then I shall search along the cliffs that are further out from the town."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x15,
+            "expr_id": 0x0,
+            "msg_id": 0x32,
+            "msg_string": "Everything else shall be left to the guidance of the sun and moon."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x33,
+            "msg_string": "Jeez, Ranun! How much longer are you gonna make me wait?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x7a,
+            "expr_id": 0x3,
+            "msg_id": 0x34,
+            "msg_string": "You're the one who asked for the carriage ride because you don't wanna walk all the way to Hornheim..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x35,
+            "msg_string": "Oh, could this be the guidance of the stars? We now have one more person to search for the flower."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x7c,
+            "expr_id": 0x0,
+            "msg_id": 0x36,
+            "msg_string": "What flower? What are you talking about?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x4e,
+            "expr_id": 0x2,
+            "msg_id": 0x37,
+            "msg_string": "Hmhm, I'll tell you all about it on the way. Fair Ayesha, I shall now take my leave of you."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x38,
+            "msg_string": "(The 11th day of the 11th month...<CR>I wonder if I should just wait for<CR>it in Hornheim...)"
+        }
+    ]
+}

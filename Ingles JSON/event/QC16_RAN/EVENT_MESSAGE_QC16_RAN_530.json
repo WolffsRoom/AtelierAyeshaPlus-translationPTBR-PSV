@@ -1,0 +1,222 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC16_RAN_530.ebm",
+    "nb_messages": 0x18,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Oh, Ayesha! H-H-Help me!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "R-Ranun!? What's wrong!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x16,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "This person is so cruel. He's trying to lure me into a world of darkness."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Wh-What are you talking about...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xe5,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "Ernie makes me work from morning to night!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Don't say things like that.<CR>What'll people think?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "I've been paying you for it."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xe7,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "It's not about the money.<CR>It's about my heart!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "But, doesn't it feel nice to be working and getting a good sweat going?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Money that you've worked for has a special feel to it."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xb7,
+            "expr_id": 0x3,
+            "msg_id": 0xa,
+            "msg_string": "That's because you like suffering. Unfortunately, I don't feel the same way."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xb8,
+            "expr_id": 0x3,
+            "msg_id": 0xb,
+            "msg_string": "Actually, I ate more food than what I earned, so I feel like I lost more than I gained!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "If you move your body, your stomach will get hungry. I'm sure the food was delicious."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xbf,
+            "expr_id": 0x3,
+            "msg_id": 0xd,
+            "msg_string": "Urgh...I do have to agree with that.<CR>And the fact that I have more freedom<CR>with my expenses..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xc3,
+            "expr_id": 0x3,
+            "msg_id": 0xe,
+            "msg_string": "However, those are the only things I've gained. My body is crumbling."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xb8,
+            "expr_id": 0x3,
+            "msg_id": 0xf,
+            "msg_string": "I've had it with carrying heavy packages and waking up early!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "That's what a healthy lifestyle is all about. Let's keep this going!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xb8,
+            "expr_id": 0x3,
+            "msg_id": 0x11,
+            "msg_string": "You weren't listening to a single word I said, were you? Urgh, now I'm mad!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xba,
+            "expr_id": 0x3,
+            "msg_id": 0x12,
+            "msg_string": "I'll put all my anger into this song! Listen to this melody of anguish!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Ooh, I can totally feel Ranun's feelings!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "I've heard that Ranun wasn't doing well, but it seems like he's back on track."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x5f,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "It was my honor to help him out."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Even if you try to end this on a good note, I'll never admit it! Damn it!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x17,
+            "msg_string": "(Ernie and Ranun... They might be a good duo after all...)"
+        }
+    ]
+}

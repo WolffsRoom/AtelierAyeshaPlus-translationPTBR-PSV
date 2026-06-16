@@ -1,0 +1,625 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM04_ST3_030.ebm",
+    "nb_messages": 0x45,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Huh? Looks like something's going on here today..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "msg_string": "Welcome, Ayesha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Oh, Homunculus! Umm, is something happening today?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "msg_string": "Today, special day. You came good time."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Oh, I guess I did. Are you having a festival?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "msg_string": "Today is day of sending off and welcoming."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "msg_string": "Is important ritual for close friends."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "msg_string": "Ayesha is a friend. Please join."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "I'm a friend? That makes me so happy! In that case, I'd love to stay!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x9,
+            "msg_string": "Follow, follow. Start soon."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "msg_string": "(Oh, this is...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x227,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xb,
+            "msg_string": "He lived five years, and yesterday, reached his final day."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x229,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xc,
+            "msg_string": "He lived very long."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7d,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "msg_string": "(I was right... This is a funeral.)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x216,
+            "name_id": 0x2d,
+            "extra_id": 0x226,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xe,
+            "msg_string": "He is fortunate. Has friends here to watch over departure."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x217,
+            "name_id": 0x2e,
+            "extra_id": 0x226,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "msg_string": "Yes. Had a good life."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x227,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x10,
+            "msg_string": "He really enjoyed sweet sparkles..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x229,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x11,
+            "msg_string": "Yes, sweet sparkles Ayesha and Marietta brought us."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "msg_string": "Said would be treasured memory before imminent departure."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xcd,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "What...? I didn't think that was going to be his last..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xce,
+            "expr_id": 0x4,
+            "msg_id": 0x14,
+            "msg_string": "*sob* If I knew that was gonna be the case, I would've brought more candy..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x15,
+            "msg_string": "No need to be sad. He was happy. Said he got nice gift."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x217,
+            "name_id": 0x2e,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "msg_string": "We get lots of flowers to send him off. He be very satisfied."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xcf,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Actually, these flowers... What are they?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x216,
+            "name_id": 0x2d,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x18,
+            "msg_string": "Special flowers for ritual."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x217,
+            "name_id": 0x2e,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x19,
+            "msg_string": "Important flowers. Connect departures and arrivals."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1a,
+            "msg_string": "(Those aren't ordinary flowers.<CR>It's just a hunch, but they've<CR>gotta be related to Nio...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1b,
+            "msg_string": "Ayesha, here. For final farewell to him."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Oh, okay. Are you sure I'm allowed to be here right now?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1d,
+            "msg_string": "Of course. Ayesha is a friend. He is happy, too."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1e,
+            "msg_string": "Now, for final farewell. Take good look at his face."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Okay. I'll see him off."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x22b,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x20,
+            "msg_string": "When life returns to heaven, it is here."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x22c,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x21,
+            "msg_string": "Life circulates. Day we meet again will come."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x22d,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x22,
+            "msg_string": "This brief good-bye till then. Farewell."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x23,
+            "msg_string": "(No... This is so sad...)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xcd,
+            "expr_id": 0x4,
+            "msg_id": 0x24,
+            "msg_string": "*sob* *sob* Good-bye. Please rest in peace..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x227,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x25,
+            "msg_string": "Ayesha, no cry. Tears not needed for departure."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x228,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x26,
+            "msg_string": "Path of life continues from yesterday to tomorrow."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x229,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x27,
+            "msg_string": "If keep looking back, he not feel at ease when departs."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xce,
+            "expr_id": 0x4,
+            "msg_id": 0x28,
+            "msg_string": "Okay, okay...I understand...<CR>I won't cry anymore..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x29,
+            "msg_string": "Now, we send him off."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x22b,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2a,
+            "msg_string": "His life now returned to side of the Mother."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x22c,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2b,
+            "msg_string": "Much happiness and sadness he brought us."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x22c,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2c,
+            "msg_string": "We never forget him."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xce,
+            "expr_id": 0x4,
+            "msg_id": 0x2d,
+            "msg_string": "Egh...ngh...ugh....<CR>Thang gyu tho mudge..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x22d,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2e,
+            "msg_string": "Now, we welcome him."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2f,
+            "msg_string": "Ayesha, look."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x30,
+            "msg_string": "See? He coming back."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xcf,
+            "expr_id": 0x0,
+            "msg_id": 0x31,
+            "msg_string": "Huh...? Coming back...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x32,
+            "msg_string": "Oh, mini-Ayesha arrived, too."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x33,
+            "msg_string": "U-Ugh. Is that...Nio?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x221,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x34,
+            "msg_string": "Two Ayeshas. For welcoming, the more, the merrier."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x224,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x35,
+            "msg_string": "Yes. Very delightful."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x214,
+            "name_id": 0x2b,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x36,
+            "msg_string": "Hey, I am back."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x221,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x37,
+            "msg_string": "Welcome back. That fast."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x38,
+            "msg_string": "Huh...huuuhhh!? A dead person revived!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x39,
+            "msg_string": "We live several years, then die several days."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3a,
+            "msg_string": "Then we born again. Cycle repeats."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x3b,
+            "msg_string": "Oh, I see... I was...just so surprised..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x3c,
+            "msg_string": "But, I'm glad Homunculus came back."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x214,
+            "name_id": 0x2b,
+            "extra_id": 0x221,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3d,
+            "msg_string": "It nice funeral, thanks to Ayesha being here, watch over me."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x221,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3e,
+            "msg_string": "Yes. Thanks to two Ayeshas being here."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x3f,
+            "msg_string": "That's right, where's Nio...!?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x40,
+            "msg_string": "She's gone... She disappeared again."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x41,
+            "msg_string": "Homunculus, would it be okay if I just take one of these flowers?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x215,
+            "name_id": 0x2c,
+            "extra_id": 0x220,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x42,
+            "msg_string": "Ritual is over. You can take flower."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x43,
+            "msg_string": "Thank you. I'm going to take one."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "You got Soulsoother Petals."
+        }
+    ]
+}

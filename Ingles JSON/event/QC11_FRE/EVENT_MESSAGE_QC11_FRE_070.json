@@ -1,0 +1,260 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC11_FRE_070.ebm",
+    "nb_messages": 0x1b,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x165,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Whoa, I'm so hungry...but I can't make any more impulse buys this month..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x166,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "*sniff* If I hadn't bought the Eye of Malcontent, I'd have more..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x167,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "*sniff* *sniff* Whoa, the smell of freshly baked bread is coating my body..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "You poor thing... Are you hungry?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "Wh-Wh-What?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x126,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "I was just looking at the bread! I wasn't gonna do anything bad, you know!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x45,
+            "expr_id": 0x2,
+            "msg_id": 0x6,
+            "msg_string": "You don't have to be frightened...<CR>Now, take this bread and eat it."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x128,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "...Seriously? But, I don't have any money."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x40,
+            "expr_id": 0x2,
+            "msg_id": 0x8,
+            "msg_string": "Hahaha, you can just buy one from me next time. You're hungry, right?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "If you don't mind that I baked this bread, go ahead and eat up."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "See? This kitty bread is really sweet, and it's really popular with kids your age."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x81,
+            "expr_id": 0x3,
+            "msg_id": 0xb,
+            "msg_string": "Hmph, I'm not a kid!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x220,
+            "name_id": 0x1c,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xc,
+            "unknown2": 0x1,
+            "msg_string": "Whoa, lucky! I want bread, too!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x221,
+            "name_id": 0x1d,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "unknown2": 0x1,
+            "msg_string": "That's not fair! I'm hungry, too!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "All right, go get your friends.<CR>I'm closing the shop for today."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Huh? There's a crowd in front of the bakery..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x220,
+            "name_id": 0x1c,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x10,
+            "unknown2": 0x1,
+            "msg_string": "Wow, this kitty bread has jam inside!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x221,
+            "name_id": 0x1d,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x11,
+            "unknown2": 0x1,
+            "msg_string": "This one has cream! It's so yummy!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "unknown2": 0x1,
+            "msg_string": "There's no need to hold back.<CR>Eat up, as if you're gonna eat<CR>all the bread in the shop!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13,
+            "unknown2": 0x1,
+            "msg_string": "Gotcha! Hey mister, I want some more!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x14,
+            "unknown2": 0x1,
+            "msg_string": "Yup, that's the spirit. There's lots more, so keep on eating."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x15,
+            "unknown2": 0x1,
+            "msg_string": "Come now, little lady over there.<CR>You get to eat one, too."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "unknown2": 0x1,
+            "msg_string": "Huh? Me?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x17,
+            "unknown2": 0x1,
+            "msg_string": "Yeah. Eat lots of delicious bread and keep growing!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x18,
+            "unknown2": 0x1,
+            "msg_string": "I don't think I'll grow any more.<CR>I'm already an adult..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x19,
+            "unknown2": 0x1,
+            "msg_string": "(Such lavish generosity...<CR>Mr. Fred is so nice.)"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1a,
+            "unknown2": 0x1,
+            "msg_string": "(But giving away this much free bread... I hope his shop is gonna be okay...)"
+        }
+    ]
+}

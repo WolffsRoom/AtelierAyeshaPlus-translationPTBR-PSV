@@ -1,0 +1,671 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC12_KYL_630.ebm",
+    "nb_messages": 0x43,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Come on, Juris. This way!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "What's wrong, Ayesha? It's not like you to be in such a hurry."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Hehehe, everyone's waiting..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x3f,
+            "expr_id": 0x2,
+            "msg_id": 0x3,
+            "msg_string": "Yo, you're late, Juris!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Huh?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Oh, it seems the guest of honor is finally here. Shall we get started then?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "unknown2": 0x1,
+            "msg_string": "Yo, now that you're here, Juris, let's start the feast to celebrate your victory!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "unknown2": 0x1,
+            "msg_string": "Juris, this drink's for you. And here's a cup of tea for you, Ernie."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x8,
+            "unknown2": 0x1,
+            "msg_string": "Heh, I wonder if it's really okay for me to join in on this feast..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x9,
+            "unknown2": 0x1,
+            "msg_string": "Don't worry about it. We're gonna<CR>go all-out tonight, so the more,<CR>the merrier, ya know?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "unknown2": 0x1,
+            "msg_string": "Hey Kyle, what is all the hubbub about?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xb,
+            "unknown2": 0x1,
+            "msg_string": "Don't sweat the small stuff. This whole place is reserved just for us, so there's no need to hold back."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xc,
+            "unknown2": 0x1,
+            "msg_string": "*ahem* Today is a lucky day, being able to gather together with everyone like this‐"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "unknown2": 0x1,
+            "msg_string": "Hey now, there's no need for any cheesy speeches. We're all familiar faces around here."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xe,
+            "unknown2": 0x1,
+            "msg_string": "Haha, I guess you're right.<CR>Then keeping this short..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "unknown2": 0x1,
+            "msg_string": "Cheers! To Juris's great achievement!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x10,
+            "unknown2": 0x1,
+            "msg_string": "Cheers with tea!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x11,
+            "unknown2": 0x1,
+            "msg_string": "Hahaha, I prepared enough alcohol for four people, but you're the only one here who can drink, Juris."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "unknown2": 0x1,
+            "msg_string": "Drink your heart out for the rest of us!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13,
+            "unknown2": 0x1,
+            "msg_string": "To Juris! Congratulations!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x14,
+            "unknown2": 0x1,
+            "msg_string": "Still, you're really something for actually defeating that dragon."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x15,
+            "unknown2": 0x1,
+            "msg_string": "It's too awesome! I can't even begin to imagine what that was like..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "unknown2": 0x1,
+            "msg_string": "I couldn't have done it all by myself. It was because Ayesha was there."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x17,
+            "unknown2": 0x1,
+            "msg_string": "Huh? Ayesha, you went to slay the dragon, too?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x18,
+            "unknown2": 0x1,
+            "msg_string": "Oh...yeah..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x19,
+            "unknown2": 0x1,
+            "msg_string": "Then that means you had a hand in slaying that dragon! Th-That's amazing!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1a,
+            "unknown2": 0x1,
+            "msg_string": "Well, no. Juris was the one who defeated him. I was only helping..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1b,
+            "unknown2": 0x1,
+            "msg_string": "No, no, it's still amazing!<CR>My whole perception of you<CR>has completely changed."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1c,
+            "unknown2": 0x1,
+            "msg_string": "Please don't change that..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1d,
+            "unknown2": 0x1,
+            "msg_string": "Well, either way, it's still quite an accomplishment. As sorta like your older brother, I'm very proud of you!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1e,
+            "unknown2": 0x1,
+            "msg_string": "I'm not too comfortable with people making such a big deal out of this..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1f,
+            "unknown2": 0x1,
+            "msg_string": "Don't say that! This is the only way a guy like me can say..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x20,
+            "unknown2": 0x1,
+            "msg_string": "Congratulations, Juris!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x21,
+            "unknown2": 0x1,
+            "msg_string": "What's up with you being so formal?<CR>It's not like you..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x22,
+            "unknown2": 0x1,
+            "msg_string": "Hmm, you're right. It's not like me... But still..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x23,
+            "unknown2": 0x1,
+            "msg_string": "Juris, I've seen how hard you're always working."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x24,
+            "unknown2": 0x1,
+            "msg_string": "Mmhm. Kyle understands you better than anyone."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x25,
+            "unknown2": 0x1,
+            "msg_string": "I see... I guess that's true..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x26,
+            "unknown2": 0x1,
+            "msg_string": "It is true that it's traditional for a huntsman to slay a dragon before they can become full-fledged..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x27,
+            "unknown2": 0x1,
+            "msg_string": "But, that's such an old tradition.<CR>No one takes it seriously these days."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x28,
+            "unknown2": 0x1,
+            "msg_string": "But Juris, you're different. As a huntsman, you really did slay a dragon!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x29,
+            "unknown2": 0x1,
+            "msg_string": "Even among the huntsmen, there probably isn't anyone else who can do that now."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2a,
+            "unknown2": 0x1,
+            "msg_string": "To slay the dragon... I know, more than anyone else, that that has always been your goal."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2b,
+            "unknown2": 0x1,
+            "msg_string": "Accomplishing it was a testament of your dedication and faith. I'm happy to have a friend like you!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2c,
+            "unknown2": 0x1,
+            "msg_string": "Kyle..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2d,
+            "unknown2": 0x1,
+            "msg_string": "You know how you don't like to boast about your own successes? Well, at least let me celebrate them!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2e,
+            "unknown2": 0x1,
+            "msg_string": "So that's what this is all about...? Thank you, Kyle..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2f,
+            "unknown2": 0x1,
+            "msg_string": "No. I'm not doing this so that you can thank me."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x30,
+            "unknown2": 0x1,
+            "msg_string": "Now, I've prepared a feast just for you! Eat up!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x31,
+            "unknown2": 0x1,
+            "msg_string": "Yeah... I'll gratefully enjoy this."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x32,
+            "unknown2": 0x1,
+            "msg_string": "...So, you ate it, huh?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x33,
+            "unknown2": 0x1,
+            "msg_string": "Yeah. Hmm, this is..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x34,
+            "unknown2": 0x1,
+            "msg_string": "How'd you like the taste of this<CR>Red Devil food? Isn't it delicious!?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x35,
+            "unknown2": 0x1,
+            "msg_string": "K-K-K-Kyle! You...!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x36,
+            "unknown2": 0x1,
+            "msg_string": "If there's anything you wanna tell<CR>me, go right ahead! My ears are<CR>yours! If you can talk, that is..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x37,
+            "unknown2": 0x1,
+            "msg_string": "Although, you might be too busy with your tongue swelling up... Hahaha!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x38,
+            "unknown2": 0x1,
+            "msg_string": "I told you, didn't I? This is the only way a guy like me can congratulate you."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x39,
+            "unknown2": 0x1,
+            "msg_string": "I'm too shy to celebrate normally. Well, just laugh it off, and forgive me, okay?"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3a,
+            "unknown2": 0x1,
+            "msg_string": "If you can laugh, that is!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3b,
+            "unknown2": 0x1,
+            "msg_string": "K-K-K‐!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3c,
+            "unknown2": 0x1,
+            "msg_string": "Okay! And with that, Juris's victory celebration is over!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3d,
+            "unknown2": 0x1,
+            "msg_string": "From here on out, let's party hearty for reasons independent of anything Juris has done!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3e,
+            "unknown2": 0x1,
+            "msg_string": "Yes, sir! I'll do my best!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3f,
+            "unknown2": 0x1,
+            "msg_string": "Hahaha! I guess we're tossing all ceremony out the window!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x40,
+            "unknown2": 0x1,
+            "msg_string": "Kyle! Why you...!"
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x41,
+            "unknown2": 0x1,
+            "msg_string": "Hmhm, but, I guess this isn't too bad. I'll go along with it for now..."
+        },
+        {
+            "type": 0x4,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x42,
+            "unknown2": 0x1,
+            "msg_string": "(Juris, I know you had a tough time,<CR>but this party still turned out okay!)"
+        }
+    ]
+}

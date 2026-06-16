@@ -1,0 +1,330 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MS01_AYE_010.ebm",
+    "nb_messages": 0x24,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x21e,
+            "name_id": 0x12,
+            "extra_id": 0x206,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "msg_string": "Excuse me, beautiful miss!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "msg_string": "(Beautiful...? Then he can't be<CR>talking to me.)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x21e,
+            "name_id": 0x12,
+            "extra_id": 0x20c,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "msg_string": "Whoa, hold on."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x3,
+            "msg_string": "Umm...are you talking to me...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x21e,
+            "name_id": 0x5b,
+            "extra_id": 0x207,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "msg_string": "That's right. Do you see any other beautiful misses here?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x5,
+            "msg_string": "U-Umm, well...I don't think I'm particularly beautiful..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x21e,
+            "name_id": 0x5b,
+            "extra_id": 0x207,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "msg_string": "Oh, don't be so modest.<CR>You're quite beautiful."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x7,
+            "msg_string": "No, what I‐<CR>I think I'm, you know, normal..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x21e,
+            "name_id": 0x5b,
+            "extra_id": 0x207,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x8,
+            "msg_string": "Well, I have a very tempting piece of information for a beautiful miss like you."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x21e,
+            "name_id": 0x5b,
+            "extra_id": 0x207,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x9,
+            "msg_string": "I have a wondrous hairpin that will make your pretty hair look even more beautiful."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x21e,
+            "name_id": 0x5b,
+            "extra_id": 0x20c,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "msg_string": "How about it? Why don't you buy one?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0xb,
+            "msg_string": "Well, that's..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xc,
+            "msg_string": "(Urgh, how can I refuse...?)"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "That's...Ayesha. But the guy next to her doesn't look familiar."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "I wonder what they're doing...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x21e,
+            "name_id": 0x5b,
+            "extra_id": 0x1f7,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "msg_string": "Miss, you said you'll buy it a moment ago, right? Right?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x21e,
+            "name_id": 0x5b,
+            "extra_id": 0x206,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x10,
+            "msg_string": "And now you're saying you don't want it? What are you trying to pull here?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc4,
+            "expr_id": 0x4,
+            "msg_id": 0x11,
+            "msg_string": "Er, that's...I was just thinking about whether or not I should buy it..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x21e,
+            "name_id": 0x5b,
+            "extra_id": 0x20c,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "msg_string": "You're the most troublesome type of customer. My life is riding on this job, you know?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xcd,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "I-I'm so sorry... Hmm...then I'll buy‐"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Okay, okay, stop right there.<CR>What are you doing, Ayesha?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xcf,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Marietta! Well, umm, I was looking at this hairpin..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x21e,
+            "name_id": 0x5b,
+            "extra_id": 0x207,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "msg_string": "Who are you? We're negotiating a business transaction, so don't interrupt us."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15b,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Hmm...negotiating, huh? Mister, did you get permission to open a business here?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x21e,
+            "name_id": 0x5b,
+            "extra_id": 0x20c,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x18,
+            "msg_string": "O-Of course. If you're trying to come up with some trumped-up pretext, I won't leave you‐"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15d,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Oh, that's weird... To open a shop in this town, you need to get a permit from Harry's Trading House..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15f,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "And to get that permit, one always has to go through me."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "But I don't recognize you, mister."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x21e,
+            "name_id": 0x5b,
+            "extra_id": 0x207,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1c,
+            "msg_string": "Wh-Who are you...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x21e,
+            "name_id": 0x5b,
+            "extra_id": 0x1f7,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1d,
+            "msg_string": "Nrgh...! I don't know what's going on, but it looks like I better vanish."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xf5,
+            "expr_id": 0x4,
+            "msg_id": 0x1e,
+            "msg_string": "Goodness... It's a good thing this town is getting livelier, but sometimes that attracts those fellas."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Marietta, you saved me.<CR>Thank you so much!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0xf7,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "You're welcome. But it's your fault, too, Ayesha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x15a,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "You have to take a firm stance at times like that, or you'll be taken advantage of."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "You're right. I'll be more careful..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x23,
+            "msg_string": "(I guess I kinda get pushed around...<CR>I need to brace myself better.)"
+        }
+    ]
+}

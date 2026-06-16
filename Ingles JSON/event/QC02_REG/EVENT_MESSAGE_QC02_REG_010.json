@@ -1,0 +1,168 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC02_REG_010.ebm",
+    "nb_messages": 0x12,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x12,
+            "expr_id": 0x0,
+            "msg_id": 0x34c3,
+            "msg_string": "Huh? That girl is..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x12,
+            "extra_id": 0x199,
+            "expr_id": 0x0,
+            "msg_id": 0xc9,
+            "msg_string": "Heeey, Ayesha. Long time no see!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xca,
+            "msg_string": "Regina! Yeah, it's been a while."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0xcb,
+            "msg_string": "You've been all confined to your workshop lately... What's up?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0xcc,
+            "msg_string": "Hehehe, I've been thinking things over, and I decided to go on a little journey."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0xcd,
+            "msg_string": "I see. With everything that happened with Nio, I was worried."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x10,
+            "expr_id": 0x0,
+            "msg_id": 0xce,
+            "msg_string": "Where are you going on your journey?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xcf,
+            "msg_string": "I haven't decided yet, so my destination is uncertain..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0xd0,
+            "msg_string": "Mmhm. Then, where are you going to stay?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xd1,
+            "msg_string": "Umm, I still need to figure that out..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd4,
+            "expr_id": 0x4,
+            "msg_id": 0xd2,
+            "msg_string": "Going on a journey without knowing your destination? You sure are doing something daring..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xd6,
+            "expr_id": 0x0,
+            "msg_id": 0xd3,
+            "msg_string": "Hey, if you don't have a place to stay, come to my house for the time being."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0xd4,
+            "msg_string": "I want to know more about your journey. I'm tied up right now with my job, but..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0xd5,
+            "msg_string": "I left the door unlocked, so invite yourself inside and rest up."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0xd6,
+            "msg_string": "Oh, do you remember where my place is? It's that way!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0xd7,
+            "msg_string": "Yeah, I think I remember."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0xd8,
+            "msg_string": "Well, I guess you won't get lost in a small village like this..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x19a,
+            "expr_id": 0x0,
+            "msg_id": 0xd9,
+            "msg_string": "Okay, see you later!"
+        }
+    ]
+}

@@ -1,0 +1,259 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC16_RAN_090.ebm",
+    "nb_messages": 0x1c,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x13,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ayesha, don't you think I've changed recently?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0x5,
+            "msg_id": 0x1,
+            "msg_string": "Huh, really? I don't think you've changed all that much..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x188,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "No, a dramatic change has taken place. I'm about to lose what's most important to a poet."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x161,
+            "expr_id": 0x5,
+            "msg_id": 0x3,
+            "msg_string": "Umm, you have your instrument, and you seem to be healthy..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x18a,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Then let me reveal the answer to you. The answer is, the frailness that's essential for a minstrel."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xb7,
+            "expr_id": 0x3,
+            "msg_id": 0x5,
+            "msg_string": "Thanks to repeated manual labor, I feel like I've gotten much stronger..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0x5,
+            "msg_id": 0x6,
+            "msg_string": "Umm, but isn't that a good thing...?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xbf,
+            "expr_id": 0x3,
+            "msg_id": 0x7,
+            "msg_string": "Well, at the very least, I've stopped getting sick between the changes of seasons."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xc3,
+            "expr_id": 0x3,
+            "msg_id": 0x8,
+            "msg_string": "However, that doesn't mean that I'm satisfied with the current state of my life."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xb9,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Especially that Ernie. Every time he sees my face, he wants to make me carry a package."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "I'm sure Ernie's just thinking about you."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x51,
+            "expr_id": 0x2,
+            "msg_id": 0xb,
+            "msg_string": "Well he does have a candid personality, and he isn't a bad person..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x54,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "However, from the moment I met him,<CR>the direction the wind has blown my<CR>life has changed. "
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "O, how I was simply wandering the world<CR>in pursuit of small mysteries..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "But recently, my lifestyle has fallen down the path of the philistine."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x188,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "A glass of ale at White Crow after work... That wasn't the life I was seeking!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x189,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "I wanted to create a tradition that would be passed down through history."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x18b,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "However, transporting heavy packages and chugging down cold ale is..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x18e,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "I don't know how to put it, but I feel like I'm getting farther and farther away from tradition and poetry..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Th-That's...I guess it's a life-or-death situation for you..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Right? I shouldn't be carrying packages around, right?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x15,
+            "msg_string": "Umm, I think it's nice that you're working to pay for your own living expenses, but..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xe5,
+            "expr_id": 0x4,
+            "msg_id": 0x16,
+            "msg_string": "Urgh, Ayesha, you're much harsher than I thought..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0xe7,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "However, I just can't change my way of life. And, I don't wanna change."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Yes, I can't stay with how things are now. I need the traditions, and the traditions need me!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x14,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "With that being said, I think I'm gonna look for new ideas for my songs."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x10,
+            "name_id": 0x10,
+            "extra_id": 0x16,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "If you see Ernie, tell him I've gone off on a journey. See ya!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15b,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1b,
+            "msg_string": "(Hmm, I guess Ranun's personality<CR>did change a little from when we<CR>first met...)"
+        }
+    ]
+}

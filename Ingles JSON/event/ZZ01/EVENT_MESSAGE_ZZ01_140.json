@@ -1,0 +1,208 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_ZZ01_140.ebm",
+    "nb_messages": 0x19,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "msg_string": "０ダミー（○送り止め用）"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "msg_string": "１セリフテスト"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "msg_string": "２セリフテスト"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "msg_string": "３セリフテスト"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "msg_string": "４セリフテスト"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "msg_string": "５セリフテスト"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "msg_string": "６セリフテスト"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "msg_string": "７セリフテスト"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x8,
+            "msg_string": "８セリフテスト"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x9,
+            "msg_string": "９セリフテスト"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "msg_string": "１０セリフテスト"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xb,
+            "msg_string": "１１セリフテスト"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xc,
+            "msg_string": "１２セリフテスト"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "msg_string": "１セリフテスト"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xe,
+            "msg_string": "２セリフテスト"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "msg_string": "３セリフテスト"
+        },
+        {
+            "type": 0x6,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "■４"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x11,
+            "msg_string": "５セリフテスト"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "msg_string": "６セリフテスト"
+        },
+        {
+            "type": 0x6,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "■７"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x14,
+            "msg_string": "８セリフテスト"
+        },
+        {
+            "type": 0x6,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "■９"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "msg_string": "１０セリフテスト"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x17,
+            "msg_string": "１１セリフテスト"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x18,
+            "msg_string": "１２セリフテスト"
+        }
+    ]
+}

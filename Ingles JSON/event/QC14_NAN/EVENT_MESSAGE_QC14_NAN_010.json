@@ -1,0 +1,271 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC14_NAN_010.ebm",
+    "nb_messages": 0x1e,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x12e,
+            "msg_string": "Wow, there are so many cows!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x205,
+            "name_id": 0x1f,
+            "extra_id": 0x216,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12f,
+            "msg_string": "Oink moo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15e,
+            "expr_id": 0x5,
+            "msg_id": 0x130,
+            "msg_string": "I don't think they're wild cows...<CR>I wonder if someone took them out<CR>to pasture..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x160,
+            "expr_id": 0x0,
+            "msg_id": 0x131,
+            "msg_string": "Hehehe, but they're cute cows."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0x12,
+            "expr_id": 0x0,
+            "msg_id": 0x132,
+            "msg_string": "The grass here is very high in quality, and the cows really like it here."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x46,
+            "expr_id": 0x2,
+            "msg_id": 0x133,
+            "msg_string": "Hehehe, thank you for saying that my cows are cute."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x47,
+            "expr_id": 0x2,
+            "msg_id": 0x134,
+            "msg_string": "Do you...like cows, as well?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x135,
+            "msg_string": "Cows...? Hmm, I've never thought about it, but I guess I do..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x136,
+            "msg_string": "Pana always helps me out, too.<CR>She's family to me."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x4a,
+            "expr_id": 0x2,
+            "msg_id": 0x137,
+            "msg_string": "So, her name is Pana? Hmhm, that's a perfect name for her."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x4b,
+            "expr_id": 0x2,
+            "msg_id": 0x138,
+            "msg_string": "She's so strong, carrying all that luggage. Very impressive..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x139,
+            "msg_string": "Haha... She's strong and kind, but she's also a glutton."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x4c,
+            "expr_id": 0x0,
+            "msg_id": 0x13a,
+            "msg_string": "A cow that eats a lot is a good cow. Please keep taking good care of her."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20d,
+            "name_id": 0x23,
+            "extra_id": 0x216,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13b,
+            "msg_string": "Oink moo!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0x13c,
+            "msg_string": "Oops, I need to get going now. If I don't hurry, it'll be nightfall..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x3548,
+            "msg_string": "Oh, we have to get going, too.<CR>C'mon, Pana, we're leaving."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x205,
+            "name_id": 0x1f,
+            "extra_id": 0x216,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13e,
+            "msg_string": "Oink. *munch* *munch*"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15a,
+            "expr_id": 0x5,
+            "msg_id": 0x13f,
+            "msg_string": "Goodness..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x46,
+            "expr_id": 0x2,
+            "msg_id": 0x140,
+            "msg_string": "Hmhmhm, it seems like Pana wants to stay here a little longer..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x15c,
+            "expr_id": 0x0,
+            "msg_id": 0x142,
+            "msg_string": "Umm, where are you headed?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x48,
+            "expr_id": 0x0,
+            "msg_id": 0x143,
+            "msg_string": "As where the winds blow, as where the cows go. Where I'm going is up to the herd."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0x144,
+            "msg_string": "But first, we're going through the tunnels. After that, I'll leave it up to them."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0x145,
+            "msg_string": "C'mon guys! We have to get going soon!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x146,
+            "msg_string": "If you'll excuse me...<CR>I hope we meet again... Umm..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x147,
+            "msg_string": "Sorry, I haven't asked for your name yet..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x148,
+            "msg_string": "Ohhh, I'm sorry. I'm Ayesha, an apothecary."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x149,
+            "msg_string": "Although, I'm taking a break from that right now..."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x14a,
+            "msg_string": "I'm Nanaca. As you can see, I'm a cowgirl."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x1a1,
+            "expr_id": 0x0,
+            "msg_id": 0x14b,
+            "msg_string": "Let's meet again somewhere, Ayesha."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x195,
+            "expr_id": 0x0,
+            "msg_id": 0x14c,
+            "msg_string": "Okay, Nanaca! Somewhere, again!"
+        }
+    ]
+}

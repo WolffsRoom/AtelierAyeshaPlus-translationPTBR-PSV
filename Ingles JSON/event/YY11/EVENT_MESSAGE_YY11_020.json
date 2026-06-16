@@ -1,0 +1,43 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_YY11_020.ebm",
+    "nb_messages": 0x4,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Learned \"Draw Power\". Increase the property value of the next ingredient by +15."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "During synthesis, press the <IM08> button<CR>when you are about use the ingredients to use Synthesis Skill."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "By adding a property to an ingredient, you have a higher chance of discovering new properties."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Synthesis Skill will cost you CP, so think before using it."
+        }
+    ]
+}

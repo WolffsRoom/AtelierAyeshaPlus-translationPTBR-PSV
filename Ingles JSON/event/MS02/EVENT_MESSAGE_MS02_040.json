@@ -1,0 +1,79 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MS02_040.ebm",
+    "nb_messages": 0x8,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x20f,
+            "name_id": 0x25,
+            "extra_id": 0x206,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "msg_string": "Now, this is your balloon. It's a little old, but it's been well taken care of."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20f,
+            "name_id": 0x25,
+            "extra_id": 0x207,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "msg_string": "It performs as well as the newest models, too."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "Wow, it's amazing...!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20f,
+            "name_id": 0x25,
+            "extra_id": 0x207,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "msg_string": "This is the first balloon I ever rode. My whole youth was spent with this gal."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x20f,
+            "name_id": 0x25,
+            "extra_id": 0x20c,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "msg_string": "She'll be happy, too, if she's flying with you. Use her well."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x124,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Thank you so much. I'll take good care of her."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "You can now go to new places with the balloon you bought."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "You can freely go to Salt Desert and Homunculus Town, as well."
+        }
+    ]
+}

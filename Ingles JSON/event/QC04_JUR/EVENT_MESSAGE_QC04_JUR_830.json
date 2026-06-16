@@ -1,0 +1,79 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC04_JUR_830.ebm",
+    "nb_messages": 0x8,
+    "messages": [
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x89,
+            "expr_id": 0x3,
+            "msg_id": 0x0,
+            "msg_string": "This is my first time facing you directly on the battlefield."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x8a,
+            "expr_id": 0x3,
+            "msg_id": 0x1,
+            "msg_string": "I am Juris, son of Uraku, the one who hunts you."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x8d,
+            "expr_id": 0x3,
+            "msg_id": 0x2,
+            "msg_string": "Let's settle who is the superior hunter right here."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x122,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "Umm, sorry to interrupt you when you're so pumped up, but what should I do?"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x8e,
+            "expr_id": 0x3,
+            "msg_id": 0x4,
+            "msg_string": "Act according to circumstance. And...don't get killed."
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x123,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "Hyaaah! O-Okay! I'm not really sure,<CR>but I'll try!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x76,
+            "expr_id": 0x3,
+            "msg_id": 0x6,
+            "msg_string": "Whether the answer I seek lies within this battle...I must ascertain that!"
+        },
+        {
+            "type": 0x1,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x7a,
+            "expr_id": 0x3,
+            "msg_id": 0x7,
+            "msg_string": "Dragon, if you hold the answer,<CR>show it to me...!"
+        }
+    ]
+}
