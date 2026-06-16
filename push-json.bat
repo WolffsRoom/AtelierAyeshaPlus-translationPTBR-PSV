@@ -1,8 +1,13 @@
 @echo off
 setlocal
 
-rem -- Variaveis ANTES do chcp: o code page 65001 quebra o parser do set em alguns builds do CMD
-set "TOKEN=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"
+rem -- Le o token de token.txt (nunca commitado)
+if not exist "%~dp0token.txt" (
+    echo [ERRO] Arquivo token.txt nao encontrado.
+    echo Crie o arquivo token.txt ao lado deste bat com apenas o seu PAT do GitHub.
+    pause & exit /b 1
+)
+set /p TOKEN=<"%~dp0token.txt"
 set "REMOTE=https://WolffsRoom:%TOKEN%@github.com/WolffsRoom/AtelierAyeshaPlus-translationPTBR-PSV.git"
 
 chcp 65001 >nul

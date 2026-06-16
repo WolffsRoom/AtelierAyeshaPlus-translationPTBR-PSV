@@ -1,7 +1,13 @@
 @echo off
 setlocal
 
-set "TOKEN=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"
+rem -- Le o token de token.txt (nunca commitado)
+if not exist "%~dp0token.txt" (
+    echo [ERRO] Arquivo token.txt nao encontrado.
+    echo Crie o arquivo token.txt ao lado deste bat com apenas o seu PAT do GitHub.
+    pause & exit /b 1
+)
+set /p TOKEN=<"%~dp0token.txt"
 set "REMOTE=https://WolffsRoom:%TOKEN%@github.com/WolffsRoom/AtelierAyeshaPlus-translationPTBR-PSV.git"
 
 chcp 65001 >nul
@@ -12,7 +18,7 @@ for %%L in (".git\index.lock" ".git\HEAD.lock" ".git\refs\heads\main.lock") do (
     if exist "%%~L" del /f /q "%%~L"
 )
 
-echo [1/3] Adicionando index.html e README...
+echo [1/3] Adicionando arquivos...
 git add index.html
 git add README.md
 git add push-json.bat
