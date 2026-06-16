@@ -1,5 +1,7 @@
 # Atelier Ayesha Plus - Tradução PT-BR (PS Vita)
 
+![Screenshot](https://github.com/WolffsRoom/AtelierAyeshaPlus-translationPTBR-PSV/blob/main/PSVita_Screen_Atelier.png)
+
 Tradução para português do Brasil de *Atelier Ayesha: The Alchemist of Dusk Plus*, para PlayStation Vita.
 
 ## Sobre
@@ -9,29 +11,20 @@ Tradução para português do Brasil de *Atelier Ayesha: The Alchemist of Dusk P
 - Plataforma: PlayStation Vita
 - Situação: em revisão dos textos
 
-Baseado no [Atelier Translator](https://github.com/Ferripro321/Atelier-Translator), do Ferripro321.
-
-<<<<<<< Updated upstream
-## Acesso online (iPad / Safari)
-
-A ferramenta de revisão roda direto no navegador, sem instalar nada:
-
-**https://wolffsroom.github.io/AtelierAyeshaPlus-translationPTBR-PSV/**
-
-Funciona no iPad/Safari (e no PC). No iPad, as revisões ficam salvas no próprio navegador e podem ser exportadas em um `.zip` com a estrutura da pasta `Revisado/`. No PC com Chrome/Edge, é possível gravar direto na pasta.
-
-> Para o link acima funcionar, é preciso habilitar o GitHub Pages uma vez: **Settings → Pages → Source: Deploy from a branch → `main` → `/ (root)` → Save**.
-=======
 ## Interface de Revisão Online
 
 Acesse a interface diretamente pelo GitHub Pages:
 
 **[wolffsroom.github.io/AtelierAyeshaPlus-translationPTBR-PSV](https://wolffsroom.github.io/AtelierAyeshaPlus-translationPTBR-PSV)**
 
-A interface exibe três painéis lado a lado:
-- **Original em Inglês** — texto da versão en-US (referência)
-- **Sem Revisar** — texto atual da tradução PT-BR
-- **Revisado** — campo editável com a revisão final
+A ferramenta de revisão roda direto no navegador, sem instalar nada — funciona no iPad/Safari e outros dispositivos móveis, inclusive no PC.
+
+- **No iPad:** as revisões ficam salvas no próprio navegador e podem ser exportadas em um `.zip` com a estrutura da pasta `Revisado/`.
+- **No PC com Chrome/Edge:** é possível gravar direto na pasta.
+
+Por padrão, é recomendado que o fork deste projeto configure um token e um código no primeiro acesso para trabalhar online, conectado à API do GitHub, atualizando o projeto em tempo real.
+
+A interface exibe três painéis lado a lado: **Original em Inglês** (referência en-US), **Sem Revisar** (tradução PT-BR atual) e **Revisado** (campo editável com a revisão final).
 
 ### GitHub Sync — salvar revisões direto no repositório
 
@@ -52,8 +45,7 @@ A interface exibe três painéis lado a lado:
 
 ### Uso offline (pasta local)
 
-Clique em **Selecionar a pasta do projeto** e aponte para a pasta que contém as subpastas abaixo.
->>>>>>> Stashed changes
+Clique em **Selecionar arquivos Locais** e aponte para a pasta que contém as subpastas abaixo.
 
 ## De onde vêm os textos
 
@@ -82,12 +74,6 @@ Os `.ebm` de `Event/event` contêm apenas os **textos e falas (diálogos)**. Men
 ## Como usar (Windows)
 
 1. Copie os `.ebm` de `Event/event` para `Original`.
-<<<<<<< Updated upstream
-2. Rode `1 - Gerar JSON (Original para Sem revisar).bat` para converter `.ebm` em JSON.
-3. Abra o `index.html` (ou acesse a [versão online](https://wolffsroom.github.io/AtelierAyeshaPlus-translationPTBR-PSV/)) para revisar os textos e salvar em `Revisado`.
-4. Rode `2 - Gerar EBM (Revisado para Traduzido).bat` para gerar os `.ebm` traduzidos em `Traduzido`.
-5. Reempacote no `.psarc` e instale no app `PCSE00584`.
-=======
 2. Copie os `.ebm` da versão en-US para `Inglês/event/`.
 3. Rode **`1 - Gerar JSON (Original para Sem revisar).bat`** — converte os `.ebm` PT-BR em JSON.
 4. Rode **`Gerar JSON (Inglês).bat`** — converte os `.ebm` en-US em JSON de referência (saída em `Inglês JSON/`).
@@ -95,7 +81,6 @@ Os `.ebm` de `Event/event` contêm apenas os **textos e falas (diálogos)**. Men
 6. Acesse a interface online para revisar e salvar via GitHub Sync.
 7. Rode **`2 - Gerar EBM (Revisado para Traduzido).bat`** — gera os `.ebm` finais em `Traduzido/`.
 8. Reempacote com `PSARC/Repack-Resources1.ps1` e copie para o Vita.
->>>>>>> Stashed changes
 
 A conversão `.ebm` ↔ JSON é feita pelo `gust_ebm` (gust_tools, de VitaSmith).
 
