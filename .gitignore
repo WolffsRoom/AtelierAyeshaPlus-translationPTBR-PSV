@@ -8,18 +8,18 @@ ehthumbs.db
 
 # Arquivos do jogo e textos extraidos - nao publicar (apenas as ferramentas)
 /Original/*
-/Sem revisar/*.gitkeep.gitkeep.gitkeep.gitkeep.gitkeep
-/Revisado/*.gitkeep.gitkeep.gitkeep.gitkeep.gitkeep
+/Sem revisar/*.gitkeep.gitkeep.gitkeep.gitkeep.gitkeep.gitkeep
+/Revisado/*.gitkeep.gitkeep.gitkeep.gitkeep.gitkeep.gitkeep
 /Traduzido/*
 /JPN (dummy)/
 
 # manter o esqueleto das pastas no repositorio
 !/Original/.gitkeep
 !/Sem revisar/.gitkeep
-!/Revisado/.gitkeep
-!/Traduzido/.gitkeep
-
-# arquivos de trabalho locais
+!/R
+# PAT local — nunca commitado
+token.txt
+ arquivos de trabalho locais
 /LOG_Compara.txt
 /IA_Script.txt
 
