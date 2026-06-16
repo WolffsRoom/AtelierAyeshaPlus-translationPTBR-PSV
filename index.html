@@ -209,7 +209,6 @@
   .brand-text{font-size:1rem;font-weight:700;color:var(--txt);letter-spacing:.01em;white-space:nowrap;}
   textarea.eng{border-color:#3aa0ff44;background:rgba(58,160,255,.05);}
   .progresswrap{position:relative;}
-  #pctLabel{position:absolute;right:8px;top:50%;transform:translateY(-50%) translateY(-10px);font-size:11px;color:var(--muted);pointer-events:none;}
 
   /* ======================== GitHub Overlay & PIN Pad ======================== */
   #ghOverlay{position:fixed;inset:0;background:rgba(0,0,0,.78);z-index:300;display:none;align-items:center;justify-content:center;padding:20px;}
@@ -279,7 +278,7 @@
     <button class="ghost" id="listBtn"><i class="fa-solid fa-list-ul"></i> Arquivos</button>
     <button class="ghost" id="changeBtn"><i class="fa-solid fa-folder-tree"></i> Trocar pasta</button>
   </header>
-  <div class="progresswrap"><div id="progressbar"></div><span id="pctLabel"></span></div>
+  <div style="display:flex;align-items:center;justify-content:flex-end;padding:2px 4px 1px;"><span id="pctLabel" style="font-size:10px;color:var(--muted);"></span></div><div class="progresswrap"><div id="progressbar"></div></div>
 
   <main>
     <div class="card">
