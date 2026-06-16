@@ -4,7 +4,6 @@ setlocal
 rem -- Le o token de token.txt (nunca commitado)
 if not exist "%~dp0token.txt" (
     echo [ERRO] Arquivo token.txt nao encontrado.
-    echo Crie o arquivo token.txt ao lado deste bat com apenas o seu PAT do GitHub.
     pause & exit /b 1
 )
 set /p TOKEN=<"%~dp0token.txt"
@@ -23,6 +22,9 @@ git add index.html
 git add README.md
 git add push-json.bat
 git add push-html.bat
+rem -- Rastreia arquivos que o remoto tem mas estao localmente nao-rastreados (evita conflito no rebase)
+git add *.png 2>nul
+git add *.jpg 2>nul
 
 for /f %%i in ('git diff --cached --name-only 2^>nul ^| find /c "."') do set COUNT=%%i
 echo    %COUNT% arquivo(s) para commitar
